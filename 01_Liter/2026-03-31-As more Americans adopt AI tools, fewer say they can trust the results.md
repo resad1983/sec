@@ -1,0 +1,48 @@
+---
+title: As more Americans adopt AI tools, fewer say they can trust the results
+source: TechCrunch（Rebecca Bellan）
+date: 2026-03-30
+tags: []
+keywords: [AI信任, 民調, 使用者心理, 品牌信任, AI採用]
+type: 市場研究
+raw_ref: "[[2026-03-31/越來越多美國人使用AI工具信任度卻在下滑]]"
+project: [~]
+principle: ''
+links: 
+status: draft
+direct: []
+deep: []
+serendipity: []
+---
+
+## 核心洞察
+
+> **「越用越不信任」**——AI 工具使用率↑ 而信任度↓ 的悖論，揭示一個反直覺的現象：實際使用體驗正在讓用戶更清楚看到 AI 的侷限性，而非建立信心。這對品牌的 AI 溝通策略有直接影響：**過度宣傳 AI 能力，可能加速信任損耗**。
+
+## 重點摘要
+
+**調查來源**：Quinnipiac University
+
+**悖論核心**
+- AI 工具採用率持續上升（ChatGPT、Claude、Gemini、Copilot、Perplexity、Poe 等普及）
+- 但對 AI 輸出結果的信任度同步下滑
+
+**三大疑慮**
+1. **透明度**：用戶希望了解 AI 系統如何運作
+2. **監管空白**：對政府監管不足的擔憂
+3. **社會衝擊**：對 AI 技術更廣泛後果的疑慮
+
+**體驗驅動懷疑論**
+- 使用 AI 的體驗，正在讓用戶更敏感於其侷限性——而非更有信心
+
+## 值得深思的問題
+
+- 品牌在 AI 溝通上應如何平衡「能力宣傳」和「建立信任」？是否需要「AI 使用說明」透明度策略？
+- 台灣/亞洲市場的 AI 信任格局與美國有何差異？文化因素（對機構的信任基礎）是否影響結果？
+- 對 AI 工具廠商（如 Claude、ChatGPT）而言，這個數據的意涵是什麼？他們如何回應信任下滑？
+
+## 關聯筆記
+
+- **AI Grounding 是什麼**：GEO 的本質也是「建立 AI 信任」——讓 AI 能引用你的內容 = 你的內容達到了 AI 可信賴的標準
+- **2028 AI 屠宰場**：叙事經濟學視角——「越用越不信任」的社會氛圍，會如何強化或弱化悲觀叙事的傳播力？
+- **Tech CEOs 怪 AI 裁員**：CEO 的「AI 敘事」 vs 公眾的「AI 信任下滑」——兩者共同構成 AI 採用的社會場域

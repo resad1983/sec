@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ad4ae2b1234fda59",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aac98690546c543",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd89799bc6e6f0ab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "關聯圖檢視"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5144e7cc2003760b",
+    "type": "split",
+    "children": [
+      {
+        "id": "577ccf3bf3489953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6c76ce19e89cc49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "900f95a6613ee63b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "94413a635054b3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5
+  },
+  "right": {
+    "id": "7690bdd257767db5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e529b6023825195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9798ab0565d86a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/为什么越来越多年轻人，选择开着猎装车上路？.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "为什么越来越多年轻人，选择开着猎装车上路？ 的反向連結"
+            }
+          },
+          {
+            "id": "0c8ac6e65eec0814",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/为什么越来越多年轻人，选择开着猎装车上路？.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "为什么越来越多年轻人，选择开着猎装车上路？ 的對外連結"
+            }
+          },
+          {
+            "id": "6601d93b44c7119d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "f8c9a5bbcbf55bb7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "21d8bfd34fa57369",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/为什么越来越多年轻人，选择开着猎装车上路？.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "为什么越来越多年轻人，选择开着猎装车上路？ 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "dd89799bc6e6f0ab",
+  "lastOpenFiles": [
+    "Clippings/東京潮流發信地澀谷Parco霸氣重生，時尚、娛樂、餐飲、劇場、藝術全方位打造次世代購物街區.md",
+    "Clippings/星野集團OMO系列數字代表什麼？專為都市觀光而生的OMO飯店有什麼特色？.md",
+    "Clippings/别把你的价值，全挂在别人的秤杆上.md",
+    "Clippings/商业洞察｜算法以外，谁在重塑戛纳电影节的营销博弈法则？.md",
+    "Clippings/商业洞察｜海外高端百货接连失守中国，它们做错了什么？.md",
+    "Clippings/商业洞察｜当独立品牌不再独立，奢侈品资本还将如何流转？.md",
+    "Clippings/曾巧：广告在AI时代是什么？从Google的GML找到一些答案.md",
+    "02_wiki/商業模式.md",
+    "Clippings/内娱娇夫，泛滥成灾.md",
+    "Clippings/给宠物上坟，让我月入81万.md",
+    "Clippings/什么时候开始，销售这件事要通过做内容才能实现了？.md",
+    "Clippings/分享一套从头到脚爱自己的详细教程.md",
+    "Clippings/杨绛：什么是格局？.md",
+    "Clippings/酒店真不喜欢长租客人吗？.md",
+    "Clippings/企业增长卡住，最先乱掉的往往是内部语言 1.md",
+    "Clippings/评论区，比很多调研报告更接近真实消费心理.md",
+    "Clippings/9种生活状态，正在重新定义年轻人的消费决策.md",
+    "Clippings/真正厉害的老板，最后都回到了常识.md",
+    "Clippings/钱...钱辈，请和我交往！从广告位到情绪窗口，户外大屏在嘴替式进化.md",
+    "Clippings/产品越好，为什么越卖不上价？.md",
+    "Clippings/一个时尚杂志编辑的十五年：从头等舱到裁员危机，黄金时代过去了.md",
+    "Clippings/爱情贬值时代，这群年轻人主动选择婚内分居.md",
+    "Clippings/潮汕人拍出了今年最好的国产片.md",
+    "Clippings/当 AI Agent 成为基建，DTC增长的底层被悄悄重写了。Firework、Seel、Ptengine 北京闭门分享全记录.md",
+    "Clippings/万国来朝？为什么全世界都在扎堆飞中国？.md",
+    "Clippings/理查米尔如何打造有人情味的品牌挚友大家庭？.md",
+    "00_Inbox/2026-05-18",
+    "00_Inbox/2026-05-11",
+    "00_Inbox/2026-05-10",
+    "00_Inbox/2026-05-08",
+    "未命名.canvas",
+    "02_wiki/創作方法.md.tmp.27640.1777999345585",
+    "02_wiki/數位系統.md.tmp.27640.1777999327789",
+    "02_wiki/科技影響.md.tmp.27640.1777999323170",
+    "02_wiki/人工智慧.md.tmp.27640.1777999320598",
+    "02_wiki/產品.md.tmp.27640.1777999310492",
+    "02_wiki/市場與需求.md.tmp.27640.1777999298954"
+  ]
+}
