@@ -2,8 +2,6 @@
 $WorkDir = "d:\gemini\obsidian"
 Set-Location $WorkDir
 
-# 確保輸出編碼為 UTF8，避免中文檔名亂碼
-[Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 
 # 檢查是否有檔案變更 (包括新增、修改、刪除)
 $status = git status --porcelain
