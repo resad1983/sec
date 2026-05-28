@@ -2,7 +2,6 @@
 $WorkDir = "d:\gemini\obsidian"
 Set-Location $WorkDir
 
-
 # 檢查是否有檔案變更 (包括新增、修改、刪除)
 $status = git status --porcelain
 if ($status) {
@@ -13,8 +12,8 @@ if ($status) {
     git commit -m "Auto sync: $DateStr"
     git push origin main
     
-    Add-Content -Path "$WorkDir\auto-sync.log" -Value "[$DateStr] 同步成功。"
+    Add-Content -Path "$WorkDir\auto-sync.log" -Value "[$DateStr] Sync success."
 } else {
     $DateStr = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-    Add-Content -Path "$WorkDir\auto-sync.log" -Value "[$DateStr] 無檔案變更，不進行同步。"
+    Add-Content -Path "$WorkDir\auto-sync.log" -Value "[$DateStr] No changes, skip."
 }
