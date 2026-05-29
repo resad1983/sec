@@ -1,7 +1,11 @@
 import pathlib, yaml, sys
 if sys.stdout.encoding != 'utf-8': sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 tags = set(sys.argv[1].split(','))
-LITER = pathlib.Path(r'C:/Users/resad.huang/Documents/COWORK/PROJECTS/obsidian/sec/01_Liter')
+# 優先使用腳本所在目錄的 01_Liter，若不存在則 fallback 到舊絕對路徑
+script_dir = pathlib.Path(__file__).parent
+LITER = script_dir / '01_Liter'
+if not LITER.exists():
+    LITER = pathlib.Path(r'C:/Users/resad.huang/Documents/COWORK/PROJECTS/obsidian/sec/01_Liter')
 results = []
 for f in sorted(LITER.glob('*.md'), reverse=True):
     content = f.read_text(encoding='utf-8', errors='replace')
