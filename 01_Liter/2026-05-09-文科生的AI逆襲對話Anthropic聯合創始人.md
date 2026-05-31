@@ -1,21 +1,17 @@
 ---
-title: 文科生的 AI 逆襲——斯坦福對話 Anthropic 聯合創始人 Daniela Amodei
-source: BestBlogs 商業
+title: "文科生的 AI 逆襲——斯坦福對話 Anthropic 聯合創始人 Daniela Amodei"
+source: "BestBlogs 商業"
 date: 2026-05-09
-score: 8
 tags: [人工智慧, 人格與自我, 品牌, 學習與思考]
 keywords: [文科思維, Anthropic, 跨域能力, AI時代職涯]
 type: 文化觀察
 raw_ref: "[[2026-05-09/文科生的AI逆襲對話Anthropic聯合創始人]]"
-status: draft
 project: [個人顧問品牌]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > AI 時代，「懂技術」不再是護城河，「能判斷、能溝通、能建立使命感」才是稀缺——Daniela Amodei 的故事不只是鼓勵文科生，而是重新定義了 AI 時代的核心人才。
@@ -50,3 +46,7 @@ links:
 [[2026-04-16-去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事|去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事]] — 個人品牌建立的非技術路徑，「真實性」勝過「完美形象」
 
 [[2026-05-08-從玩梗刷屏到品牌廣告-AI短片的打開方式升級了|從玩梗刷屏到品牌廣告，AI 短片的打開方式升級了]] — AI 工具在品牌表達中的使用，文科思維如何駕馭技術工具
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

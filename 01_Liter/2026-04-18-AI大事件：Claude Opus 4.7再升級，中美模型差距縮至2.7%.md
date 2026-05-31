@@ -1,21 +1,17 @@
 ---
-title: AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%
-source: 人人都是產品經理
+title: "AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%"
+source: "人人都是產品經理"
 date: 2026-04-18
 tags: [人工智慧, 學習與思考, 科技影響, 資料與演算法]
 keywords: [Claude Opus 4.7, Agent一致性, MCP漏洞, xhigh, 具身智能]
 type: 技術分析
 raw_ref: "[[2026-04-18/AI大事件：Claude Opus 4.7再升級中美模型差距縮至2.7%]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Claude Opus 4.7強調「Agent任務一致性」，AI正式從「工具」升級為「長期自主工作者」——顧問工作流的重構時間窗口已開啟。
@@ -38,6 +34,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]] — 同系列AI週報，構成連續的技術脈動追蹤，可對照觀察一週內的模型競賽加速度
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code生態演進的前期背景，理解4.7發布的策略脈絡
-- [[2026-04-02-Claude-Code-51萬行源碼泄露深度分析]] — Claude生態的安全議題前情，與本期MCP漏洞形成安全主題的連續觀察
+- [[2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻|AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]] — 同系列AI週報，構成連續的技術脈動追蹤，可對照觀察一週內的模型競賽加速度
+- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code生態演進的前期背景，理解4.7發布的策略脈絡
+- [[2026-04-02-Claude-Code-51萬行源碼泄露深度分析|Claude-Code-51萬行源碼泄露深度分析]] — Claude生態的安全議題前情，與本期MCP漏洞形成安全主題的連續觀察
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

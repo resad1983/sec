@@ -1,21 +1,17 @@
 ---
-title: AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Openclaw預設模型
-source: 人人都是產品經理
+title: "AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Openclaw預設模型"
+source: "人人都是產品經理"
 date: 2026-04-27
 tags: [人工智慧, 商業模式, 科技影響, 資料與演算法]
 keywords: [具身智能, 星動紀元, PMF, 物流機器人, AI板塊]
 type: 產業報導
 raw_ref: "[[2026-04-27/AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Openclaw預設模型]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 星動紀元「2個月融資25億+順豐甲方下場」是具身智能從PPT走向商業現實的分水嶺信號，顧問工作中遇到機器人相關話題可直接引用此案例說明產業落地時機。
@@ -41,3 +37,7 @@ serendipity: []
 - [[2026-04-26-AI大事件美團LongCat-2.0開放測試DeepSeek開啟促銷|AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI Codex、DeepSeek開啟促銷]] — 同系列 AI 週報，可前後對照 AI 產業動態脈絡
 - [[2026-04-25-Cohere為何合併Aleph Alpha打造跨大西洋AI主權強權|Cohere為何合併Aleph Alpha，打造跨大西洋AI主權強權]] — 補充 AI 行業整合與競爭格局，與本篇資本集中趨勢呼應
 - [[2026-04-15-Owkin是誰？聯邦學習是什麼？一文看懂法國AI獨角獸如何加速新藥研發、拚解鎖阿茲海默之謎|Owkin是誰？聯邦學習是什麼？]] — 同為 AI 垂直落地商業案例，醫藥 vs. 物流機器人，印證 AI 在不同場景的 PMF 邏輯
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

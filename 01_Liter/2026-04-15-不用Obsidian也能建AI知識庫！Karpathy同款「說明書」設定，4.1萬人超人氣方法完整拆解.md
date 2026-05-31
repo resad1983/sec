@@ -1,20 +1,17 @@
 ---
-title: 不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.1萬人超人氣方法完整拆解
-source: https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how
+title: "不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.1萬人超人氣方法完整拆解"
+source: "https://www.bnext.com.tw/article/90650/andrej-karpathy-ai-how"
 date: 2026-04-15
 tags: [人工智慧, 創作方法, 學習與思考, 數位系統]
 keywords: [CLAUDE.md, knowledge base, schema設定, 知識複利, 三資料夾架構]
 type: 技術分析
 raw_ref: "[[2026-04-15/不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.1萬人超人氣方法完整拆解]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI 知識庫的關鍵不是工具而是架構：三個資料夾加一份規則文件，讓 AI 負責整理，人只負責投入與提問，知識才能真正複利累積。
@@ -35,6 +32,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — 從 AI 架構角度理解知識庫系統的底層設計邏輯
-- [[2026-03-29-Claude官方公布85個真實使用情境涵蓋職場專業行銷等12類別]] — Claude Code 在個人工作流中的應用場景對照
-- [[2026-03-30-2026營銷革命知識庫加智能體等於品牌增長新引擎]] — 知識庫與 AI Agent 結合的商業應用路徑
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — 從 AI 架構角度理解知識庫系統的底層設計邏輯
+- [[2026-03-29-Claude官方公布85個真實使用情境涵蓋職場專業行銷等12類別|Claude官方公布85個真實使用情境涵蓋職場專業行銷等12類別]] — Claude Code 在個人工作流中的應用場景對照
+- [[2026-03-30-2026營銷革命知識庫加智能體等於品牌增長新引擎|2026營銷革命知識庫加智能體等於品牌增長新引擎]] — 知識庫與 AI Agent 結合的商業應用路徑
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,21 +1,17 @@
 ---
-title: OpenAI讓在ChatGPT投放購物廣告變得更容易
-source: Modern Retail
+title: "OpenAI讓在ChatGPT投放購物廣告變得更容易"
+source: "Modern Retail"
 date: 2026-05-12
-score: 8
 tags: [人工智慧, 商業模式, 平台與生態系, 行銷]
 keywords: [ChatGPT廣告, 商品目錄廣告, 績效廣告, Criteo, AI廣告平台]
 type: 產業報導
 raw_ref: "[[2026-05-12/OpenAI讓在ChatGPT投放購物廣告變得更容易]]"
-status: draft
 project: [~]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > OpenAI放棄交易佣金、轉攻廣告預算，意味著AI對話平台正式成為「第四廣告渠道」，與搜尋、社交、電商並列競爭行銷預算。
@@ -45,3 +41,7 @@ links:
 [[2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投|前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]：同樣關注AI原生的行銷增長工具，兩者都在搶奪傳統廣告預算
 [[2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長|Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長]]：AI行銷工具的商業模式爆發案例，與ChatGPT廣告的平台競爭形成背景脈絡
 [[2026-05-10-第二篇破局篇填鋪式招商已死2026破局就靠這三招|第二篇：破局篇（填铺式招商已死！2026破局就靠这三招）]]：零售招商的流量邏輯轉變，與AI廣告平台崛起的方向相互呼應
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

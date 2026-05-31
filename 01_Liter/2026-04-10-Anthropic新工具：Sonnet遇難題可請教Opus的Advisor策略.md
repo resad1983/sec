@@ -1,21 +1,17 @@
 ---
-title: Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略
-source: 人人都是產品經理
+title: "Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略"
+source: "人人都是產品經理"
 date: 2026-04-10
 tags: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 keywords: [Advisor Tool, 多Agent協作, 成本優化, Sonnet, Opus, 模型階層]
 type: 技術分析
 raw_ref: "[[2026-04-10/Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 「執行者主動向顧問請教」而非「顧問指揮執行者」——這個顛倒的協作結構，讓小模型保持自主性、大模型只在關鍵點介入，實現智能與成本的最優平衡。
@@ -43,6 +39,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — AI系統架構的演進背景，Advisor Tool是另一種架構選擇
-- [[2026-03-29-工作流Agent智能體究竟都是什麼]] — Agent協作的基礎概念，Advisor策略是其中一種協作模式
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Anthropic生態系的整體佈局
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI系統架構的演進背景，Advisor Tool是另一種架構選擇
+- [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent協作的基礎概念，Advisor策略是其中一種協作模式
+- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Anthropic生態系的整體佈局
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

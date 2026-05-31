@@ -1,21 +1,17 @@
 ---
-title: 融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photoshop」Buzzy
-source: 36Kr
+title: "融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photoshop」Buzzy"
+source: "36Kr"
 date: 2026-04-24
 tags: [人工智慧, 商業模式, 產品, 科技影響]
 keywords: [Buzzy, Agent商業模式, 分傭制, 視頻編輯, ARR]
 type: 商業案例
 raw_ref: "[[2026-04-24/融了2000萬美金推出視頻版Photoshop Buzzy]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Agent時代的商業模式不是訂閱，而是分傭——這對顧問服務的計價方式有直接啟發：從「時間收費」轉向「效果分潤」。
@@ -44,3 +40,7 @@ serendipity: []
 [[2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則|Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]] — 同為AI視頻賽道的生存策略，可對照比較定位選擇
 [[2026-04-17-享刻智能深耕餐飲場景具身智能的差異化落地路徑|享刻智能深耕餐飲場景：具身智能的差異化落地路徑]] — 同樣是AI應用層產品選擇垂直場景的落地邏輯
 [[2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻|AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]] — AI商業化趨勢的宏觀脈絡
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

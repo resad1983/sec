@@ -1,21 +1,17 @@
 ---
-title: Vibe Coding：AI輔助編程的革命與責任邊界
-source: 人人都是產品經理
+title: "Vibe Coding：AI輔助編程的革命與責任邊界"
+source: "人人都是產品經理"
 date: 2026-04-18
 tags: [人工智慧, 人機互動, 創作方法, 科技影響]
 keywords: [Vibe Coding, Andrej Karpathy, Simon Willison, AI輔助開發, 責任邊界]
 type: 技術分析
 raw_ref: "[[2026-04-18/Vibe Coding：AI輔助編程的革命與責任邊界]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 9
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Vibe Coding被濫用成「不負責任開發的藉口」——真正的邊界不是會不會寫代碼，而是有沒有監督AI輸出的能力與意願。這個邏輯完全適用於顧問工作中的AI生成內容。
@@ -36,6 +32,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-02-AI時代真正危險的可能不是模型失控而是模型太聽話]] — 「順從AI」的深層危險，與Vibe Coding的責任問題直接對應
-- [[2026-03-27-這家公司全用AI做內容讀者跑光了]] — AI濫用導致信任崩潰的媒體案例，Vibe Coding的實際後果預演
-- [[2026-03-31-為什麼用了那麼多AI你的工作還是一團亂]] — AI工具的使用深度問題，與本文「監督vs順從」相輔相成
+- [[2026-04-02-AI時代真正危險的可能不是模型失控而是模型太聽話|AI時代真正危險的可能不是模型失控而是模型太聽話]] — 「順從AI」的深層危險，與Vibe Coding的責任問題直接對應
+- [[2026-03-27-這家公司全用AI做內容讀者跑光了|這家公司全用AI做內容讀者跑光了]] — AI濫用導致信任崩潰的媒體案例，Vibe Coding的實際後果預演
+- [[2026-03-31-為什麼用了那麼多AI你的工作還是一團亂|為什麼用了那麼多AI你的工作還是一團亂]] — AI工具的使用深度問題，與本文「監督vs順從」相輔相成
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

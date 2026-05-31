@@ -1,20 +1,17 @@
 ---
-title: 開源項目Hermes Agent評測：越用越聰明的開源AI智慧體
-source: 人人都是產品經理
+title: "開源項目Hermes Agent評測：越用越聰明的開源AI智慧體"
+source: "人人都是產品經理"
 date: 2026-04-04
 tags: []
 keywords: [AI Agent, 開源工具, 自動化, 學習閉環, 企業應用]
 type: 工具評測
 raw_ref: "[[2026-04-04/開源Hermes-Agent評測越用越聰明的AI智慧體]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Hermes Agent的差異化不在於功能數量，而在於「內置學習閉環」——它把每次任務的經驗沉澱為可復用技能，讓AI真的能「與你共同成長」而非每次從零開始。
@@ -47,5 +44,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環]] — 從工具評測到工程實踐，補充自動化閉環搭建方法論
-- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — Hermes的設計哲學與Claude系統提示詞工程的比較
+- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環|在Agent時代如何搭建第一個自動化閉環]] — 從工具評測到工程實踐，補充自動化閉環搭建方法論
+- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — Hermes的設計哲學與Claude系統提示詞工程的比較
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

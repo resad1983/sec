@@ -1,20 +1,17 @@
 ---
-title: Why Chinese tech companies are racing to set up in Hong Kong
-source: BBC Technology（Sylvia Chang）
+title: "Why Chinese tech companies are racing to set up in Hong Kong"
+source: "BBC Technology（Sylvia Chang）"
 date: 2026-03-30
 tags: []
 keywords: [中國科技, 香港, 地緣政治, 海外擴張, 資本市場]
 type: 地緣政治分析
 raw_ref: "[[2026-03-31/中國科技公司搶進香港設立據點的真正原因]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 香港對大陸科技公司的戰略價值，在地緣政治緊張中**從轉折點升格為生命線**——不是因為香港的條件變好了，而是因為其他管道都在收窄。「半程中繼站」策略的普及，本身就是全球化正在碎片化的症狀。
@@ -54,3 +51,7 @@ serendipity: []
 
 - **2028 AI 屠宰場**：中美科技脫鉤加速了本文「大陸企業轉向香港」的趨勢——地緣政治的結構性影響
 - **2026 是 Multi-Agent 元年**：「AGI 2028 預測」+ 中國 AI 政策作為 15 五年計劃核心——技術加速與政治治理的交叉點
+
+---
+> [!TIP]
+> 在焦慮的時代中，用小內容與真實感降載大腦，是我們對生活主權的溫柔降落。

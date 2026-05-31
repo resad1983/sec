@@ -1,6 +1,6 @@
 ---
 title: "當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework、Seel、Ptengine 北京閉門分享全記錄"
-source: Ptengine
+source: "Ptengine"
 date: 2026-05-26
 tags: [人工智慧, 商業模式, 行銷, 體驗]
 keywords: [Agentic Commerce, 售後保障, 決策減摩, 數位勞動力, 關係經營]
@@ -12,7 +12,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 DTC 獲客成本暴增已宣告單純「買流量」模式死亡，品牌的永續護城河在於利用 AI Agent 數位勞動力重構「前端互動、中間決策、後端售後信任」的工程化關係經營系統。
 

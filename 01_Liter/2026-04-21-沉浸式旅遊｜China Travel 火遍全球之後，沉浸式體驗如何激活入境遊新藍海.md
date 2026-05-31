@@ -1,20 +1,17 @@
 ---
-title: 沉浸式旅遊｜China Travel 火遍全球之後，沉浸式體驗如何激活入境遊新藍海
-source: https://mp.weixin.qq.com/s/NhBdQD0rMOyMFfPBDLhccg
+title: "沉浸式旅遊｜China Travel 火遍全球之後，沉浸式體驗如何激活入境遊新藍海"
+source: "https://mp.weixin.qq.com/s/NhBdQD0rMOyMFfPBDLhccg"
 date: 2026-04-21
 tags: [地方創生, 城市與空間, 文化現象, 體驗]
 keywords: [入境遊, 沉浸式體驗, 十五五規劃, 文旅升級, China Travel, 240小時免簽]
 type: 產業報導
 raw_ref: "[[2026-04-21/沉浸式旅游｜\"China Travel\"火遍全球之后，沉浸式体验如何激活入境游新蓝海]]"
 project: [台中舊城區, 民生路老宅]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 入境遊升級的密碼是讓外國遊客「在這裡生活過」的記憶，而非打卡地標；台灣城市的「真實生活感」正是這種旅遊升級最需要的核心資源。
@@ -38,3 +35,7 @@ serendipity: []
 - [[2026-04-17-城市收留我們，以街道的方式|城市收留我們，以街道的方式]] — 街道作為城市體驗核心的論述，直接呼應「未被設計的相遇」
 - [[2026-04-16-老街區激活新場景：歷史文化街區活化路徑|老街區激活新場景：歷史文化街區活化趨勢與路徑]] — 歷史街區活化的實踐路徑，台中中區的直接參考
 - [[2026-04-08-沉浸營造春日賞花新場景創意激活文旅消費新動能|沉浸式文旅｜沉浸營造春日賞花新場景，創意激活文旅消費新動能]] — 沉浸式文旅的具體場景設計案例
+
+---
+> [!TIP]
+> 地方創生的生存法則在於『非標表達，標準支持』，回歸社區，深耕最在地的信任資產。

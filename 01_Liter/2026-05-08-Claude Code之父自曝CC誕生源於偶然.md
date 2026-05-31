@@ -1,21 +1,17 @@
 ---
-title: 「今年還沒親手寫過一行代碼」，Claude Code 之父自曝：CC 誕生源於「偶然」，現主要在手機上工作
-source: BestBlogs 系統設計
+title: "「今年還沒親手寫過一行代碼」，Claude Code 之父自曝：CC 誕生源於「偶然」，現主要在手機上工作"
+source: "BestBlogs 系統設計"
 date: 2026-05-08
-score: 9
 tags: [人工智慧, 人機互動, 創作方法, 產品]
 keywords: [Claude Code, AI代理, 開發者角色轉型, 手機辦公]
 type: 產業報導
 raw_ref: "[[2026-05-08/Claude Code之父自曝CC誕生源於偶然]]"
-status: draft
 project: [~]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > Claude Code 誕生於「偶然」這件事本身就是一個洞察：最顛覆性的產品往往不是從需求規劃出來的，而是從技術可能性出發，然後找到匹配的場景。
@@ -45,3 +41,7 @@ links:
 [[2026-04-24-實測 GPT-Image-2：6 個能落地的提效場景|實測 GPT-Image-2：6 個能落地的提效場景]] — AI 工具「讓人忘記工具存在」設計哲學的另一個案例
 
 [[2026-04-24-Image2的10種顛覆性玩法，越用越不對勁|Image2的10種顛覆性玩法，越用越不對勁]] — AI 創作工具對工作方式影響的觀察，與本文的「工作場景邊界消失」互相呼應
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

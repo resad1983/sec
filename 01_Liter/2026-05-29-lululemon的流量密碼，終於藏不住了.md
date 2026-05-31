@@ -1,6 +1,6 @@
 ---
-title: lululemon的流量密碼，終於藏不住了
-source: https://mp.weixin.qq.com/s/7pjEqnt27NuUaxXUkljvdg
+title: "lululemon的流量密碼，終於藏不住了"
+source: "https://mp.weixin.qq.com/s/7pjEqnt27NuUaxXUkljvdg"
 date: 2026-05-29
 tags: [品牌, 行銷, 體驗]
 keywords: [lululemon, 露露樂蒙, 身份入口, 代言人策略, 中產生活方式]
@@ -12,7 +12,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 lululemon 透過將發圈、配飾等低單價產品轉化為高識別度的「身份入口」，並將代言人重構為「品牌靈魂的在場化身」，成功將專業運動裝備升級為一套中產階級「不湊合生活方式」的連續劇，實現了從功能消費向狀態信仰的飛躍。
 

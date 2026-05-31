@@ -1,20 +1,17 @@
 ---
-title: OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線
-source: https://www.bnext.com.tw/article/90614/ai-openclaw-line-of-defense-bn370
+title: "OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線"
+source: "https://www.bnext.com.tw/article/90614/ai-openclaw-line-of-defense-bn370"
 date: 2026-04-15
 tags: [人工智慧, 數位系統, 科技影響, 行為決策]
 keywords: [OpenClaw, AI代理, prompt injection, 聯邦授權, agentic AI]
 type: 技術分析
 raw_ref: "[[2026-04-15/OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI代理不是助手，是你授權的代理人——授權範圍決定風險邊界。就像新進私人助理不該第一天就拿到全部帳號密碼，AI代理的信任應該逐步建立，而非一次開放到底。
@@ -47,5 +44,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — Skill架構的底層設計哲學，與agentic AI的授權邊界問題互相呼應
-- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — Claude Code的hooks與settings設定，正是「可控信任」的具體實現方式
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — Skill架構的底層設計哲學，與agentic AI的授權邊界問題互相呼應
+- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — Claude Code的hooks與settings設定，正是「可控信任」的具體實現方式
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,21 +1,17 @@
 ---
-title: El Pollo Loco 以利潤、行銷與菜單動能持續領跑
-source: Nation's Restaurant News
+title: "El Pollo Loco 以利潤、行銷與菜單動能持續領跑"
+source: "Nation's Restaurant News"
 date: 2026-05-11
-score: 9
 tags: [品牌, 商業模式, 行銷, 體驗]
 keywords: [同店銷售, 數位會員, 菜單創新, 餐飲品牌復甦, QSR]
 type: 商業案例
 raw_ref: "[[2026-05-11/El Pollo Loco 以利潤、行銷與菜單動能持續領跑]]"
-status: draft
 project: [不二製餅]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > El Pollo Loco的逆轉密碼是「利潤×行銷×會員」三角同步強化：菜單創新帶動品類結構化、品牌事件建立文化相關性、數位會員系統轉化為可量化的消費頻率與金額成長。
@@ -46,3 +42,7 @@ links:
 [[2026-05-06-Old Navy引進零售娛樂老將重振品牌|Old Navy引進零售娛樂老將重振品牌轉型]]：同樣是傳統品牌在數位+體驗雙軌轉型，Old Navy聚焦娛樂化，可與El Pollo Loco的文化行銷做法比較
 [[2026-04-17-活動行銷又回來了！線下Event成最高效獲客渠道|活動行銷又回來了！線下Event成最高效獲客渠道]]：El Pollo Loco的Coachella佈局正是此趨勢的實例，提供具體案例支撐
 [[2026-04-16-从卖房晚到品牌引领，华住中高端品牌正在给行业打一个样|从卖房晚到品牌引领，华住中高端品牌正在给行业打一个样]]：品牌從功能性定位升級至引領性定位的路徑，與El Pollo Loco的品牌復甦策略有相似之處
+
+---
+> [!TIP]
+> 品牌不是自嗨的賣點宣告，而是要在消費決策現場，極致降低用戶的心力成本。

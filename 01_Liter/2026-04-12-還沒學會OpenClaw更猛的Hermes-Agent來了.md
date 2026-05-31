@@ -1,21 +1,17 @@
 ---
-title: 還沒學會OpenClaw更猛的Hermes-Agent來了
-source: 人人都是產品經理
+title: "還沒學會OpenClaw更猛的Hermes-Agent來了"
+source: "人人都是產品經理"
 date: 2026-04-12
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [Hermes Agent, 自進化, OpenClaw, Skill庫, 四層架構]
 type: 技術分析
 raw_ref: "[[2026-04-12/還沒學會OpenClaw更猛的Hermes-Agent來了]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 8
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Hermes Agent 的自進化機制意味著 AI 系統正從「工具」轉向「夥伴」——它會記住你的任務模式並持續優化，這改變了人機協作的基本假設。
@@ -39,6 +35,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — MCP 到 Skill 的架構演進，Hermes 的 Skill 庫是此演進的具體實現
-- [[2026-03-31-為什麼有了MCP後又出現了Skill架構設計哲學比較]] — MCP vs Skill 的架構哲學，與 Hermes vs OpenClaw 的對比邏輯一致
-- [[2026-03-29-工作流Agent智能體究竟都是什麼]] — Agent 基礎概念框架，理解 Hermes 自進化機制的認知前提
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — MCP 到 Skill 的架構演進，Hermes 的 Skill 庫是此演進的具體實現
+- [[2026-03-31-為什麼有了MCP後又出現了Skill架構設計哲學比較|為什麼有了MCP後又出現了Skill架構設計哲學比較]] — MCP vs Skill 的架構哲學，與 Hermes vs OpenClaw 的對比邏輯一致
+- [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent 基礎概念框架，理解 Hermes 自進化機制的認知前提
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

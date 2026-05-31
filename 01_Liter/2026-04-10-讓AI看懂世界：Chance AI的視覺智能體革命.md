@@ -1,21 +1,17 @@
 ---
-title: 讓AI看懂世界：Chance AI的視覺智能體革命
-source: 36Kr
+title: "讓AI看懂世界：Chance AI的視覺智能體革命"
+source: "36Kr"
 date: 2026-04-10
 tags: [人工智慧, 人機互動, 產品, 科技影響]
 keywords: [Visual Agent, 視覺智能體, 多模態, 攝像頭作為界面, Chance AI]
 type: 產品設計
 raw_ref: "[[2026-04-10/讓AI看懂世界：Chance-AI的視覺智能體革命]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 9
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 人類認識世界從「看見」開始，不從「提問」開始——Visual Agent把AI的輸入從文字框切換到攝像頭，是人機互動的範式轉移，不只是功能升級。
@@ -36,6 +32,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-29-智能眼鏡正在成為AI-Agent的終極外設]] — 視覺AI的硬件載體演進，與Visual Agent的軟件路徑形成對比
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — AI架構從工具調用到能力封裝的演化背景
-- [[2026-03-29-工作流Agent智能體究竟都是什麼]] — Agent形態定義，Visual Agent是新型態的落地
+- [[2026-03-29-智能眼鏡正在成為AI-Agent的終極外設|智能眼鏡正在成為AI-Agent的終極外設]] — 視覺AI的硬件載體演進，與Visual Agent的軟件路徑形成對比
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI架構從工具調用到能力封裝的演化背景
+- [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent形態定義，Visual Agent是新型態的落地
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

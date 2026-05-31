@@ -7,12 +7,11 @@ keywords: [Windows, macOS, AI開發工具, 統一記憶體, UMA, 利益衝突]
 type: 技術分析
 raw_ref: "[[2026-05-27/為什麼說Windows在AI時代變成了落後生產力？]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 AI 工具對終端（Terminal-first）的偏好與蘋果統一記憶體（UMA）的低成本本地推理，正將 Windows 推向 AI 生態的二等公民，暴露出微軟在「雲端算力租賃」與「本地 AI 推理」間的商業矛盾。
 

@@ -1,6 +1,6 @@
 ---
 title: "曾巧：“广告”在AI时代是什么？从Google的GML找到一些答案"
-source: Morketing
+source: "Morketing"
 date: 2026-05-27
 tags: [人工智慧, 商業模式, 科技影響, 行銷]
 keywords: [對話式發現, 品牌智能體, 知識工程, 產品屬性, UCP]
@@ -12,7 +12,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 AI 搜尋時代廣告的底層邏輯已從「搶占流量入口（可見性）」轉移至「成為有用的解答與決策說明（可用性）」；廣告與交易、客服的邊界正式合併，行銷人從手工配置 campaign 升級為治理 feeds 與 brand guidelines 的知識工程師。
 

@@ -1,20 +1,17 @@
 ---
-title: AI時代內容審核：前Facebook內部人士創立的Moonbounce獲1200萬美元融資
-source: TechCrunch
+title: "AI時代內容審核：前Facebook內部人士創立的Moonbounce獲1200萬美元融資"
+source: "TechCrunch"
 date: 2026-04-03
 tags: []
 keywords: [AI內容審核, AI安全, 平台治理, 新創融資, 商業策略]
 type: 科技新創融資分析
 raw_ref: "[[2026-04-03/AI時代內容審核新創Moonbounce獲1200萬美元融資]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 生成式AI讓內容審核的規模問題從「人力不夠」升級為「標準不一致」——Moonbounce的核心命題是：把抽象的政策語言翻譯成機器可執行的算法，這才是AI時代平台治理的真正缺口。
@@ -50,5 +47,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[Anthropic收購生技新創Coefficient-Bio達4億美元]] — 同為AI能力向垂直場景深化，但Moonbounce關注的是AI行為控制層而非應用能力層
-- [[神州數碼2025年營收超1400億AI業務增長近五成]] — 神州數碼的「AI for Process」與Moonbounce的「Policy to AI」，都是讓AI嵌入企業既有流程的不同切入方式
+- [[Anthropic收購生技新創Coefficient-Bio達4億美元|Anthropic收購生技新創Coefficient-Bio達4億美元]] — 同為AI能力向垂直場景深化，但Moonbounce關注的是AI行為控制層而非應用能力層
+- [[神州數碼2025年營收超1400億AI業務增長近五成|神州數碼2025年營收超1400億AI業務增長近五成]] — 神州數碼的「AI for Process」與Moonbounce的「Policy to AI」，都是讓AI嵌入企業既有流程的不同切入方式
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

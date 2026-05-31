@@ -7,14 +7,11 @@ keywords: [Harness Engineering, Agent Engineering, Prompt Engineering, AI架構,
 type: 技術分析
 raw_ref: "[[2026-04-16/一文带你看懂，火爆全网的Harness Engineering到底是个啥。]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Harness Engineering是目前最完整描述「如何讓AI在複雜任務中可靠運作」的框架——核心是為AI提供適當的工具集、環境與限制條件。
@@ -41,6 +38,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] → 直接相關，都在討論AI能力框架的演進，互為補充
-- [[2026-03-29-工作流Agent智能體究竟都是什麼]] → Agent概念的基礎，是理解Harness的前置知識
-- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環]] → 從理論到實作的延伸，Harness概念的落地
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] → 直接相關，都在討論AI能力框架的演進，互為補充
+- [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] → Agent概念的基礎，是理解Harness的前置知識
+- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環|在Agent時代如何搭建第一個自動化閉環]] → 從理論到實作的延伸，Harness概念的落地
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

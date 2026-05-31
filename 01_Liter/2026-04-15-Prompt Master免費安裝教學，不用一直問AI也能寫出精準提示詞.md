@@ -1,20 +1,17 @@
 ---
-title: Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞
-source: https://www.bnext.com.tw/article/90592/prompt-master
+title: "Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞"
+source: "https://www.bnext.com.tw/article/90592/prompt-master"
 date: 2026-04-15
 tags: [人機互動, 創作方法, 數位系統, 產品]
 keywords: [Prompt Engineering, Claude Skill, 提示詞框架, 跨平台AI]
 type: 產品設計
 raw_ref: "[[2026-04-15/Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 不同 AI 工具有各自的語言邏輯，Prompt Master 透過 12 種框架自動比對，讓提示詞真正跨平台通用，降低使用者在工具間切換的認知摩擦。
@@ -35,6 +32,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — 同樣關注提示詞系統化，從 PM 角度討論 Prompt 工程化的必要性
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — 探討 Claude Skill 架構的更大脈絡，與本文工具直接相關
-- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — 同為 Claude 深度設定教學，可互補參照
+- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — 同樣關注提示詞系統化，從 PM 角度討論 Prompt 工程化的必要性
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — 探討 Claude Skill 架構的更大脈絡，與本文工具直接相關
+- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — 同為 Claude 深度設定教學，可互補參照
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

@@ -7,11 +7,11 @@ keywords: []
 type: 技術分析
 raw_ref: "[[2026-04-30/Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危机......]]"
 project: [~]
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 在地緣衝突與AI浪潮的雙重衝擊下，市場流動性正在發生隱密轉向。過度炒作的AI概念可能引發新的泡沫危機，而具備避險屬性的數位資產（如比特幣）則迎來價值重估。
 
@@ -28,3 +28,7 @@ status: draft
 [[2026-04-30-Obsidian打造AI化神经中枢：10个在用工作流分享|Obsidian打造AI化神经中枢：10个在用工作流分享]]
 [[2026-04-30-7个免费AI Skills，帮我从自媒体体力活中彻底解脱｜封面、文案、排版|7个免费AI Skills，帮我从自媒体体力活中彻底解脱｜封面、文案、排版]]
 [[2026-04-29-Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去|Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去]]
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

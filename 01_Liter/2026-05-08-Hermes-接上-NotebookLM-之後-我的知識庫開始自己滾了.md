@@ -7,11 +7,11 @@ keywords: [Hermes, NotebookLM, 知識管理, 自動化, 知識飛輪]
 type: 實戰指南
 raw_ref: "[[2026-05-08/Hermes-接上-NotebookLM-之後-我的知識庫開始自己滾了]]"
 project: [~]
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 知識管理的成敗，不在於工具多強大，而在於「流程是否自動化」。手動流程必然因人性惰性而廢棄。透過 Agent（如 Hermes）負責採集與執行，結合專用知識庫（如 NotebookLM）負責檢索與理解，能實現「省 Token、省腦力」的知識飛輪。
 

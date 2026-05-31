@@ -1,20 +1,17 @@
 ---
-title: Anthropic以4億美元收購生技新創Coefficient Bio
-source: TechCrunch
+title: "Anthropic以4億美元收購生技新創Coefficient Bio"
+source: "TechCrunch"
 date: 2026-04-03
 tags: []
 keywords: [Anthropic, 生技AI, 企業策略, 科技趨勢, 產業整合]
 type: 產業動態
 raw_ref: "[[2026-04-03/Anthropic以4億美元收購生技新創Coefficient-Bio]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: ['[[2026-04-03-Anthropic收購生技新創Coefficient-Bio達4億美元]]']
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Anthropic以4億美元股票收購隱形生技AI公司，這不只是一筆投資——這是AI基礎模型公司首次主動向垂直應用延伸，意味著「模型公司」和「應用公司」的邊界正在消失。
@@ -47,5 +44,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-03-神州數碼2025年AI相關業務增長近五成]] — 對比中美AI公司向垂直行業延伸的不同路徑
-- [[2026-04-03-黑燈實驗室戴納科技獲近億元融資]] — 同期AI科學研究基礎設施投資趨勢
+- [[2026-04-03-神州數碼2025年AI相關業務增長近五成|神州數碼2025年AI相關業務增長近五成]] — 對比中美AI公司向垂直行業延伸的不同路徑
+- [[2026-04-03-黑燈實驗室戴納科技獲近億元融資|黑燈實驗室戴納科技獲近億元融資]] — 同期AI科學研究基礎設施投資趨勢
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

@@ -1,20 +1,17 @@
 ---
-title: AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河
-source: 人人都是產品經理
+title: "AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河"
+source: "人人都是產品經理"
 date: 2026-03-31
 tags: [商業模式]
 keywords: [SaaS, AI編程, 護城河, 中國科技]
 type: 商業策略分析
 raw_ref: "[[2026-03-31/AI-Coding不是殺死中國SaaS而是暴露從未有護城河]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: ['[[2026-03-31-開源產品盈利破局飛書CLI千問開源生態操盤術]]']
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 中國 SaaS 的護城河從未真正存在——它是「研發產能套利」的偽裝，當 AI 讓代碼生成成本趨近於零，這堵用工程師人頭堆出來的牆瞬間消失。
@@ -56,6 +53,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[開源產品盈利破局]] — 從護城河缺失到護城河重建的另一條路徑
-- [[OpenAI給Claude-Code發插件]] — AI 編程工具市場的格局，印證 SaaS 替代危機
-- [[AI時代的新槓桿結構]] — 護城河從「資訊差」轉向「行業洞察+AI槓桿」的論述呼應
+- [[開源產品盈利破局|開源產品盈利破局]] — 從護城河缺失到護城河重建的另一條路徑
+- [[OpenAI給Claude-Code發插件|OpenAI給Claude-Code發插件]] — AI 編程工具市場的格局，印證 SaaS 替代危機
+- [[AI時代的新槓桿結構|AI時代的新槓桿結構]] — 護城河從「資訊差」轉向「行業洞察+AI槓桿」的論述呼應
+
+---
+> [!TIP]
+> 產品的有用性可以被卷平，但與用戶在實體空間共同釀造的文化溢價，是演算法搶不走的護城河。

@@ -1,21 +1,17 @@
 ---
-title: 阿里HappyHorse，一場關於「Token經濟」的陽謀
-source: 人人都是產品經理
+title: "阿里HappyHorse，一場關於「Token經濟」的陽謀"
+source: "人人都是產品經理"
 date: 2026-04-13
 tags: [人工智慧, 商業模式, 平台與生態系, 資料與演算法]
 keywords: [HappyHorse, Token經濟, AI視頻, 多模態, 阿里雲]
 type: 技術分析
 raw_ref: "[[2026-04-13/阿里HappyHorse一場關於Token經濟的陽謀]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 9
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 阿里的真正野心不是「做一個AI視頻工具」，而是讓整個行業的多模態創作都跑在自己的Token計費體系上——這是平台公司在AI時代的新「收過路費」策略。
@@ -38,5 +34,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-27-林俊旸離職阿里首次發文智能體時代正在到來]] — 阿里AI戰略的組織轉型背景
-- [[2026-04-08-阿里電商AI新動向圍繞Token重構電商]] — 同一Token戰略在電商端的應用
+- [[2026-03-27-林俊旸離職阿里首次發文智能體時代正在到來|林俊旸離職阿里首次發文智能體時代正在到來]] — 阿里AI戰略的組織轉型背景
+- [[2026-04-08-阿里電商AI新動向圍繞Token重構電商|阿里電商AI新動向圍繞Token重構電商]] — 同一Token戰略在電商端的應用
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,21 +1,17 @@
 ---
-title: 前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投
-source: 36Kr
+title: "前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投"
+source: "36Kr"
 date: 2026-04-29
 tags: [人工智慧, 商業模式, 平台與生態系, 行銷]
 keywords: [GrowthGPT, 增長Agent, 跨境出海, 行銷自動化]
 type: 產業報導
 raw_ref: "[[2026-04-29/前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]"
 project: [個人顧問品牌, 不二製餅]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI原生增長Agent正在將「行銷自動化」從工具層提升到策略層——用戶只設目標，Agent自主執行到優化，這對顧問業務的流程設計有根本性啟示。
@@ -41,3 +37,7 @@ serendipity: []
 [[2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長|Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長]] — 同為AI驅動行銷自動化工具的成長案例，可對照商業化路徑
 [[2026-04-09-Canva加碼AI與行銷自動化：收購Simtheory與Ortto|Canva加碼AI與行銷自動化：收購Simtheory與Ortto]] — 大平台布局行銷AI的策略，與LeapMind的純Agent路徑形成對照
 [[2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？|微信免費發了1億Token，你的AI小程序還沒立項？]] — 平台以Token降低AI入門門檻，間接推動行銷Agent普及
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

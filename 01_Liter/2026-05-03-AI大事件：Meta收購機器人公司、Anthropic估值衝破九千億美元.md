@@ -1,21 +1,17 @@
 ---
-title: AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元
-source: 人人都是產品經理
+title: "AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元"
+source: "人人都是產品經理"
 date: 2026-05-03
 tags: [人工智慧, 商業模式, 平台與生態系, 科技影響]
 keywords: [Anthropic, Meta, 具身AI, 數字歧視, AI意識, GTM]
 type: 產業報導
 raw_ref: "[[2026-05-03/AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Anthropic估值衝破9000億美元，同時Dawkins承認相信Claude有意識——AI正在同時完成兩件事：成為有史以來最快增值的資產類別，以及動搖人類對「意識」這一概念的壟斷。
@@ -49,3 +45,7 @@ serendipity: []
 [[2026-04-24-DeepSeek告別「孤膽英雄」時代|DeepSeek告別「孤膽英雄」時代]] — AI競爭格局從單一玩家到生態系競爭的演變，理解Anthropic估值的競爭背景。
 
 [[2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象|中文護城河崩塌]] — AI能力邊界快速擴展的具體案例，呼應本篇醫療診斷超越人類的趨勢。
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

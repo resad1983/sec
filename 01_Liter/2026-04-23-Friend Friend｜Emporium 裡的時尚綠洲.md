@@ -1,20 +1,17 @@
 ---
-title: Friend Friend｜Emporium 裡的時尚綠洲
-source: https://mp.weixin.qq.com/s/Gn_clq0gLqvC5L-HNA94IQ
+title: "Friend Friend｜Emporium 裡的時尚綠洲"
+source: "https://mp.weixin.qq.com/s/Gn_clq0gLqvC5L-HNA94IQ"
 date: 2026-04-23
 tags: [城市與空間, 生活方式, 設計, 體驗]
 keywords: [曼谷, Emporium, 生活社區, 非標商業, 鬆弛感, 商場空間]
 type: 商業案例
 raw_ref: "[[2026-04-23/Friend Friend｜Emporium 里的时尚绿洲]]"
 project: [勤美誠品]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 在頂級購物中心嵌入「像在設計師朋友家中閒坐」的生活社區，打破消費者對奢華場所的刻板印象，以鬆弛感和日常感創造留駐時間與情感連結。
@@ -37,3 +34,7 @@ serendipity: []
 - [[2026-04-19-公共艺术装置，都是美丽废物吗｜专访「大星吉子」联创谢琼枝|公共艺术装置，都是美丽废物吗]] — 商業空間中的藝術植入，與 Friend Friend 的空間策略形成對照
 - [[2026-04-17-60岁路人爆改时尚大女主？有效改造的底层逻辑就这1点|60歲路人爆改時尚大女主？有效改造的底層邏輯]] — 設計感與生活感的融合邏輯
 - [[2026-04-16-从City Walk城市漫步到Color Walk色彩漫步，城市文旅从空间消费到感知消费的消费逻辑转向|从City Walk到Color Walk，城市文旅消费逻辑转向]] — 空間消費向感知消費的轉型，與 Friend Friend 的松弛感體驗相呼應
+
+---
+> [!TIP]
+> 體驗不是物理景致的堆砌，而是對人心狀態的溫柔翻譯，讓人在日常失序中重建掌控感。

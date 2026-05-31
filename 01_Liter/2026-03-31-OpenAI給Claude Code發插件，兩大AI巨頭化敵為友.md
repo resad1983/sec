@@ -1,20 +1,17 @@
 ---
-title: OpenAI給Claude Code發插件，兩大AI巨頭化敵為友
-source: 人人都是產品經理
+title: "OpenAI給Claude Code發插件，兩大AI巨頭化敵為友"
+source: "人人都是產品經理"
 date: 2026-03-31
 tags: []
 keywords: [AI編程工具, OpenAI, Claude, 具身智能, 行業動態]
 type: AI行業日報
 raw_ref: "[[2026-03-31/OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > OpenAI主動為競爭對手 Claude Code 發布插件，象徵 AI 編程工具市場從「封閉競爭」轉向「開放生態互聯」——技術生態的話語權比單一產品的壁壘更重要。
@@ -55,6 +52,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — AI 編程工具普及對 SaaS 商業模式的衝擊
-- [[MCP到Skill的範式轉移]] — AI 工具生態整合的底層架構演進
-- [[壁仞科技營收三年增16倍]] — 國產算力芯片在此波 AI 爆發中的受益邏輯
+- [[AI-Coding不是殺死中國SaaS而是暴露從未有護城河|AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — AI 編程工具普及對 SaaS 商業模式的衝擊
+- [[MCP到Skill的範式轉移|MCP到Skill的範式轉移]] — AI 工具生態整合的底層架構演進
+- [[壁仞科技營收三年增16倍|壁仞科技營收三年增16倍]] — 國產算力芯片在此波 AI 爆發中的受益邏輯
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

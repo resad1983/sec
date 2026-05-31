@@ -1,21 +1,17 @@
 ---
-title: 不堆規模改走遞歸路？前 Meta FAIR 總監聯手創業，押注「會自我進化的 AI」
-source: BestBlogs 系統設計
+title: "不堆規模改走遞歸路？前 Meta FAIR 總監聯手創業，押注「會自我進化的 AI」"
+source: "BestBlogs 系統設計"
 date: 2026-05-14
-score: 9
 tags: [人工智慧, 商業模式, 學習與思考, 數位系統]
 keywords: [遞歸學習, 自我進化AI, 田渊栋, scaling瓶頸, 架構創新]
 type: 技術分析
 raw_ref: "[[2026-05-14/不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI]]"
-status: draft
 project: [~]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > 頂尖研究者用腳投票離開大廠去押注「架構突破」，代表 scaling law 紅利可能真的見頂——下一波 AI 競爭的賭注不在算力，在於讓模型能自我疊代。
@@ -49,3 +45,7 @@ links:
 [[2026-05-14-互聯網毀掉了客服，AI又拯救了它|互联网毁掉了客服，AI又拯救了它]]：AI 自我學習能力提升對特定應用場景（如客服）的影響——遞歸式 AI 若成真，客服 AI 的能力躍遷會是最快被感知到的場域之一。
 
 [[2026-05-14-AI創業時代，一人公司的七種打開方式|AI创业时代，一人公司的七种打开方式]]：技術路線突破和創業機會的關係——「會自我進化的 AI」若落地，會為一人公司帶來哪些新的打開方式？
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

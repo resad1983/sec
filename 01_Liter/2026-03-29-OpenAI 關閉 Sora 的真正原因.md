@@ -1,21 +1,17 @@
 ---
-title: OpenAI 關閉 Sora 的真正原因
-source: https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/
+title: "OpenAI 關閉 Sora 的真正原因"
+source: "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/"
 date: 2026-03-29
 tags: [商業模式]
 keywords: [AI, OpenAI, 平台策略, AI影片]
 type: 產業分析
 raw_ref: "[[2026-03-29/OpenAI關閉Sora的真正原因]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 8/10
-direct: []
-deep: ['[[2026-03-13-數位轉型是什麼從定義三階段到成功案例一次看懂]]', '[[2026-03-29-最好的商業模式是什麼]]', '[[2026-03-29-Sora關閉是AI影片的現實時刻嗎]]']
-serendipity: ['[[2026-03-29-科技CEO愛把裁員怪AI背後真正原因]]']
 ---
-
 ## 核心洞察
 > Sora 的死因是「技術可行但商業不可行」——每天燒 100 萬美元、用戶從 100 萬跌到 50 萬，這是 AI 產品最危險的死亡模式：用戶嚐鮮後留不住，但成本不會跟著縮減。
 
@@ -34,3 +30,7 @@ serendipity: ['[[2026-03-29-科技CEO愛把裁員怪AI背後真正原因]]']
 - **AI 應用顧問**：幫客戶選 AI 工具時，「這個工具 3 個月後還會用嗎？」是比「這個工具厲不厲害？」更重要的問題
 - **市場趨勢報告**：Sora 關閉 = AI 影片賽道的重要節點，可作為產業動態素材
 - **平台策略**：OpenAI 的資源集中決策，體現了 AI 公司如何在多產品線中做取捨
+
+---
+> [!TIP]
+> 產品的有用性可以被卷平，但與用戶在實體空間共同釀造的文化溢價，是演算法搶不走的護城河。

@@ -1,20 +1,17 @@
 ---
-title: Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場
-source: https://mp.weixin.qq.com/s/SjRdUCZUfwKus4yqrfTW3w
+title: "Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場"
+source: "https://mp.weixin.qq.com/s/SjRdUCZUfwKus4yqrfTW3w"
 date: 2026-04-21
 tags: [人工智慧, 平台與生態系, 數位系統, 科技影響]
 keywords: [Hermes Agent, Nous Research, Web3, DePIN, 去中心化AI, 開源AI]
 type: 產業報導
 raw_ref: "[[2026-04-21/Hermes Agent刷屏背后，Web3势力正在渗透AI战场]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Web3 老兵正批量轉戰 AI，帶來三大優勢：去中心化社區冷啟動能力、高容忍度種子用戶、安全審計敏感性；Hermes Agent 的爆紅是這股遷移浪潮的最佳縮影。
@@ -39,3 +36,7 @@ serendipity: []
 - [[2026-04-19-▍下一輪加密敘事｜20260418|▍下一輪加密敘事｜20260418]] — 加密市場下一波敘事，解釋 Web3 人才為何持續轉向 AI 的背景
 - [[2026-04-08-黃仁勳最新演講|黃仁勳最新演講（GTC 2026）]] — AI 基礎設施的宏觀視角，與 Web3 的去中心化算力形成對比
 - [[2026-04-23-中文護城河崩塌GPT Image 2踢翻即夢可靈通義萬象|中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象]] — AI 平台格局的快速演變，補充 Hermes 崛起的競爭背景
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

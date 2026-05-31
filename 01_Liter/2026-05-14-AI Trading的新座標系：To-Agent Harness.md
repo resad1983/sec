@@ -1,5 +1,5 @@
 ---
-title: AI Trading的新坐标系：To-Agent Harness
+title: "AI Trading的新坐标系：To-Agent Harness"
 source: "https://mp.weixin.qq.com/s/x8wzn44nkv3Zz4asvtfhCA"
 date: 2026-05-14
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
@@ -7,12 +7,11 @@ keywords: [Agent Harness, To-Agent, Execution Data, Trading Agent, MCP]
 type: 技術分析
 raw_ref: "[[2026-05-14/AI Trading的新座標系：To-Agent Harness]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 AI 競爭正從「誰的模型強」轉向「誰能讓 Agent 在真實環境中穩定執行」，Harness（執行系統）將成為下一代基礎設施的核心。
 

@@ -1,17 +1,17 @@
 ---
 title: "非AI出身卻比ChatGPT早推出AI產品、年收6億美元！Notion轉型的關鍵是什麼？"
+source: "網路自媒體"
 date: 2026-05-10
 tags: [人工智慧, 商業模式, 科技影響, 組織與策略]
 keywords: ['Notion AI', '地利優勢', '工作流整合', '大腦外包']
 type: 商業案例
 raw_ref: "[[2026-05-10/非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是什麼]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 非技術出身的生產力工具 Notion 能在 AI 浪潮中快速變現並年收 6 億美元，關鍵在於其擁有「地利優勢」——將 AI 直接嵌入用戶原本用來進行「大腦外包」的深度工作流與知識庫中，免去了用戶在多個工具間反覆橫跳的切換成本。
 

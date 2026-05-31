@@ -1,20 +1,17 @@
 ---
-title: Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作
-source: https://www.bnext.com.tw/article/90642/claude-code-folder-config-guide
+title: "Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作"
+source: "https://www.bnext.com.tw/article/90642/claude-code-folder-config-guide"
 date: 2026-04-15
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [Claude Code, .claude資料夾, agents, CLAUDE.md, hooks, settings.json]
 type: 技術分析
 raw_ref: "[[2026-04-15/Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > .claude/ 資料夾讓使用者把個人工作規則「基因化」給Claude——這是AI從通用工具到專屬助手的關鍵設定，也是AI個人化的底層基礎設施。
@@ -47,5 +44,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — 同樣探討AI工具的架構設計，.claude/設定是其中的個人化層面
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code的生態系擴展，與本文的設定教學互為補充
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — 同樣探討AI工具的架構設計，.claude/設定是其中的個人化層面
+- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code的生態系擴展，與本文的設定教學互為補充
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

@@ -1,16 +1,17 @@
 ---
-title: 一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？
-source: https://mp.weixin.qq.com/s/b6q_nV6hhdmrvrUHr95sKw
+title: "一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？"
+source: "https://mp.weixin.qq.com/s/b6q_nV6hhdmrvrUHr95sKw"
 date: '2026-04-08'
 tags: [人工智慧, 數位系統, 科技影響, 資料與演算法]
-keywords: '[]'
+keywords: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 type: 技術分析
-raw_ref: '[[2026-04-08/一篇论文引发存储芯片股暴跌，Google 的「DeepSeek 时刻」来了？]]'
-project: '[~]'
+raw_ref: "'[[2026-04-08/一篇论文引发存储芯片股暴跌，Google 的「DeepSeek 时刻」来了？]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: 'status: draft'
-status: draft
+status: draft'
 ---
-
 ## 核心洞察
 
 > Google TurboQuant算法將AI推理所需KV Cache壓縮6倍以上且不損性能，若此類算法持續演進，算力需求可能比市場預期更早飽和，對硬件投資邏輯產生根本衝擊。
@@ -31,5 +32,9 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-27-美國AI新政告別50個實驗室時代華盛頓要開一扇新寬門]] — AI地緣政治格局，TurboQuant是中美AI競爭中算法層的縮影
-- [[2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場]] — 算法突破若降低AI成本，具身智能落地將加速
+- [[2026-03-27-美國AI新政告別50個實驗室時代華盛頓要開一扇新寬門|美國AI新政告別50個實驗室時代華盛頓要開一扇新寬門]] — AI地緣政治格局，TurboQuant是中美AI競爭中算法層的縮影
+- [[2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場|具身智能走進家庭：AI產品經理的下一個戰場]] — 算法突破若降低AI成本，具身智能落地將加速
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

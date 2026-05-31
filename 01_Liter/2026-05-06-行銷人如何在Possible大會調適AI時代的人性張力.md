@@ -1,21 +1,17 @@
 ---
-title: 行銷人如何在Possible大會調適AI時代的人性張力
-source: Digiday
+title: "行銷人如何在Possible大會調適AI時代的人性張力"
+source: "Digiday"
 date: 2026-05-06
-score: 7
 tags: [人工智慧, 品牌, 媒體與敘事, 行銷]
 keywords: [AI行銷, 人性張力, Possible大會, 情感連結, 文化真實性]
 type: 產業報導
 raw_ref: "[[2026-05-06/行銷人如何在Possible大會調適AI時代的人性張力]]"
-status: draft
 project: [個人顧問品牌]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > AI 加速效率，但情感共鳴、文化真實性、意外發現（serendipity）是 AI 難以複製的廣告核心——這是行銷人的最後防線，也是品牌差異化的新戰場。
@@ -41,3 +37,7 @@ links:
 [[2026-04-15-從創意到運營，AI正從5方面「吃掉」廣告業|從創意到運營，AI正從5方面「吃掉」廣告業]]：AI 對廣告業的系統性衝擊，提供本篇觀點的背景脈絡
 
 [[2026-04-30-头部视频播客一档难求，高端美奢品牌在B站抢什么？|头部视频播客一档难求，高端美奢品牌在B站抢什么？]]：品牌尋求高品質媒體渠道的策略，與「人性溝通」需求互補
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

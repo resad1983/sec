@@ -1,21 +1,17 @@
 ---
-title: 中國機器人的全球化野心、「踢館」矽谷，及 Physical AI 的爆發準備：對話魔法原子
-source: BestBlogs 商業
+title: "中國機器人的全球化野心、「踢館」矽谷，及 Physical AI 的爆發準備：對話魔法原子"
+source: "BestBlogs 商業"
 date: 2026-05-09
-score: 9
 tags: [人工智慧, 商業模式, 平台與生態系, 科技影響]
 keywords: [具身智能, Physical AI, 機器人, 全球化]
 type: 產業報導
 raw_ref: "[[2026-05-09/中國機器人的全球化野心與Physical AI的爆發準備]]"
-status: draft
 project: [~]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > Physical AI 的競賽已從技術比拼轉向生態系建設，中國機器人公司的全球化不只是市場擴張，更是搶奪多樣化訓練數據的戰略行動。
@@ -46,3 +42,7 @@ links:
 [[2026-04-26-AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI Codex、DeepSeek開啟促銷|AI大事件：美團LongCat-2.0開放測試]] — 中國 AI 生態系的整體競爭動態
 
 [[2026-04-24-DeepSeek告別「孤膽英雄」時代|DeepSeek告別「孤膽英雄」時代]] — 中國 AI 公司從「技術奇才獨秀」走向「生態系協作」的戰略轉型
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,20 +1,17 @@
 ---
-title: Google Stitch：測試3天，它可能會讓UI設計師開始焦慮
-source: 人人都是產品經理
+title: "Google Stitch：測試3天，它可能會讓UI設計師開始焦慮"
+source: "人人都是產品經理"
 date: 2026-03-31
 tags: []
 keywords: [Google Stitch, UI設計, AI工具, 設計自動化, 產品開發]
 type: 工具評測
 raw_ref: "[[2026-03-31/Google-Stitch讓UI設計師開始焦慮的AI工具]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Google Stitch 將從概念到界面的距離壓縮至分鐘級——真正衝擊的不是資深設計師的創意能力，而是初級設計師的「重複性視覺還原」工作，以及非設計背景人士的入場門檻。
@@ -66,6 +63,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[COZE實戰從零搭建視頻自動化]] — 同樣是 AI 將創意工作自動化，視頻內容與 UI 設計的影響路徑對比
-- [[AI-Coding不是殺死中國SaaS]] — AI 自動化工具對特定職業護城河的衝擊模式分析
-- [[AI時代的新槓桿結構]] — 自動化降低執行門檻後，競爭力轉移至洞察與判斷層
+- [[COZE實戰從零搭建視頻自動化|COZE實戰從零搭建視頻自動化]] — 同樣是 AI 將創意工作自動化，視頻內容與 UI 設計的影響路徑對比
+- [[AI-Coding不是殺死中國SaaS|AI-Coding不是殺死中國SaaS]] — AI 自動化工具對特定職業護城河的衝擊模式分析
+- [[AI時代的新槓桿結構|AI時代的新槓桿結構]] — 自動化降低執行門檻後，競爭力轉移至洞察與判斷層
+
+---
+> [!TIP]
+> 在焦慮的時代中，用小內容與真實感降載大腦，是我們對生活主權的溫柔降落。

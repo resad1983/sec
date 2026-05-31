@@ -7,11 +7,11 @@ keywords: [Fabletics, DTC, 會員體系, 質價比, 名人共創]
 type: 商業案例
 raw_ref: "[[2026-05-04/Fabletics如何成長為美國最大的DTC運動服品牌]]"
 project: [不二製餅]
+wiki_evolved: true
 principle: []
 links: '{"direct":["[[2025-12-22-深度｜日本爆紅「穿搭訂閱制」！續約率 95%、年收近 50 億，airCloset 憑什麼成功？|穿搭訂閱制]]","[[2026-03-30-從會員數據到 AI 行銷：Vpon 打造零售業 AI-Ready 數據中台，提升決策效率|會員數據行銷]]"],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 Fabletics 的護城河不在於時尚，而在於其「數據驅動的會員體系」——透過深度綁定名人資源與高黏著度的 VIP 制度，實現了極低退貨率與精準的品類擴張效率。
 

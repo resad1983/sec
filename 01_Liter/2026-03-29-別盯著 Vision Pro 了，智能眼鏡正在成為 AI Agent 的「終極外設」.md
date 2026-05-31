@@ -1,21 +1,17 @@
 ---
-title: 別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極外設」
-source: https://www.woshipm.com/ai/6365580.html
+title: "別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極外設」"
+source: "https://www.woshipm.com/ai/6365580.html"
 date: 2026-03-29
 tags: []
 keywords: [AI, Agent, 具身智能, 硬體, 產品設計]
 type: 產品趨勢
 raw_ref: "[[2026-03-29/智能眼鏡正在成為AI-Agent的終極外設]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7/10
-direct: []
-deep: []
-serendipity: ['[[2026-03-29-工作流Agent智能體究竟都是什麼]]']
 ---
-
 ## 核心洞察
 > 智能眼鏡的競爭重點從「顯示效果」轉向「感知能力」——作為 AI Agent 的第一人稱傳感器，它的價值不在看，而在讓 AI 能看、能聽、能感知現實世界。
 
@@ -34,3 +30,7 @@ serendipity: ['[[2026-03-29-工作流Agent智能體究竟都是什麼]]']
 - **AI + LINE Bot**：「零 UI 設計」原則——讓 AI 隱形在用戶既有行為中，不要求用戶改變習慣
 - **系統整合顧問**：具身智能的四步落地框架，可以改寫成企業 AI 導入的通用框架
 - **地方創生**：實體場域（展覽、活動）導入 AI 感知設備的想像空間
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

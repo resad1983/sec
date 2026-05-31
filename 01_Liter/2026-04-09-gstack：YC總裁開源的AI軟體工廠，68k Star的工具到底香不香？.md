@@ -1,16 +1,17 @@
 ---
-title: gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？
-source: 人人都是產品經理
+title: "gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？"
+source: "人人都是產品經理"
 date: '2026-04-09'
 tags: [人工智慧, 商業模式, 學習與思考, 數位系統]
-keywords: '[]'
+keywords: [人工智慧, 商業模式, 學習與思考, 數位系統]
 type: 技術分析
-raw_ref: '[[2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'
-project: '[個人顧問品牌]'
+raw_ref: "'[[2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: 'status: draft'
-status: draft
+status: draft'
 ---
-
 ## 核心洞察
 
 > gstack把「AI團隊協作」從比喻變成了可執行的工具鏈，對顧問而言最大啟示是：角色分工本身就是一種知識架構，可以被工具化複用。
@@ -41,6 +42,10 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型]] — 同樣討論Agent角色分工的架構哲學，可相互印證
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — gstack使用的Skill機制正是這篇討論的範式體現
-- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相]] — 將人格/工作風格蒸餾進Skill的實踐案例，與gstack的角色設計形成對照
+- [[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] — 同樣討論Agent角色分工的架構哲學，可相互印證
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — gstack使用的Skill機制正是這篇討論的範式體現
+- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — 將人格/工作風格蒸餾進Skill的實踐案例，與gstack的角色設計形成對照
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

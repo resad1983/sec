@@ -1,21 +1,17 @@
 ---
-title: LangChain團隊用AI Agent做銷售和行銷的最佳實踐
-source: 人人都是產品經理
+title: "LangChain團隊用AI Agent做銷售和行銷的最佳實踐"
+source: "人人都是產品經理"
 date: 2026-05-03
 tags: [人工智慧, 商業模式, 產品, 行銷]
 keywords: [GTM Agent, LangChain, 銷售自動化, Deep Agents, 持續學習, Slack]
 type: 技術分析
 raw_ref: "[[2026-05-03/LangChain團隊用AI Agent做銷售和行銷的最佳實踐]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 10
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 一個好的AI銷售Agent不是「自動化機器人」，而是「讓銷售代表只做人類才能做的決策」——研究、草稿、篩選由AI做，判斷、關係、簽署由人做。這個人機協作邊界的設計，才是LangChain GTM Agent成功的真正原因。
@@ -63,3 +59,7 @@ serendipity: []
 [[2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」|深度拆解拓竹科技]] — AI產品商業化落地的另一個案例，理解「工具AI」如何在不同垂直領域找到PMF。
 
 [[2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投|前米哈游高管創業，AI原生增長Agent LeapMind Growth]] — AI增長Agent的競爭版圖，比較不同GTM Agent的切入角度。
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

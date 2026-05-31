@@ -1,21 +1,17 @@
 ---
-title: Cursor CEO：AI 編程的下一個時代
-source: 人人都是產品經理
+title: "Cursor CEO：AI 編程的下一個時代"
+source: "人人都是產品經理"
 date: 2026-05-13
-score: 8
 tags: [人工智慧, 學習與思考, 數位系統, 組織與策略]
 keywords: [AI Agent, Cursor, 軟體工程轉型, 系統思維, 創業門檻]
 type: 技術分析
 raw_ref: "[[2026-05-13/Cursor CEO：AI 編程的下一個時代]]"
-status: draft
 project: [~]
-principle: "稀缺能力從『寫程式碼』轉向『系統思維與產品直覺』"
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > 企業 75% 程式碼由 AI 生成，工程師正轉型為 Agent 管理者——技術門檻驟降的同時，「知道要做什麼」的系統思維與產品判斷力反而成為更稀缺的差異化能力。
@@ -43,3 +39,7 @@ links:
 [[2026-04-08-養龍蝦有風險，還有靠譜的AI員工嗎|養龍蝦有風險，還有靠譜的 AI 員工嗎]]：同樣探討 AI Agent 的可靠性邊界與人類監督必要性。
 [[2026-05-12-個人生產力暴增10倍，公司價值卻沒變：AI時代最昂貴的教訓|個人生產力暴增 10 倍，公司價值卻沒變：AI 時代最昂貴的教訓]]：AI 提升個人效率但不自動轉化為組織價值，呼應「系統思維比執行力更關鍵」的論點。
 [[2026-05-09-YC合夥人AI原生公司應該怎麼搭建|YC 合夥人：AI 原生公司應該怎麼搭建]]：AI 原生組織的設計哲學，與 Cursor CEO 描述的 Agent 時代工程組織形態相互印證。
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,21 +1,17 @@
 ---
-title: 小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路
-source: Restaurant Business
+title: "小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路"
+source: "Restaurant Business"
 date: 2026-05-19
-score: 10
 tags: [品牌, 商業模式, 市場與需求, 體驗]
 keywords: [Starry Foods, CPG, 食品製造, 小籠包, 餐飲品牌]
 type: 商業案例
 raw_ref: "[[2026-05-19/小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路]]"
-status: draft
 project: [不二製餅]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > 餐廳品牌透過自建製造廠延伸供應鏈，將堂食體驗轉化為零售商品——這是從「服務業」跨入「消費品牌」的關鍵一步，也是品牌護城河的深化。
@@ -39,3 +35,7 @@ links:
 [[2026-04-23-2026 日內瓦鐘表展：焦慮蔓延，瑞表如何交卷？|2026 日內瓦鐘表展：焦慮蔓延，瑞表如何交卷？]]：同樣是傳統工藝品牌如何在大眾化與精品定位之間取得平衡
 [[2026-04-19-LVMH集团高管细说：中国客群、路易威登、迪奥、蒂芙尼|LVMH集团高管细说：中国客群、路易威登、迪奥、蒂芙尼]]：高端品牌如何維護品質感知，與本案「刻意平民化」形成對照
 [[2026-05-18-飲料瓶裡的故事，你得喝完才看得到|飲料瓶裡的故事，你得喝完才看得到]]：食品包裝的品牌敘事與體驗設計，與本案的消費品化路徑相關
+
+---
+> [!TIP]
+> 在 AI 氾濫時代，品牌內容的勝負手不再是精美度，而是誠實素雅的活人感。

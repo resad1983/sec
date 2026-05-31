@@ -1,20 +1,17 @@
 ---
-title: AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言人
-source: 犬哥網站
+title: "AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言人"
+source: "犬哥網站"
 date: 2026-03-16
 tags: []
 keywords: [AI Grounding, SEO, GEO, AI搜尋, 內容行銷, RAG, 品牌曝光]
 type: SEO教學
 raw_ref: "[[2026-03-30/AI-Grounding是什麼SEO新趨勢讓AI成為品牌最強發言人]]"
 project: [典典文創, 個人顧問品牌]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 未來的競爭不只是「誰排在搜尋結果前面」，而是**「誰被 AI 選中來代表這個答案」**。AI 只會引用它能信任的內容——這意味著品牌內容的核心指標正在從「關鍵字排名」轉向「被 AI 引用率（GEO 覆蓋率）」。你的內容策略需要同時服務兩個受眾：**人類讀者** 和 **AI 系統**。
@@ -60,3 +57,7 @@ serendipity: []
 - **2026 營銷革命：知識庫 + 智能體**：知識庫確保內容品質，GEO 確保內容被 AI 系統引用——兩者是行銷數智化的「兩面」
 - **為什麼用了那麼多 AI，工作還是一團亂**：「研究助理」角色在搜索時，會優先引用有 Grounding 的品牌內容——設計內容策略時需考慮 AI Agent 作為「受眾」
 - **不權威發布 26 個趨勢**：趨勢 #8「品牌行銷對象不再只是人類（AI 購物助手）」= 本文 GEO 策略的具體實踐方向
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

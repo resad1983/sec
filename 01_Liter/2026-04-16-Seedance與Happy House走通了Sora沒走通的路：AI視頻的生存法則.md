@@ -1,21 +1,17 @@
 ---
-title: Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則
-source: 人人都是產品經理
+title: "Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則"
+source: "人人都是產品經理"
 date: 2026-04-16
 tags: [人工智慧, 商業模式, 產品, 科技影響]
 keywords: [Seedance, Happy House, Sora, AI視頻, 工業級生產, 世界模擬器]
 type: 技術分析
 raw_ref: "[[2026-04-16/Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Sora的失敗是路徑選擇錯誤，不是技術落後——「世界模擬器」vs「工業級插件」是兩種商業邏輯，後者才能嵌入真實生產流中存活；這個選擇框架適用於任何AI工具的產品定位。
@@ -52,6 +48,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-29-OpenAI關閉Sora的真正原因]] — Sora關閉的商業邏輯深度剖析，是理解本文的必讀背景
-- [[2026-03-29-Sora關閉是AI影片的現實時刻嗎]] — AI影片商業化的轉折點分析，提供宏觀行業框架
-- [[2026-03-31-AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — 技術工具衝擊下，生態整合才是真正的護城河
+- [[2026-03-29-OpenAI關閉Sora的真正原因|OpenAI關閉Sora的真正原因]] — Sora關閉的商業邏輯深度剖析，是理解本文的必讀背景
+- [[2026-03-29-Sora關閉是AI影片的現實時刻嗎|Sora關閉是AI影片的現實時刻嗎]] — AI影片商業化的轉折點分析，提供宏觀行業框架
+- [[2026-03-31-AI-Coding不是殺死中國SaaS而是暴露從未有護城河|AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — 技術工具衝擊下，生態整合才是真正的護城河
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

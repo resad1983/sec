@@ -1,20 +1,17 @@
 ---
-title: 亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓
-source: https://www.bnext.com.tw/article/90497/amazon-project-kobe
+title: "亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓"
+source: "https://www.bnext.com.tw/article/90497/amazon-project-kobe"
 date: 2026-04-10
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 keywords: [Project Kobe, 零售科技, 自動化倉儲, AI選品, Frida, 最後一哩]
 type: 產業報導
 raw_ref: "[[2026-04-10/亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓]]"
 project: [勤美誠品]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 亞馬遜把「電商倉庫邏輯」塞進「超市形式」，以AI選品+機器人揀貨打造複合型門市，本質是用實體據點解決最後一哩配送劣勢——零售即物流的極致體現。
@@ -41,5 +38,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-01-供應鏈效率成零售業決勝點AI導購0點1秒成交智慧倉儲如何解決出貨慢痛點]] — 零售AI化的另一個角度，互為補充
-- [[2026-03-29-FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]] — 全球物流巨頭用AI重構運營的對照案例
+- [[2026-04-01-供應鏈效率成零售業決勝點AI導購0點1秒成交智慧倉儲如何解決出貨慢痛點|供應鏈效率成零售業決勝點AI導購0點1秒成交智慧倉儲如何解決出貨慢痛點]] — 零售AI化的另一個角度，互為補充
+- [[2026-03-29-FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計|FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]] — 全球物流巨頭用AI重構運營的對照案例
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

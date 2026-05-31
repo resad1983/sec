@@ -1,21 +1,17 @@
 ---
-title: Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去
-source: 人人都是產品經理
+title: "Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去"
+source: "人人都是產品經理"
 date: 2026-04-29
 tags: [人工智慧, 人機互動, 數位系統, 產品]
 keywords: [Codex, Claude Code, AI工程工作台, 沙箱權限, Plan機制]
 type: 產品設計
 raw_ref: "[[2026-04-29/Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去]]"
 project: [不二製餅]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 9
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI工具的競爭正從「模型能力」轉向「信任架構設計」——讓用戶敢於授權才是真正的產品護城河，「邊界監督」比「過程監督」更能建立信任。
@@ -44,3 +40,7 @@ serendipity: []
 [[2026-04-16-讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？|讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？]] — 同樣是AI工具「信任設計」的主題，Appier從可靠性角度切入，Codex從邊界設計切入
 [[2026-04-28-如何一個人驗證一個產品方向？|如何一個人驗證一個產品方向？]] — 一人創業場景下使用AI工具的實踐視角
 [[2026-04-23-AI Agent評估體系到底該怎麼做|AI Agent評估體系到底該怎麼做]] — 評估AI Agent能力的框架，與Codex設計的「可信度評估」互補
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

@@ -1,21 +1,17 @@
 ---
-title: AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰
-source: 36Kr
+title: "AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰"
+source: "36Kr"
 date: 2026-04-24
 tags: [人工智慧, 商業模式, 數位系統, 組織與策略]
 keywords: [微盟, AI First, SaaS轉型, Agent+Skills, B端容錯率, GEO]
 type: 產業報導
 raw_ref: "[[2026-04-24/微盟推行AI First戰略與B端交付的挑戰]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 8
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > B端客戶「一個壞案例就否定整個AI模塊」——這說明B端AI導入的核心不是技術而是信任管理，顧問的角色是幫客戶建立「可控的第一次成功」。
@@ -44,3 +40,7 @@ serendipity: []
 [[2026-04-10-Claude-Managed-Agents顛覆SaaS：從賣算力到租數位勞動力|Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力]] — SaaS向Agent轉型的底層邏輯，與微盟路徑高度相關
 [[2026-04-23-AI Agent評估體系到底該怎麼做|AI Agent評估體系到底該怎麼做]] — B端AI落地後如何評估效果，是微盟交付挑戰的延伸問題
 [[2026-04-18-人是第一要素，我認為這還遠遠不夠|人是第一要素，我認為這還遠遠不夠]] — 組織轉型視角：AI First戰略的人才配套挑戰
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

@@ -1,16 +1,17 @@
 ---
-title: 什麼時候Agent能自己寫skill？｜Hao好聊趨勢
-source: https://mp.weixin.qq.com/s/9V0xYqveQigc3yJq-2-XQA
+title: "什麼時候Agent能自己寫skill？｜Hao好聊趨勢"
+source: "https://mp.weixin.qq.com/s/9V0xYqveQigc3yJq-2-XQA"
 date: '2026-04-08'
 tags: [人工智慧, 學習與思考, 數位系統, 科技影響]
-keywords: '[]'
+keywords: [人工智慧, 學習與思考, 數位系統, 科技影響]
 type: 技術分析
-raw_ref: '[[2026-04-08/什么时候Agent能自己写skill？｜Hao好聊趋势]]'
-project: '[~]'
+raw_ref: "'[[2026-04-08/什么时候Agent能自己写skill？｜Hao好聊趋势]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: 'status: draft'
-status: draft
+status: draft'
 ---
-
 ## 核心洞察
 
 > Agent Skill從「權重」到「程式碼」是26年的演進關鍵，可讀可複製的Skill才是AI知識基礎設施真正的起點。
@@ -33,4 +34,8 @@ status: draft
 
 ## 關聯筆記
 
-[[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型]] 同為Agent架構設計議題，探討Skills的應用選型
+[[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] 同為Agent架構設計議題，探討Skills的應用選型
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,20 +1,17 @@
 ---
-title: Tech CEOs suddenly love blaming AI for mass job cuts. Why?
-source: BBC Technology（Kali Hays）
+title: "Tech CEOs suddenly love blaming AI for mass job cuts. Why?"
+source: "BBC Technology（Kali Hays）"
 date: 2026-03-30
 tags: []
 keywords: [AI裁員, Big Tech, 就業危機, 企業敘事, 資本市場]
 type: 深度分析
 raw_ref: "[[2026-03-31/科技CEO把大規模裁員怪給AI背後的真相]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 「怪 AI」既是敘事策略，也是真實趨勢。科技 CEO 們正在同時做兩件事：**用 AI 敘事美化裁員決策**，以及**真的用 AI 來做更少的人可以完成更多工作的事**。這兩件事並不矛盾——但公眾混淆了它們。
@@ -54,3 +51,7 @@ serendipity: []
 - **2028 AI 屠宰場**：「幽靈 GDP」= 本文「AI 支出 $650B + 裁員 3 萬人」的現實版——数字上增長，但就業和消費端開始空心化
 - **More Americans adopt AI tools, fewer trust results**：CEO 宣傳 AI 取代員工的敘事，正在強化公眾對 AI 的負面聯想——信任危機加速
 - **一個人的營銷部門**：Jacob Bank 的 Super IC = 企業「用少人做更多」的個人實踐版本，與本文裁員邏輯是同一個技術趨勢的不同側面
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

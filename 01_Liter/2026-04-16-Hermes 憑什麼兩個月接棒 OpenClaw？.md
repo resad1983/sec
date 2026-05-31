@@ -7,14 +7,11 @@ keywords: [Hermes Agent, OpenClaw, 開源Agent, 兜底工程, GitHub Trending, �
 type: 技術分析
 raw_ref: "[[2026-04-16/Hermes 凭什么两个月接棒 OpenClaw？]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI工具的市場勝負往往不在技術領先，而在「兜底工程」：技術將將夠用時，先用可靠性與工程完整度佔住位置。
@@ -37,6 +34,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] → AI工具生態演進的背景框架，理解Hermes出現的時代脈絡
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] → AI工具競合的格局，頭部玩家如何回應開源威脅
-- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態]] → 平台競爭的結構觀點，開源vs閉源的底層邏輯
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] → AI工具生態演進的背景框架，理解Hermes出現的時代脈絡
+- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] → AI工具競合的格局，頭部玩家如何回應開源威脅
+- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] → 平台競爭的結構觀點，開源vs閉源的底層邏輯
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

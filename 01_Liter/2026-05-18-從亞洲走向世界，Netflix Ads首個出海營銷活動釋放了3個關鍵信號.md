@@ -12,7 +12,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 在媒介溢價與用戶疲勞雙重見頂的流量黃昏，「被記住」已徹底取代「被看到」。Netflix 用輕量廣告與頂級內容將干擾降低，用 Conversion API 與眼動測量將專注力轉為業務增長，是未來體驗與技術融合的升維打法。
 

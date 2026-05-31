@@ -1,20 +1,17 @@
 ---
-title: Chrome內建Gemini Skills！輸入「/」叫出提示詞，跨分頁比價、掃文件一鍵搞定
-source: https://www.bnext.com.tw/article/90647/google-chrome-gemini-skills-save-ai-prompts
+title: "Chrome內建Gemini Skills！輸入「/」叫出提示詞，跨分頁比價、掃文件一鍵搞定"
+source: "https://www.bnext.com.tw/article/90647/google-chrome-gemini-skills-save-ai-prompts"
 date: 2026-04-15
 tags: [人工智慧, 數位系統, 產品, 科技影響]
 keywords: [Chrome Skills, Gemini, 提示詞管理, 工作流程, AI瀏覽器]
 type: 產品設計
 raw_ref: "[[2026-04-15/Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃文件一鍵搞定]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Chrome Skills把AI提示詞轉為可重用的工作流程，讓瀏覽器從搜尋工具進化為個人化AI代理——這是「AI內嵌入工作環境」而非「AI另開視窗」的典範轉移。
@@ -46,4 +43,8 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — Skill架構的底層設計哲學，與Chrome Skills概念高度相關
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — Skill架構的底層設計哲學，與Chrome Skills概念高度相關
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

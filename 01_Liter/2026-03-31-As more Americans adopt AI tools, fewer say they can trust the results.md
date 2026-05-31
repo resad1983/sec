@@ -1,20 +1,17 @@
 ---
-title: As more Americans adopt AI tools, fewer say they can trust the results
-source: TechCrunch（Rebecca Bellan）
+title: "As more Americans adopt AI tools, fewer say they can trust the results"
+source: "TechCrunch（Rebecca Bellan）"
 date: 2026-03-30
 tags: []
 keywords: [AI信任, 民調, 使用者心理, 品牌信任, AI採用]
 type: 市場研究
 raw_ref: "[[2026-03-31/越來越多美國人使用AI工具信任度卻在下滑]]"
 project: [~]
-principle: ''
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > **「越用越不信任」**——AI 工具使用率↑ 而信任度↓ 的悖論，揭示一個反直覺的現象：實際使用體驗正在讓用戶更清楚看到 AI 的侷限性，而非建立信心。這對品牌的 AI 溝通策略有直接影響：**過度宣傳 AI 能力，可能加速信任損耗**。
@@ -46,3 +43,7 @@ serendipity: []
 - **AI Grounding 是什麼**：GEO 的本質也是「建立 AI 信任」——讓 AI 能引用你的內容 = 你的內容達到了 AI 可信賴的標準
 - **2028 AI 屠宰場**：叙事經濟學視角——「越用越不信任」的社會氛圍，會如何強化或弱化悲觀叙事的傳播力？
 - **Tech CEOs 怪 AI 裁員**：CEO 的「AI 敘事」 vs 公眾的「AI 信任下滑」——兩者共同構成 AI 採用的社會場域
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

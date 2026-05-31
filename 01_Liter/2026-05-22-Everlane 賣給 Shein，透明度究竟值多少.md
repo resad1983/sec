@@ -1,21 +1,17 @@
 ---
-title: Everlane 賣給 Shein，透明度究竟值多少
-source: Glossy
+title: "Everlane 賣給 Shein，透明度究竟值多少"
+source: "Glossy"
 date: 2026-05-22
-score: 9
 tags: [品牌, 價值與定價, 商業模式, 文化現象]
 keywords: [永續時尚, 激進透明, 快時尚, DTC, ESG溢價]
 type: 文化觀察
 raw_ref: "[[2026-05-22/Everlane 賣給 Shein，透明度究竟值多少]]"
-status: draft
 project: [個人顧問品牌, 典典文創]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > 「透明度」作為品牌資產，在資本壓力下極易被侵蝕——創業者需把價值觀嵌入商業結構（不只口號），才能在出場時不失去品牌靈魂。
@@ -39,3 +35,7 @@ links:
 [[2026-05-15-下一輪個人IP的紅利就是把你的體驗變成錢|下一輪個人IP的紅利，就是把你的體驗變成錢]] → 個人品牌與商業結構的關係
 [[2026-04-28-年入10亿美元的Alo Yoga落子香港，中国市场能否复制北美神话？|Alo Yoga 落子香港：能否複製北美神話]] → 品牌價值如何在不同市場中維持一致性
 [[2026-04-18-中產失靈，但星巴克還想「死磕」溢價|中產失靈，但星巴克還想死磕溢價]] → 溢價品牌在消費降級時的策略困境
+
+---
+> [!TIP]
+> 在 AI 氾濫時代，品牌內容的勝負手不再是精美度，而是誠實素雅的活人感。

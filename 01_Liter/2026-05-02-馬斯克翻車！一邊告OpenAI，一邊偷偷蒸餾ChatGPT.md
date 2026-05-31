@@ -1,25 +1,17 @@
 ---
-title: 馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT
-source: 36Kr
+title: "馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT"
+source: "36Kr"
 date: 2026-05-02
 tags: [人工智慧, 科技影響]
-- 技術趨勢
-- 法律
-- 監管
-- 生成式AI
 keywords: []
-raw_ref: '[[2026-05-02/馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT]]'
-project:
-- null
+type: 其他
+raw_ref: "'[[2026-05-02/馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT]]'"
+project: [~]
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-url: https://36kr.com/p/3791460373929221?f=rss
-score: 9
-projects: []
-type: 其他
 ---
-
 ## 核心洞察
 
 馬斯克法庭案暴露了AI產業普遍存在的「模型蒸餾」潛規則，讓原本模糊的競爭倫理被法律放大鏡照亮。「所有AI公司都在這麼幹」不是辯護，而是一份產業自白——當行業潛規則被公開，什麼才是真正有護城河的品牌資產？對個人顧問品牌而言，這是一個反面教材：透明度即品牌力，公開的雙標比私下的妥協更傷根基。
@@ -40,4 +32,8 @@ type: 其他
 
 ## 關聯筆記
 
-- [[個人顧問品牌]]
+- [[個人顧問品牌|個人顧問品牌]]
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

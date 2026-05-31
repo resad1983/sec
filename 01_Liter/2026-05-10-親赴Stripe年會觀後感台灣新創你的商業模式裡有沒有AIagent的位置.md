@@ -1,17 +1,17 @@
 ---
 title: "親赴Stripe年會觀後感：台灣新創，你的商業模式裡有沒有AI agent的位置？｜Meet創業小聚"
+source: "網路自媒體"
 date: 2026-05-10
 tags: [人工智慧, 商業模式, 科技影響, 組織與策略]
 keywords: ['Stripe年會', 'AI經濟體', 'Token計費', 'AI詐騙']
 type: 產業報導
 raw_ref: "[[2026-05-10/親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 Stripe 年會揭示了「AI 經濟體基礎建設」的到來，計費標準從次/月徹底轉向即時的 Token 計算，Multi-agent 時代的 CLI 交易模式已成現實；這要求所有新創必須從一開始就將「AI agent 作為獨立交易主體」納入商業模式與防欺詐體系的設計中。
 

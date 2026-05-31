@@ -1,21 +1,17 @@
 ---
-title: Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力
-source: 人人都是產品經理
+title: "Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力"
+source: "人人都是產品經理"
 date: 2026-04-10
 tags: [人工智慧, 商業模式, 數位系統, 組織與策略]
 keywords: [Managed Agents, 數位勞動力, 駕馭工程, Harness Engineering, SaaS顛覆]
 type: 技術分析
 raw_ref: "[[2026-04-10/Claude-Managed-Agents顛覆SaaS：從賣算力到租數位勞動力]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 8
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > Anthropic從「賣算力」到「租數位勞動力」，$0.08/小時的定價不是技術創新，是商業模式革命——它讓AI的成本從資本支出（買License）變成人力支出（按工時計），這完全改變了企業採購決策的邏輯。
@@ -41,6 +37,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — AI能力封裝的架構演進，是Managed Agents的技術底座
-- [[2026-03-31-一個人的營銷部門40個AI-Agent如何顛覆工作方式]] — 個人使用Agent的實踐，Managed Agents是企業版同類演化
-- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態]] — SaaS被顛覆的大趨勢背景
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI能力封裝的架構演進，是Managed Agents的技術底座
+- [[2026-03-31-一個人的營銷部門40個AI-Agent如何顛覆工作方式|一個人的營銷部門40個AI-Agent如何顛覆工作方式]] — 個人使用Agent的實踐，Managed Agents是企業版同類演化
+- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] — SaaS被顛覆的大趨勢背景
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

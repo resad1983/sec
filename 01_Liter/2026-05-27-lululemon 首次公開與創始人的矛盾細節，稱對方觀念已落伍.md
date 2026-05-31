@@ -1,18 +1,17 @@
 ---
-title: lululemon 首次公開與創始人的矛盾細節，稱對方“觀念已落伍”
-source: https://mp.weixin.qq.com/s/ERecDQ8sTejX7q74-Maf4g
+title: "lululemon 首次公開與創始人的矛盾細節，稱對方“觀念已落伍”"
+source: "https://mp.weixin.qq.com/s/ERecDQ8sTejX7q74-Maf4g"
 date: 2026-05-27
 tags: [品牌, 商業模式, 組織與策略]
 keywords: [露露樂蒙, 創始人糾紛, 代理權之爭, 品牌重塑, Heidi O'Neill]
 type: 商業案例
 raw_ref: "[[2026-05-27/lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 大品牌陷入成長困境時，創始人與成熟治理機制之間的代理權之爭，本質上是「原教旨潮流調性」與「現代規模化擴張」在策略理念上的致命衝突。
 

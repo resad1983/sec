@@ -1,21 +1,17 @@
 ---
-title: DoorDash推出AI工具加速商家上線與照片優化
-source: TechCrunch
+title: "DoorDash推出AI工具加速商家上線與照片優化"
+source: "TechCrunch"
 date: 2026-05-04
-score: 7
 tags: [人工智慧, 商業模式, 產品]
 keywords: [DoorDash, 商家賦能, 上架自動化, 照片優化, 餐飲科技]
 type: 產業報導
 raw_ref: "[[2026-05-04/DoorDash推出AI工具加速商家上線與照片優化]]"
-status: draft
 project: [不二製餅]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > DoorDash的AI工具策略揭示了平台競爭的新戰場：從補貼消費者，轉向賦能商家——讓商家更容易成功，才是建立長期平台護城河的真正路徑。
@@ -46,3 +42,7 @@ links:
 [[2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」|拓竹科技深度拆解]] — 平台生態鎖定的不同路徑：DoorDash靠工具賦能鎖定商家，拓竹靠耗材生態鎖定用戶。
 
 [[2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？|微信AI小程序]] — 平台用AI工具降低商家開發門檻，與DoorDash降低餐廳上架門檻，是同一時代趨勢在不同場景的呈現。
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

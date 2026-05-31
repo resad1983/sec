@@ -7,12 +7,11 @@ keywords: [視覺交付, 超級個體, 視覺霸權, 交付力, 產品思維]
 type: 商業觀察
 raw_ref: "[[2026-05-18/Markdown 已死，HTML 登基：極客思維正在毀掉你的交付力]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 「視覺交付已成為生產力本身。」當 AIGC 能在 1 秒內吐出精美網頁與可互動 UI 時，傳統的「先理邏輯再做包裝」兩步走工作流正在過時。超級個體與一人公司對外征戰的核心戰甲不再是「過程思維」下的 Markdown 邏輯源代碼，而是直面泛人群的「成品化」HTML 視覺表現力。
 

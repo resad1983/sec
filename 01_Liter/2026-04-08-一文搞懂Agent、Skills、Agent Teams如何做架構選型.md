@@ -1,16 +1,17 @@
 ---
-title: 一文搞懂Agent、Skills、Agent Teams如何做架構選型
-source: https://mp.weixin.qq.com/s/jygoCLyvLE2qOZfLGEVZ8Q
+title: "一文搞懂Agent、Skills、Agent Teams如何做架構選型"
+source: "https://mp.weixin.qq.com/s/jygoCLyvLE2qOZfLGEVZ8Q"
 date: '2026-04-08'
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
-keywords: '[]'
+keywords: [人工智慧, 學習與思考, 數位系統, 產品]
 type: 技術分析
-raw_ref: '[[2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'
-project: '[~]'
+raw_ref: "'[[2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: 'status: draft'
-status: draft
+status: draft'
 ---
-
 ## 核心洞察
 
 > Agent架構選型核心原則：夠用就好，避免過度設計——把1個Agent增加到10個，錯誤反而被放大17倍（Google DeepMind實驗結論）。
@@ -37,5 +38,9 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-29-工作流Agent智能體究竟都是什麼]] — Agent基礎概念，本文的架構選型是其進階延伸
-- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相]] — Skills實踐的反思，與本文架構討論形成現實對照
+- [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent基礎概念，本文的架構選型是其進階延伸
+- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — Skills實踐的反思，與本文架構討論形成現實對照
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

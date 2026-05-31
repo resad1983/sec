@@ -1,16 +1,17 @@
 ---
+title: "戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變"
+source: "Clippings"
 date: '2026-04-21'
-title: 戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
-source: Clippings
-status: draft
 tags: []
 keywords: []
 type: 其他
-raw_ref: '[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]'
-project: []
+raw_ref: "'[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ﻿---
 title: 戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
 source: https://mp.weixin.qq.com/s/4uYiHdq4-7Qfa6SHW5FNRg
@@ -18,7 +19,7 @@ date: 2026-04-21
 tags: [品牌, 市場與需求, 商業模式, 行銷]
 keywords: [戶外運動, 品牌下半場, Nike, adidas, 安踏, 概念行銷失效]
 type: 產業報導
-raw_ref: "[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]"
+raw_ref: "[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變|2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]"
 status: draft
 project: []
 principle: ""
@@ -54,3 +55,7 @@ links:
 - [[2026-04-16-增长突然停了，大概率不是流量问题|增長突然停了，大概率不是流量問題]] — 品牌增長停滯的深層原因分析
 - [[2026-04-15-瑞幸凱娜克紛紛插旗台灣，全家路易莎為何老神在在？|瑞幸、凱娜克紛紛插旗台灣，全家、路易莎為何老神在在？]] — 品牌在新市場的競爭策略對比
 - [[2026-04-13-新消費最殘酷的真相：大多數品牌從一開始就沒機會|新消費最殘酷的真相：大多數品牌從一開始就沒機會]] — 新消費品牌的生存邏輯分析
+
+---
+> [!TIP]
+> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。

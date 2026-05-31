@@ -1,21 +1,17 @@
 ---
-title: Snapchat推出AI驅動的對話式廣告功能
-source: TechCrunch
+title: "Snapchat推出AI驅動的對話式廣告功能"
+source: "TechCrunch"
 date: 2026-04-28
 tags: [人工智慧, 品牌, 平台與生態系, 行銷]
 keywords: [AI Sponsored Snaps, 對話式廣告, 轉化率, 品牌AI代理]
 type: 產業報導
 raw_ref: "[[2026-04-28/Snapchat推出AI驅動的對話式廣告功能]]"
 project: [個人顧問品牌, 不二製餅]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 對話式廣告把成交場景嵌入日常聊天——不是讓人去找品牌，而是讓品牌在人已在的地方等待。這預示了下一代行銷的本質轉變：廣告從「展示」進化為「對話」。
@@ -43,3 +39,7 @@ serendipity: []
 [[2026-04-26-小紅書經營實錄：50條價值百萬的實戰心得|小紅書經營實錄：50條價值百萬的實戰心得]] — 平台行銷實戰的補充，「對話運營」在小紅書上的實際操盤心法
 
 [[2026-04-24-用「活人感」做科技社區，小紅書能成嗎？|用「活人感」做科技社區，小紅書能成嗎？]] — 「真實對話感」在平台生態中的稀缺性，呼應本篇「對話是廣告不動產」的核心論點
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

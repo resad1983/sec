@@ -1,17 +1,17 @@
 ---
 title: "AI時代簡報人人做得漂亮，Sequoia、a16z卻把勝負押在這三通電話上"
+source: "網路自媒體"
 date: 2026-05-10
 tags: [人工智慧, 商業模式, 組織與策略, 行銷]
 keywords: ['VoC', '客戶訪談', 'AI簡報', '真實回饋']
 type: 產業報導
 raw_ref: "[[2026-05-10/AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上]]"
 project: [~]
-wiki_evolved: false
+wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 在 AI 讓精美簡報與完美文案變得廉價的時代，真實客戶的聲音（VoC）成為了最稀缺也最無法被偽造的資產；創投與企業開始將重心從表面包裝轉向真實的客戶訪談與留存數據。
 

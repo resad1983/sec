@@ -1,21 +1,17 @@
 ---
-title: VITURE Beast：重新定義XR眼鏡的產品哲學
-source: 36Kr
+title: "VITURE Beast：重新定義XR眼鏡的產品哲學"
+source: "36Kr"
 date: 2026-05-24
-score: 10
 tags: [人機互動, 產品, 科技影響, 設計]
 keywords: [XR眼鏡, 對立面思維, 場景驅動設計, Vibe Coding]
 type: 產品設計
 raw_ref: "[[2026-05-24/VITURE Beast重新定義XR眼鏡的產品哲學]]"
-status: draft
 project: [~]
-principle: ""
-links:
-  direct: []
-  deep: []
-  serendipity: []
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ## 核心洞察
 
 > 好產品設計始於「假設這個沒有用」——對立面思維讓設計者從解決方案偏見中解脫，回到使用者真實場景的唯一解。
@@ -38,3 +34,7 @@ links:
 - [[2026-04-10-讓AI看懂世界：Chance AI的視覺智能體革命|讓AI看懂世界：Chance AI的視覺智能體革命]]：同樣是AI與空間感知的交叉，視覺AI與XR眼鏡的應用場景高度重叠
 - [[2026-05-20-溫度還是證據：螞蟻阿福與氫離子的醫療AI分野|溫度還是證據？醫療AI分野]]：技術應用需要找到「唯一真實場景」的例子，與VITURE的設計哲學呼應
 - [[2026-05-18-追求摩擦感設計與製造麻煩的差別|追求摩擦感設計與製造麻煩的差別]]：設計哲學的關聯討論，好的「摩擦」來自場景理解，不是技術炫耀
+
+---
+> [!TIP]
+> 在焦慮的時代中，用小內容與真實感降載大腦，是我們對生活主權的溫柔降落。

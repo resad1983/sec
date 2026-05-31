@@ -1,20 +1,17 @@
 ---
-title: OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了
-source: https://www.inside.com.tw/article/41110-openclaw-week-one-impact-hermes-three-months-most-people-choose-wrong
+title: "OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了"
+source: "https://www.inside.com.tw/article/41110-openclaw-week-one-impact-hermes-three-months-most-people-choose-wrong"
 date: 2026-04-22
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [OpenClaw, Hermes Agent, AI Agent, 工具選擇, 閘道優先, 學習優先]
 type: 技術分析
 raw_ref: "[[2026-04-22/OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > OpenClaw 重廣度（閘道整合，第一週就有感），Hermes 重深度（學習進化，三個月後才體現價值）；選工具前先搞清楚自己的工作流需求，而非功能清單。
@@ -45,3 +42,7 @@ serendipity: []
 - [[2026-04-17-如何用 Skills高效完成产品经理的工作？|如何用 Skills 高效完成產品經理的工作？]] — Skills 系統的具體應用，與 Hermes 的技能學習機制直接相關
 - [[2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法|別迷信大模型：零食貨架教我悟出的「最小框」AI工程法]] — 務實的 AI 工具選擇哲學，與本篇的工具比較框架互補
 - [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學]] — AI 工具的深度配置策略，呼應 Hermes 的長期學習優化邏輯
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

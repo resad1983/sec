@@ -1,21 +1,17 @@
 ---
-title: 法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化
-source: TechCrunch
+title: "法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化"
+source: "TechCrunch"
 date: 2026-04-30
 tags: [人工智慧, 品牌, 商業模式, 平台與生態系]
 keywords: [法律AI, 垂直AI, Harvey, Legora, ARR, 品牌行銷大戰]
 type: 商業案例
 raw_ref: "[[2026-04-30/法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 垂直AI平台成熟的標誌不是技術競爭，而是品牌行銷大戰——當差異化趨同後，品牌認知才是真正的護城河，也是最容易被基礎模型廠商繞過的部分。
@@ -43,3 +39,7 @@ serendipity: []
 [[2026-04-30-白鸦X郑敏丨万字对谈：AI抢跑，品牌审美的时代分野|AI抢跑，品牌审美的时代分野]] — AI時代的品牌差異化策略，對應Legora vs Harvey的行銷大戰本質
 
 [[2026-04-30-批量「透支」後，AI創業更累了|批量「透支」後，AI創業更累了]] — AI創業同質化困境的全局視角，Legora/Harvey的競爭是「頭部幸存者」版本的同一問題
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

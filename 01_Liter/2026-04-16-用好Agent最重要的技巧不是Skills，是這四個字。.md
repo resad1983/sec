@@ -1,20 +1,17 @@
 ---
-title: 用好Agent最重要的技巧不是Skills，是這四個字。
-source: https://mp.weixin.qq.com/s/F7w9IWGSrCn2FbIgXoyvnA
+title: "用好Agent最重要的技巧不是Skills，是這四個字。"
+source: "https://mp.weixin.qq.com/s/F7w9IWGSrCn2FbIgXoyvnA"
 date: 2026-04-16
 tags: [人工智慧, 創作方法, 學習與思考, 數位系統]
 keywords: [約束先行, CLAUDE.md, Agent規則, 結構治理, 秩序]
 type: 技術分析
 raw_ref: "[[2026-04-16/用好Agent最重要的技巧不是Skills，是这四个字。]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 用好AI Agent的關鍵不是學技巧，而是「約束先行」：先定規矩，規矩從全局到專案一層層穿透，沒有規矩的地方不動手——秩序是AI高效工作的前提。
@@ -35,5 +32,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — 約束先行的具體設定實作，是本篇理論的操作對應
-- [[2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]] — 上下文品質與AI工作效率的關係
+- [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — 約束先行的具體設定實作，是本篇理論的操作對應
+- [[2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神|Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]] — 上下文品質與AI工作效率的關係
+
+---
+> [!TIP]
+> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。

@@ -1,21 +1,17 @@
 ---
-title: Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神
-source: 人人都是產品經理
+title: "Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神"
+source: "人人都是產品經理"
 date: 2026-04-16
 tags: [人工智慧, 人機互動, 學習與思考, 數位系統]
 keywords: [CTX-6方法論, Context飛輪, 上下文構建, 零代碼開發]
 type: 技術分析
 raw_ref: "[[2026-04-16/Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]]"
 project: [個人顧問品牌]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-score: 7
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > AI輸出偏離預期不是AI的問題，是「上下文構建」的問題——CTX-6方法論把AI協作的核心能力從「技術門檻」轉向「表達與框架設計」，這是顧問最應該掌握的能力。
@@ -46,6 +42,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-04-13-用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的]] — Skill封裝就是Context資產庫的具體實踐：把最好的方法論封裝成可複用指令集
-- [[2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解]] — 從「教AI」到「設計工作流」，與CTX-6的Step 6「Update Context」是同一層升級
-- [[2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]] — AI團隊協作的知識架構化，角色分工本身就是一種Context設計
+- [[2026-04-13-用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的|用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的]] — Skill封裝就是Context資產庫的具體實踐：把最好的方法論封裝成可複用指令集
+- [[2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解|我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解]] — 從「教AI」到「設計工作流」，與CTX-6的Step 6「Update Context」是同一層升級
+- [[2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？|gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]] — AI團隊協作的知識架構化，角色分工本身就是一種Context設計
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

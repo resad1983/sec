@@ -7,14 +7,11 @@ keywords: [Hermes Agent, OpenClaw, AI Agent框架, 記憶系統, 閉環學習]
 type: 技術分析
 raw_ref: "[[2026-04-13/一文搞懂 Hermes Agent 与 OpenClaw 选型对比]]"
 project: [~]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > OpenClaw解決「接入廣度」，Hermes解決「越用越聰明」——選型前先釐清：你更需要連接企業平台，還是打造能深度記憶你的私人學徒？
@@ -44,6 +41,10 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化]] — AI架構哲學的背景，幫助理解記憶與工具調用的本質差異
-- [[2026-03-31-為什麼有了MCP後又出現了Skill架構設計哲學比較]] — 從框架設計角度理解Agent記憶系統的演進邏輯
-- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環]] — 從選框架到實作的銜接，Hermes的閉環學習的落地參考
+- [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI架構哲學的背景，幫助理解記憶與工具調用的本質差異
+- [[2026-03-31-為什麼有了MCP後又出現了Skill架構設計哲學比較|為什麼有了MCP後又出現了Skill架構設計哲學比較]] — 從框架設計角度理解Agent記憶系統的演進邏輯
+- [[2026-04-04-在Agent時代如何搭建第一個自動化閉環|在Agent時代如何搭建第一個自動化閉環]] — 從選框架到實作的銜接，Hermes的閉環學習的落地參考
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

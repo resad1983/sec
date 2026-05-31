@@ -1,20 +1,17 @@
 ---
-title: 順應「輕奢化」趨勢，Michael Kors 和 Jimmy Choo 如何調整品牌策略？
-source: https://mp.weixin.qq.com/s/EQ7PEVxkU7OiXsmMNxMtnQ
+title: "順應「輕奢化」趨勢，Michael Kors 和 Jimmy Choo 如何調整品牌策略？"
+source: "https://mp.weixin.qq.com/s/EQ7PEVxkU7OiXsmMNxMtnQ"
 date: 2026-04-08
 tags: [品牌, 商業模式, 市場與需求]
 keywords: [輕奢, 重定價, 向往型消費者, Capri, 品牌調性重塑]
 type: 商業案例
 raw_ref: "[[2026-04-08/顺应轻奢化趋势，Michael Kors 和 Jimmy Choo 如何调整品牌策略？Capri集团CEO最新分享]]"
 project: [勤美誠品]
-principle: ""
-links: 
+wiki_evolved: true
+principle: []
+links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
-direct: []
-deep: []
-serendipity: []
 ---
-
 ## 核心洞察
 
 > 品牌重定價（降價）後反而提升了平均售價（AUR）——正價銷售比折扣促銷更能守住品牌價值，「定價不當、折扣堆積」才是奢侈品牌最大的陷阱。
@@ -39,5 +36,9 @@ serendipity: []
 
 ## 關聯筆記
 
-- [[2026-03-29-亞瑟士從虧損40億到獲利翻6倍減法戰略逆轉勝]] — 同樣是品牌重定位的成功案例，減法策略與Capri的策略異曲同工
-- [[2026-02-10-2025百貨集團版圖大洗牌業績平均成長1%餐飲成救星]] — 輕奢消費行為的宏觀背景
+- [[2026-03-29-亞瑟士從虧損40億到獲利翻6倍減法戰略逆轉勝|亞瑟士從虧損40億到獲利翻6倍減法戰略逆轉勝]] — 同樣是品牌重定位的成功案例，減法策略與Capri的策略異曲同工
+- [[2026-02-10-2025百貨集團版圖大洗牌業績平均成長1%餐飲成救星|2025百貨集團版圖大洗牌業績平均成長1%餐飲成救星]] — 輕奢消費行為的宏觀背景
+
+---
+> [!TIP]
+> 品牌不是自嗨的賣點宣告，而是要在消費決策現場，極致降低用戶的心力成本。

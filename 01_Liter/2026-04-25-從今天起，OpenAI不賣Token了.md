@@ -1,16 +1,17 @@
 ---
+title: "從今天起，OpenAI不賣Token了"
+source: "Clippings"
 date: '2026-04-25'
-title: 從今天起，OpenAI不賣Token了
-source: Clippings
-status: draft
 tags: []
 keywords: []
 type: 其他
-raw_ref: '[[2026-04-25/從今天起，OpenAI不賣Token了]]'
-project: []
+raw_ref: "'[[2026-04-25/從今天起，OpenAI不賣Token了]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
+status: draft
 ---
-
 ﻿---
 title: 一文讀懂GPT-5.5：從今天起，OpenAI「不賣」Token了
 source: https://mp.weixin.qq.com/s/uesnoZmSRS5sLaoPo80G0g
@@ -18,7 +19,7 @@ date: 2026-04-25
 tags: [人工智慧, 科技影響, 平台與生態系, 商業模式]
 keywords: [GPT-5.5, Token經濟, 賣結果, 工作系統, 推理基礎設施]
 type: 技術分析
-raw_ref: "[[2026-04-25/從今天起，OpenAI不賣Token了]]"
+raw_ref: "[[2026-04-25/從今天起，OpenAI不賣Token了|2026-04-25/從今天起，OpenAI不賣Token了]]"
 status: draft
 project: [個人顧問品牌]
 principle: ""
@@ -51,3 +52,7 @@ links:
 - [[2026-04-24-DeepSeek告別孤膽英雄時代|DeepSeek告別「孤膽英雄」時代]] — AI 陣營格局變化，直接影響工具選擇策略
 - [[2026-04-23-中文護城河崩塌GPT Image 2踢翻即夢可靈通義萬象|中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象]] — AI 視覺能力對中文市場的衝擊
 - [[2026-04-19-AI大事件：機器人從「能表演」走向「能干活」|AI大事件：機器人從「能表演」走向「能干活」]] — AI 從展示能力到實際執行工作的整體趨勢
+
+---
+> [!TIP]
+> 在焦慮的時代中，用小內容與真實感降載大腦，是我們對生活主權的溫柔降落。

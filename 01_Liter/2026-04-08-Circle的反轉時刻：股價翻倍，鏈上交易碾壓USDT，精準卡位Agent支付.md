@@ -1,16 +1,17 @@
 ---
-title: Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付
-source: https://mp.weixin.qq.com/s/RjOs9rGYQal999hWc_WhnA
+title: "Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付"
+source: "https://mp.weixin.qq.com/s/RjOs9rGYQal999hWc_WhnA"
 date: '2026-04-08'
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
-keywords: '[]'
+keywords: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 type: 產業報導
-raw_ref: '[[2026-04-08/Circle的反转时刻：股价翻倍，链上交易碾压USDT，精准卡位Agent支付]]'
-project: '[~]'
+raw_ref: "'[[2026-04-08/Circle的反转时刻：股价翻倍，链上交易碾压USDT，精准卡位Agent支付]]'"
+project: [~]
+wiki_evolved: true
+principle: []
 links: 'status: draft'
-status: draft
+status: draft'
 ---
-
 ## 核心洞察
 
 > Circle從投機性增長轉向業績驅動型增長，穩定幣USDC在AI Agent間小額支付中找到新定位——當Agent需要無需人工授權的自主支付時，穩定幣成為最適合的「機器貨幣」。
@@ -31,6 +32,10 @@ status: draft
 
 ## 關聯筆記
 
-- `[[2026-03-27-AI支付的重點不是支付本身]]` — AI支付生態的宏觀分析，與Circle案例高度互補
-- `[[2026-03-29-FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]` — Agent支付在物流場景的實際應用
-- `[[2026-03-25-Web3病了但解藥不是AI]]` — Web3/區塊鏈生態批判視角，提供平衡觀點
+- `[[2026-03-27-AI支付的重點不是支付本身|AI支付的重點不是支付本身]]` — AI支付生態的宏觀分析，與Circle案例高度互補
+- `[[2026-03-29-FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計|FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]` — Agent支付在物流場景的實際應用
+- `[[2026-03-25-Web3病了但解藥不是AI|Web3病了但解藥不是AI]]` — Web3/區塊鏈生態批判視角，提供平衡觀點
+
+---
+> [!TIP]
+> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。

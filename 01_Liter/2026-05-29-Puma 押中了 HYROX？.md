@@ -1,6 +1,6 @@
 ---
-title: Puma 押中了 HYROX？
-source: https://mp.weixin.qq.com/s/byZbSLh-GVvJZ-avlTy0XQ
+title: "Puma 押中了 HYROX？"
+source: "https://mp.weixin.qq.com/s/byZbSLh-GVvJZ-avlTy0XQ"
 date: 2026-05-29
 tags: [品牌, 商業模式, 體驗]
 keywords: [HYROX, 混合健身, Puma, 運動行銷, 社群生態]
@@ -12,7 +12,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 Puma 透過 All in 新興賽事 HYROX 實現與大眾混合健身社群的深度綁定，這是一場避開主流競爭、精準卡位高淨值社群的錯位戰略，將品牌從流量行銷推向「運動習慣的共同發起人」。
 
