@@ -2,7 +2,7 @@
 title: "As more Americans adopt AI tools, fewer say they can trust the results"
 source: "TechCrunch（Rebecca Bellan）"
 date: 2026-03-30
-tags: []
+tags: [人工智慧, 媒體與敘事, 數位系統, 人機互動]
 keywords: [AI信任, 民調, 使用者心理, 品牌信任, AI採用]
 type: 市場研究
 raw_ref: "[[2026-03-31/越來越多美國人使用AI工具信任度卻在下滑]]"

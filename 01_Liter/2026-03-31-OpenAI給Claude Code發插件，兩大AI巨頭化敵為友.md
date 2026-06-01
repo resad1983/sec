@@ -2,7 +2,7 @@
 title: "OpenAI給Claude Code發插件，兩大AI巨頭化敵為友"
 source: "人人都是產品經理"
 date: 2026-03-31
-tags: []
+tags: [人工智慧, 行銷, 商業模式, 產品]
 keywords: [AI編程工具, OpenAI, Claude, 具身智能, 行業動態]
 type: AI行業日報
 raw_ref: "[[2026-03-31/OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]]"

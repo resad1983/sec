@@ -2,7 +2,7 @@
 title: "AI時代內容審核：前Facebook內部人士創立的Moonbounce獲1200萬美元融資"
 source: "TechCrunch"
 date: 2026-04-03
-tags: []
+tags: [商業模式, 人工智慧, 平台與生態系, 組織與策略]
 keywords: [AI內容審核, AI安全, 平台治理, 新創融資, 商業策略]
 type: 科技新創融資分析
 raw_ref: "[[2026-04-03/AI時代內容審核新創Moonbounce獲1200萬美元融資]]"

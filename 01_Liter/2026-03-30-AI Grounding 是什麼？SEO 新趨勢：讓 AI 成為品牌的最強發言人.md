@@ -2,7 +2,7 @@
 title: "AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言人"
 source: "犬哥網站"
 date: 2026-03-16
-tags: []
+tags: [人工智慧, 行銷, 行為決策, 品牌]
 keywords: [AI Grounding, SEO, GEO, AI搜尋, 內容行銷, RAG, 品牌曝光]
 type: SEO教學
 raw_ref: "[[2026-03-30/AI-Grounding是什麼SEO新趨勢讓AI成為品牌最強發言人]]"

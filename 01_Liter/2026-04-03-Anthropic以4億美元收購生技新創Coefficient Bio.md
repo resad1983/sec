@@ -2,7 +2,7 @@
 title: "Anthropic以4億美元收購生技新創Coefficient Bio"
 source: "TechCrunch"
 date: 2026-04-03
-tags: []
+tags: [科技影響, 組織與策略, 人工智慧, 行銷]
 keywords: [Anthropic, 生技AI, 企業策略, 科技趨勢, 產業整合]
 type: 產業動態
 raw_ref: "[[2026-04-03/Anthropic以4億美元收購生技新創Coefficient-Bio]]"

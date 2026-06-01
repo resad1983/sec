@@ -2,7 +2,7 @@
 title: "前迪士尼工程師和Midjourney聯創，要做一款「會呼吸」的DIY仿生機器人"
 source: "36Kr"
 date: 2026-04-07
-tags: []
+tags: [科技影響, 人工智慧, 世代變遷, 市場與需求]
 keywords: [機器人, 情感AI, 消費科技, 創業, 仿生設計]
 type: 產品發佈/科技趨勢
 raw_ref: "[[2026-04-07/前迪士尼工程師和Midjourney聯創要做一款會呼吸的DIY仿生機器人]]"

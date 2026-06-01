@@ -2,7 +2,7 @@
 title: "Former Coatue partner raises huge $65M seed for enterprise AI agent startup"
 source: "TechCrunch（Julie Bort）"
 date: 2026-03-30
-tags: []
+tags: [數位系統, 人工智慧, 平台與生態系, 組織與策略]
 keywords: [AI Agent, 企業AI, 種子輪, Sycamore, VC投資]
 type: 融資動態
 raw_ref: "[[2026-03-31/前Coatue合夥人創立企業AI-Agent新創獲6500萬種子輪]]"

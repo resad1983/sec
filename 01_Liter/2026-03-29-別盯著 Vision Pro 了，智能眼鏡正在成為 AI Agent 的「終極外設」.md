@@ -2,7 +2,7 @@
 title: "別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極外設」"
 source: "https://www.woshipm.com/ai/6365580.html"
 date: 2026-03-29
-tags: []
+tags: [人工智慧, 地方創生, 行為決策, 產品]
 keywords: [AI, Agent, 具身智能, 硬體, 產品設計]
 type: 產品趨勢
 raw_ref: "[[2026-03-29/智能眼鏡正在成為AI-Agent的終極外設]]"

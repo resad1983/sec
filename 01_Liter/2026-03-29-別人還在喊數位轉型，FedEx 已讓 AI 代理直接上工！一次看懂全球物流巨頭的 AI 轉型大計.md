@@ -2,7 +2,7 @@
 title: "別人還在喊數位轉型，FedEx 已讓 AI 代理直接上工！一次看懂全球物流巨頭的 AI 轉型大計"
 source: "https://fc.bnext.com.tw/articles/view/4522"
 date: 2026-03-29
-tags: []
+tags: [組織與策略, 數位系統, 人工智慧, 科技影響]
 keywords: [AI轉型, AI代理, 企業AI, 人才培育, 物流業]
 type: 商業案例
 raw_ref: "[[2026-03-29/FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]"

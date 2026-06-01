@@ -2,7 +2,7 @@
 title: "YC今年最突兀的入選者：為何 OpenAI 與 Google 都在關注這家非營利組織？"
 source: "https://meet.bnext.com.tw/articles/view/53134"
 date: 2026-03-31
-tags: []
+tags: [人工智慧, 媒體與敘事, 產品, 組織與策略]
 keywords: [AGI, AI評測, ARC Prize, 流體智慧, 基準測試]
 type: 新聞報導
 raw_ref: "[[2026-03-31/YC今年最突兀的入選者為何OpenAI與Google都在關注這家非營利組織]]"

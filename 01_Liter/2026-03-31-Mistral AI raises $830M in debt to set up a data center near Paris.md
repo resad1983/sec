@@ -2,7 +2,7 @@
 title: "Mistral AI raises $830M in debt to set up a data center near Paris"
 source: "TechCrunch（Ivan Mehta）"
 date: 2026-03-30
-tags: []
+tags: [人工智慧, 商業模式, 市場與需求, 行為決策]
 keywords: [Mistral AI, 歐洲AI, AI基礎設施, 主權AI, 融資]
 type: 產業動態
 raw_ref: "[[2026-03-31/Mistral-AI籌資8億3千萬建巴黎數據中心]]"

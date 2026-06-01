@@ -2,7 +2,7 @@
 title: "從今天起，OpenAI不賣Token了"
 source: "Clippings"
 date: '2026-04-25'
-tags: []
+tags: [人工智慧, 平台與生態系, 商業模式, 價值與定價]
 keywords: []
 type: 其他
 raw_ref: "'[[2026-04-25/從今天起，OpenAI不賣Token了]]'"

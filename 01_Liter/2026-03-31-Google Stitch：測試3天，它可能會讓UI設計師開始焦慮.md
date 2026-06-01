@@ -2,7 +2,7 @@
 title: "Google Stitch：測試3天，它可能會讓UI設計師開始焦慮"
 source: "人人都是產品經理"
 date: 2026-03-31
-tags: []
+tags: [產品, 數位系統, 人工智慧, 組織與策略]
 keywords: [Google Stitch, UI設計, AI工具, 設計自動化, 產品開發]
 type: 工具評測
 raw_ref: "[[2026-03-31/Google-Stitch讓UI設計師開始焦慮的AI工具]]"

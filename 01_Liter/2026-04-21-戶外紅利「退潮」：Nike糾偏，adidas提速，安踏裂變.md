@@ -2,7 +2,7 @@
 title: "戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變"
 source: "Clippings"
 date: '2026-04-21'
-tags: []
+tags: [市場與需求, 地方創生, 行銷, 商業模式]
 keywords: []
 type: 其他
 raw_ref: "'[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]'"

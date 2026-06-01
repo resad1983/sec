@@ -2,7 +2,7 @@
 title: "當提示詞變成系統工程：Claude案例給AI PM的實戰框架"
 source: "人人都是產品經理"
 date: 2026-04-05
-tags: []
+tags: [產品, 人工智慧, 組織與策略, 品牌]
 keywords: [AI產品設計, 提示詞工程, 系統設計, Claude, 產品管理]
 type: 方法論
 raw_ref: "[[2026-04-05/當提示詞變成系統工程Claude案例給AI-PM實戰框架]]"

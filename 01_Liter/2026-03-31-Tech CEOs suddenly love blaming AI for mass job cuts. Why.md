@@ -2,7 +2,7 @@
 title: "Tech CEOs suddenly love blaming AI for mass job cuts. Why?"
 source: "BBC Technology（Kali Hays）"
 date: 2026-03-30
-tags: []
+tags: [組織與策略, 科技影響, 營運管理, 市場與需求]
 keywords: [AI裁員, Big Tech, 就業危機, 企業敘事, 資本市場]
 type: 深度分析
 raw_ref: "[[2026-03-31/科技CEO把大規模裁員怪給AI背後的真相]]"

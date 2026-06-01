@@ -2,7 +2,7 @@
 title: "Why Chinese tech companies are racing to set up in Hong Kong"
 source: "BBC Technology（Sylvia Chang）"
 date: 2026-03-30
-tags: []
+tags: [人工智慧, 科技影響, 組織與策略, 資料與演算法]
 keywords: [中國科技, 香港, 地緣政治, 海外擴張, 資本市場]
 type: 地緣政治分析
 raw_ref: "[[2026-03-31/中國科技公司搶進香港設立據點的真正原因]]"

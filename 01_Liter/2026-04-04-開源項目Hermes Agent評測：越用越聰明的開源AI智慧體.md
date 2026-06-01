@@ -2,7 +2,7 @@
 title: "開源項目Hermes Agent評測：越用越聰明的開源AI智慧體"
 source: "人人都是產品經理"
 date: 2026-04-04
-tags: []
+tags: [人工智慧, 產品, 組織與策略, 數位系統]
 keywords: [AI Agent, 開源工具, 自動化, 學習閉環, 企業應用]
 type: 工具評測
 raw_ref: "[[2026-04-04/開源Hermes-Agent評測越用越聰明的AI智慧體]]"
