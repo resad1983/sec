@@ -6,7 +6,7 @@ tags: [人工智慧, 商業模式, 平台與生態系, 行銷]
 keywords: [ChatGPT廣告, 商品目錄廣告, 績效廣告, Criteo, AI廣告平台]
 type: 產業報導
 raw_ref: "[[2026-05-12/OpenAI讓在ChatGPT投放購物廣告變得更容易]]"
-project: [~]
+project: [不二製餅]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -36,6 +36,7 @@ status: draft
 2. 當廣告平台從「展示+點擊」演進到「AI推薦+對話」，行銷漏斗的設計邏輯需要如何調整？
 3. 個人顧問品牌是否也需要考慮在AI平台的「可引用性」投資？這是否比廣告投放更根本？
 
+
 ## 關聯筆記
 
 [[2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投|前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]：同樣關注AI原生的行銷增長工具，兩者都在搶奪傳統廣告預算
@@ -44,4 +45,4 @@ status: draft
 
 ---
 > [!TIP]
-> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

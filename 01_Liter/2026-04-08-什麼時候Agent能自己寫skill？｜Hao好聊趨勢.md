@@ -10,7 +10,7 @@ project: [~]
 wiki_evolved: true
 principle: []
 links: 'status: draft'
-status: draft'
+status: draft
 ---
 ## 核心洞察
 
@@ -32,10 +32,11 @@ status: draft'
 2. 如何設計一套「偷偷的顧問skill庫」，將個人know-how結晶化並分發給客戶的AI？
 3. Agent自學skill的能力成熟後，顧問的知識壁壘會如何重構？
 
+
 ## 關聯筆記
 
 [[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] 同為Agent架構設計議題，探討Skills的應用選型
 
 ---
 > [!TIP]
-> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。
+> 地方創生的本質，是讓在地居民重新看見自己生活的價值。

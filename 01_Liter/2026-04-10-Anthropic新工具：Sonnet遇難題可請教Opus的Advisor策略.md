@@ -6,7 +6,7 @@ tags: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 keywords: [Advisor Tool, 多Agent協作, 成本優化, Sonnet, Opus, 模型階層]
 type: 技術分析
 raw_ref: "[[2026-04-10/Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略]]"
-project: [~]
+project: [個人顧問品牌]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -37,6 +37,7 @@ status: draft
 2. **對組織設計**：「執行者主動請教」的文化比「顧問主動介入」更健康——這是心理安全感和主動性的組合，值得在組織設計中刻意培養。
 3. **對系統設計**：多層AI協作的最佳結構是「大多數時候便宜、關鍵時刻精準」——不是均質投入，而是階梯式資源分配。
 
+
 ## 關聯筆記
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI系統架構的演進背景，Advisor Tool是另一種架構選擇
@@ -45,4 +46,4 @@ status: draft
 
 ---
 > [!TIP]
-> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

@@ -6,7 +6,7 @@ tags: [人工智慧, 科技影響, 產品, 商業模式]
 keywords: [AI動態, Claude Code, 具身智能, 大模型, 科技趨勢]
 type: 行業日報摘要
 raw_ref: "[[2026-04-01/AI日報從Claude-Code泄露到宇樹IPO]]"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -37,6 +37,7 @@ status: draft
 2. 具身智能從「技術展示」到「IPO資本化」的速度，是真實商業化還是估值泡沫的前奏？
 3. 大模型能力趨於同質化後，「本地推理效率」（Ollama+MLX）是否會成為新的差異化競爭點？
 
+
 ## 關聯筆記
 
 - [[2026-04-02-Claude-Code-51萬行源碼泄露深度分析|Claude-Code-51萬行源碼泄露深度分析]] — 同一事件的深度技術分析，本文是背景導覽
@@ -44,4 +45,4 @@ status: draft
 
 ---
 > [!TIP]
-> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

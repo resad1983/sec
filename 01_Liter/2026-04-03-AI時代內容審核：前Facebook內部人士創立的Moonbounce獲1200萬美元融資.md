@@ -45,6 +45,7 @@ status: draft
 3. Moonbounce的商業模式是SaaS訂閱還是按流量計費？不同定價模型對其市場滲透策略的影響是什麼？
 4. 若大型平台（Meta、TikTok）內部自建同類工具，Moonbounce的差異化護城河在哪裡？
 
+
 ## 關聯筆記
 
 - [[Anthropic收購生技新創Coefficient-Bio達4億美元|Anthropic收購生技新創Coefficient-Bio達4億美元]] — 同為AI能力向垂直場景深化，但Moonbounce關注的是AI行為控制層而非應用能力層
@@ -52,4 +53,4 @@ status: draft
 
 ---
 > [!TIP]
-> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

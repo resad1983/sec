@@ -6,7 +6,7 @@ tags: [產品, 數位系統, 人工智慧, 組織與策略]
 keywords: [Google Stitch, UI設計, AI工具, 設計自動化, 產品開發]
 type: 工具評測
 raw_ref: "[[2026-03-31/Google-Stitch讓UI設計師開始焦慮的AI工具]]"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -61,6 +61,7 @@ status: draft
 3. 40次實測中，Stitch 最常失敗的場景是什麼？失敗邊界恰好是人類設計師最後的壁壘嗎？
 4. 品牌設計的本質是情感共鳴與系統一致性，這兩點 AI 目前的短板是否也恰好是品牌設計師的護城河？
 
+
 ## 關聯筆記
 
 - [[COZE實戰從零搭建視頻自動化|COZE實戰從零搭建視頻自動化]] — 同樣是 AI 將創意工作自動化，視頻內容與 UI 設計的影響路徑對比
@@ -69,4 +70,4 @@ status: draft
 
 ---
 > [!TIP]
-> 在焦慮的時代中，用小內容與真實感降載大腦，是我們對生活主權的溫柔降落。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

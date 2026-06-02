@@ -6,7 +6,7 @@ tags: [人機互動, 創作方法, 數位系統, 產品]
 keywords: [Prompt Engineering, Claude Skill, 提示詞框架, 跨平台AI]
 type: 產品設計
 raw_ref: "[[2026-04-15/Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞]]"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -30,6 +30,7 @@ status: draft
 - 「框架比對引擎」的概念是否可以應用於顧問工作的需求釐清流程——將客戶需求自動對應到不同的方法論框架（如 SWOT、系統圖、利害關係人地圖）？
 - 當 AI 工具的介面越來越像「說人話就能用」，結構化的 Prompt 框架還有多少長期價值？語言技能的門檻會上升還是下降？
 
+
 ## 關聯筆記
 
 - [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — 同樣關注提示詞系統化，從 PM 角度討論 Prompt 工程化的必要性
@@ -38,4 +39,4 @@ status: draft
 
 ---
 > [!TIP]
-> 死磕最笨拙的常識，勝過追逐最性感的新概念；降低心力負擔，是終極的產品護城河。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

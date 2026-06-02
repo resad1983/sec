@@ -6,11 +6,11 @@ tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [人工智慧, 學習與思考, 數位系統, 產品]
 type: 技術分析
 raw_ref: "'[[2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: 'status: draft'
-status: draft'
+status: draft
 ---
 ## 核心洞察
 
@@ -36,6 +36,7 @@ status: draft'
 2. 地方創生組織通常資源有限，Single Agent + 精良Skills是否比Multi-Agent更務實的起步點？
 3. Skills的「Know How結晶化」概念是否可以應用到顧問知識管理上？如何把顧問方法論沉澱為可復用的「知識Skills」？
 
+
 ## 關聯筆記
 
 - [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent基礎概念，本文的架構選型是其進階延伸
@@ -43,4 +44,4 @@ status: draft'
 
 ---
 > [!TIP]
-> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

@@ -1,0 +1,4789 @@
+# Wiki Format Audit Report
+
+Total files: 35
+Clean: 6
+With issues: 29
+
+## Issues by File
+
+### 世代變遷.md
+- Duplicate entry (2x): 2026-03-20-美國年輕人突大量親中？喝溫水、脫鞋進屋⋯社群掀「Chinamaxxing」風潮
+- Duplicate entry (2x): 2026-03-23-從 BTS、獵人到素還真，麥當勞如何用IP精準收服不同世代的「情緒價值」？
+- Duplicate entry (2x): 2026-03-24-德國超市推「慢結帳」服務，收銀媽媽化身抗老年孤獨橋樑
+- Duplicate entry (2x): 2026-03-26-商務座位大增27％，「坪效之王」豪經艙如何改寫座艙設計圖？
+- Duplicate entry (2x): 2026-03-27-為何老朋友越來越少？原來中年人際關係也需要維繫！留住3種朋友未來不孤獨
+- Duplicate entry (2x): 2026-03-30-5 個關鍵詞，前瞻 2026 品牌行銷趨勢
+- Duplicate entry (2x): 2026-03-30-三行之內必有解藥，一文讀懂當下的年輕人！
+- Duplicate entry (2x): 2026-03-30-人才爆出走潮！歐洲「這強國」41%青年想移居，2成已有具體計畫
+- Duplicate entry (2x): 2026-03-30-報告分享｜《2026 年輕人消費趨勢報告》
+- Duplicate entry (2x): 2026-03-30-比錢櫃、好樂迪跑得快！KTV南霸天鎖定銀髮族，2策略讓冷門時段變熱門、營收衝近
+- Duplicate entry (2x): 2026-03-31-別再跟 Z 世代說「想當年」！哈佛心理學家：停止說教吧，你年輕時也一樣掙扎
+- Duplicate entry (2x): 2026-04-07-前迪士尼工程師和Midjourney聯創，要做一款「會呼吸」的DIY仿生機器人
+- Duplicate entry (2x): 2026-04-08-26歲心梗35歲支架這屆年輕人的心臟正在提前報廢
+- Duplicate entry (2x): 2026-04-08-「干婚」是最具婚缩力的关系
+- Duplicate entry (2x): 2026-04-08-一種看似奇怪的走路方式，現在的年輕人卻愛得要命
+- Duplicate entry (2x): 2026-04-08-中國年輕人止損的最後一招：在通脹地區賺錢，在通縮地區消費
+- Duplicate entry (2x): 2026-04-08-峇里島爆改「體校」，新中產又卷瘋了
+- Duplicate entry (2x): 2026-04-08-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-04-08-抽象力、活人感、AI 人格……小紅書 10 大熱詞裡，藏著品牌機會
+- Duplicate entry (2x): 2026-04-08-流量可以買，年輕人的默契只有B站給得了
+- Duplicate entry (2x): 2026-04-08-為什麼「斷親式婚姻」開始流行？
+- Duplicate entry (2x): 2026-04-08-為什麼越來越多年輕人，選擇開著獵裝車上路？
+- Duplicate entry (2x): 2026-04-08-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-04-10-《看不见的更年期》⑦  人到中年，肌肉比黄金值钱
+- Duplicate entry (2x): 2026-04-10-從「找工作」到「選職涯」：企業吸引力的競爭規則，正在被Z世代改寫
+- Duplicate entry (2x): 2026-04-10-比性缘脑更可怕的东西，出现了
+- Duplicate entry (2x): 2026-04-10-老一輩的經驗，對年輕人是危險的
+- Duplicate entry (2x): 2026-04-12-从日本翻身看：这次谁能扛住高油价？
+- Duplicate entry (2x): 2026-04-13-2026人群白皮書：錨定真實的人
+- Duplicate entry (2x): 2026-04-13-一批單身女性正在「撿漏」買房
+- Duplicate entry (2x): 2026-04-13-裝睡的品牌，正在被年輕人集體拋棄
+- Duplicate entry (2x): 2026-04-15-2026小紅書十大熱詞：讀懂年輕人的情緒與消費密碼
+- Duplicate entry (2x): 2026-04-15-「邪修」攢錢的年輕人，正在偷偷暴富
+- Duplicate entry (2x): 2026-04-15-中年的心事：對人生的日益「失控」
+- Duplicate entry (2x): 2026-04-15-富二代公司正在陰養死士
+- Duplicate entry (2x): 2026-04-15-日本汽車業已逼近生存關鍵點本田近70年來首次淨虧損背後揭日本競爭力流失真相
+- Duplicate entry (2x): 2026-04-15-科技業今年已裁掉8萬人！2026企業續演換血潮，「邊裁邊招」成新常態
+- Duplicate entry (2x): 2026-04-16-「去班味」的年轻人，爆买踏青「硬通货」
+- Duplicate entry (2x): 2026-04-16-中国经济，未来五年会发生怎样的变革？
+- Duplicate entry (2x): 2026-04-17-前额叶，扛下了年轻人所有的错
+- Duplicate entry (2x): 2026-04-18-2026年中國消費市場：前景展望樂觀
+- Duplicate entry (2x): 2026-04-18-「中年返貧三件套」，正在吞掉一代人的存款
+- Duplicate entry (2x): 2026-04-18-為啥卡戴珊之母成了全球年輕人的財神？
+- Duplicate entry (2x): 2026-04-23-不擠人頭、不做攻略、只住酒店：00後的旅行，把上一代人看懵了
+- Duplicate entry (2x): 2026-04-23-今年最強嘴替，我自己搓出來的
+- Duplicate entry (2x): 2026-04-25-一個亞比寫給阿姨的贖罪信
+- Duplicate entry (2x): 2026-04-28-使用AI成硬指標，大廠打工人被AI「困住」
+- Duplicate entry (2x): 2026-04-28-哎，很多工作都即将成为非遗
+- Duplicate entry (2x): 2026-04-28-蹲坑旁边就是床漂在大城市的年轻人住进奇葩房
+- Duplicate entry (2x): 2026-04-30-企業爭奪「好用的人」：2026年，用人邏輯已經變天了
+- Duplicate entry (2x): 2026-04-30-史上最早熟小学生也太乱来了！小嘴抹了蜜，这才是内娱第一吐槽役吧...
+- Duplicate entry (2x): 2026-04-30-在贫穷和上班之间，选择贫穷地上班
+- Duplicate entry (2x): 2026-04-30-工作不再可靠之后，人生该怎么重新排列？
+- Duplicate entry (2x): 2026-04-30-老登消费，能拯救购物中心吗？
+- Duplicate entry (2x): 2026-04-30-陈丹青：为什么我害怕年轻人？
+- Duplicate entry (2x): 2026-04-30-青年发展型城市2.0：从「抢人」到「投资于人」
+- Duplicate entry (2x): 2026-05-04-不打卡的年轻人把旅行当成情绪补剂
+- Duplicate entry (2x): 2026-05-04-为情绪奔赴一座城，Z 世代五一旅行新趋势出炉
+- Duplicate entry (2x): 2026-05-04-大齡男女相親局：愛情比不上門當戶對
+- Duplicate entry (2x): 2026-05-04-对话文淇互相说句你很好
+- Duplicate entry (2x): 2026-05-04-我们必须支持那个起诉上海迪士尼的中国年轻人
+- Duplicate entry (2x): 2026-05-04-我提议女孩们从今天起，互相说句“你很好” ｜对话文淇
+- Duplicate entry (2x): 2026-05-04-支持起诉迪士尼的年轻人
+- Duplicate entry (2x): 2026-05-04-现在的05后去夜店，为什么只玩抓手指啊？
+- Duplicate entry (2x): 2026-05-04-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-05-04-这一届“新老人”：只愿出钱，不愿带孙
+- Duplicate entry (2x): 2026-05-04-这届年轻人，爱上“只租不买”
+- Duplicate entry (2x): 2026-05-08-發現一個奇怪的現象-哪怕家裡條件再差-一旦子女成家-全家精氣神大變
+- Duplicate entry (3x): 2026-05-10-19.9元買小破爛買到上頭00後有自己的兩元店
+- Duplicate entry (2x): 2026-05-11-POLOWALK們正在收割中年男人
+- Duplicate entry (3x): 2026-05-13-買AI會員返貧的打工人
+- Duplicate entry (3x): 2026-05-14-40歲和66歲，一對母子選擇共居：互相滋養、各得其樂
+- Duplicate entry (3x): 2026-05-14-省油省錢的小電驢，正在掏空中女錢包
+- Duplicate entry (3x): 2026-05-14-遊戲裡爆改老破小，是疲憊成年人的新型安慰劑
+- Duplicate entry (2x): 2026-05-15-bro文化是如何養成的
+- Duplicate entry (3x): 2026-05-15-復盤16個GenZ AI創業團隊：百萬級融資密集出現，社交仍是最熱賽道？
+- Duplicate entry (2x): 2026-05-18-一批未成年女孩，正在整頓健身圈
+- Duplicate entry (3x): 2026-05-26-當年拼盡全力「潤」出去的人，開始打包行李回國了
+- Duplicate entry (3x): 2026-05-26-親子關係改變，童裝品牌跟著變？我和巴拉巴拉總經理聊了聊
+- Duplicate entry (3x): 2026-05-27-一個時尚雜誌編輯的十五年：從頭等艙到裁員危機，黃金時代過去了
+- Duplicate entry (3x): 2026-05-27-別把你的價值，全掛在別人的秤桿上
+- Duplicate entry (3x): 2026-05-29-00後婚戀觀的時代底色與成長思考
+- Duplicate entry (3x): 2026-05-29-在印度，像蟑螂一樣的年輕人建立了一個政黨
+- Duplicate entry (3x): 2026-05-29-女性正在用另一種流量「投票」
+- Duplicate entry (2x): 2026-05-29-投資於人為什麼要優先投資於青年？——理論視角、價值意蘊與實踐路徑
+- Duplicate entry (3x): 2026-05-29-數字斷連當代中國青年職場關係建構實踐
+- Duplicate entry (2x): 2026-05-29-數字異化、情感勞動與空間重構：當代青年儀式性就業的實踐形態與三重透視
+- Duplicate entry (3x): 2026-05-29-青年潮玩消費的時間敘事——以Labubu符號消費實踐為例
+- Duplicate entry (3x): 2026-05-30-Pacsun的Z世代共創策略
+- Duplicate entry (3x): 2026-05-30-大衆人群消費：畫像一覽
+- Duplicate entry (2x): 2026-05-30-小紅書徹底爆發了
+- Duplicate entry (3x): 2026-06-01-0xU華語最有影響力Web3學生組織如何從香港長出
+- Duplicate entry (3x): 2026-06-01-中國的第三次紅利是什麼
+- Duplicate entry (3x): 2026-06-01-長三角萬億之城迎來人口拐點
+
+### 人工智慧.md
+- Duplicate entry (2x): 2025-09-17-【報導者觀測站設計幕後】我們如何透過使用者研究，打造一個清晰易用的政治分析工具
+- Duplicate entry (2x): 2026-02-24-〈全台圓環體檢〉數據幕後：兩塊鳳梨酥＋機器學習演算法，如何幫我們從219萬筆交
+- Duplicate entry (2x): 2026-03-20-人人都能寫程式的時代，PM才是新時代最強職位？
+- Duplicate entry (2x): 2026-03-24-數位韌性，是對病患最深的承諾：馬偕醫院攜手微軟，從一場資安考驗中，淬煉出台灣醫
+- Duplicate entry (2x): 2026-03-25-別讓缺工斷了出貨鏈！中小企業如何靠 Lalamove 打造更有彈性的「雙軌物流
+- Duplicate entry (2x): 2026-03-27-AI 支付的重點 不是支付本身
+- Duplicate entry (2x): 2026-03-27-AI 時代正在兩極割裂：富人越富 窮人越窮
+- Duplicate entry (3x): 2026-03-27-Afresh 將 AI 從生鮮擴展至全店管理
+- Duplicate entry (2x): 2026-03-27-林俊暘離職阿里首次發文：智能體時代正在到來
+- Duplicate entry (2x): 2026-03-27-美國 AI 新政：告別「50 個實驗室」時代 華盛頓要開一扇新寬門
+- Duplicate entry (2x): 2026-03-27-這家公司全用 AI 做內容 讀者跑光了
+- Duplicate entry (2x): 2026-03-29-AI 提效喊了這麼久，為什麼我反而越干越累？
+- Duplicate entry (2x): 2026-03-29-AI 焦慮，天塌了的故事
+- Duplicate entry (2x): 2026-03-29-Claude 官方公布 85 個真實使用情境，涵蓋職場專業、行銷等 12 類別
+- Duplicate entry (2x): 2026-03-29-OpenAI 關閉 Sora 的真正原因
+- Duplicate entry (2x): 2026-03-29-Sora 關閉：AI 影片產業的現實考驗時刻
+- Duplicate entry (2x): 2026-03-29-一條創始人徐滬生：做個人IP應該如何找選題？
+- Duplicate entry (2x): 2026-03-29-你用 AI 寫的那篇文章，你還信嗎？
+- Duplicate entry (2x): 2026-03-29-併購潮復甦！2025年全球併購總值達4.7兆美元，台灣企業如何贏在新賽局？
+- Duplicate entry (2x): 2026-03-29-別人還在喊數位轉型，FedEx 已讓 AI 代理直接上工！一次看懂全球物流巨頭
+- Duplicate entry (2x): 2026-03-29-別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極
+- Duplicate entry (2x): 2026-03-29-害怕被識破能力不足？Google前主管勸你「無恥」一點，將冒牌者症候群轉為競爭
+- Duplicate entry (2x): 2026-03-29-工作流、Agent、智能體，究竟都是個啥？
+- Duplicate entry (2x): 2026-03-29-情感語錄集
+- Duplicate entry (2x): 2026-03-29-科技 CEO 突然愛把裁員怪給 AI，背後真正原因是什麼？
+- Duplicate entry (2x): 2026-03-29-複雜資訊秒變清晰！用「8種視覺化語言」，讓主管與客戶秒懂你的圖像提案技巧
+- Duplicate entry (2x): 2026-03-30-2026 是 Multi-Agent 元年 計算機歷史博物館
+- Duplicate entry (2x): 2026-03-30-2026 行銷革命：知識庫+智能體=品牌增長新引擎
+- Duplicate entry (2x): 2026-03-30-2026企業生存戰：別讓AI成了你公司的「平庸加速器」
+- Duplicate entry (2x): 2026-03-30-2028 AI 屠宰場：萬字長文引發華爾街地震
+- Duplicate entry (2x): 2026-03-30-5 個關鍵詞，前瞻 2026 品牌行銷趨勢
+- Duplicate entry (2x): 2026-03-30-AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言
+- Duplicate entry (2x): 2026-03-30-AI 會取代管顧嗎？從 BCG 顧問的 AI 工作流，看懂為何仍需要「人」
+- Duplicate entry (2x): 2026-03-30-一被駭至少要1600萬元！台灣為何這麼容易變肥羊？談判專家揭企業不敢公開的勒索
+- Duplicate entry (2x): 2026-03-30-今年，哪些行業能過上好日子？
+- Duplicate entry (2x): 2026-03-30-吵完架別讓AI當「我是混蛋嗎？」裁判：史丹佛實測 11 款主流模型，比人類更會
+- Duplicate entry (2x): 2026-03-30-報告分享｜《2026 年輕人消費趨勢報告》
+- Duplicate entry (2x): 2026-03-30-從會員數據到 AI 行銷：Vpon 打造零售業 AI-Ready 數據中台，提
+- Duplicate entry (2x): 2026-03-30-復工第一週，15 位資深從業者 2026 爆款內容指南
+- Duplicate entry (2x): 2026-03-30-愈沒效率愈有價值？到 2034 年仍搶手的人才，擅長這 5 件「AI 做不到」
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-31-8萬人調查揭露：AI越快、人越迷茫！3步驟設定停損點，讓工具為幸福服務
+- Duplicate entry (2x): 2026-03-31-更多美國人使用AI工具卻越來越不信任AI的結果
+- Duplicate entry (2x): 2026-03-31-COZE實戰：從零搭建人物生平視頻自動化生成流程
+- Duplicate entry (2x): 2026-03-31-前Coatue合夥人為企業AI新創募得6500萬美元種子輪
+- Duplicate entry (2x): 2026-03-31-Google Stitch：測試3天，它可能會讓UI設計師開始焦慮
+- Duplicate entry (2x): 2026-03-31-Mistral AI募資8.3億美元在巴黎近郊建立資料中心
+- Duplicate entry (2x): 2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友
+- Duplicate entry (2x): 2026-03-31-YC今年最突兀的入選者：為何 OpenAI 與 Google 都在關注這家非營
+- Duplicate entry (2x): 2026-03-31-一個人的營銷部門：40個AI Agent如何顛覆工作方式
+- Duplicate entry (2x): 2026-03-31-周杰倫和李榮浩，輸給了同一個東西
+- Duplicate entry (2x): 2026-03-31-四家機器人廠商，一起投了一家數據公司
+- Duplicate entry (2x): 2026-03-31-壁仞科技營收三年增16倍，國產算力芯片業績兌現期
+- Duplicate entry (2x): 2026-03-31-小紅書2025年經營趨勢回顧：心智占領與小生意時代
+- Duplicate entry (2x): 2026-03-31-為什麼有了MCP後，又出現了Skill？
+- Duplicate entry (2x): 2026-03-31-為什麼用了那麼多 AI，你的工作還是一團亂？
+- Duplicate entry (2x): 2026-03-31-為何中國科技公司搶著在香港設立據點
+- Duplicate entry (2x): 2026-03-31-營收三年增16倍，壁仞科技迎來業績兌現期
+- Duplicate entry (2x): 2026-03-31-白嫖迪麗熱巴拍土味短劇這家A股公司把自己作退市了
+- Duplicate entry (2x): 2026-03-31-追覓生態鏈AI儲能融入智慧家居生態
+- Duplicate entry (2x): 2026-03-31-都有AI了，數據分析該干什麼？這是最好的回答！
+- Duplicate entry (2x): 2026-03-31-黑石也虧了
+- Duplicate entry (2x): 2026-04-01-AI日報：從Claude Code泄露到宇樹IPO，AI行業的冰與火之歌
+- Duplicate entry (2x): 2026-04-01-供應鏈效率成零售業決勝點！AI 導購 0.1 秒成交，智慧倉儲如何解決出貨慢痛
+- Duplicate entry (2x): 2026-04-01-原型做出來了，但你還是不知道自己在做什麼
+- Duplicate entry (2x): 2026-04-01-小牛電動轉型AI：all in or nothing
+- Duplicate entry (2x): 2026-04-02-2026互聯網變天了：AI不再是互聯網的工具，AI是互聯網新底座
+- Duplicate entry (2x): 2026-04-02-AI時代，真正危險的可能不是模型失控，而是模型太聽話
+- Duplicate entry (2x): 2026-04-02-Claude Code 51萬行源碼泄露，我扒出來了一些好東西
+- Duplicate entry (2x): 2026-04-02-我拆了5個設計素材平台的小紅書賬號，發現兩種完全不同的官網引流邏輯
+- Duplicate entry (2x): 2026-04-02-流量導向的內容無法完成獲客閉環
+- Duplicate entry (2x): 2026-04-03-AI時代內容審核：前Facebook內部人士創立的Moonbounce獲120
+- Duplicate entry (2x): 2026-04-03-Anthropic以4億美元收購生技新創Coefficient Bio
+- Duplicate entry (2x): 2026-04-03-Anthropic收購生技新創Coefficient Bio，交易金額達4億美
+- Duplicate entry (2x): 2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資
+- Duplicate entry (2x): 2026-04-03-神州數碼2025年營收超1400億AI業務增長近五成
+- Duplicate entry (2x): 2026-04-03-黑燈實驗室戴納科技獲近億元融資
+- Duplicate entry (2x): 2026-04-04-在「人人都在聊Agent」的時代，如何搭建你的第一個自動化閉環？
+- Duplicate entry (2x): 2026-04-04-開源項目Hermes Agent評測：越用越聰明的開源AI智慧體
+- Duplicate entry (2x): 2026-04-05-AI產品的RAG系統，到底該怎麼做業務驗收？
+- Duplicate entry (2x): 2026-04-05-「上線產品就能找到工作」這個謊言害了多少轉行的人
+- Duplicate entry (2x): 2026-04-05-一篇講透小紅書閉環電商的5種常見策略打法
+- Duplicate entry (2x): 2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架
+- Duplicate entry (2x): 2026-04-06-OpenAI 校友秘密籌建潛在 1 億美元規模的新基金
+- Duplicate entry (2x): 2026-04-06-Picsart 推出創作者變現計劃，讓設計師從作品中獲利
+- Duplicate entry (2x): 2026-04-06-衆籌300萬美元的Agent盒子，想徹底解決你的算力焦慮
+- Duplicate entry (2x): 2026-04-07-AI淘金熱讓私人財富轉向更早期、更高風險的押注
+- Duplicate entry (2x): 2026-04-07-前迪士尼工程師和Midjourney聯創，要做一款「會呼吸」的DIY仿生機器人
+- Duplicate entry (2x): 2026-04-07-我如何用 Cursor+AI，3天搞懂一個複雜的AI財務系統
+- Duplicate entry (2x): 2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相
+- Duplicate entry (2x): 2026-04-07-紅熊AI完成2.1億元A輪融資，切入物理AI賽道
+- Duplicate entry (2x): 2026-04-07-過去十多年，我們對企業新媒體的認知錯了，錯得離譜
+- Duplicate entry (2x): 2026-04-08-2026 AI產品經理能力自測：10分鐘定位你的短板和進階路徑
+- Duplicate entry (2x): 2026-04-08-AI Agent 如何重新定義行銷？我現在知道：多花一塊錢能帶來多少營收增長！
+- Duplicate entry (2x): 2026-04-08-AI 不能替代人類，這個世界不能沒有手搓文案
+- Duplicate entry (2x): 2026-04-08-AI公司員工，正在批量成為千萬富翁
+- Duplicate entry (2x): 2026-04-08-AI改不了這12條規律
+- Duplicate entry (2x): 2026-04-08-AI逼出了教育的真相，美國大學開始復興一種古老傳統
+- Duplicate entry (2x): 2026-04-08-Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付
+- Duplicate entry (2x): 2026-04-08-GEO已死，AEO是答案
+- Duplicate entry (2x): 2026-04-08-Kimi估值涨至180亿美元，3个月翻4倍；腾讯QClaw开启全量公测；霸王茶
+- Duplicate entry (2x): 2026-04-08-NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓
+- Duplicate entry (2x): 2026-04-08-《2026年第一季度微短劇報告》
+- Duplicate entry (2x): 2026-04-08-《春天，即興出演》AIGC視頻上線｜把每一場臨時起意，變成品牌生長的契機
+- Duplicate entry (2x): 2026-04-08-一手評測｜Pomelli 開放台灣使用！怎麼用它做行銷創意素材？「產品攝影棚」
+- Duplicate entry (2x): 2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型
+- Duplicate entry (2x): 2026-04-08-一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？
+- Duplicate entry (2x): 2026-04-08-三天養蝦十倍增長，剛出爐的養蝦經驗｜計算機歷史博物館
+- Duplicate entry (2x): 2026-04-08-不好意思，機器人無法僅靠視覺理解世界
+- Duplicate entry (2x): 2026-04-08-什麼時候Agent能自己寫skill？｜Hao好聊趨勢
+- Duplicate entry (2x): 2026-04-08-你的知識庫已經死了——卡帕西的「活體維基」，才是AI時代真正的第二大腦
+- Duplicate entry (2x): 2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場
+- Duplicate entry (2x): 2026-04-08-別搞聊天框了！AI落地的生死劫，全藏在毫無性感的「規則引擎」裡
+- Duplicate entry (2x): 2026-04-08-別盯著老業務扣成本了！用AI做新事的成本，遠低於做老事
+- Duplicate entry (2x): 2026-04-08-劉潤：2026年，中小企業有個大機會
+- Duplicate entry (2x): 2026-04-08-小紅書為何逆勢對 AI 內容「痛下殺手」？
+- Duplicate entry (2x): 2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解
+- Duplicate entry (2x): 2026-04-08-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長｜一
+- Duplicate entry (2x): 2026-04-08-業內首份「時尚AI投資報告」by「華麗智庫」正式發布！涵蓋近百創業公司和50+
+- Duplicate entry (2x): 2026-04-08-永遠對AI保持懷疑：警惕算法時代的認知外包
+- Duplicate entry (2x): 2026-04-08-為什麼拼多多看起來沒有「AI焦慮」
+- Duplicate entry (2x): 2026-04-08-當龍蝦代替我們去工作和消費，傳統經濟學法則還會成立嗎？
+- Duplicate entry (2x): 2026-04-08-第一批裝龍蝦的人，已經「棄養」了
+- Duplicate entry (2x): 2026-04-08-美團的真正威脅藏在暗處
+- Duplicate entry (2x): 2026-04-08-防挖角，蘋果給設計師發高額獎金／曝Claude最強新模型代號「卡皮巴拉」／小鵬
+- Duplicate entry (2x): 2026-04-08-阿里、字節，死磕一個昔日「全軍覆沒」的賽道
+- Duplicate entry (2x): 2026-04-08-阿里電商 AI 新動向：圍繞 Token 重構電商
+- Duplicate entry (2x): 2026-04-08-阿里預計2029財年即時零售業務板塊將實現整體盈利；椰樹集團要買50台機器人剝
+- Duplicate entry (2x): 2026-04-08-養龍蝦有風險，還有靠譜的AI員工嗎
+- Duplicate entry (2x): 2026-04-08-黃仁勳最新演講（GTC 2026）
+- Duplicate entry (2x): 2026-04-09-Canva加碼AI與行銷自動化：收購Simtheory與Ortto
+- Duplicate entry (2x): 2026-04-09-GEO：AI搜索時代的內容「排名」新規
+- Duplicate entry (2x): 2026-04-09-Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？
+- Duplicate entry (2x): 2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？
+- Duplicate entry (2x): 2026-04-09-同事能蒸餾，前任能蒸餾，現在連貓都能賽博永生了
+- Duplicate entry (2x): 2026-04-09-對話美團GN06劉炯：美團為什麼做了一款AI瀏覽器？
+- Duplicate entry (2x): 2026-04-09-這兩天，我突然意識到AI於我而言最大的BUG是什麼？
+- Duplicate entry (2x): 2026-04-10-2026年GEO优化入门手册：AI搜索时代你的内容为什么没被引用
+- Duplicate entry (2x): 2026-04-10-AI 這麼熱，行銷公司能做些什麼
+- Duplicate entry (2x): 2026-04-10-AI越強，PM越不夠用！下一個最搶手的人才「產品工程師」是什麼？
+- Duplicate entry (2x): 2026-04-10-Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略
+- Duplicate entry (2x): 2026-04-10-Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力
+- Duplicate entry (2x): 2026-04-10-Guardrails：AI生成內容的安全紅線制定者
+- Duplicate entry (2x): 2026-04-10-Vibe Coding三天搭族譜APP：全端產品實戰復盤
+- Duplicate entry (2x): 2026-04-10-《AI創新百強》百年福壽靠AI「精準秤重」戰勝誤差，準確率95%、救回百萬損失
+- Duplicate entry (2x): 2026-04-10-《看不见的更年期》⑦  人到中年，肌肉比黄金值钱
+- Duplicate entry (2x): 2026-04-10-「全員AI」是AI轉型失敗的開始？華頓商學院教授：2種協作模式，才能真正釋放生
+- Duplicate entry (2x): 2026-04-10-亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓
+- Duplicate entry (2x): 2026-04-10-亦庄如何成為AI頂流：225平方公里的AI實驗場
+- Duplicate entry (2x): 2026-04-10-出生率降了，營收反增30億，母嬰零售巨頭孩子王來講AI落地了
+- Duplicate entry (2x): 2026-04-10-吳軍：AI時代，普通人該有的10個清醒認知
+- Duplicate entry (2x): 2026-04-10-品星雲AI能力全面進階，讓品牌行銷回歸本質
+- Duplicate entry (2x): 2026-04-10-歐萊雅蘭珍珍：AI時代做好內容的「複利神器」
+- Duplicate entry (2x): 2026-04-10-當 AI 似乎比人更貼心，會怎樣改變你的人際關係
+- Duplicate entry (2x): 2026-04-10-當PM習慣讓AI替他思考，產品判斷力會萎縮嗎？
+- Duplicate entry (2x): 2026-04-10-美團為何做AI瀏覽器：GN06負責人劉炯訪談
+- Duplicate entry (2x): 2026-04-10-美妝香水，「躺贏」模式已經過時！科蒂中國高端美妝總經理論壇分享
+- Duplicate entry (2x): 2026-04-10-讓AI看懂世界：Chance AI的視覺智能體革命
+- Duplicate entry (2x): 2026-04-10-離職員工被訓練成AI，繼續工作！網友：被「煉化」了
+- Duplicate entry (2x): 2026-04-10-零代碼上線日式AI酒館：AI產品經理實戰四天全紀錄
+- Duplicate entry (2x): 2026-04-10-麥肯錫重磅報告：2026年18大未來產業「競技場」
+- Duplicate entry (2x): 2026-04-11-Anthropic收入憑什麼反超OpenAI，終於有人把這事說清楚了
+- Duplicate entry (2x): 2026-04-11-手把手教你用Claude Code搭建AI行銷團隊：五個Agent、十二項技能
+- Duplicate entry (2x): 2026-04-11-模型不是壁壘，Harness 也不是
+- Duplicate entry (2x): 2026-04-11-給DeepSeek的最後一封催更信
+- Duplicate entry (2x): 2026-04-11-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-2026年AI產品商業化核心邏輯從功能到規模營收的三個卡點
+- Duplicate entry (2x): 2026-04-12-公司如何擁抱 AI 時代，這是一道組織題
+- Duplicate entry (2x): 2026-04-12-從聽不懂到完全信任我的Codex深度產品體驗
+- Duplicate entry (2x): 2026-04-12-當瀏覽器開始替你看網頁AI瀏覽器正在拆掉它腳下的網
+- Duplicate entry (2x): 2026-04-12-還沒學會OpenClaw更猛的Hermes-Agent來了
+- Duplicate entry (2x): 2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-零代碼一天我用Vibe Coding做了一個網站
+- Duplicate entry (2x): 2026-04-13-2026五大AI經營趨勢：洞察品牌的長效增長路徑｜貝恩鄧旻演講精要
+- Duplicate entry (2x): 2026-04-13-AI 會帶來大規模失業嗎？
+- Duplicate entry (2x): 2026-04-13-AI產品的「生命線」——數據採集、標注、清洗的產品化設計
+- Duplicate entry (2x): 2026-04-13-一文搞懂 Hermes Agent 與 OpenClaw 選型對比
+- Duplicate entry (2x): 2026-04-13-估值2.5億，成立4個月，潮玩中的愛馬仕MOMOTOY獲數千萬元融資
+- Duplicate entry (2x): 2026-04-13-前大疆工程師創業陪伴機器人，李澤湘連投三輪，產品即將登陸眾籌
+- Duplicate entry (2x): 2026-04-13-創業老炮與00後，誰是下一代「一人公司」標準樣板
+- Duplicate entry (2x): 2026-04-13-榮耀做了個「養蝦本」，預制5大主蝦，要重新定義AI PC
+- Duplicate entry (2x): 2026-04-13-用小龍蝦做競品分析報告：從2天到20分鐘，我是怎麼做到的
+- Duplicate entry (2x): 2026-04-13-萬字拆解小雲雀產品分析：AI創作工具的破局與進化
+- Duplicate entry (2x): 2026-04-13-阿里HappyHorse，一場關於「Token經濟」的陽謀
+- Duplicate entry (2x): 2026-04-15-1.2億觀眾，見證AI漫劇從狂熱到崩塌
+- Duplicate entry (2x): 2026-04-15-7個數字顯示AI職場力大提升！這18般創意變現工具，你用過嗎？讓人「好用一直用
+- Duplicate entry (2x): 2026-04-15-AI 時代的老闆糊弄學
+- Duplicate entry (2x): 2026-04-15-AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTec
+- Duplicate entry (2x): 2026-04-15-BCG頂尖顧問的AI私房用法：「來挑戰我」！這2種角色，讓思考大幅升級
+- Duplicate entry (2x): 2026-04-15-B站上最會用AI的創作者，關於AI的25條思考
+- Duplicate entry (2x): 2026-04-15-Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃
+- Duplicate entry (2x): 2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的
+- Duplicate entry (2x): 2026-04-15-Google簡報AI功能教學｜3步驟生成可編輯投影片，標題內文都能直接修改
+- Duplicate entry (2x): 2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長
+- Duplicate entry (2x): 2026-04-15-OKR死於2026
+- Duplicate entry (2x): 2026-04-15-OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守
+- Duplicate entry (2x): 2026-04-15-Owkin是誰？聯邦學習是什麼？一文看懂法國AI獨角獸如何加速新藥研發、拚解鎖
+- Duplicate entry (2x): 2026-04-15-不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.
+- Duplicate entry (2x): 2026-04-15-從創意到運營，AI正從5方面「吃掉」廣告業
+- Duplicate entry (2x): 2026-04-15-沒補員工，營收竟年增2成！意藍押對哪3種特性模型，從企業搜尋引擎搖身「AI輿情
+- Duplicate entry (2x): 2026-04-15-科技業今年已裁掉8萬人！2026企業續演換血潮，「邊裁邊招」成新常態
+- Duplicate entry (2x): 2026-04-15-被蒸餾的人
+- Duplicate entry (2x): 2026-04-16-10億紅包開打：國內大模型進入「拼多多式」戰爭
+- Duplicate entry (2x): 2026-04-16-7個數字顯示AI職場力大提升！這18個創意變現工具，你用過嗎？
+- Duplicate entry (2x): 2026-04-16-AI創作時代，真正的核心競爭力：會用技術，更懂審美
+- Duplicate entry (2x): 2026-04-16-ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫
+- Duplicate entry (2x): 2026-04-16-Factory 15億估值：企業級AI工程代理的崛起
+- Duplicate entry (2x): 2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代
+- Duplicate entry (2x): 2026-04-16-Hermes 憑什麼兩個月接棒 OpenClaw？
+- Duplicate entry (2x): 2026-04-16-InsightFinder獲1500萬美元融資幫企業診斷AI代理故障
+- Duplicate entry (2x): 2026-04-16-Physical Intelligence新機器人大腦能組合自學未訓練任務
+- Duplicate entry (2x): 2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生
+- Duplicate entry (2x): 2026-04-16-「蒸餾」這個詞，純粹就是在製造恐慌
+- Duplicate entry (2x): 2026-04-16-一文帶你看懂，火爆全網的Harness Engineering到底是個啥
+- Duplicate entry (2x): 2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法
+- Duplicate entry (2x): 2026-04-16-去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事
+- Duplicate entry (2x): 2026-04-16-批量刪文封號？微信重拳出手打擊純AI寫作！
+- Duplicate entry (2x): 2026-04-16-攀峰智能完成天使輪融資：打造電商Agent OS新賽道
+- Duplicate entry (2x): 2026-04-16-氪星晚報｜特斯拉上海生產人形機器人台積電AI供應吃緊
+- Duplicate entry (2x): 2026-04-16-產品人如何用AI打破自己的能力天花板：今天就能執行的4個方法
+- Duplicate entry (2x): 2026-04-16-用好Agent最重要的技巧不是Skills，是這四個字。
+- Duplicate entry (2x): 2026-04-16-矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？
+- Duplicate entry (2x): 2026-04-16-讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？
+- Duplicate entry (2x): 2026-04-16-鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構
+- Duplicate entry (2x): 2026-04-17-AI入侵社交：我的相亲对象，已经不说「人话」了
+- Duplicate entry (2x): 2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻
+- Duplicate entry (2x): 2026-04-17-AI教育產品Gizmo三年用戶40倍融資2200萬美元
+- Duplicate entry (2x): 2026-04-17-AI時代，好的問題勝過全部
+- Duplicate entry (2x): 2026-04-17-AI訓練AI是技術飛躍還是潘多拉魔盒
+- Duplicate entry (2x): 2026-04-17-Loop獲9500萬美元：用AI預測供應鏈中斷
+- Duplicate entry (2x): 2026-04-17-Netflix推出垂直影音並以AI強化內容推薦
+- Duplicate entry (2x): 2026-04-17-Token 為王的資安新時代 AI 算力大開，防禦者如何用「鈔能力」取勝？
+- Duplicate entry (2x): 2026-04-17-三人團隊AI Agent廣告平台20個月ARR破億
+- Duplicate entry (2x): 2026-04-17-享刻智能深耕餐飲場景：具身智能的差異化落地路徑
+- Duplicate entry (2x): 2026-04-17-享刻智能：不追人形機器人，深耕餐飲場景做具身智能落地派
+- Duplicate entry (2x): 2026-04-17-如何用 Skills 高效完成產品經理的工作？
+- Duplicate entry (2x): 2026-04-17-微軟新工作未來報告：六條反常識發現，承認自己用AI反而不被信任
+- Duplicate entry (2x): 2026-04-17-未来的公司将变成一种新物种一半媒体一半机器
+- Duplicate entry (2x): 2026-04-18-2026年之後，真的會出現大規模的失業嗎？
+- Duplicate entry (2x): 2026-04-18-AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%
+- Duplicate entry (2x): 2026-04-18-AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面
+- Duplicate entry (2x): 2026-04-18-Vibe Coding：AI輔助編程的革命與責任邊界
+- Duplicate entry (2x): 2026-04-18-七家值得關注的AI初創公司：從安全服務到國防AI再到芯片崛起
+- Duplicate entry (2x): 2026-04-18-人是第一要素，我認為這還遠遠不夠
+- Duplicate entry (2x): 2026-04-18-公司中層可能即將消失
+- Duplicate entry (2x): 2026-04-18-如何在AI時代，找回你被埋沒的創造力
+- Duplicate entry (2x): 2026-04-18-從電力到智力：拆解AI重塑商業效率
+- Duplicate entry (2x): 2026-04-18-智元機器人：從硬體製造到AI大模型平台開放生態
+- Duplicate entry (2x): 2026-04-18-智元機器人：要做AI大模型平台和開放生態
+- Duplicate entry (2x): 2026-04-18-阿里秒悟：把編程門檻從語法轉移到表達能力
+- Duplicate entry (2x): 2026-04-19-AI 產品定價，那套熟悉的方法，正在悄悄出賣你
+- Duplicate entry (2x): 2026-04-19-AI大事件：機器人從「能表演」走向「能干活」；Cursor 500億估值融資、
+- Duplicate entry (2x): 2026-04-19-AI新創的十二個月窗口期
+- Duplicate entry (2x): 2026-04-19-▍下一輪加密敘事｜20260418
+- Duplicate entry (2x): 2026-04-19-又一所大学突然倒闭，乔布斯30年前的预言成真了
+- Duplicate entry (2x): 2026-04-19-当一个边缘人对AI感到焦虑（下篇）
+- Duplicate entry (2x): 2026-04-20-Agent越像真的越危險
+- Duplicate entry (2x): 2026-04-20-做AI選題工具三個月踩了這些坑
+- Duplicate entry (2x): 2026-04-20-沉睡29年的402狀態碼正在給AI裝上神經
+- Duplicate entry (2x): 2026-04-20-釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑
+- Duplicate entry (2x): 2026-04-20-首創玩偶加主機模式多智能體兒童AI玩具品牌獲數千萬元融資
+- Duplicate entry (2x): 2026-04-21-Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場
+- Duplicate entry (2x): 2026-04-21-人類正在走下牌桌
+- Duplicate entry (2x): 2026-04-21-凯文·凯利最新预测AI时代的22个确定性
+- Duplicate entry (2x): 2026-04-21-在Agent时代，什么才是真正的护城河？
+- Duplicate entry (2x): 2026-04-21-奥雅股份李方悦：空间赋能到IP创造，奥雅的AI驱动城市焕新之路
+- Duplicate entry (2x): 2026-04-21-用不起Token的我，成了AI時代的下沉市場人群
+- Duplicate entry (2x): 2026-04-21-電影，是一門必然要衰落的藝術
+- Duplicate entry (2x): 2026-04-22-OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了
+- Duplicate entry (2x): 2026-04-23-AI Agent評估體系到底該怎麼做
+- Duplicate entry (2x): 2026-04-23-一個對話框、一隻青蛙，Ribbi如何一週吸引4萬用戶
+- Duplicate entry (2x): 2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象
+- Duplicate entry (2x): 2026-04-23-今年最強嘴替，我自己搓出來的
+- Duplicate entry (2x): 2026-04-23-全国首个线上超市AI智能体，超喵凭什么帮商家翻倍增长？
+- Duplicate entry (2x): 2026-04-23-如何從AI工具中挖掘商機
+- Duplicate entry (2x): 2026-04-23-比中籤還難的訂酒店，跑馬人在華住會破局了？
+- Duplicate entry (2x): 2026-04-23-融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板
+- Duplicate entry (2x): 2026-04-24-AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰
+- Duplicate entry (2x): 2026-04-24-AI時代最大的紅利，藏在那些「老登」看不懂的地方
+- Duplicate entry (2x): 2026-04-24-AI時代，品牌的分水嶺是「內容品牌化」
+- Duplicate entry (2x): 2026-04-24-DeepSeek V4終於發布，但它留下的5道主觀題還沒有答案
+- Duplicate entry (2x): 2026-04-24-DeepSeek告別「孤膽英雄」時代
+- Duplicate entry (2x): 2026-04-24-Image2的10種顛覆性玩法，越用越不對勁
+- Duplicate entry (2x): 2026-04-24-一人公司，如何活過「一人」？
+- Duplicate entry (2x): 2026-04-24-實測 GPT-Image-2：6 個能落地的提效場景
+- Duplicate entry (2x): 2026-04-24-融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photos
+- Duplicate entry (2x): 2026-04-25-7家北京科技公司殺入，AI賣鏟人為何下場做漫劇
+- Duplicate entry (2x): 2026-04-25-AI視頻，這一次中國真贏了
+- Duplicate entry (2x): 2026-04-25-Cohere為何合併Aleph Alpha，打造跨大西洋AI主權強權
+- Duplicate entry (2x): 2026-04-25-GPT-Image-2的護城河不是「好看」，是「聽話」
+- Duplicate entry (2x): 2026-04-25-上線三月攬下400萬下載，這支北京團隊踩中海外AI社交缺口
+- Duplicate entry (2x): 2026-04-25-從今天起，OpenAI不賣Token了
+- Duplicate entry (2x): 2026-04-26-AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI
+- Duplicate entry (2x): 2026-04-26-歐萊雅BRANDSTORM 2026中國總決賽落幕，AI成美妝創新核心議題
+- Duplicate entry (2x): 2026-04-27-10年了，李彥宏還沒有成為AI開發者的King
+- Duplicate entry (2x): 2026-04-27-AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Opencla
+- Duplicate entry (2x): 2026-04-27-GPT image-2爆火後，設計師的天塌了嗎？
+- Duplicate entry (2x): 2026-04-27-兩年內中國將出現可用的家庭機器人——破殼機器人許華哲
+- Duplicate entry (2x): 2026-04-27-最強大模型，保質期越來越短了
+- Duplicate entry (2x): 2026-04-28-AI時代的產品經理應該是怎樣的？
+- Duplicate entry (2x): 2026-04-28-AI時代，我們更應該認識到「工具之外，事情本身」
+- Duplicate entry (3x): 2026-04-28-Manus20億美元交易熔斷—中國劃出AI主權紅線
+- Duplicate entry (2x): 2026-04-28-Snapchat推出AI驅動的對話式廣告功能
+- Duplicate entry (2x): 2026-04-28-人人都能用AI做設計，但做不出好看的東西，這才是設計師的機會
+- Duplicate entry (2x): 2026-04-28-使用AI成硬指標，大廠打工人被AI「困住」
+- Duplicate entry (2x): 2026-04-28-如何一個人驗證一個產品方向？
+- Duplicate entry (2x): 2026-04-28-孩子王CTO亲授：我们只用AI做脏活累活，就狂赚30亿
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理主張上線，保護的是誰？
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理的本質：不是「禁用」，而是「重劃賽道」
+- Duplicate entry (2x): 2026-04-28-当AI越来越仿真，你还在乎什么是“真”吗
+- Duplicate entry (2x): 2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？
+- Duplicate entry (2x): 2026-04-28-排队15000+的饺子馆做了个Skill，却带来了AI时代的营销新思路
+- Duplicate entry (2x): 2026-04-28-流量的下一关：AI推过来的用户，你的落地页准备好了吗？
+- Duplicate entry (2x): 2026-04-28-爱奇艺是不是穷疯了
+- Duplicate entry (2x): 2026-04-28-爱奇艺疯了CEO龚宇回应，张若昀于和伟等紧急声明
+- Duplicate entry (2x): 2026-04-28-用AI做IP，文娛科技公司星迹互動完成數千萬元天使輪融資
+- Duplicate entry (2x): 2026-04-28-被 AI 的胡说八道坑过多少次？这份大厂内部的避坑指南，建议贴在工位上
+- Duplicate entry (2x): 2026-04-28-谁能算清Token账单
+- Duplicate entry (2x): 2026-04-28-越来越多的人，已经把小红书玩成了 AI 孵化器
+- Duplicate entry (2x): 2026-04-28-路由器也可以读懂用户，AI时代硬件终端正在补位
+- Duplicate entry (2x): 2026-04-28-都说要学AI，但3种人，3种学法
+- Duplicate entry (2x): 2026-04-28-重AI+轻IP+做自己，2026年普通人低成本做一人公司的最佳方案
+- Duplicate entry (2x): 2026-04-28-钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？
+- Duplicate entry (2x): 2026-04-28-雀巢正在建立一套新的消费者洞察系统
+- Duplicate entry (2x): 2026-04-28-馬斯克要用AI普發人類永續富足，靠Optimus、Cybercab能再下一城？
+- Duplicate entry (2x): 2026-04-29-Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣
+- Duplicate entry (2x): 2026-04-29-Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去
+- Duplicate entry (2x): 2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CM
+- Duplicate entry (2x): 2026-04-29-功能開發已壓縮到「日更」，PM的價值錨點在哪裡？
+- Duplicate entry (2x): 2026-04-29-沒人敢先停：AI囚徒困境如何困住大模型、巨頭和普通人
+- Duplicate entry (2x): 2026-04-30-7个免费AI Skills，帮我从自媒体体力活中彻底解脱｜封面、文案、排版
+- Duplicate entry (2x): 2026-04-30-AGI時代的個人OS重構：為什麼你的「SFT資料集」決定了你的階層？
+- Duplicate entry (2x): 2026-04-30-AI写不出的文案
+- Duplicate entry (2x): 2026-04-30-AI平權之後，我認為：不再需要考試。
+- Duplicate entry (2x): 2026-04-30-Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危
+- Duplicate entry (2x): 2026-04-30-Codex，準備接管程式設計師的一切了！
+- Duplicate entry (2x): 2026-04-30-Obsidian打造AI化神经中枢：10个在用工作流分享
+- Duplicate entry (2x): 2026-04-30-批量「透支」後，AI創業更累了
+- Duplicate entry (2x): 2026-04-30-杨斌：我为什么要提“AI次方变革”
+- Duplicate entry (2x): 2026-04-30-法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化
+- Duplicate entry (2x): 2026-04-30-白鸦X郑敏丨万字对谈：AI抢跑，品牌审美的时代分野
+- Duplicate entry (2x): 2026-04-30-被3次監管警示函逼出的需求分析方法：我做金融合規多智能體審核的踩坑實錄
+- Duplicate entry (2x): 2026-05-01-2026—2027招投標AI化的時間表
+- Duplicate entry (2x): 2026-05-01-Meta收購機器人新創，強化人形AI野心
+- Duplicate entry (2x): 2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」
+- Duplicate entry (2x): 2026-05-02-在矽谷，中美具身公司談了4個問題的解法
+- Duplicate entry (2x): 2026-05-02-大疆特斯拉與人形機器人：PM如何理解新物種產品的誕生
+- Duplicate entry (2x): 2026-05-02-我用AI做了第一個產品，聊聊全過程和踩過的坑
+- Duplicate entry (2x): 2026-05-02-梁文鋒不掀桌子，DeepSeek登上半山腰
+- Duplicate entry (2x): 2026-05-02-當大家都用AI獲取資訊，我開始擔心小紅書搜尋
+- Duplicate entry (2x): 2026-05-02-馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT
+- Duplicate entry (2x): 2026-05-03-AI Agent正在構建五萬億美元的經濟體
+- Duplicate entry (2x): 2026-05-03-AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元
+- Duplicate entry (2x): 2026-05-03-LangChain團隊用AI Agent做銷售和行銷的最佳實踐
+- Duplicate entry (2x): 2026-05-03-國內AI賺錢的生意：做帳號培訓套利而非做產品
+- Duplicate entry (2x): 2026-05-04-DoorDash推出AI工具加速商家上線與照片優化
+- Duplicate entry (2x): 2026-05-04-Harness不是目的，知识才是护城河
+- Duplicate entry (2x): 2026-05-04-MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-05-04-中国入境游赶超日本
+- Duplicate entry (2x): 2026-05-04-入境游干翻日本，中国还需要多久？
+- Duplicate entry (2x): 2026-05-04-千問App深度體驗報告（2026）
+- Duplicate entry (2x): 2026-05-04-增速降至2.5%背后：MCN行业的“大退潮”与“新物种”崛起
+- Duplicate entry (2x): 2026-05-04-從廣告科技稅到AI數據中間商：新中間層拿走100%
+- Duplicate entry (2x): 2026-05-04-拆解 Hermes Agent 五层架构，内部到底怎么跑的_v2
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜从物质消费到精神共鸣：情绪经济主导下的时代消费焕新
+- Duplicate entry (2x): 2026-05-04-浅聊一下 2026 的营销风向，顺便划个重点
+- Duplicate entry (2x): 2026-05-04-矽谷文件產品Mintlify估值五億：以AI為核心重構
+- Duplicate entry (2x): 2026-05-04-首位全職AI執行長誕生：前編程神童讓AI管理千人公司
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器—普通人拿什麼創業
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器時普通人靠什麼創業
+- Duplicate entry (2x): 2026-05-05-AI眼鏡如何從手機配件走向獨立終端
+- Duplicate entry (2x): 2026-05-05-AI緊逼之下SaaS出路在何方
+- Duplicate entry (3x): 2026-05-05-當AI成為造假加速器普通人拿什麼創業
+- Duplicate entry (2x): 2026-05-06-AI Agent時代的產品未來
+- Duplicate entry (2x): 2026-05-06-AI讓任何人都能開餐廳的Wonder機器人廚房模式
+- Duplicate entry (2x): 2026-05-06-行銷人如何在Possible大會調適AI時代的人性張力
+- Duplicate entry (2x): 2026-05-07-AI對購物中心和實體店的衝擊
+- Duplicate entry (2x): 2026-05-07-AI真的能拯救你的孤獨嗎？
+- Duplicate entry (2x): 2026-05-07-想要Skills變現，你需要先搞懂這5點
+- Duplicate entry (3x): 2026-05-08-99-的人都沒有真正用對-Codex-開發秘技工作流
+- Duplicate entry (3x): 2026-05-08-AI給的是不是情緒價值-取決於你
+- Duplicate entry (3x): 2026-05-08-Claude Code之父自曝CC誕生源於偶然
+- Duplicate entry (3x): 2026-05-08-Hermes-接上-NotebookLM-之後-我的知識庫開始自己滾了
+- Duplicate entry (3x): 2026-05-08-Tobias-Rees-AI為何是人類和機器的中間態
+- Duplicate entry (3x): 2026-05-08-假期出游-我被AI坑慘了
+- Duplicate entry (2x): 2026-05-08-兩大根變量重塑消費邏輯-基諾浦的母嬰生態化思考
+- Duplicate entry (2x): 2026-05-08-大廠逼員工用AI-成了一種形式主義
+- Duplicate entry (3x): 2026-05-08-從玩梗刷屏到品牌廣告-AI短片的打開方式升級了
+- Duplicate entry (3x): 2026-05-09-YC合夥人AI原生公司應該怎麼搭建
+- Duplicate entry (3x): 2026-05-09-中國機器人的全球化野心與Physical AI的爆發準備
+- Duplicate entry (3x): 2026-05-09-文科生的AI逆襲對話Anthropic聯合創始人
+- Duplicate entry (3x): 2026-05-09-當代碼變便宜之後我們失去了什麼
+- Duplicate entry (3x): 2026-05-09-豆包和OpenAI都走在互聯網變現的老路上
+- Duplicate entry (3x): 2026-05-10-AI實現廣告大片自由一句話的事和一杯咖啡的價格
+- Duplicate entry (3x): 2026-05-10-AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上
+- Duplicate entry (3x): 2026-05-10-AI消滅不了科層制扁平化遠非公司神藥
+- Duplicate entry (3x): 2026-05-10-AI讓員工快10倍公司卻沒變強7個維度告訴你問題出在哪
+- Duplicate entry (3x): 2026-05-10-YC2026夏季投資清單出爐超過一半資金轉向硬科技AI已是底層基礎建設
+- Duplicate entry (3x): 2026-05-10-一年股價翻3倍陳立武重置英特爾為蘋果造美國芯
+- Duplicate entry (3x): 2026-05-10-人類不會被AI蒸餾的32個證據
+- Duplicate entry (3x): 2026-05-10-廣度是門票深度是護城河在答案泛濫的時代學會提問
+- Duplicate entry (2x): 2026-05-10-情緒主場心動即行動2026巨量引擎食飲行業星圖大會精彩回顧
+- Duplicate entry (2x): 2026-05-10-所有品牌都應清晰認知自身的美學定位
+- Duplicate entry (3x): 2026-05-10-梁文鋒留住97趴員工
+- Duplicate entry (2x): 2026-05-10-永久底層矽谷的AI從業者普遍認為普通人已經完蛋了
+- Duplicate entry (2x): 2026-05-10-由豆包付費想到AI到底會長成一門什麼生意
+- Duplicate entry (3x): 2026-05-10-范凱說AI周日晚聊第18期AI是超級槓桿但你的支點在哪裡
+- Duplicate entry (3x): 2026-05-10-親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置
+- Duplicate entry (3x): 2026-05-10-非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是
+- Duplicate entry (3x): 2026-05-11-AI小店占領縣城，老板們賺到錢了嗎？
+- Duplicate entry (2x): 2026-05-11-你用AI搭建的不該是大系統，而是這5個小流程
+- Duplicate entry (3x): 2026-05-11-行銷人員在零點擊搜尋衝擊下優化GEO策略
+- Duplicate entry (3x): 2026-05-12-OpenAI讓在ChatGPT投放購物廣告變得更容易
+- Duplicate entry (3x): 2026-05-12-個人生產力暴增10倍，公司價值卻沒變：AI時代最昂貴的教訓
+- Duplicate entry (3x): 2026-05-13-Cursor CEO：AI 編程的下一個時代
+- Duplicate entry (3x): 2026-05-13-互聯網巨頭的用人帳
+- Duplicate entry (3x): 2026-05-13-買AI會員返貧的打工人
+- Duplicate entry (3x): 2026-05-14-AI Trading的新座標系：To-Agent Harness
+- Duplicate entry (3x): 2026-05-14-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-14-AI時代會出現新的張一鳴嗎？
+- Duplicate entry (3x): 2026-05-14-AI耳朵火了，悄悄賣出150萬台，再獲億元級融資！
+- Duplicate entry (3x): 2026-05-14-不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI
+- Duplicate entry (3x): 2026-05-14-互聯網毀掉了客服，AI又拯救了它
+- Duplicate entry (3x): 2026-05-14-全球職場報告：低敬業時代正在加速到來
+- Duplicate entry (3x): 2026-05-14-品牌和廣告人都在養的賽博員工，一句話出片有多神！
+- Duplicate entry (3x): 2026-05-14-為什麼你做的AI工具沒人買單？放棄宏大敘事，去社會的「神經末梢」撿錢
+- Duplicate entry (3x): 2026-05-14-范凱說 AI · 周日晚聊 第19期：AI把天花板打開了，切入點決定你在哪邊
+- Duplicate entry (3x): 2026-05-14-行銷人員AI使用率攀升但技術能力停滯
+- Duplicate entry (3x): 2026-05-15-AI創業時代一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-15-AI開始接管年輕人的精神自留地
+- Duplicate entry (2x): 2026-05-15-一句話百元預算百萬級廣告片這個等式我們親測成立了
+- Duplicate entry (3x): 2026-05-15-復盤16個GenZ AI創業團隊：百萬級融資密集出現，社交仍是最熱賽道？
+- Duplicate entry (3x): 2026-05-15-矽谷正在硬化，AI把軟體聖地重新推回了電力、鋼鐵與核反應堆的世界
+- Duplicate entry (3x): 2026-05-16-Agent 生態五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-Agent生態中的五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-18-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-18-一句話+百元預算=百萬級廣告片，這個等式我們親測成立了
+- Duplicate entry (3x): 2026-05-20-溫度還是證據：螞蟻阿福與氫離子的醫療AI分野
+- Duplicate entry (3x): 2026-05-23-440億投資清零AI正在殺死這個賽道
+- Duplicate entry (3x): 2026-05-23-AI進入產業前線未來最稀缺的AI人才是誰
+- Duplicate entry (3x): 2026-05-23-一個AI創始人的虛榮心和愚昧之巔
+- Duplicate entry (3x): 2026-05-25-Sephora 引領美容科技革命
+- Duplicate entry (3x): 2026-05-26-創業者閉門探討：為Agent打造其實還是為人打造
+- Duplicate entry (3x): 2026-05-26-市場在狠狠懲罰不豪賭AI的國家、企業、個人
+- Duplicate entry (3x): 2026-05-26-當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework
+- Duplicate entry (3x): 2026-05-26-行銷內容從「用AI」到「管AI」的十倍提效
+- Duplicate entry (3x): 2026-05-26-衝擊巨大，世界徹底變了
+- Duplicate entry (3x): 2026-05-27-曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案
+- Duplicate entry (3x): 2026-05-29-2026企業獲客新方向：以AI為翼，走合規增長之路
+- Duplicate entry (3x): 2026-05-29-AI之後，品牌內容開始PK誰更朴素
+- Duplicate entry (3x): 2026-05-29-AI，開始悄悄砸掉景區旅拍飯碗
+- Duplicate entry (2x): 2026-05-29-一個90後會計，如何用AI改造了一座67年的老工廠
+- Duplicate entry (3x): 2026-05-29-更強大腦：AI時代的人類優勢（麥肯錫與世界經濟論壇聯合報告）
+- Duplicate entry (3x): 2026-05-29-李開復內部談話：今年15億訂單，2027年IPO｜獨家
+- Duplicate entry (2x): 2026-05-30-當AI成為你的同事，組織真的開始變了
+- Duplicate entry (3x): 2026-06-01-全球職場報告真正熱愛工作的人只剩20%
+- Duplicate entry (3x): 2026-06-01-我陪17位企業家找到了價值200萬的問題
+- Duplicate entry (3x): 2026-06-01-李笛AI最終拼的不是智商而是情商
+- 7 blank lines inside entry list
+
+### 人格與自我.md
+- Duplicate entry (2x): 2026-03-29-40億營收卻不蓋一間央廚！豆府憑什麼成上市餐飲獲利王，淨利率狂壓王品、瓦城？
+- Duplicate entry (2x): 2026-03-29-做簡報、寫email別再用「我」開頭！《財星》500強顧問：以對方為中心，贏得
+- Duplicate entry (2x): 2026-03-29-害怕被識破能力不足？Google前主管勸你「無恥」一點，將冒牌者症候群轉為競爭
+- Duplicate entry (2x): 2026-03-29-專訪群玉山&愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-03-29-都市辣妹品牌TR她熱，文案也很帶感
+- Duplicate entry (2x): 2026-03-30-愈沒效率愈有價值？到 2034 年仍搶手的人才，擅長這 5 件「AI 做不到」
+- Duplicate entry (2x): 2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新
+- Duplicate entry (2x): 2026-04-06-OpenAI 校友秘密籌建潛在 1 億美元規模的新基金
+- Duplicate entry (2x): 2026-04-08-一個人，讓你有這1種感覺，就是在提醒你，遠離他
+- Duplicate entry (2x): 2026-04-08-你越把這3件事當回事，別人越把你當回事
+- Duplicate entry (2x): 2026-04-08-在「平等」的古巴，我重新理解了「貧窮」
+- Duplicate entry (2x): 2026-04-08-我已經不討厭冬天了，我們都要努力改變成更好的自己
+- Duplicate entry (2x): 2026-04-08-撕碎日拱一卒的謊言：複雜系統裡，如何獲得真實的人生複利？
+- Duplicate entry (2x): 2026-04-08-永遠對AI保持懷疑：警惕算法時代的認知外包
+- Duplicate entry (2x): 2026-04-08-當一個女性不受打擾地創作，會發生什麼？
+- Duplicate entry (2x): 2026-04-08-谷愛凌反覆推薦的5本書
+- Duplicate entry (2x): 2026-04-08-馮侖：人到中年，最重要的是別算這三筆帳
+- Duplicate entry (2x): 2026-04-08-魯豫的事，反轉了！
+- Duplicate entry (2x): 2026-04-09-同事能蒸餾，前任能蒸餾，現在連貓都能賽博永生了
+- Duplicate entry (2x): 2026-04-10-不想捲了，就去做自己擅長的事吧
+- Duplicate entry (2x): 2026-04-10-觀影｜於世俗縫隙，見女性自我
+- Duplicate entry (2x): 2026-04-12-我好佩服她的40歲：離過婚，帶著娃，眼裡卻有光
+- Duplicate entry (2x): 2026-04-15-中年的心事：對人生的日益「失控」
+- Duplicate entry (2x): 2026-04-15-被蒸餾的人
+- Duplicate entry (2x): 2026-04-16-去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事
+- Duplicate entry (2x): 2026-04-16-怎樣對抗心中那個「一念成魔」的時刻？
+- Duplicate entry (2x): 2026-04-16-管理教父柯林斯：最危險的職涯是「擅長但不熱愛」
+- Duplicate entry (2x): 2026-04-17-「修正叙事是一种权利」
+- Duplicate entry (2x): 2026-04-17-前额叶，扛下了年轻人所有的错
+- Duplicate entry (2x): 2026-04-17-致中女：在任何年齡去做這1件事
+- Duplicate entry (2x): 2026-04-18-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-18-內娛最不被看好的一對，官宣結婚
+- Duplicate entry (2x): 2026-04-18-我的理想工作：做點真正有意義的事
+- Duplicate entry (2x): 2026-04-19-Gap一年半后，重新上班的感受。
+- Duplicate entry (2x): 2026-04-19-万维钢：你不是老了才退出，而是退出后才变老
+- Duplicate entry (2x): 2026-04-19-冯仑：别太相信好人，也别急着远离坏人
+- Duplicate entry (2x): 2026-04-19-好好睡觉会有好报。
+- Duplicate entry (2x): 2026-04-19-沒有體驗過洗完澡裸著出浴室的人生是不完整的
+- Duplicate entry (2x): 2026-04-21-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-21-比情緒穩定更重要的，是「情緒自由」
+- Duplicate entry (2x): 2026-04-28-当AI越来越仿真，你还在乎什么是“真”吗
+- Duplicate entry (2x): 2026-04-28-爱上玄学，是认知退化吗？
+- Duplicate entry (2x): 2026-04-29-90後小鎮女孩離開教培大廠，三年創造2億GMV的倔強人生
+- Duplicate entry (2x): 2026-04-30-AGI時代的個人OS重構：為什麼你的「SFT資料集」決定了你的階層？
+- Duplicate entry (2x): 2026-04-30-一个爆款作家，决定做一个「不讨喜」的人
+- Duplicate entry (2x): 2026-04-30-从“无人设”到“强人设”，我的自媒体才开始赚到钱
+- Duplicate entry (2x): 2026-04-30-这一种“上瘾”行为，是怎么毁掉一个人的？
+- Duplicate entry (2x): 2026-04-30-陈丹青：为什么我害怕年轻人？
+- Duplicate entry (2x): 2026-05-02-为什么说每一次五年规划，都是一次财富再分配的窗口期？
+- Duplicate entry (2x): 2026-05-02-罗翔：当你接触的人越多，你会发现：如果一个男人，不吸烟，不喝酒，性格内向，那他
+- Duplicate entry (2x): 2026-05-04-MBTI × 職場靈魂牌對照｜INTP × 吊人牌
+- Duplicate entry (3x): 2026-05-04-五月，適合想清楚一件事
+- Duplicate entry (2x): 2026-05-04-文淇對話與女性主體性重塑
+- Duplicate entry (3x): 2026-05-09-文科生的AI逆襲對話Anthropic聯合創始人
+- Duplicate entry (3x): 2026-05-10-一個人生建議停止餵養任何人
+- Duplicate entry (3x): 2026-05-10-不上班也能月入過萬自由職業的魅與祛魅
+- Duplicate entry (3x): 2026-05-10-不要急著解決問題
+- Duplicate entry (3x): 2026-05-10-人類不會被AI蒸餾的32個證據
+- Duplicate entry (3x): 2026-05-10-價值觀IP正在吃掉知識IP營銷的盡頭不是賣貨是表態
+- Duplicate entry (3x): 2026-05-10-廣度是門票深度是護城河在答案泛濫的時代學會提問
+- Duplicate entry (3x): 2026-05-10-打工人最新玄學痛吻offer大樓
+- Duplicate entry (2x): 2026-05-10-李璞普通人如何實現財務自由
+- Duplicate entry (3x): 2026-05-10-無婚無孩就會又老又小
+- Duplicate entry (2x): 2026-05-10-管理者要有被一眼看穿的能力
+- Duplicate entry (2x): 2026-05-10-終於2026年的家居趨勢不再只是一種風格
+- Duplicate entry (2x): 2026-05-10-職場打工要學會一魚多吃
+- Duplicate entry (3x): 2026-05-10-自我發展模型我們這一生要經歷的心智階段都有哪些
+- Duplicate entry (2x): 2026-05-10-被AI搶走工作的人在忙什麼
+- Duplicate entry (2x): 2026-05-11-工作毀掉了我美好的人性
+- Duplicate entry (2x): 2026-05-11-當年輕人感到不舒服，他們會怎麼做？
+- Duplicate entry (3x): 2026-05-14-沒人知道何時會跨越臨界點
+- Duplicate entry (3x): 2026-05-17-俞浩到底想幹什麼？
+- Duplicate entry (3x): 2026-05-18-35+覺醒的女人都在做這3件事——第一件就是把朋友圈裡所有親戚拉黑
+- Duplicate entry (3x): 2026-05-23-一個AI創始人的虛榮心和愚昧之巔
+- Duplicate entry (3x): 2026-05-26-分享一套從頭到腳愛自己的詳細教程
+- Duplicate entry (3x): 2026-05-26-對話雲鯨CEO張峻彬：理解人性，告別天真
+- Duplicate entry (3x): 2026-05-26-愛情貶值時代，這群年輕人主動選擇婚內分居
+- Duplicate entry (3x): 2026-05-26-楊絳：什麼是格局？
+- Duplicate entry (3x): 2026-05-26-高能量的女性，都有一個很絕的心態：我不入你的局
+- Duplicate entry (3x): 2026-05-27-別把你的價值，全掛在別人的秤桿上
+- Duplicate entry (3x): 2026-05-29-減少內耗最好的方式：遠離蠢人
+- Duplicate entry (3x): 2026-06-01-3個心法送給職場反覆內耗的你
+- Duplicate entry (2x): 2026-06-01-至少要對得起自己的時間吧
+- Duplicate entry (2x): 2026-06-01-讓老板高興正變成一種KPI
+
+### 人機互動.md
+- Duplicate entry (2x): 2025-09-17-【報導者觀測站設計幕後】我們如何透過使用者研究，打造一個清晰易用的政治分析工具
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞×單立人喜劇節全內容揭秘
+- Duplicate entry (2x): 2026-03-31-更多美國人使用AI工具卻越來越不信任AI的結果
+- Duplicate entry (2x): 2026-04-02-Claude Code 51萬行源碼泄露，我扒出來了一些好東西
+- Duplicate entry (2x): 2026-04-08-AI逼出了教育的真相，美國大學開始復興一種古老傳統
+- Duplicate entry (2x): 2026-04-08-NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓
+- Duplicate entry (2x): 2026-04-08-不再只是炫技！AWE2026 現場開啟「人機共生」生活預演
+- Duplicate entry (2x): 2026-04-08-不好意思，機器人無法僅靠視覺理解世界
+- Duplicate entry (2x): 2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場
+- Duplicate entry (2x): 2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解
+- Duplicate entry (2x): 2026-04-08-透過這場直播，我們看到了周雲傑的思考
+- Duplicate entry (2x): 2026-04-09-對話美團GN06劉炯：美團為什麼做了一款AI瀏覽器？
+- Duplicate entry (2x): 2026-04-09-這兩天，我突然意識到AI於我而言最大的BUG是什麼？
+- Duplicate entry (2x): 2026-04-10-用「黃金三法則」見了三次，他看穿這位新創執行長遲早出事
+- Duplicate entry (2x): 2026-04-10-當 AI 似乎比人更貼心，會怎樣改變你的人際關係
+- Duplicate entry (2x): 2026-04-10-當PM習慣讓AI替他思考，產品判斷力會萎縮嗎？
+- Duplicate entry (2x): 2026-04-10-讓AI看懂世界：Chance AI的視覺智能體革命
+- Duplicate entry (2x): 2026-04-11-手把手教你用Claude Code搭建AI行銷團隊：五個Agent、十二項技能
+- Duplicate entry (2x): 2026-04-13-用小龍蝦做競品分析報告：從2天到20分鐘，我是怎麼做到的
+- Duplicate entry (2x): 2026-04-15-Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞
+- Duplicate entry (2x): 2026-04-16-ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫
+- Duplicate entry (2x): 2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代
+- Duplicate entry (2x): 2026-04-16-拜託別人也有黃金時段揭密上班族最沒防備的時間點下午2點
+- Duplicate entry (2x): 2026-04-16-產品人如何用AI打破自己的能力天花板：今天就能執行的4個方法
+- Duplicate entry (2x): 2026-04-16-讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？
+- Duplicate entry (2x): 2026-04-17-AI入侵社交：我的相亲对象，已经不说「人话」了
+- Duplicate entry (2x): 2026-04-17-AI時代，好的問題勝過全部
+- Duplicate entry (2x): 2026-04-18-Vibe Coding：AI輔助編程的革命與責任邊界
+- Duplicate entry (2x): 2026-04-18-如何在AI時代，找回你被埋沒的創造力
+- Duplicate entry (2x): 2026-04-19-当一个边缘人对AI感到焦虑（下篇）
+- Duplicate entry (2x): 2026-04-20-Agent越像真的越危險
+- Duplicate entry (2x): 2026-04-20-犬蹤地圖APP上線 邀公民回報助定位衝突熱區
+- Duplicate entry (2x): 2026-04-20-首創玩偶加主機模式多智能體兒童AI玩具品牌獲數千萬元融資
+- Duplicate entry (2x): 2026-04-21-人類正在走下牌桌
+- Duplicate entry (2x): 2026-04-21-從賣薯片到造空間，樂事更懂年輕人了
+- Duplicate entry (2x): 2026-04-23-今年最強嘴替，我自己搓出來的
+- Duplicate entry (2x): 2026-04-28-AI時代，我們更應該認識到「工具之外，事情本身」
+- Duplicate entry (2x): 2026-04-28-钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？
+- Duplicate entry (2x): 2026-04-29-Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去
+- Duplicate entry (2x): 2026-05-06-行銷人在AI時代如何保持人性
+- Duplicate entry (3x): 2026-05-07-AI真的能拯救你的孤獨嗎？
+- Duplicate entry (3x): 2026-05-08-AI給的是不是情緒價值-取決於你
+- Duplicate entry (3x): 2026-05-08-Claude Code之父自曝CC誕生源於偶然
+- Duplicate entry (3x): 2026-05-08-Tobias-Rees-AI為何是人類和機器的中間態
+- Duplicate entry (3x): 2026-05-18-追求摩擦感設計與製造麻煩的差別
+- Duplicate entry (3x): 2026-05-20-溫度還是證據：螞蟻阿福與氫離子的醫療AI分野
+- Duplicate entry (3x): 2026-05-24-VITURE Beast重新定義XR眼鏡的產品哲學
+- Duplicate entry (3x): 2026-05-26-創業者閉門探討：為Agent打造其實還是為人打造
+- Duplicate entry (3x): 2026-05-29-更強大腦：AI時代的人類優勢（麥肯錫與世界經濟論壇聯合報告）
+- Duplicate entry (2x): 2026-05-30-當代打工人，把阿福用成了工傷銀行
+- Duplicate entry (3x): 2026-06-01-李笛AI最終拼的不是智商而是情商
+
+### 價值與定價.md
+- Duplicate entry (2x): 2026-04-07-AI新創 Rocket 提供麥肯錫式顧問報告，只需極少成本
+- Duplicate entry (2x): 2026-04-08-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-04-09-對話前阿里高管、天貓設計家CEO：這些年燒掉千億，家裝行業還能怎麼做？
+- Duplicate entry (2x): 2026-04-13-Le Labo 聞獻與Ffern的「交點」，正在重塑消費邏輯
+- Duplicate entry (2x): 2026-04-15-Token，正在重新計量世界
+- Duplicate entry (2x): 2026-04-15-台灣碳費是偽命題？制度建置能力才是核心
+- Duplicate entry (2x): 2026-04-18-中產失靈，但星巴克還想「死磕」溢價
+- Duplicate entry (2x): 2026-04-19-AI 產品定價，那套熟悉的方法，正在悄悄出賣你
+- Duplicate entry (2x): 2026-04-21-到底什么是商业模式？
+- Duplicate entry (2x): 2026-04-25-從今天起，OpenAI不賣Token了
+- Duplicate entry (2x): 2026-05-02-一家银行的价值不只写在利润表上
+- Duplicate entry (2x): 2026-05-04-新技術只便宜一點點是沒用的
+- Duplicate entry (3x): 2026-05-09-當代碼變便宜之後我們失去了什麼
+- Duplicate entry (3x): 2026-05-09-豆包和OpenAI都走在互聯網變現的老路上
+- Duplicate entry (3x): 2026-05-10-25家時尚巨頭0家回覆為何品牌集體失聲
+- Duplicate entry (2x): 2026-05-11-觀夏、宋朝、野獸派，其實在做三種完全不同的香氛。
+- Duplicate entry (3x): 2026-05-22-Everlane 賣給 Shein，透明度究竟值多少
+- Duplicate entry (2x): 2026-05-26-產品越好，為什麼越賣不上價？
+- Duplicate entry (3x): 2026-05-29-淡季的國內酒店，卷到沒有底線了
+
+### 創作方法.md
+- Duplicate entry (2x): 2026-03-27-林俊暘離職阿里首次發文：智能體時代正在到來
+- Duplicate entry (2x): 2026-03-29-做簡報、寫email別再用「我」開頭！《財星》500強顧問：以對方為中心，贏得
+- Duplicate entry (2x): 2026-03-30-2026 年的品牌小內容：從活人感的日常切入
+- Duplicate entry (2x): 2026-03-30-復工第一週，15 位資深從業者 2026 爆款內容指南
+- Duplicate entry (2x): 2026-03-31-COZE實戰：從零搭建人物生平視頻自動化生成流程
+- Duplicate entry (2x): 2026-04-08-AI 不能替代人類，這個世界不能沒有手搓文案
+- Duplicate entry (2x): 2026-04-08-三天養蝦十倍增長，剛出爐的養蝦經驗｜計算機歷史博物館
+- Duplicate entry (2x): 2026-04-08-創業者自述：我為什麼放棄做Web3支付？
+- Duplicate entry (2x): 2026-04-08-在山中駐留的日子，藝術家們留下了什麼？阿那亞·金山嶺駐地藝術計劃
+- Duplicate entry (2x): 2026-04-08-未來，即刻發生！科幻世界·即刻發生叢書首發式
+- Duplicate entry (2x): 2026-04-08-當一個女性不受打擾地創作，會發生什麼？
+- Duplicate entry (2x): 2026-04-08-素人起家、年銷破億，這群漂亮女孩在淘寶活成了爽文大女主
+- Duplicate entry (2x): 2026-04-08-蕉內最具活人感文案，不是自己寫的
+- Duplicate entry (2x): 2026-04-08-這個婦女節，我們為媽媽、姥姥、奶奶辦了一個美術展
+- Duplicate entry (2x): 2026-04-08-香格納M50  當午夜遇見正午，或我們如何想象遠處的風景  策展人寫作
+- Duplicate entry (2x): 2026-04-08-魯豫的事，反轉了！
+- Duplicate entry (2x): 2026-04-10-AI 時代每個人都在談「品味」，但它到底是什麼？經理人
+- Duplicate entry (2x): 2026-04-10-Vibe Coding三天搭族譜APP：全端產品實戰復盤
+- Duplicate entry (2x): 2026-04-10-團隊各做各的、方向不一致？創辦人得先找到自己的「為什麼」
+- Duplicate entry (2x): 2026-04-10-從來沒有「創始人IP」成就偉大公司，只有偉大的公司成就IP
+- Duplicate entry (2x): 2026-04-10-歐萊雅蘭珍珍：AI時代做好內容的「複利神器」
+- Duplicate entry (2x): 2026-04-11-手把手教你用Claude Code搭建AI行銷團隊：五個Agent、十二項技能
+- Duplicate entry (2x): 2026-04-12-內容即流量的今天，如何寫出好文章？
+- Duplicate entry (2x): 2026-04-12-我好佩服她的40歲：離過婚，帶著娃，眼裡卻有光
+- Duplicate entry (2x): 2026-04-12-會說遠比會做更重要SBTI爆火現象的五層觀察
+- Duplicate entry (2x): 2026-04-12-請笑納：我這28年的寫作心法，全部都在這裡了
+- Duplicate entry (2x): 2026-04-13-創業老炮與00後，誰是下一代「一人公司」標準樣板
+- Duplicate entry (2x): 2026-04-13-從大廠總監到創業3年，我把一人公司跑通了，方法都在這篇萬字長文裡
+- Duplicate entry (2x): 2026-04-15-7個數字顯示AI職場力大提升！這18般創意變現工具，你用過嗎？讓人「好用一直用
+- Duplicate entry (2x): 2026-04-15-BCG頂尖顧問的AI私房用法：「來挑戰我」！這2種角色，讓思考大幅升級
+- Duplicate entry (2x): 2026-04-15-B站上最會用AI的創作者，關於AI的25條思考
+- Duplicate entry (2x): 2026-04-15-Google簡報AI功能教學｜3步驟生成可編輯投影片，標題內文都能直接修改
+- Duplicate entry (2x): 2026-04-15-Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞
+- Duplicate entry (2x): 2026-04-15-不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.
+- Duplicate entry (2x): 2026-04-15-文策院資源如何讓林投姐妳叫什麼名字這部沉浸式VR創下93票房達成率
+- Duplicate entry (2x): 2026-04-15-當抖音認真搞時尚：讓創作者直擊秀場，讓設計師走向台前
+- Duplicate entry (2x): 2026-04-16-7個數字顯示AI職場力大提升！這18個創意變現工具，你用過嗎？
+- Duplicate entry (2x): 2026-04-16-AI創作時代，真正的核心競爭力：會用技術，更懂審美
+- Duplicate entry (2x): 2026-04-16-《中國小朋友》出續篇，這次靠什麼打動人？
+- Duplicate entry (2x): 2026-04-16-一条创始人徐沪生：如何快速启动个人IP
+- Duplicate entry (2x): 2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢
+- Duplicate entry (2x): 2026-04-16-假如，你要做一本品牌手册
+- Duplicate entry (2x): 2026-04-16-去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事
+- Duplicate entry (2x): 2026-04-16-大學LOGO火出圈，中式美學驚艷一眾網友！
+- Duplicate entry (2x): 2026-04-16-民间鬼才爆改slogan淘宝汗流浃背了
+- Duplicate entry (2x): 2026-04-16-用好Agent最重要的技巧不是Skills，是這四個字。
+- Duplicate entry (2x): 2026-04-17-AI時代，好的問題勝過全部
+- Duplicate entry (2x): 2026-04-17-淘寶第一文案「步履不停」，又出神作了
+- Duplicate entry (2x): 2026-04-18-Vibe Coding：AI輔助編程的革命與責任邊界
+- Duplicate entry (2x): 2026-04-18-你們戶外廣告，真的沒有創作瓶頸嗎？
+- Duplicate entry (2x): 2026-04-18-如何在AI時代，找回你被埋沒的創造力
+- Duplicate entry (2x): 2026-04-18-從「護城河」到「一魚多吃」，愛奇藝詳解AI時代長視頻IP的生存法則
+- Duplicate entry (2x): 2026-04-19-一张包装纸，成了Kiri的最佳广告位
+- Duplicate entry (2x): 2026-04-20-做AI選題工具三個月踩了這些坑
+- Duplicate entry (2x): 2026-04-20-小紅書博主合作Brief撰寫指南第三期
+- Duplicate entry (2x): 2026-04-21-GEO 內容創作的五個結構化技巧——只改格式，AI 引用率翻倍
+- Duplicate entry (2x): 2026-04-23-一個對話框、一隻青蛙，Ribbi如何一週吸引4萬用戶
+- Duplicate entry (2x): 2026-04-24-Image2的10種顛覆性玩法，越用越不對勁
+- Duplicate entry (2x): 2026-04-24-實測 GPT-Image-2：6 個能落地的提效場景
+- Duplicate entry (2x): 2026-04-27-GPT image-2爆火後，設計師的天塌了嗎？
+- Duplicate entry (2x): 2026-04-28-用AI做IP，文娛科技公司星迹互動完成數千萬元天使輪融資
+- Duplicate entry (2x): 2026-04-29-90後小鎮女孩離開教培大廠，三年創造2億GMV的倔強人生
+- Duplicate entry (2x): 2026-04-30-7个免费AI Skills，帮我从自媒体体力活中彻底解脱｜封面、文案、排版
+- Duplicate entry (2x): 2026-04-30-一个爆款作家，决定做一个「不讨喜」的人
+- Duplicate entry (2x): 2026-05-02-大疆特斯拉與人形機器人：PM如何理解新物種產品的誕生
+- Duplicate entry (2x): 2026-05-02-我用AI做了第一個產品，聊聊全過程和踩過的坑
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器時普通人靠什麼創業
+- Duplicate entry (2x): 2026-05-05-不要急著解決問題
+- Duplicate entry (3x): 2026-05-05-當AI成為造假加速器普通人拿什麼創業
+- Duplicate entry (2x): 2026-05-06-反算法的二十五歲播客人如何用深度訪談打進AI核心圈層
+- Duplicate entry (2x): 2026-05-07-想要Skills變現，你需要先搞懂這5點
+- Duplicate entry (3x): 2026-05-08-99-的人都沒有真正用對-Codex-開發秘技工作流
+- Duplicate entry (3x): 2026-05-08-Claude Code之父自曝CC誕生源於偶然
+- Duplicate entry (2x): 2026-05-08-Ffern-一個小眾香水品牌-很懂銷售自然
+- Duplicate entry (3x): 2026-05-08-Hermes-接上-NotebookLM-之後-我的知識庫開始自己滾了
+- Duplicate entry (2x): 2026-05-08-一人公司就是騙局-為什麼你每天工作12小時還是不賺錢
+- Duplicate entry (2x): 2026-05-08-一個危險的信號-你每天都在做的這件事-正在讓你的腦子悄悄腐爛
+- Duplicate entry (2x): 2026-05-08-做IP-你會的越多-越容易找不到客戶
+- Duplicate entry (2x): 2026-05-08-哪怕春天結束-你也要長长地活下去
+- Duplicate entry (3x): 2026-05-08-從玩梗刷屏到品牌廣告-AI短片的打開方式升級了
+- Duplicate entry (2x): 2026-05-08-我們的品牌為啥缺少娛樂精神
+- Duplicate entry (3x): 2026-05-08-為什麼越來越多年輕人-開始選擇斷捨離的生活方式
+- Duplicate entry (2x): 2026-05-08-當品牌讀懂奧德賽時期-五四短片走進年輕人的心裡
+- Duplicate entry (3x): 2026-05-09-當代碼變便宜之後我們失去了什麼
+- Duplicate entry (3x): 2026-05-10-AI實現廣告大片自由一句話的事和一杯咖啡的價格
+- Duplicate entry (3x): 2026-05-14-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-15-復盤16個GenZ AI創業團隊：百萬級融資密集出現，社交仍是最熱賽道？
+- Duplicate entry (2x): 2026-05-18-實際上，小紅書內容運營的正確框架是這樣的
+- Duplicate entry (3x): 2026-05-23-一個AI創始人的虛榮心和愚昧之巔
+- Duplicate entry (3x): 2026-05-26-盡量去研究自媒體的規律，這就是人生規律
+- Duplicate entry (2x): 2026-05-30-騰訊綜藝，重寫內娛的造人邏輯
+- Duplicate entry (2x): 2026-06-01-小紅書上精神細糠正在生長
+
+### 品牌.md
+- Duplicate entry (2x): 2025-12-22-深度｜日本爆紅「穿搭訂閱制」！續約率 95%、年收近 50 億，airClos
+- Duplicate entry (2x): 2026-03-29-40億營收卻不蓋一間央廚！豆府憑什麼成上市餐飲獲利王，淨利率狂壓王品、瓦城？
+- Duplicate entry (2x): 2026-03-29-專訪群玉山&愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-03-29-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-03-29-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-03-29-都市辣妹品牌TR她熱，文案也很帶感
+- Duplicate entry (2x): 2026-03-30-2026 年的品牌小內容：從活人感的日常切入
+- Duplicate entry (2x): 2026-03-30-2026 年，關於增長的 50 條真知灼見
+- Duplicate entry (2x): 2026-03-30-AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言
+- Duplicate entry (2x): 2026-03-30-不權威發布：2026 年值得關注的 26 個趨勢
+- Duplicate entry (2x): 2026-03-30-做長期自媒體生意，最後看的就 2 個東西：你是誰 + 核心方法論
+- Duplicate entry (2x): 2026-03-30-哪些企業 CXO 更迭值得關注？2026 春節特輯
+- Duplicate entry (2x): 2026-04-01-原型做出來了，但你還是不知道自己在做什麼
+- Duplicate entry (2x): 2026-04-02-AI時代，真正危險的可能不是模型失控，而是模型太聽話
+- Duplicate entry (2x): 2026-04-04-在「人人都在聊Agent」的時代，如何搭建你的第一個自動化閉環？
+- Duplicate entry (2x): 2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架
+- Duplicate entry (2x): 2026-04-05-當每一次生成都要花錢：從Sora之死看AI時代的產品新邏輯
+- Duplicate entry (2x): 2026-04-06-衆籌300萬美元的Agent盒子，想徹底解決你的算力焦慮
+- Duplicate entry (2x): 2026-04-08-AI 不能替代人類，這個世界不能沒有手搓文案
+- Duplicate entry (2x): 2026-04-08-Zara母公司創歷史最佳業績：利潤突破62億歐元
+- Duplicate entry (2x): 2026-04-08-《春天，即興出演》AIGC視頻上線｜把每一場臨時起意，變成品牌生長的契機
+- Duplicate entry (2x): 2026-04-08-下場做品牌，「新拼姆」能成為拼多多的二級火箭嗎？
+- Duplicate entry (2x): 2026-04-08-中國奢侈品市場格局改寫：LV、老舖、愛馬仕位列前三
+- Duplicate entry (2x): 2026-04-08-出道9天就火遍大江南北！最醜女團時隔6年翻紅，還有人買帳嗎？
+- Duplicate entry (2x): 2026-04-08-半年賺了14億，曾經「打骨折」的中產品牌，憑什麼讓中國女人回頭瘋搶？
+- Duplicate entry (2x): 2026-04-08-品牌種草新思路：看這些品牌如何打造有量有質的種草新範式
+- Duplicate entry (2x): 2026-04-08-婦女一直在工作，網友奈雪的茶新文案鲨瘋了！
+- Duplicate entry (2x): 2026-04-08-專訪群玉山＆愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-04-08-小紅書 CNY 新品組合裂變玩法，助力新春營銷
+- Duplicate entry (2x): 2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-04-08-從李寧到迪卡儂，今年戶外的「潛規則」變了
+- Duplicate entry (2x): 2026-04-08-把趨勢上新玩成「古宅尋新」，天貓超級品類日這次給到夯！
+- Duplicate entry (2x): 2026-04-08-抽象力、活人感、AI 人格……小紅書 10 大熱詞裡，藏著品牌機會
+- Duplicate entry (2x): 2026-04-08-拼多多將投千億做品牌自營；老鋪黃金2025中國營收超越愛馬仕｜零售電商週報
+- Duplicate entry (2x): 2026-04-08-普通人敘事：品牌的新信任貨幣
+- Duplicate entry (2x): 2026-04-08-業內首份「時尚AI投資報告」by「華麗智庫」正式發布！涵蓋近百創業公司和50+
+- Duplicate entry (2x): 2026-04-08-泡泡瑪特不再性感
+- Duplicate entry (2x): 2026-04-08-深度｜香港，奢侈品零售業復甦了嗎？
+- Duplicate entry (2x): 2026-04-08-為什麼越來越多年輕人，選擇開著獵裝車上路？
+- Duplicate entry (2x): 2026-04-08-素人起家、年銷破億，這群漂亮女孩在淘寶活成了爽文大女主
+- Duplicate entry (2x): 2026-04-08-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-04-08-茉莉奶白，小票行銷天花板！
+- Duplicate entry (2x): 2026-04-08-蕉內最具活人感文案，不是自己寫的
+- Duplicate entry (2x): 2026-04-08-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-04-08-透過這場直播，我們看到了周雲傑的思考
+- Duplicate entry (2x): 2026-04-08-電商品牌如何做好內容行銷（萬字）
+- Duplicate entry (2x): 2026-04-08-順應「輕奢化」趨勢，Michael Kors 和 Jimmy Choo 如何調
+- Duplicate entry (2x): 2026-04-08-魯豫的事，反轉了！
+- Duplicate entry (2x): 2026-04-08-麥當勞市場部，來了一位天才
+- Duplicate entry (2x): 2026-04-09-Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？
+- Duplicate entry (2x): 2026-04-10-AI 這麼熱，行銷公司能做些什麼
+- Duplicate entry (2x): 2026-04-10-一邊「被罵」，一邊「賣爆」，Tagi.到底押中了什麼？
+- Duplicate entry (2x): 2026-04-10-三廚狂喜：瑞幸又把聯名檔位拉高了
+- Duplicate entry (2x): 2026-04-10-不想捲了，就去做自己擅長的事吧
+- Duplicate entry (2x): 2026-04-10-名創、衛龍「商業互捧」，代言人「時代少年團」負全責哈哈哈！
+- Duplicate entry (2x): 2026-04-10-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-10-團隊各做各的、方向不一致？創辦人得先找到自己的「為什麼」
+- Duplicate entry (2x): 2026-04-10-實體快閃、造型交通卡到授權酒款！解密鑫夢想三大艦隊
+- Duplicate entry (2x): 2026-04-10-從「路易號」看高端商業體如何把握「天時地利人和」
+- Duplicate entry (2x): 2026-04-10-從來沒有「創始人IP」成就偉大公司，只有偉大的公司成就IP
+- Duplicate entry (2x): 2026-04-10-情緒行銷才是品牌最強護城河
+- Duplicate entry (2x): 2026-04-10-我們正在跑步進入電商下半場
+- Duplicate entry (2x): 2026-04-10-找不到差異化？90%的失敗卡在競爭分類第一步
+- Duplicate entry (2x): 2026-04-10-拒絕募資、堅持免費 15 年：iLovePDF 如何從一人工具做到全球流量前 
+- Duplicate entry (2x): 2026-04-10-歐萊雅蘭珍珍：AI時代做好內容的「複利神器」
+- Duplicate entry (2x): 2026-04-10-毛戈平的「体验式上新」，打开美妆上新新思路
+- Duplicate entry (2x): 2026-04-10-流量孤島時代，為什麼你的企業依然需要一個官網？
+- Duplicate entry (2x): 2026-04-10-美妝香水，「躺贏」模式已經過時！科蒂中國高端美妝總經理論壇分享
+- Duplicate entry (2x): 2026-04-10-臺中國家歌劇院藝術總監邱瑗的「文化CEO」治理思維
+- Duplicate entry (2x): 2026-04-10-被無印良品最新文案震撼到了！網友：至此，藝術已成
+- Duplicate entry (2x): 2026-04-10-降價促銷失靈？當大眾尋求心靈滿足，「情緒行銷」才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-11-和幾位小紅書操盤手聊了8小時，乾貨全在這
+- Duplicate entry (2x): 2026-04-12-會說遠比會做更重要SBTI爆火現象的五層觀察
+- Duplicate entry (2x): 2026-04-12-為什麼說電商消費需要一場品質審美
+- Duplicate entry (2x): 2026-04-12-請笑納：我這28年的寫作心法，全部都在這裡了
+- Duplicate entry (2x): 2026-04-12-讓勞動者自己說話，才是真活人感！
+- Duplicate entry (2x): 2026-04-12-重新認識泡泡瑪特
+- Duplicate entry (2x): 2026-04-12-零代碼一天我用Vibe Coding做了一個網站
+- Duplicate entry (2x): 2026-04-13-2026春日行銷真相：限定款捲不動，敘事是出圈密碼
+- Duplicate entry (2x): 2026-04-13-Le Labo 聞獻與Ffern的「交點」，正在重塑消費邏輯
+- Duplicate entry (2x): 2026-04-13-一張包裝紙，成了Kiri的最佳廣告位
+- Duplicate entry (2x): 2026-04-13-估值2.5億，成立4個月，潮玩中的愛馬仕MOMOTOY獲數千萬元融資
+- Duplicate entry (2x): 2026-04-13-新消費最殘酷的真相：大多數品牌從一開始就沒機會
+- Duplicate entry (2x): 2026-04-13-裝睡的品牌，正在被年輕人集體拋棄
+- Duplicate entry (2x): 2026-04-15-2026小紅書十大熱詞：讀懂年輕人的情緒與消費密碼
+- Duplicate entry (2x): 2026-04-15-一年過去，潮玩行業沒能等來「第二個Labubu」
+- Duplicate entry (2x): 2026-04-15-一文彻底講透，情緒消費爆發的底層邏輯
+- Duplicate entry (2x): 2026-04-15-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-15-從創意到運營，AI正從5方面「吃掉」廣告業
+- Duplicate entry (2x): 2026-04-15-瑞幸、凱娜克紛紛插旗台灣，全家、路易莎為何老神在在？
+- Duplicate entry (2x): 2026-04-15-當抖音認真搞時尚：讓創作者直擊秀場，讓設計師走向台前
+- Duplicate entry (2x): 2026-04-15-觀點｜從二手垃圾卡車出發！無畏旅遊帶著28萬旅客實踐「使命感旅行」，創下6.2
+- Duplicate entry (2x): 2026-04-16-AI創作時代，真正的核心競爭力：會用技術，更懂審美
+- Duplicate entry (2x): 2026-04-16-《中國小朋友》出續篇，這次靠什麼打動人？
+- Duplicate entry (2x): 2026-04-16-一条创始人徐沪生：如何快速启动个人IP
+- Duplicate entry (2x): 2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢
+- Duplicate entry (2x): 2026-04-16-从卖房晚到品牌引领，华住中高端品牌正在给行业打一个样
+- Duplicate entry (2x): 2026-04-16-假如，你要做一本品牌手册
+- Duplicate entry (2x): 2026-04-16-增長突然停了，大概率不是流量問題
+- Duplicate entry (2x): 2026-04-16-大學LOGO火出圈，中式美學驚艷一眾網友！
+- Duplicate entry (2x): 2026-04-16-小紅書「新朋友營地」落地三亞，海邊新品發佈有了新樣本
+- Duplicate entry (2x): 2026-04-16-快倒閉的矽谷神鞋，轉行 AI 股價暴漲 7 倍，龍蝦之父都懵了
+- Duplicate entry (2x): 2026-04-16-批量刪文封號？微信重拳出手打擊純AI寫作！
+- Duplicate entry (2x): 2026-04-16-民间鬼才爆改slogan淘宝汗流浃背了
+- Duplicate entry (2x): 2026-04-16-用網友杯貼做圍擋，喜茶市場部美商極高！
+- Duplicate entry (2x): 2026-04-16-笑不活了！農夫山泉把離職的產品經理逼出來了
+- Duplicate entry (2x): 2026-04-16-關於小紅書，我真希望有人早告訴我這些
+- Duplicate entry (2x): 2026-04-17-「海外版TOPTALK」釋放最強信號，速賣通憑什麼成為品牌出海新主場？
+- Duplicate entry (2x): 2026-04-17-专访大事件：用内容替代广告、用达人替代媒介
+- Duplicate entry (2x): 2026-04-17-亚朵品牌部的工作，贩卖「平静」
+- Duplicate entry (2x): 2026-04-17-招商的尽头是三观一致
+- Duplicate entry (2x): 2026-04-17-活動行銷又回來了！線下Event成最高效獲客渠道
+- Duplicate entry (2x): 2026-04-17-淘寶第一文案「步履不停」，又出神作了
+- Duplicate entry (2x): 2026-04-17-深度｜Tiffany高級珠寶「活」起來的秘密都在這裡！
+- Duplicate entry (2x): 2026-04-17-行銷污名化久矣，但0人在意
+- Duplicate entry (2x): 2026-04-17-龍雀大咖開講｜風語筑：科技賦能城市IP
+- Duplicate entry (2x): 2026-04-18-中產失靈，但星巴克還想「死磕」溢價
+- Duplicate entry (2x): 2026-04-18-你們戶外廣告，真的沒有創作瓶頸嗎？
+- Duplicate entry (2x): 2026-04-18-從「護城河」到「一魚多吃」，愛奇藝詳解AI時代長視頻IP的生存法則
+- Duplicate entry (2x): 2026-04-18-為啥卡戴珊之母成了全球年輕人的財神？
+- Duplicate entry (2x): 2026-04-19-LVMH集团高管细说：中国客群、路易威登、迪奥、蒂芙尼
+- Duplicate entry (2x): 2026-04-19-一张包装纸，成了Kiri的最佳广告位
+- Duplicate entry (2x): 2026-04-19-文章复出火上热搜现状让人唏嘘
+- Duplicate entry (2x): 2026-04-19-瑞幸終結咖啡9.9元時代
+- Duplicate entry (2x): 2026-04-20-小紅書博主合作Brief撰寫指南第三期
+- Duplicate entry (2x): 2026-04-20-艾梵達押注微酵護發雅詩蘭黛集團加碼高端護發賽道
+- Duplicate entry (2x): 2026-04-21-一个过气APP，吃透已婚女人的钱包
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年 Q1 零售業復盤：開店邏輯兩極分化
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年，時尚資本交易數量更少、但規模更大？
+- Duplicate entry (2x): 2026-04-21-女性的瑜伽褲，中產的遮羞布
+- Duplicate entry (2x): 2026-04-21-為什麼這一次，品牌不願錯過《穿普拉達的女王2》
+- Duplicate entry (2x): 2026-04-23-2026 日內瓦鐘表展：焦慮蔓延，瑞表如何交卷？
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯。
+- Duplicate entry (2x): 2026-04-23-給所有小紅書品牌商家潑盆冷水
+- Duplicate entry (2x): 2026-04-23-美國百年太妃糖品牌Roca樂家被全資收購
+- Duplicate entry (2x): 2026-04-24-AI時代，品牌的分水嶺是「內容品牌化」
+- Duplicate entry (2x): 2026-04-24-用「活人感」做科技社區，小紅書能成嗎？
+- Duplicate entry (2x): 2026-04-25-「中國製造」升級如何重新定義中國品牌？
+- Duplicate entry (2x): 2026-04-25-增速降至2.5%背后：MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-04-26-小紅書經營實錄：50條價值百萬的實戰心得
+- Duplicate entry (2x): 2026-04-26-歐萊雅BRANDSTORM 2026中國總決賽落幕，AI成美妝創新核心議題
+- Duplicate entry (2x): 2026-04-27-Starboy：掛在包上的 AI 時尚潮玩？
+- Duplicate entry (2x): 2026-04-27-前蘋果工程師做了款體感遊戲機，銷量拳打Xbox，營收數億美元
+- Duplicate entry (2x): 2026-04-28-Snapchat推出AI驅動的對話式廣告功能
+- Duplicate entry (2x): 2026-04-28-人人都能用AI做設計，但做不出好看的東西，這才是設計師的機會
+- Duplicate entry (2x): 2026-04-28-孩子王CTO亲授：我们只用AI做脏活累活，就狂赚30亿
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理主張上線，保護的是誰？
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理的本質：不是「禁用」，而是「重劃賽道」
+- Duplicate entry (2x): 2026-04-28-工作文件全公开，马吉拉这次不装了？
+- Duplicate entry (2x): 2026-04-28-年入10亿美元的Alo Yoga落子香港，中国市场能否复制北美神话？
+- Duplicate entry (2x): 2026-04-28-年轻人为兴趣上头？背后都藏着情绪密码
+- Duplicate entry (2x): 2026-04-28-当注意力稀缺，品牌营销靠什么突围？
+- Duplicate entry (2x): 2026-04-28-我们的品牌为啥缺少娱乐精神
+- Duplicate entry (2x): 2026-04-28-排队15000+的饺子馆做了个Skill，却带来了AI时代的营销新思路
+- Duplicate entry (2x): 2026-04-28-独家：《逐玉》认养一头牛出圈幕后
+- Duplicate entry (2x): 2026-04-28-用AI做IP，文娛科技公司星迹互動完成數千萬元天使輪融資
+- Duplicate entry (2x): 2026-04-28-绍兴天章寺爆火，景区留白美学成为文旅破局关键
+- Duplicate entry (2x): 2026-04-28-聊聊作为生意的非标商业
+- Duplicate entry (2x): 2026-04-28-被群嘲的“最丑”小车，凭什么逆袭大卖？
+- Duplicate entry (2x): 2026-04-28-让珠宝拥抱阳光和大海，90岁的FRED斐登为何更年轻了？
+- Duplicate entry (2x): 2026-04-28-逃不开的经济周期，以及对未来的5个建议
+- Duplicate entry (2x): 2026-04-28-选品和打法都能被抄走，唯有情感锚点是你的终极护城河
+- Duplicate entry (2x): 2026-04-28-重AI+轻IP+做自己，2026年普通人低成本做一人公司的最佳方案
+- Duplicate entry (2x): 2026-04-28-金鱼在下沉我们在捞世界｜第三届沿海公路音乐节回顾
+- Duplicate entry (2x): 2026-04-28-降價促銷失靈？當大眾尋求心靈满足，情绪行銷才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-28-雀巢正在建立一套新的消费者洞察系统
+- Duplicate entry (2x): 2026-04-28-风语筑董事长李晖：科技赋能城市IP，重构文旅增长的边界
+- Duplicate entry (2x): 2026-04-29-90後小鎮女孩離開教培大廠，三年創造2億GMV的倔強人生
+- Duplicate entry (2x): 2026-04-30-Real Talk｜30 年，李东田与他的「美学江湖」
+- Duplicate entry (2x): 2026-04-30-一台 LABUBU 冰箱，装得下泡泡玛特的野心吗？
+- Duplicate entry (2x): 2026-04-30-两大根变量重塑消费逻辑：基诺浦的母婴生态化思考
+- Duplicate entry (2x): 2026-04-30-从“无人设”到“强人设”，我的自媒体才开始赚到钱
+- Duplicate entry (2x): 2026-04-30-创业第8年，刀法走的每一步，都是人群战略
+- Duplicate entry (2x): 2026-04-30-告别知识带货 东方甄选的“线上山姆”梦
+- Duplicate entry (2x): 2026-04-30-品牌拿着旧地图，去不了新大陆
+- Duplicate entry (2x): 2026-04-30-商业洞察｜奢侈品巨头直谈危机，密集的股东大会释放了哪些信号？
+- Duplicate entry (2x): 2026-04-30-商业洞察｜户外运动赛道集体换帅：红利退潮，专业为王？
+- Duplicate entry (2x): 2026-04-30-头部视频播客一档难求，高端美奢品牌在B站抢什么？
+- Duplicate entry (2x): 2026-04-30-巨富长里的宝藏，这条有故事的马路复活，成了年轻人潮流乐园
+- Duplicate entry (2x): 2026-04-30-年销2.65亿，毛利率超6成，这个160年老字号闯关IPO
+- Duplicate entry (2x): 2026-04-30-把文化做成刚需，这碗面让老外彻底“真香”
+- Duplicate entry (2x): 2026-04-30-法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化
+- Duplicate entry (2x): 2026-04-30-白鸦X郑敏丨万字对谈：AI抢跑，品牌审美的时代分野
+- Duplicate entry (2x): 2026-05-01-2026 個人品牌網站賺錢攻略我用秒站自媒體變現 130 萬實戰心得 - 亨利
+- Duplicate entry (2x): 2026-05-01-借航天展推「反向技術輸出」，自然堂試煉敘事資源轉化的產品力
+- Duplicate entry (2x): 2026-05-02-IP联名进入造场营销时代巧乐兹把哈利波特做成了快乐魔法地图
+- Duplicate entry (2x): 2026-05-02-亚洲首家“MK旅行吧”落地北京国贸，MICHAEL KORS把“生活方式”推向
+- Duplicate entry (2x): 2026-05-02-新消费品牌增长，不要只会做内容，要设计产品接触点
+- Duplicate entry (2x): 2026-05-02-麦当劳贴脸唱反调，汉堡王：好歹毒的商战！
+- Duplicate entry (2x): 2026-05-04-2026购物中心招商，到底难在哪？
+- Duplicate entry (2x): 2026-05-04-Fabletics如何成長為美國最大的DTC運動服品牌
+- Duplicate entry (2x): 2026-05-04-“增收不增利”，宠物食品行业的品牌化代价？
+- Duplicate entry (2x): 2026-05-04-“香水热”见顶了吗？
+- Duplicate entry (2x): 2026-05-04-中女的愉己與體面
+- Duplicate entry (2x): 2026-05-04-从卖点竞争到情绪竞争
+- Duplicate entry (2x): 2026-05-04-以文學意象為源頭而非裝飾
+- Duplicate entry (2x): 2026-05-04-何润东“零成本”翻红
+- Duplicate entry (2x): 2026-05-04-宠物食品行业的品牌化代价
+- Duplicate entry (2x): 2026-05-04-拉美電商激戰與中國供應鏈博弈
+- Duplicate entry (2x): 2026-05-04-新消費品牌講故事不能只講初心還要講場景
+- Duplicate entry (2x): 2026-05-04-新消费下半场：从卖点竞争到情绪竞争
+- Duplicate entry (2x): 2026-05-04-最頂級的行銷是看不見的行銷
+- Duplicate entry (2x): 2026-05-04-未来轻资产市集_商业市集：从“事件型”转化为“节律型”资产
+- Duplicate entry (2x): 2026-05-04-杭州萬象城香氛節體驗分析
+- Duplicate entry (2x): 2026-05-04-沉浸式商业丨“当美食节进入细分赛道”：餐饮造节的破局之路
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜“跟着电影去旅行”，“电影+文旅”沉浸营造地方光影文旅新场景、新业
+- Duplicate entry (2x): 2026-05-04-沉浸式阅读｜“书店+文旅”，沉浸重构以书香为媒的城市文化地标与文旅引力场
+- Duplicate entry (2x): 2026-05-04-第一篇：困局篇（2026购物中心招商，到底难在哪？）
+- Duplicate entry (2x): 2026-05-04-购物中心的下一站内容战争
+- Duplicate entry (2x): 2026-05-04-香氛品牌的困局與破局
+- Duplicate entry (3x): 2026-05-06-Old Navy引進零售娛樂老將重振品牌
+- Duplicate entry (2x): 2026-05-06-Old Navy找來零售娛樂老將重振品牌轉型
+- Duplicate entry (2x): 2026-05-06-反算法的二十五歲播客人如何用深度訪談打進AI核心圈層
+- Duplicate entry (2x): 2026-05-06-品牌部門如何從成本中心變成利潤引擎
+- Duplicate entry (2x): 2026-05-06-行銷人在AI時代如何保持人性
+- Duplicate entry (2x): 2026-05-06-行銷人如何在Possible大會調適AI時代的人性張力
+- Duplicate entry (3x): 2026-05-07-對話孫來春：年入25億的林清軒不想做中國歐萊雅
+- Duplicate entry (2x): 2026-05-08-2026-Q1-人事變動盤點-上-震盪之際向掌舵者動刀
+- Duplicate entry (2x): 2026-05-08-Ffern-一個小眾香水品牌-很懂銷售自然
+- Duplicate entry (2x): 2026-05-08-TOP-TOY二衝上市-賣別人的IP難賺錢
+- Duplicate entry (2x): 2026-05-08-一人商業的第一步-是和全部的自己握手言和
+- Duplicate entry (3x): 2026-05-08-互聯網泡沫撇清-新一代數字品牌強勢碾壓初代玩家
+- Duplicate entry (2x): 2026-05-08-做IP-你會的越多-越容易找不到客戶
+- Duplicate entry (2x): 2026-05-08-別把情緒價值用爛了
+- Duplicate entry (3x): 2026-05-08-品牌年輕化-不是討好年輕人
+- Duplicate entry (3x): 2026-05-08-從山姆到胖東來-零售大店的邏輯變了
+- Duplicate entry (3x): 2026-05-08-從新六百YOUNG開業-看老百貨如何年輕化突圍
+- Duplicate entry (2x): 2026-05-08-從玩梗刷屏到品牌廣告-AI短片的打開方式升級了
+- Duplicate entry (3x): 2026-05-08-我們的品牌為啥缺少娛樂精神
+- Duplicate entry (2x): 2026-05-08-當你接觸的人越多-人性的本質就是-低詆毀-同欣賞-高鼓勵
+- Duplicate entry (2x): 2026-05-08-當品牌讀懂奧德賽時期-五四短片走進年輕人的心裡
+- Duplicate entry (2x): 2026-05-08-當團隊不敢講真話-公司就離完蛋不远了
+- Duplicate entry (2x): 2026-05-08-發現一個奇怪的現象-哪怕家裡條件再差-一旦子女成家-全家精氣神大變
+- Duplicate entry (3x): 2026-05-09-如何打造長紅產品讀懂這五個底層邏輯
+- Duplicate entry (3x): 2026-05-09-文科生的AI逆襲對話Anthropic聯合創始人
+- Duplicate entry (2x): 2026-05-10-不上班也能月入過萬自由職業的魅與祛魅
+- Duplicate entry (2x): 2026-05-10-價值觀IP正在吃掉知識IP營銷的盡頭不是賣貨是表態
+- Duplicate entry (2x): 2026-05-10-所有品牌都應清晰認知自身的美學定位
+- Duplicate entry (3x): 2026-05-11-El Pollo Loco 以利潤、行銷與菜單動能持續領跑
+- Duplicate entry (3x): 2026-05-11-反脆弱公司治理《精益創業》作者Eric Ries如何防止公司腐化
+- Duplicate entry (2x): 2026-05-11-快來領香水禮包！這個品牌上海首家形象店入駐新六百YOUNG
+- Duplicate entry (2x): 2026-05-11-營銷不是到處發力，是讓用戶反覆聽懂同一件事
+- Duplicate entry (3x): 2026-05-11-觀夏、宋朝、野獸派，其實在做三種完全不同的香氛。
+- Duplicate entry (3x): 2026-05-13-EB Denim 旗艦店：零售、創意工作室與倉儲三合一
+- Duplicate entry (3x): 2026-05-13-零食品牌效率轉型：從做大到做對的經營選擇
+- Duplicate entry (3x): 2026-05-14-2026年香氛報告：關鍵趨勢，品牌和香氣
+- Duplicate entry (3x): 2026-05-14-8集超7.5億播放，《ENEMY》給短劇圈又上了一課
+- Duplicate entry (2x): 2026-05-14-AI耳朵火了，悄悄賣出150萬台，再獲億元級融資！
+- Duplicate entry (3x): 2026-05-14-lululemon的流量密碼，終於藏不住了
+- Duplicate entry (3x): 2026-05-14-北上廣00後女生，開始買男裝穿了
+- Duplicate entry (3x): 2026-05-14-吃香將成為中國香氛市場的未來趨勢
+- Duplicate entry (3x): 2026-05-14-從食品到餐飲，複購率高的品牌都有這7個共同點
+- Duplicate entry (3x): 2026-05-14-情緒消費拼的不是賣點，而是生活洞察
+- Duplicate entry (3x): 2026-05-14-泡泡瑪特跨界、愛奇藝建庫：內容產業正面臨一場大遷徙
+- Duplicate entry (3x): 2026-05-14-當海外品牌生意進入精耕時代，618該怎麼找增長的確定性
+- Duplicate entry (3x): 2026-05-15-一座花園城一張長期主義底牌
+- Duplicate entry (3x): 2026-05-15-下一輪個人IP的紅利就是把你的體驗變成錢
+- Duplicate entry (3x): 2026-05-15-不販賣焦慮中女時代的錢都被誰賺走了
+- Duplicate entry (3x): 2026-05-15-麥記牛奶：糖水賽道的窗口期策略
+- Duplicate entry (3x): 2026-05-17-俞浩到底想幹什麼？
+- Duplicate entry (3x): 2026-05-17-肯德基也要被賣了？
+- Duplicate entry (3x): 2026-05-17-開放式耳機的品類革命
+- Duplicate entry (2x): 2026-05-18-Markdown 已死，HTML 登基，極客思維正在毀掉你的交付力
+- Duplicate entry (2x): 2026-05-18-一場飛拉達的背後，猛獁象如何讓戶外走進大眾生活
+- Duplicate entry (3x): 2026-05-18-將社群滑動轉化為餐廳到訪
+- Duplicate entry (2x): 2026-05-18-少女風，憑什麼火過快時尚？
+- Duplicate entry (3x): 2026-05-18-從亞洲走向世界，Netflix Ads首個出海營銷活動釋放了3個關鍵信號
+- Duplicate entry (3x): 2026-05-18-快閃，正在成為商場的主菜
+- Duplicate entry (2x): 2026-05-18-正式確診為 P 人！雀巢8次方的新包裝又雙叒叕對樂迷下手了
+- Duplicate entry (2x): 2026-05-18-母親節營銷案例複盤，不歌頌只看見
+- Duplicate entry (2x): 2026-05-18-為什麼追年輕人的商業，容易火但不容易持久？
+- Duplicate entry (3x): 2026-05-18-線上賣貨最大的誤區，把上架當成了決策現場
+- Duplicate entry (3x): 2026-05-18-追求摩擦感設計與製造麻煩的差別
+- Duplicate entry (3x): 2026-05-18-鄭州商業，實用主義的極致演繹
+- Duplicate entry (3x): 2026-05-18-零售新規則：零售媒體網絡成品牌必答題
+- Duplicate entry (2x): 2026-05-18-韓國時尚卷王殺入中國，3家店開局就火，放話要再開100家
+- Duplicate entry (2x): 2026-05-18-飲料瓶裡的故事，你得喝完才看得到
+- Duplicate entry (3x): 2026-05-19-小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路
+- Duplicate entry (3x): 2026-05-20-音樂帶動旅遊：新加坡與環球音樂的城市品牌策略
+- Duplicate entry (3x): 2026-05-22-Everlane 賣給 Shein，透明度究竟值多少
+- Duplicate entry (3x): 2026-05-24-珀萊雅收購花知曉美妝界安踏尚未誕生
+- Duplicate entry (3x): 2026-05-25-Sephora 引領美容科技革命
+- Duplicate entry (3x): 2026-05-25-Sephora引領美妝科技：實體與數位融合的零售革命
+- Duplicate entry (3x): 2026-05-26-什麼時候開始，銷售這件事要通過做內容才能實現了？
+- Duplicate entry (3x): 2026-05-26-企業增長卡住，最先亂掉的往往是內部語言
+- Duplicate entry (3x): 2026-05-26-對話雲鯨CEO張峻彬：理解人性，告別天真
+- Duplicate entry (2x): 2026-05-26-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-26-理查米爾如何打造有人情味的品牌摯友大家庭
+- Duplicate entry (3x): 2026-05-26-產品越好，為什麼越賣不上價？
+- Duplicate entry (3x): 2026-05-26-真正厲害的老闆，最後都回到了常識
+- Duplicate entry (3x): 2026-05-26-納瓦爾思維：人一旦有了體系，做什麼都容易成功
+- Duplicate entry (3x): 2026-05-26-親子關係改變，童裝品牌跟著變？我和巴拉巴拉總經理聊了聊
+- Duplicate entry (3x): 2026-05-27-Little Caesars 推出盲盒：F＆B 品牌的集換式行銷
+- Duplicate entry (3x): 2026-05-27-lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍
+- Duplicate entry (3x): 2026-05-27-商業洞察｜演算法以外，誰在重塑戛納電影節的行銷博弈法則
+- Duplicate entry (3x): 2026-05-27-商業洞察｜當獨立品牌不再獨立，奢侈品資本還將如何流轉
+- Duplicate entry (3x): 2026-05-28-為什麼大健康用戶越來越難成交？
+- Duplicate entry (3x): 2026-05-28-紐約零售大變局：奢侈品退潮、SoHo崛起與品牌定位的終極考驗
+- Duplicate entry (3x): 2026-05-29-AI之後，品牌內容開始PK誰更朴素
+- Duplicate entry (3x): 2026-05-29-Puma 押中了 HYROX？
+- Duplicate entry (3x): 2026-05-29-The Set奢華酒店會員制：以情感連結取代積點獎勵
+- Duplicate entry (2x): 2026-05-29-lululemon的流量密碼，終於藏不住了
+- Duplicate entry (2x): 2026-05-29-不卷成績如何塑造一個品牌的立場與敘事？
+- Duplicate entry (2x): 2026-05-29-優衣庫這本城市刊物的深圳版新作，你拿到了嗎？
+- Duplicate entry (3x): 2026-05-29-喜茶的拙感
+- Duplicate entry (3x): 2026-05-29-夯爆了寫成劣爆了，711錯字海報贏麻了！
+- Duplicate entry (3x): 2026-05-29-山下有松市場部，來了一位天才
+- Duplicate entry (2x): 2026-05-29-從情緒物到情緒累：青年潮玩的消費實踐與情感斷連
+- Duplicate entry (3x): 2026-05-29-情緒消費持續復購的產品，通常抓住了這3個穩定場景
+- Duplicate entry (3x): 2026-05-29-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-29-潔麗雅風波，不是公關危機那麼簡單
+- Duplicate entry (2x): 2026-05-29-為什麼母嬰品牌，越來越需要生活美學敘事？
+- Duplicate entry (3x): 2026-05-29-當消費者開始為治癒感買單，這個品牌把藥材好寫成了詩
+- Duplicate entry (3x): 2026-05-29-賣衣服的星巴克，在等待它的蜜雪时刻
+- Duplicate entry (3x): 2026-05-29-鈴木敏文逝世：他與7-Eleven的三個反常識故事
+- Duplicate entry (3x): 2026-05-30-Pacsun的Z世代共創策略
+- Duplicate entry (3x): 2026-05-30-奶茶界ENFP，用快樂感染年輕人
+- Duplicate entry (3x): 2026-05-30-聊聊那些拿到結果的主理人
+- Duplicate entry (3x): 2026-05-30-自然堂連續15年ESG報告：把可持續做成一門生意
+- Duplicate entry (3x): 2026-05-30-花知曉接住了珀萊雅的增長焦慮
+- Duplicate entry (3x): 2026-05-30-誠品衝刺營運 吳旻潔宣布大阪開新店、首推誠品會員聚所
+- Duplicate entry (3x): 2026-05-30-貓 dead 已經有小天才手錶了 (貓都已經有小天才手錶了)
+- Duplicate entry (3x): 2026-06-01-一場設計師大賽背後中國時尚產業正在補齊哪塊基礎設施
+- Duplicate entry (2x): 2026-06-01-小紅書上精神細糠正在生長
+- 7 blank lines inside entry list
+
+### 商業模式.md
+- Missing frontmatter
+- Duplicate entry (2x): 2025-12-22-深度｜日本爆紅「穿搭訂閱制」！續約率 95%、年收近 50 億，airClos
+- Duplicate entry (2x): 2026-02-10-2025百貨集團版圖大洗牌！業績平均成長1%，這業態發威意外成救星
+- Duplicate entry (2x): 2026-03-13-數位轉型是什麼？從定義、三階段到成功案例一次看懂
+- Duplicate entry (2x): 2026-03-27-美國 AI 新政：告別「50 個實驗室」時代 華盛頓要開一扇新寬門
+- Duplicate entry (2x): 2026-03-29-40億營收卻不蓋一間央廚！豆府憑什麼成上市餐飲獲利王，淨利率狂壓王品、瓦城？
+- Duplicate entry (2x): 2026-03-29-AI 焦慮，天塌了的故事
+- Duplicate entry (2x): 2026-03-29-OpenAI 關閉 Sora 的真正原因
+- Duplicate entry (2x): 2026-03-29-一條創始人徐滬生：做個人IP應該如何找選題？
+- Duplicate entry (2x): 2026-03-29-併購潮復甦！2025年全球併購總值達4.7兆美元，台灣企業如何贏在新賽局？
+- Duplicate entry (2x): 2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-03-29-從虧損 40 億到獲利翻 6 倍！亞瑟士如何靠「減法戰略」逆轉勝？3 大關鍵策
+- Duplicate entry (2x): 2026-03-29-最好的商業模式是什麼？
+- Duplicate entry (2x): 2026-03-29-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-03-30-AI 會取代管顧嗎？從 BCG 顧問的 AI 工作流，看懂為何仍需要「人」
+- Duplicate entry (2x): 2026-03-30-不權威發布：2026 年值得關注的 26 個趨勢
+- Duplicate entry (2x): 2026-03-30-做長期自媒體生意，最後看的就 2 個東西：你是誰 + 核心方法論
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長丨一
+- Duplicate entry (2x): 2026-03-31-AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河
+- Duplicate entry (2x): 2026-03-31-Mistral AI募資8.3億美元在巴黎近郊建立資料中心
+- Duplicate entry (2x): 2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友
+- Duplicate entry (2x): 2026-03-31-四家機器人廠商，一起投了一家數據公司
+- Duplicate entry (2x): 2026-03-31-壁仞科技營收三年增16倍，國產算力芯片業績兌現期
+- Duplicate entry (2x): 2026-03-31-小紅書2025年經營趨勢回顧：心智占領與小生意時代
+- Duplicate entry (2x): 2026-03-31-營收三年增16倍，壁仞科技迎來業績兌現期
+- Duplicate entry (2x): 2026-03-31-白嫖迪麗熱巴拍土味短劇這家A股公司把自己作退市了
+- Duplicate entry (2x): 2026-03-31-追覓生態鏈AI儲能融入智慧家居生態
+- Duplicate entry (2x): 2026-03-31-開源產品的盈利破局：從飛書CLI到千問開源，產品經理的生態操盤術
+- Duplicate entry (2x): 2026-03-31-黑石也虧了
+- Duplicate entry (2x): 2026-04-01-AI日報：從Claude Code泄露到宇樹IPO，AI行業的冰與火之歌
+- Duplicate entry (2x): 2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新
+- Duplicate entry (2x): 2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態
+- Duplicate entry (2x): 2026-04-02-2026互聯網變天了：AI不再是互聯網的工具，AI是互聯網新底座
+- Duplicate entry (2x): 2026-04-03-AI時代內容審核：前Facebook內部人士創立的Moonbounce獲120
+- Duplicate entry (2x): 2026-04-03-Anthropic收購生技新創Coefficient Bio，交易金額達4億美
+- Duplicate entry (2x): 2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資
+- Duplicate entry (2x): 2026-04-03-神州數碼2025年營收超1400億AI業務增長近五成
+- Duplicate entry (2x): 2026-04-03-黑燈實驗室戴納科技獲近億元融資
+- Duplicate entry (2x): 2026-04-05-當每一次生成都要花錢：從Sora之死看AI時代的產品新邏輯
+- Duplicate entry (2x): 2026-04-07-AI淘金熱讓私人財富轉向更早期、更高風險的押注
+- Duplicate entry (2x): 2026-04-07-紅熊AI完成2.1億元A輪融資，切入物理AI賽道
+- Duplicate entry (2x): 2026-04-08-2025-2026中國吃喝玩樂消費洞察：情緒金字塔重構，品牌如何借梯媒全域破局
+- Duplicate entry (2x): 2026-04-08-2026年，一人公司最完整的系統打法｜保母級5步法
+- Duplicate entry (2x): 2026-04-08-AI公司員工，正在批量成為千萬富翁
+- Duplicate entry (2x): 2026-04-08-CNY品牌行銷全攻略：四大場景品廣投放策略與案例分享
+- Duplicate entry (2x): 2026-04-08-Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付
+- Duplicate entry (2x): 2026-04-08-Kimi估值涨至180亿美元，3个月翻4倍；腾讯QClaw开启全量公测；霸王茶
+- Duplicate entry (2x): 2026-04-08-Zara母公司創歷史最佳業績：利潤突破62億歐元
+- Duplicate entry (2x): 2026-04-08-「天穹」之下，一場中國產業鏈的集體突圍
+- Duplicate entry (2x): 2026-04-08-下場做品牌，「新拼姆」能成為拼多多的二級火箭嗎？
+- Duplicate entry (2x): 2026-04-08-中國奢侈品市場格局改寫：LV、老舖、愛馬仕位列前三
+- Duplicate entry (2x): 2026-04-08-別盯著老業務扣成本了！用AI做新事的成本，遠低於做老事
+- Duplicate entry (2x): 2026-04-08-創業者自述：我為什麼放棄做Web3支付？
+- Duplicate entry (2x): 2026-04-08-劉潤：2026年，中小企業有個大機會
+- Duplicate entry (2x): 2026-04-08-半年賺了14億，曾經「打骨折」的中產品牌，憑什麼讓中國女人回頭瘋搶？
+- Duplicate entry (2x): 2026-04-08-專訪群玉山＆愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-04-08-扎根數字，向上生長：零售企業的長期主義轉型
+- Duplicate entry (2x): 2026-04-08-拼多多Temu將孵化自營品牌；阿里國際推電商版「龍蝦」；TikTok Shop
+- Duplicate entry (2x): 2026-04-08-拼多多將投千億做品牌自營；老鋪黃金2025中國營收超越愛馬仕｜零售電商週報
+- Duplicate entry (2x): 2026-04-08-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長｜一
+- Duplicate entry (2x): 2026-04-08-沉浸式商業｜「濱水商業」重塑：新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜「十五五」文旅創新圖景，從全國兩會看文旅融合的深度變革與趨勢前瞻
+- Duplicate entry (2x): 2026-04-08-泡泡瑪特不再性感
+- Duplicate entry (2x): 2026-04-08-深度｜香港，奢侈品零售業復甦了嗎？
+- Duplicate entry (2x): 2026-04-08-為什麼拼多多看起來沒有「AI焦慮」
+- Duplicate entry (2x): 2026-04-08-當龍蝦代替我們去工作和消費，傳統經濟學法則還會成立嗎？
+- Duplicate entry (2x): 2026-04-08-素人起家、年銷破億，這群漂亮女孩在淘寶活成了爽文大女主
+- Duplicate entry (2x): 2026-04-08-美團的真正威脅藏在暗處
+- Duplicate entry (2x): 2026-04-08-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-04-08-透過這場直播，我們看到了周雲傑的思考
+- Duplicate entry (2x): 2026-04-08-阿那亞研學交流中心×感性城市，「一堂運營課」首期招募
+- Duplicate entry (2x): 2026-04-08-阿里、字節，死磕一個昔日「全軍覆沒」的賽道
+- Duplicate entry (2x): 2026-04-08-阿里電商 AI 新動向：圍繞 Token 重構電商
+- Duplicate entry (2x): 2026-04-08-阿里預計2029財年即時零售業務板塊將實現整體盈利；椰樹集團要買50台機器人剝
+- Duplicate entry (2x): 2026-04-08-電商品牌如何做好內容行銷（萬字）
+- Duplicate entry (2x): 2026-04-08-順應「輕奢化」趨勢，Michael Kors 和 Jimmy Choo 如何調
+- Duplicate entry (2x): 2026-04-08-麥當勞市場部，來了一位天才
+- Duplicate entry (2x): 2026-04-09-Canva加碼AI與行銷自動化：收購Simtheory與Ortto
+- Duplicate entry (2x): 2026-04-09-Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？
+- Duplicate entry (2x): 2026-04-09-PM平衡：內容審核的「不可能三角」
+- Duplicate entry (2x): 2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？
+- Duplicate entry (2x): 2026-04-09-一個225平方公里的「庄」，如何成為AI「頂流」
+- Duplicate entry (2x): 2026-04-09-對話前阿里高管、天貓設計家CEO：這些年燒掉千億，家裝行業還能怎麼做？
+- Duplicate entry (2x): 2026-04-09-對話美團GN06劉炯：美團為什麼做了一款AI瀏覽器？
+- Duplicate entry (2x): 2026-04-10-100萬如何參與千萬資產？剖析通膨時代年輕世代的新買房策略
+- Duplicate entry (2x): 2026-04-10-Autopass進軍日本，解決熊本「台積村」交通陣痛！一個ID搞定租車、支付、
+- Duplicate entry (2x): 2026-04-10-Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力
+- Duplicate entry (2x): 2026-04-10-Outlet＋LaLaport發威，三井超車微風擠進全台百貨前四強
+- Duplicate entry (2x): 2026-04-10-《AI創新百強》百年福壽靠AI「精準秤重」戰勝誤差，準確率95%、救回百萬損失
+- Duplicate entry (2x): 2026-04-10-一邊「被罵」，一邊「賣爆」，Tagi.到底押中了什麼？
+- Duplicate entry (2x): 2026-04-10-亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓
+- Duplicate entry (2x): 2026-04-10-出生率降了，營收反增30億，母嬰零售巨頭孩子王來講AI落地了
+- Duplicate entry (2x): 2026-04-10-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-10-實體快閃、造型交通卡到授權酒款！解密鑫夢想三大艦隊
+- Duplicate entry (2x): 2026-04-10-從「路易號」看高端商業體如何把握「天時地利人和」
+- Duplicate entry (2x): 2026-04-10-情緒消費越火，普通產品越難賣
+- Duplicate entry (2x): 2026-04-10-我們正在跑步進入電商下半場
+- Duplicate entry (2x): 2026-04-10-找不到差異化？90%的失敗卡在競爭分類第一步
+- Duplicate entry (2x): 2026-04-10-拒絕募資、堅持免費 15 年：iLovePDF 如何從一人工具做到全球流量前 
+- Duplicate entry (2x): 2026-04-10-日式新商場，真正新在哪？
+- Duplicate entry (2x): 2026-04-10-日本販賣機大廠Dydo為何會虧損？產業第一線觀察，販賣機市場正在轉型成長
+- Duplicate entry (2x): 2026-04-10-美團為何做AI瀏覽器：GN06負責人劉炯訪談
+- Duplicate entry (2x): 2026-04-10-零代碼上線日式AI酒館：AI產品經理實戰四天全紀錄
+- Duplicate entry (2x): 2026-04-10-麥肯錫重磅報告：2026年18大未來產業「競技場」
+- Duplicate entry (2x): 2026-04-11-Anthropic收入憑什麼反超OpenAI，終於有人把這事說清楚了
+- Duplicate entry (2x): 2026-04-11-和幾位小紅書操盤手聊了8小時，乾貨全在這
+- Duplicate entry (2x): 2026-04-11-給DeepSeek的最後一封催更信
+- Duplicate entry (2x): 2026-04-12-2026 年，商家如何靠品質在淘寶直播找回確定性增長？
+- Duplicate entry (2x): 2026-04-12-2026年AI產品商業化核心邏輯從功能到規模營收的三個卡點
+- Duplicate entry (2x): 2026-04-12-京東圍繞供應鏈下場的那些事
+- Duplicate entry (2x): 2026-04-12-从日本翻身看：这次谁能扛住高油价？
+- Duplicate entry (2x): 2026-04-12-公司如何擁抱 AI 時代，這是一道組織題
+- Duplicate entry (2x): 2026-04-12-為什麼說電商消費需要一場品質審美
+- Duplicate entry (2x): 2026-04-12-當瀏覽器開始替你看網頁AI瀏覽器正在拆掉它腳下的網
+- Duplicate entry (2x): 2026-04-12-重新認識泡泡瑪特
+- Duplicate entry (2x): 2026-04-13-2026五大AI經營趨勢：洞察品牌的長效增長路徑｜貝恩鄧旻演講精要
+- Duplicate entry (2x): 2026-04-13-AI 會帶來大規模失業嗎？
+- Duplicate entry (2x): 2026-04-13-Le Labo 聞獻與Ffern的「交點」，正在重塑消費邏輯
+- Duplicate entry (2x): 2026-04-13-中國的體驗經濟向何處去？萬豪集團地區總經理對談中金公司研究部總監｜2026年度
+- Duplicate entry (2x): 2026-04-13-估值2.5億，成立4個月，潮玩中的愛馬仕MOMOTOY獲數千萬元融資
+- Duplicate entry (2x): 2026-04-13-全聯林敏雄的兩場賭注：40億電子標籤挽回消費者，線上百億業績搶下數據主導權
+- Duplicate entry (2x): 2026-04-13-前大疆工程師創業陪伴機器人，李澤湘連投三輪，產品即將登陸眾籌
+- Duplicate entry (2x): 2026-04-13-創業老炮與00後，誰是下一代「一人公司」標準樣板
+- Duplicate entry (2x): 2026-04-13-台灣「軌道經濟」圖解｜南港建設密度全台第一、高雄亞灣鴻海進駐⋯四都投資熱點一次
+- Duplicate entry (2x): 2026-04-13-從大廠總監到創業3年，我把一人公司跑通了，方法都在這篇萬字長文裡
+- Duplicate entry (2x): 2026-04-13-新消費最殘酷的真相：大多數品牌從一開始就沒機會
+- Duplicate entry (2x): 2026-04-13-木鳥、途家、美團對打，平台春天行動開「卷」
+- Duplicate entry (2x): 2026-04-13-萬字拆解小雲雀產品分析：AI創作工具的破局與進化
+- Duplicate entry (2x): 2026-04-13-重新給小米稱個重
+- Duplicate entry (2x): 2026-04-13-阿里HappyHorse，一場關於「Token經濟」的陽謀
+- Duplicate entry (2x): 2026-04-15-1.2億觀眾，見證AI漫劇從狂熱到崩塌
+- Duplicate entry (2x): 2026-04-15-2026-2029預測：情緒消費將破4.5萬億，下一個風口在哪
+- Duplicate entry (2x): 2026-04-15-AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTec
+- Duplicate entry (2x): 2026-04-15-AI替代潮之下，跨境電商「賣鏟人」還好嗎？
+- Duplicate entry (2x): 2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長
+- Duplicate entry (2x): 2026-04-15-Owkin是誰？聯邦學習是什麼？一文看懂法國AI獨角獸如何加速新藥研發、拚解鎖
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰辜仲諒友人否認真正想買的人是媒體百億元競購戰開打
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰？辜仲諒友人否認、真正想買的人是媒體？「百億元」競購戰開打
+- Duplicate entry (2x): 2026-04-15-《明末》團隊解散背後：國產單機究竟還缺什麼？
+- Duplicate entry (2x): 2026-04-15-一年過去，潮玩行業沒能等來「第二個Labubu」
+- Duplicate entry (2x): 2026-04-15-一文彻底講透，情緒消費爆發的底層邏輯
+- Duplicate entry (2x): 2026-04-15-台灣碳費是偽命題？制度建置能力才是核心
+- Duplicate entry (2x): 2026-04-15-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-15-文策院資源如何讓林投姐妳叫什麼名字這部沉浸式VR創下93票房達成率
+- Duplicate entry (2x): 2026-04-15-日本汽車業已逼近生存關鍵點本田近70年來首次淨虧損背後揭日本競爭力流失真相
+- Duplicate entry (2x): 2026-04-15-沒補員工，營收竟年增2成！意藍押對哪3種特性模型，從企業搜尋引擎搖身「AI輿情
+- Duplicate entry (2x): 2026-04-15-瑞幸、凱娜克紛紛插旗台灣，全家、路易莎為何老神在在？
+- Duplicate entry (2x): 2026-04-15-粗門完成數千萬A+輪融資：AI時代讓更多人「出門」
+- Duplicate entry (2x): 2026-04-15-縣城貴婦，養活多少五星酒店？
+- Duplicate entry (2x): 2026-04-15-觀點｜從二手垃圾卡車出發！無畏旅遊帶著28萬旅客實踐「使命感旅行」，創下6.2
+- Duplicate entry (2x): 2026-04-16-10億紅包開打：國內大模型進入「拼多多式」戰爭
+- Duplicate entry (2x): 2026-04-16-Factory 15億估值：企業級AI工程代理的崛起
+- Duplicate entry (2x): 2026-04-16-Hermes 憑什麼兩個月接棒 OpenClaw？
+- Duplicate entry (2x): 2026-04-16-InsightFinder獲1500萬美元融資幫企業診斷AI代理故障
+- Duplicate entry (2x): 2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生
+- Duplicate entry (2x): 2026-04-16-中国经济，未来五年会发生怎样的变革？
+- Duplicate entry (2x): 2026-04-16-从卖房晚到品牌引领，华住中高端品牌正在给行业打一个样
+- Duplicate entry (2x): 2026-04-16-别什么都怪短剧
+- Duplicate entry (2x): 2026-04-16-即时零售下半场，为何自营成了普遍趋势
+- Duplicate entry (2x): 2026-04-16-增長突然停了，大概率不是流量問題
+- Duplicate entry (2x): 2026-04-16-快倒閉的矽谷神鞋，轉行 AI 股價暴漲 7 倍，龍蝦之父都懵了
+- Duplicate entry (2x): 2026-04-16-攀峰智能完成天使輪融資：打造電商Agent OS新賽道
+- Duplicate entry (2x): 2026-04-16-日本消费经济大师警告餐饮人卷价格正在走一条死路
+- Duplicate entry (2x): 2026-04-16-氪星晚報｜特斯拉上海生產人形機器人台積電AI供應吃緊
+- Duplicate entry (2x): 2026-04-16-關於小紅書，我真希望有人早告訴我這些
+- Duplicate entry (2x): 2026-04-17-2026穿山甲開發者夥伴交流會：提升APP經營能力，做開發者全生命週期的增長合
+- Duplicate entry (2x): 2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻
+- Duplicate entry (2x): 2026-04-17-AI教育產品Gizmo三年用戶40倍融資2200萬美元
+- Duplicate entry (2x): 2026-04-17-Loop獲9500萬美元：用AI預測供應鏈中斷
+- Duplicate entry (2x): 2026-04-17-「海外版TOPTALK」釋放最強信號，速賣通憑什麼成為品牌出海新主場？
+- Duplicate entry (2x): 2026-04-17-三人團隊AI Agent廣告平台20個月ARR破億
+- Duplicate entry (2x): 2026-04-17-专访大事件：用内容替代广告、用达人替代媒介
+- Duplicate entry (2x): 2026-04-17-亚朵品牌部的工作，贩卖「平静」
+- Duplicate entry (2x): 2026-04-17-享刻智能深耕餐飲場景：具身智能的差異化落地路徑
+- Duplicate entry (2x): 2026-04-17-享刻智能：不追人形機器人，深耕餐飲場景做具身智能落地派
+- Duplicate entry (2x): 2026-04-17-投变一体增长破局GroMore 2026升级打通开发者经营全链路
+- Duplicate entry (2x): 2026-04-17-招商的尽头是三观一致
+- Duplicate entry (2x): 2026-04-17-未来的公司将变成一种新物种一半媒体一半机器
+- Duplicate entry (2x): 2026-04-17-永远未完成的阿那亚
+- Duplicate entry (2x): 2026-04-17-活動行銷又回來了！線下Event成最高效獲客渠道
+- Duplicate entry (2x): 2026-04-17-空心村和3.2億老人，正在完成一場雙向奔赴
+- Duplicate entry (2x): 2026-04-18-2026年中國消費市場：前景展望樂觀
+- Duplicate entry (2x): 2026-04-18-AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面
+- Duplicate entry (2x): 2026-04-18-七家值得關注的AI初創公司：從安全服務到國防AI再到芯片崛起
+- Duplicate entry (2x): 2026-04-18-中產失靈，但星巴克還想「死磕」溢價
+- Duplicate entry (2x): 2026-04-18-人是第一要素，我認為這還遠遠不夠
+- Duplicate entry (2x): 2026-04-18-即時零售進入拼供應鏈深水區
+- Duplicate entry (2x): 2026-04-18-從「護城河」到「一魚多吃」，愛奇藝詳解AI時代長視頻IP的生存法則
+- Duplicate entry (2x): 2026-04-18-從電力到智力：拆解AI重塑商業效率
+- Duplicate entry (2x): 2026-04-18-智元機器人：從硬體製造到AI大模型平台開放生態
+- Duplicate entry (2x): 2026-04-18-智元機器人：要做AI大模型平台和開放生態
+- Duplicate entry (2x): 2026-04-19-2026年入局小紅書閉環電商，先讀這篇
+- Duplicate entry (2x): 2026-04-19-AI 產品定價，那套熟悉的方法，正在悄悄出賣你
+- Duplicate entry (2x): 2026-04-19-AI大事件：機器人從「能表演」走向「能干活」；Cursor 500億估值融資、
+- Duplicate entry (2x): 2026-04-19-AI新創的十二個月窗口期
+- Duplicate entry (2x): 2026-04-19-LVMH集团高管细说：中国客群、路易威登、迪奥、蒂芙尼
+- Duplicate entry (2x): 2026-04-19-万亿情绪经济来了：哪些行业正在被重构？
+- Duplicate entry (2x): 2026-04-19-中国零售出海，不再只是卖货
+- Duplicate entry (2x): 2026-04-19-张园与鸿寿坊当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-19-江蘇的鬆弛感從何而來
+- Duplicate entry (2x): 2026-04-19-瑞幸終結咖啡9.9元時代
+- Duplicate entry (2x): 2026-04-20-沉睡29年的402狀態碼正在給AI裝上神經
+- Duplicate entry (2x): 2026-04-20-艾梵達押注微酵護發雅詩蘭黛集團加碼高端護發賽道
+- Duplicate entry (2x): 2026-04-20-釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑
+- Duplicate entry (2x): 2026-04-20-首創玩偶加主機模式多智能體兒童AI玩具品牌獲數千萬元融資
+- Duplicate entry (2x): 2026-04-20-鴻蒙操作系統市佔18%小米OV們為何至今不願加入
+- Duplicate entry (2x): 2026-04-21-一个过气APP，吃透已婚女人的钱包
+- Duplicate entry (2x): 2026-04-21-一個買菜 APP，把江浙滬釣成翹嘴
+- Duplicate entry (2x): 2026-04-21-中慶文旅劉靜：城市更新下的公園運營實踐
+- Duplicate entry (2x): 2026-04-21-到底什么是商业模式？
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年 Q1 零售業復盤：開店邏輯兩極分化
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年，時尚資本交易數量更少、但規模更大？
+- Duplicate entry (2x): 2026-04-21-国际局势反复，时尚产业的复苏还为时过早？
+- Duplicate entry (2x): 2026-04-21-在Agent时代，什么才是真正的护城河？
+- Duplicate entry (2x): 2026-04-21-從賣薯片到造空間，樂事更懂年輕人了
+- Duplicate entry (2x): 2026-04-21-戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
+- Duplicate entry (2x): 2026-04-21-為什麼非標商業在這幾年爆發？
+- Duplicate entry (2x): 2026-04-23-2026 日內瓦鐘表展：焦慮蔓延，瑞表如何交卷？
+- Duplicate entry (2x): 2026-04-23-GMO 傳奇預言家再次唱空：AI 救不了美股，現在行情和 2000 年一樣危險
+- Duplicate entry (2x): 2026-04-23-一個對話框、一隻青蛙，Ribbi如何一週吸引4萬用戶
+- Duplicate entry (2x): 2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象
+- Duplicate entry (2x): 2026-04-23-主題樂園的復購難題，被美團破解了？
+- Duplicate entry (2x): 2026-04-23-全国首个线上超市AI智能体，超喵凭什么帮商家翻倍增长？
+- Duplicate entry (2x): 2026-04-23-全球第一的汉庭，悄悄把国民住宿的标准抬高了
+- Duplicate entry (2x): 2026-04-23-如何從AI工具中挖掘商機
+- Duplicate entry (2x): 2026-04-23-存量時代裂變為何越來越重要
+- Duplicate entry (2x): 2026-04-23-比中籤還難的訂酒店，跑馬人在華住會破局了？
+- Duplicate entry (2x): 2026-04-23-給所有小紅書品牌商家潑盆冷水
+- Duplicate entry (2x): 2026-04-23-美國百年太妃糖品牌Roca樂家被全資收購
+- Duplicate entry (2x): 2026-04-24-AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰
+- Duplicate entry (2x): 2026-04-24-AI時代最大的紅利，藏在那些「老登」看不懂的地方
+- Duplicate entry (2x): 2026-04-24-DeepSeek V4終於發布，但它留下的5道主觀題還沒有答案
+- Duplicate entry (2x): 2026-04-24-DeepSeek告別「孤膽英雄」時代
+- Duplicate entry (2x): 2026-04-24-一人公司，如何活過「一人」？
+- Duplicate entry (2x): 2026-04-24-融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photos
+- Duplicate entry (2x): 2026-04-25-7家北京科技公司殺入，AI賣鏟人為何下場做漫劇
+- Duplicate entry (2x): 2026-04-25-AI視頻，這一次中國真贏了
+- Duplicate entry (2x): 2026-04-25-Cohere為何合併Aleph Alpha，打造跨大西洋AI主權強權
+- Duplicate entry (2x): 2026-04-25-GPT-Image-2的護城河不是「好看」，是「聽話」
+- Duplicate entry (2x): 2026-04-25-LV開巨輪、商場變劇場2026年，不會「講故事」的商業空間都死了
+- Duplicate entry (2x): 2026-04-25-「中國製造」升級如何重新定義中國品牌？
+- Duplicate entry (2x): 2026-04-25-上線三月攬下400萬下載，這支北京團隊踩中海外AI社交缺口
+- Duplicate entry (2x): 2026-04-25-字节跳动：净利润下滑的三层原因
+- Duplicate entry (2x): 2026-04-25-從今天起，OpenAI不賣Token了
+- Duplicate entry (2x): 2026-04-25-當中型餐飲的擴張焦慮，遇上小紅書的本地生活野心
+- Duplicate entry (2x): 2026-04-26-AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI
+- Duplicate entry (2x): 2026-04-26-小紅書經營實錄：50條價值百萬的實戰心得
+- Duplicate entry (2x): 2026-04-26-歐萊雅BRANDSTORM 2026中國總決賽落幕，AI成美妝創新核心議題
+- Duplicate entry (2x): 2026-04-27-10年了，李彥宏還沒有成為AI開發者的King
+- Duplicate entry (2x): 2026-04-27-AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Opencla
+- Duplicate entry (2x): 2026-04-27-兩年內中國將出現可用的家庭機器人——破殼機器人許華哲
+- Duplicate entry (2x): 2026-04-27-前蘋果工程師做了款體感遊戲機，銷量拳打Xbox，營收數億美元
+- Duplicate entry (2x): 2026-04-27-我已經不太推薦大家去小紅書開店賣貨了
+- Duplicate entry (2x): 2026-04-27-最強大模型，保質期越來越短了
+- Duplicate entry (2x): 2026-04-28-DeepSeek告别“孤胆英雄”时代
+- Duplicate entry (2x): 2026-04-28-DeepSeek和华为的双向奔赴
+- Duplicate entry (3x): 2026-04-28-Manus20億美元交易熔斷—中國劃出AI主權紅線
+- Duplicate entry (2x): 2026-04-28-和京东聊完，我看见了做新品的新思路
+- Duplicate entry (2x): 2026-04-28-孩子王CTO亲授：我们只用AI做脏活累活，就狂赚30亿
+- Duplicate entry (2x): 2026-04-28-年入10亿美元的Alo Yoga落子香港，中国市场能否复制北美神话？
+- Duplicate entry (2x): 2026-04-28-当注意力稀缺，品牌营销靠什么突围？
+- Duplicate entry (2x): 2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？
+- Duplicate entry (2x): 2026-04-28-微软是如何穿越30年周期的
+- Duplicate entry (2x): 2026-04-28-怀旧经济火了，我们到底在怀念什么？
+- Duplicate entry (2x): 2026-04-28-把人的快乐复制给宠物，开创宠物文旅新物种
+- Duplicate entry (2x): 2026-04-28-把退货率从26%压到15%，但我却把公司省垮了
+- Duplicate entry (2x): 2026-04-28-排队15000+的饺子馆做了个Skill，却带来了AI时代的营销新思路
+- Duplicate entry (2x): 2026-04-28-曼谷FRIEND FRIEND用边角料空间长出新的吸引力
+- Duplicate entry (2x): 2026-04-28-服务业突破80万亿后，普通人的三个机会
+- Duplicate entry (2x): 2026-04-28-杨楠：从1到100用数字创意让深海科考变成可消费的文旅体验
+- Duplicate entry (2x): 2026-04-28-梁红杰：红色文旅演艺年轻化
+- Duplicate entry (2x): 2026-04-28-流量的下一关：AI推过来的用户，你的落地页准备好了吗？
+- Duplicate entry (2x): 2026-04-28-爱奇艺是不是穷疯了
+- Duplicate entry (2x): 2026-04-28-独家：《逐玉》认养一头牛出圈幕后
+- Duplicate entry (2x): 2026-04-28-用AI做IP，文娛科技公司星迹互動完成數千萬元天使輪融資
+- Duplicate entry (2x): 2026-04-28-祈福经济：好运是怎么变成生意的？
+- Duplicate entry (2x): 2026-04-28-第一篇：黄金时代当购物中心学会奔跑
+- Duplicate entry (2x): 2026-04-28-第二篇：白银时代当奔跑不再足够
+- Duplicate entry (2x): 2026-04-28-聊聊作为生意的非标商业
+- Duplicate entry (2x): 2026-04-28-被操控的饭圈女孩：为偶像，牺牲一切
+- Duplicate entry (2x): 2026-04-28-让珠宝拥抱阳光和大海，90岁的FRED斐登为何更年轻了？
+- Duplicate entry (2x): 2026-04-28-谁在制造山寨币的局部狂欢？
+- Duplicate entry (2x): 2026-04-28-谁在接手线下美妆零售？
+- Duplicate entry (2x): 2026-04-28-豪门失宠，全季成为山姆酒店？华住正在重写酒店业
+- Duplicate entry (2x): 2026-04-28-货架电商做直播带货，是优势还是劣势？
+- Duplicate entry (2x): 2026-04-28-起猛了，我的20块有线耳机被捧成顶流潮品了？
+- Duplicate entry (2x): 2026-04-28-越来越多的人，已经把小红书玩成了 AI 孵化器
+- Duplicate entry (2x): 2026-04-28-跌破100美元，Strategy的买币永动机卡壳了
+- Duplicate entry (2x): 2026-04-28-逃不开的经济周期，以及对未来的5个建议
+- Duplicate entry (2x): 2026-04-28-选品和打法都能被抄走，唯有情感锚点是你的终极护城河
+- Duplicate entry (2x): 2026-04-28-郭国庆：犒赏经济如何提振消费？
+- Duplicate entry (2x): 2026-04-28-重AI+轻IP+做自己，2026年普通人低成本做一人公司的最佳方案
+- Duplicate entry (2x): 2026-04-28-雀巢正在建立一套新的消费者洞察系统
+- Duplicate entry (2x): 2026-04-28-韩国辉：观光时代落幕，疗愈时代到来——文旅的本质是安顿身心
+- Duplicate entry (2x): 2026-04-28-馬斯克要用AI普發人類永續富足，靠Optimus、Cybercab能再下一城？
+- Duplicate entry (2x): 2026-04-28-龙杰：风从东方来，文旅出海图景与实践分享
+- Duplicate entry (2x): 2026-04-29-Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣
+- Duplicate entry (2x): 2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CM
+- Duplicate entry (2x): 2026-04-29-哈囉不太順風的十週年
+- Duplicate entry (2x): 2026-04-29-拒絕研發浪費：4P+2模型的決策邏輯，不看可惜了
+- Duplicate entry (2x): 2026-04-29-有人發育有人失速，木鳥途家美團民宿平台正在分化
+- Duplicate entry (2x): 2026-04-29-网红城市更新火得快、冷得快？如何破解？
+- Duplicate entry (2x): 2026-04-30-2026年购物中心生死局：不搞定这四件事，真的会被淘汰
+- Duplicate entry (2x): 2026-04-30-618前夕，快手电商亮出了它的“全域复利”公式
+- Duplicate entry (2x): 2026-04-30-一台 LABUBU 冰箱，装得下泡泡玛特的野心吗？
+- Duplicate entry (2x): 2026-04-30-一支卷发棒狂卖2亿美元背后，中国制造的出海新航道
+- Duplicate entry (2x): 2026-04-30-三农内容只有“卖货”和“种地”？这些年轻人给出了新答案
+- Duplicate entry (2x): 2026-04-30-两大根变量重塑消费逻辑：基诺浦的母婴生态化思考
+- Duplicate entry (2x): 2026-04-30-从“无人设”到“强人设”，我的自媒体才开始赚到钱
+- Duplicate entry (2x): 2026-04-30-企業爭奪「好用的人」：2026年，用人邏輯已經變天了
+- Duplicate entry (2x): 2026-04-30-反腐新规发布：你以为的人情世故，以后可能是刑事犯罪
+- Duplicate entry (2x): 2026-04-30-告别知识带货 东方甄选的“线上山姆”梦
+- Duplicate entry (2x): 2026-04-30-品牌拿着旧地图，去不了新大陆
+- Duplicate entry (2x): 2026-04-30-商业洞察｜户外运动赛道集体换帅：红利退潮，专业为王？
+- Duplicate entry (2x): 2026-04-30-城市跑得越快，越缺能让人待得住的商业
+- Duplicate entry (2x): 2026-04-30-年销2.65亿，毛利率超6成，这个160年老字号闯关IPO
+- Duplicate entry (2x): 2026-04-30-批量「透支」後，AI創業更累了
+- Duplicate entry (2x): 2026-04-30-杨斌：我为什么要提“AI次方变革”
+- Duplicate entry (2x): 2026-04-30-法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化
+- Duplicate entry (2x): 2026-04-30-白鸦X郑敏丨万字对谈：AI抢跑，品牌审美的时代分野
+- Duplicate entry (2x): 2026-04-30-直播带货这场梦，很多工厂白牌该醒了
+- Duplicate entry (2x): 2026-04-30-社区营造，正在成为商业的新变量
+- Duplicate entry (2x): 2026-04-30-稳定币，需要“隐身”
+- Duplicate entry (2x): 2026-04-30-网红城市更新火得快、冷得快？如何破解？
+- Duplicate entry (2x): 2026-05-01-2026 個人品牌網站賺錢攻略我用秒站自媒體變現 130 萬實戰心得 - 亨利
+- Duplicate entry (2x): 2026-05-01-借航天展推「反向技術輸出」，自然堂試煉敘事資源轉化的產品力
+- Duplicate entry (2x): 2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」
+- Duplicate entry (2x): 2026-05-02-一家银行的价值不只写在利润表上
+- Duplicate entry (2x): 2026-05-02-中国餐厅正用最细微的服务颗粒度，书写“好客之道”
+- Duplicate entry (2x): 2026-05-02-为什么你越拼命学技巧，自媒体越赚不到钱？？？
+- Duplicate entry (2x): 2026-05-02-为何谁都觉得银发经济风口来了，却鲜有人赚到钱？
+- Duplicate entry (2x): 2026-05-02-亚洲首家“MK旅行吧”落地北京国贸，MICHAEL KORS把“生活方式”推向
+- Duplicate entry (2x): 2026-05-02-又一算力獨角獸衝擊IPO：超聚變五百億估值
+- Duplicate entry (2x): 2026-05-02-我用AI做了第一個產品，聊聊全過程和踩過的坑
+- Duplicate entry (2x): 2026-05-02-新消费品牌增长，不要只会做内容，要设计产品接触点
+- Duplicate entry (2x): 2026-05-02-梁文鋒不掀桌子，DeepSeek登上半山腰
+- Duplicate entry (2x): 2026-05-02-罗翔：当你接触的人越多，你会发现：如果一个男人，不吸烟，不喝酒，性格内向，那他
+- Duplicate entry (2x): 2026-05-03-10年了，為什麼無人機還是送不了外賣？
+- Duplicate entry (2x): 2026-05-03-AI Agent正在構建五萬億美元的經濟體
+- Duplicate entry (2x): 2026-05-03-AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元
+- Duplicate entry (2x): 2026-05-03-LangChain團隊用AI Agent做銷售和行銷的最佳實踐
+- Duplicate entry (2x): 2026-05-03-一篇講透：小紅書電商選品全鏈路
+- Duplicate entry (2x): 2026-05-03-國內AI賺錢的生意：做帳號培訓套利而非做產品
+- Duplicate entry (2x): 2026-05-04-2026购物中心招商，到底难在哪？
+- Duplicate entry (2x): 2026-05-04-DoorDash推出AI工具加速商家上線與照片優化
+- Duplicate entry (3x): 2026-05-04-Fabletics如何成長為美國最大的DTC運動服品牌
+- Duplicate entry (2x): 2026-05-04-“乐园化+剧场化”，购物中心的下一站内容战争
+- Duplicate entry (2x): 2026-05-04-“增收不增利”，宠物食品行业的品牌化代价？
+- Duplicate entry (2x): 2026-05-04-一个人公司 OPC 必备的 10 个Skill_v2
+- Duplicate entry (2x): 2026-05-04-一个人公司 OPC 必备的 36 个营销 Skill_v2
+- Duplicate entry (2x): 2026-05-04-一批8090后正在崩老头里醉生梦死
+- Duplicate entry (2x): 2026-05-04-不打卡的年轻人把旅行当成情绪补剂
+- Duplicate entry (2x): 2026-05-04-五一酒店，压不住的涨价潮？
+- Duplicate entry (2x): 2026-05-04-从卖点竞争到情绪竞争
+- Duplicate entry (2x): 2026-05-04-全球 10 条“最不精致”的街道：混乱与包容才是文化的母体
+- Duplicate entry (2x): 2026-05-04-公园式商业的招商突围
+- Duplicate entry (2x): 2026-05-04-千問App深度體驗報告（2026）
+- Duplicate entry (2x): 2026-05-04-商业市集文旅新模式
+- Duplicate entry (2x): 2026-05-04-商业街场景驱动化新模式
+- Duplicate entry (2x): 2026-05-04-增速降至2.5%背后：MCN行业的“大退潮”与“新物种”崛起
+- Duplicate entry (2x): 2026-05-04-奢侈品牌集体开通分期免息
+- Duplicate entry (2x): 2026-05-04-宁波老街文化焕新
+- Duplicate entry (2x): 2026-05-04-当中式庭院沦为阶级过滤器
+- Duplicate entry (2x): 2026-05-04-從廣告科技稅到AI數據中間商：新中間層拿走100%
+- Duplicate entry (2x): 2026-05-04-我们必须支持那个起诉上海迪士尼的中国年轻人
+- Duplicate entry (2x): 2026-05-04-拉美人兜里的1.47万亿元，被中国老板惦记上了
+- Duplicate entry (2x): 2026-05-04-拉美电商三国演义
+- Duplicate entry (2x): 2026-05-04-招商难？看看这5个把“公园”搬进商场的项目，出租率从45%飙到了99%
+- Duplicate entry (2x): 2026-05-04-支持起诉迪士尼的年轻人
+- Duplicate entry (2x): 2026-05-04-文化先行，宁波这座老街即将“换芯”
+- Duplicate entry (2x): 2026-05-04-新技術只便宜一點點是沒用的
+- Duplicate entry (2x): 2026-05-04-新消费下半场：从卖点竞争到情绪竞争
+- Duplicate entry (2x): 2026-05-04-最頂級的行銷是看不見的行銷
+- Duplicate entry (2x): 2026-05-04-未来商街_休闲商业街“场景驱动化”新模式：从功能消费到情绪沉浸
+- Duplicate entry (2x): 2026-05-04-未来轻资产市集_商业市集：从“事件型”转化为“节律型”资产
+- Duplicate entry (2x): 2026-05-04-未来非标商业    非标商业+文旅：首发体验店“引流”，空间美学“驻留”，亲子
+- Duplicate entry (2x): 2026-05-04-沉浸式商业丨“当美食节进入细分赛道”：餐饮造节的破局之路
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜从物质消费到精神共鸣：情绪经济主导下的时代消费焕新
+- Duplicate entry (2x): 2026-05-04-沉浸式阅读｜“书店+文旅”，沉浸重构以书香为媒的城市文化地标与文旅引力场
+- Duplicate entry (2x): 2026-05-04-淮海中路变陌生了？上海市中心商业街正经历一场“突围战”
+- Duplicate entry (2x): 2026-05-04-现在的05后去夜店，为什么只玩抓手指啊？
+- Duplicate entry (2x): 2026-05-04-矽谷文件產品Mintlify估值五億：以AI為核心重構
+- Duplicate entry (2x): 2026-05-04-第一篇：困局篇（2026购物中心招商，到底难在哪？）
+- Duplicate entry (2x): 2026-05-04-购物中心的下一站内容战争
+- Duplicate entry (2x): 2026-05-04-这届年轻人，爱上“只租不买”
+- Duplicate entry (2x): 2026-05-04-首位全職AI執行長誕生：前編程神童讓AI管理千人公司
+- Duplicate entry (2x): 2026-05-04-香水热见顶了吗
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器—普通人拿什麼創業
+- Duplicate entry (3x): 2026-05-05-AI成為造假加速器時普通人靠什麼創業
+- Duplicate entry (3x): 2026-05-05-AI眼鏡如何從手機配件走向獨立終端
+- Duplicate entry (3x): 2026-05-05-AI緊逼之下SaaS出路在何方
+- Duplicate entry (3x): 2026-05-05-當AI成為造假加速器普通人拿什麼創業
+- Duplicate entry (3x): 2026-05-05-萬億零食市場迎來大洗牌
+- Duplicate entry (3x): 2026-05-06-AI讓任何人都能開餐廳的Wonder機器人廚房模式
+- Duplicate entry (3x): 2026-05-06-Old Navy引進零售娛樂老將重振品牌
+- Duplicate entry (2x): 2026-05-06-Old Navy找來零售娛樂老將重振品牌轉型
+- Duplicate entry (3x): 2026-05-06-品牌部門如何從成本中心變成利潤引擎
+- Duplicate entry (3x): 2026-05-07-AI對購物中心和實體店的衝擊
+- Duplicate entry (3x): 2026-05-07-對話孫來春：年入25億的林清軒不想做中國歐萊雅
+- Duplicate entry (3x): 2026-05-07-想要Skills變現，你需要先搞懂這5點
+- Duplicate entry (3x): 2026-05-07-機場就是零售城市
+- Duplicate entry (3x): 2026-05-07-機場正在成為零售城市
+- Duplicate entry (2x): 2026-05-07-消費者向低價零售商轉移
+- Duplicate entry (3x): 2026-05-07-消費者正在轉向低價零售商
+- Duplicate entry (3x): 2026-05-07-消費者正在轉向低價零售商，報告顯示
+- Duplicate entry (3x): 2026-05-09-YC合夥人AI原生公司應該怎麼搭建
+- Duplicate entry (3x): 2026-05-09-中國機器人的全球化野心與Physical AI的爆發準備
+- Duplicate entry (3x): 2026-05-09-豆包和OpenAI都走在互聯網變現的老路上
+- Duplicate entry (3x): 2026-05-10-19.9元買小破爛買到上頭00後有自己的兩元店
+- Duplicate entry (3x): 2026-05-10-25家時尚巨頭0家回覆為何品牌集體失聲
+- Duplicate entry (3x): 2026-05-10-AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上
+- Duplicate entry (3x): 2026-05-10-Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯
+- Duplicate entry (3x): 2026-05-10-YC2026夏季投資清單出爐超過一半資金轉向硬科技AI已是底層基礎建設
+- Duplicate entry (3x): 2026-05-10-一圖概覽母嬰寵物行業618大促全景攻略育見增長共創新機
+- Duplicate entry (3x): 2026-05-10-一年股價翻3倍陳立武重置英特爾為蘋果造美國芯
+- Duplicate entry (3x): 2026-05-10-不上班也能月入過萬自由職業的魅與祛魅
+- Duplicate entry (3x): 2026-05-10-五一出行消費觀察火爆數據下哪些才是真實風口
+- Duplicate entry (3x): 2026-05-10-告別增長時代醫藥重畫生死線
+- Duplicate entry (3x): 2026-05-10-年營收10億B2B占45鮮乳坊靠這套加價機制讓供應鏈願意跟你走
+- Duplicate entry (3x): 2026-05-10-從央視大樓到全球頂流他在華20多年親歷中國地標的變化
+- Duplicate entry (3x): 2026-05-10-從路過到停留街區商業如何擴大地盤
+- Duplicate entry (3x): 2026-05-10-情緒主場心動即行動2026巨量引擎食飲行業星圖大會精彩回顧
+- Duplicate entry (3x): 2026-05-10-日本車企在中國正加速走向消亡
+- Duplicate entry (3x): 2026-05-10-李璞普通人如何實現財務自由
+- Duplicate entry (3x): 2026-05-10-段永平過時了嗎
+- Duplicate entry (2x): 2026-05-10-深度復盤4種高頻品牌輿情該怎麼打
+- Duplicate entry (3x): 2026-05-10-為什麼這幾條街靠情緒價值場景營造年收上億元
+- Duplicate entry (3x): 2026-05-10-營銷的底層邏輯
+- Duplicate entry (3x): 2026-05-10-由豆包付費想到AI到底會長成一門什麼生意
+- Duplicate entry (3x): 2026-05-10-社會資本地方平台的合作機制正變得越來越主流未來拼的是低干預高審美輕投入高回報
+- Duplicate entry (2x): 2026-05-10-第三空間的沉浸重構從打卡到駐留的五重轉向
+- Duplicate entry (2x): 2026-05-10-第三篇長贏篇招商是起點運營才是護城河
+- Duplicate entry (2x): 2026-05-10-第二篇破局篇填鋪式招商已死2026破局就靠這三招
+- Duplicate entry (3x): 2026-05-10-算法時代互聯網大廠為何下場做商業
+- Duplicate entry (3x): 2026-05-10-聊聊作為生意的非標商業
+- Duplicate entry (3x): 2026-05-10-職場打工要學會一魚多吃
+- Duplicate entry (3x): 2026-05-10-膠東商業矛盾的面子和裡子
+- Duplicate entry (3x): 2026-05-10-范凱說AI周日晚聊第18期AI是超級槓桿但你的支點在哪裡
+- Duplicate entry (2x): 2026-05-10-菜市場救不了書店
+- Duplicate entry (3x): 2026-05-10-親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置
+- Duplicate entry (2x): 2026-05-10-阿那亞常熟啟幕學園社區未來生活
+- Duplicate entry (3x): 2026-05-10-非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是
+- Duplicate entry (3x): 2026-05-10-非標商業不是孵化器而是試紙
+- Duplicate entry (3x): 2026-05-11-AI小店占領縣城，老板們賺到錢了嗎？
+- Duplicate entry (3x): 2026-05-11-El Pollo Loco 以利潤、行銷與菜單動能持續領跑
+- Duplicate entry (3x): 2026-05-11-反脆弱公司治理《精益創業》作者Eric Ries如何防止公司腐化
+- Duplicate entry (2x): 2026-05-11-新消費企業做新品，不能只看品類空白，還要看情緒空白
+- Duplicate entry (2x): 2026-05-11-營銷不是到處發力，是讓用戶反覆聽懂同一件事
+- Duplicate entry (3x): 2026-05-12-OpenAI讓在ChatGPT投放購物廣告變得更容易
+- Duplicate entry (3x): 2026-05-12-個人生產力暴增10倍，公司價值卻沒變：AI時代最昂貴的教訓
+- Duplicate entry (3x): 2026-05-13-EB Denim 旗艦店：零售、創意工作室與倉儲三合一
+- Duplicate entry (3x): 2026-05-13-互聯網巨頭的用人帳
+- Duplicate entry (3x): 2026-05-13-零食品牌效率轉型：從做大到做對的經營選擇
+- Duplicate entry (3x): 2026-05-14-AI Trading的新座標系：To-Agent Harness
+- Duplicate entry (3x): 2026-05-14-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-14-不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI
+- Duplicate entry (3x): 2026-05-14-互聯網毀掉了客服，AI又拯救了它
+- Duplicate entry (3x): 2026-05-14-咖啡館化是城市更新的慢性毒藥嗎
+- Duplicate entry (3x): 2026-05-14-小紅書強推直客體系三年後
+- Duplicate entry (3x): 2026-05-14-從食品到餐飲，複購率高的品牌都有這7個共同點
+- Duplicate entry (3x): 2026-05-14-新鮮零食，擠進商場B1層
+- Duplicate entry (3x): 2026-05-14-沉浸式演藝：從觀演到入戲，放大文旅價值
+- Duplicate entry (2x): 2026-05-14-泡泡瑪特跨界、愛奇藝建庫：內容產業正面臨一場大遷徙
+- Duplicate entry (3x): 2026-05-14-炸了！三聯的瓜突然爆了
+- Duplicate entry (3x): 2026-05-14-為什麼你做的AI工具沒人買單？放棄宏大敘事，去社會的「神經末梢」撿錢
+- Duplicate entry (3x): 2026-05-14-當海外品牌生意進入精耕時代，618該怎麼找增長的確定性
+- Duplicate entry (3x): 2026-05-14-胖東來救得了永輝，但救不了你的「偽社區商業」
+- Duplicate entry (3x): 2026-05-14-范凱說 AI · 周日晚聊 第19期：AI把天花板打開了，切入點決定你在哪邊
+- Duplicate entry (2x): 2026-05-15-00後湧入景區當NPC在情緒價值裡淘金
+- Duplicate entry (3x): 2026-05-15-AI創業時代一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-15-一句話百元預算百萬級廣告片這個等式我們親測成立了
+- Duplicate entry (3x): 2026-05-15-一座花園城一張長期主義底牌
+- Duplicate entry (3x): 2026-05-15-下一輪個人IP的紅利就是把你的體驗變成錢
+- Duplicate entry (3x): 2026-05-15-復盤16個GenZ AI創業團隊：百萬級融資密集出現，社交仍是最熱賽道？
+- Duplicate entry (3x): 2026-05-15-矽谷正在硬化，AI把軟體聖地重新推回了電力、鋼鐵與核反應堆的世界
+- Duplicate entry (3x): 2026-05-15-麥記牛奶：糖水賽道的窗口期策略
+- Duplicate entry (3x): 2026-05-16-Agent 生態五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-Agent生態中的五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-未來的渠道，都是「特渠」
+- Duplicate entry (3x): 2026-05-17-俞浩到底想幹什麼？
+- Duplicate entry (3x): 2026-05-17-肯德基也要被賣了？
+- Duplicate entry (3x): 2026-05-18-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-18-一句話+百元預算=百萬級廣告片，這個等式我們親測成立了
+- Duplicate entry (2x): 2026-05-18-下一輪個人IP的紅利，就是把你的體驗變成錢
+- Duplicate entry (3x): 2026-05-18-從首店開業到文旅目的地的模式躍遷，從傳統商業的「租金依賴」向「品牌孵化+價值投
+- Duplicate entry (2x): 2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买
+- Duplicate entry (3x): 2026-05-18-零售媒體網絡的新規則
+- Duplicate entry (3x): 2026-05-18-零售新規則：零售媒體網絡成品牌必答題
+- Duplicate entry (3x): 2026-05-19-小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路
+- Duplicate entry (3x): 2026-05-20-溫度還是證據：螞蟻阿福與氫離子的醫療AI分野
+- Duplicate entry (3x): 2026-05-20-百萬台割草機器人背後：創辦人讓自己「變得不重要」
+- Duplicate entry (2x): 2026-05-22-Everlane 賣給 Shein，透明度究竟值多少
+- Duplicate entry (3x): 2026-05-23-440億投資清零AI正在殺死這個賽道
+- Duplicate entry (3x): 2026-05-23-AI進入產業前線未來最稀缺的AI人才是誰
+- Duplicate entry (2x): 2026-05-24-珀萊雅收購花知曉美妝界安踏尚未誕生
+- Duplicate entry (2x): 2026-05-25-Sephora 引領美容科技革命
+- Duplicate entry (2x): 2026-05-26-什麼時候開始，銷售這件事要通過做內容才能實現了？
+- Duplicate entry (3x): 2026-05-26-你的百萬流量，落地頁接住了嗎？
+- Duplicate entry (3x): 2026-05-26-對話雲鯨CEO張峻彬：理解人性，告別天真
+- Duplicate entry (3x): 2026-05-26-市場在狠狠懲罰不豪賭AI的國家、企業、個人
+- Duplicate entry (3x): 2026-05-26-從免費種草到坑位費翻倍，北美達人帶貨三年變天
+- Duplicate entry (3x): 2026-05-26-快速擴張，是對山姆最大的誤解
+- Duplicate entry (3x): 2026-05-26-未來10年供應鏈大洗牌：中國正在悄悄坐上全球總部的位置
+- Duplicate entry (3x): 2026-05-26-產品越好，為什麼越賣不上價？
+- Duplicate entry (3x): 2026-05-26-當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework
+- Duplicate entry (3x): 2026-05-26-真正厲害的老闆，最後都回到了常識
+- Duplicate entry (3x): 2026-05-26-納瓦爾思維：人一旦有了體系，做什麼都容易成功
+- Duplicate entry (3x): 2026-05-26-給寵物上墳，讓我月入81萬
+- Duplicate entry (3x): 2026-05-26-行銷內容從「用AI」到「管AI」的十倍提效
+- Duplicate entry (3x): 2026-05-26-衝擊巨大，世界徹底變了
+- Duplicate entry (2x): 2026-05-26-酒店真不喜歡長租客人嗎？
+- Duplicate entry (2x): 2026-05-26-零售選址不是單點決策：把門市網絡當資本系統管理
+- Duplicate entry (3x): 2026-05-27-2026微短劇行業生態圖譜徵集正式啟動，共繪微短劇產業新版圖
+- Duplicate entry (3x): 2026-05-27-75%的企業轉型AI，都卡在了組織上
+- Duplicate entry (2x): 2026-05-27-WeRoad 融資 5800 萬美元押注 IRL 經濟
+- Duplicate entry (2x): 2026-05-27-lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍
+- Duplicate entry (3x): 2026-05-27-商業洞察｜海外高端百貨接連失守中國，它們做錯了什麼
+- Duplicate entry (3x): 2026-05-27-商業洞察｜當獨立品牌不再獨立，奢侈品資本還將如何流轉
+- Duplicate entry (3x): 2026-05-27-星野集團OMO系列數字代表什麼？專為都市觀光而生的OMO飯店有什麼特色？
+- Duplicate entry (3x): 2026-05-27-曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案
+- Duplicate entry (3x): 2026-05-27-東京潮流發信地澀谷Parco霸氣重生，時尚、娛樂、餐飲、劇場、藝術全方位打造次
+- Duplicate entry (3x): 2026-05-27-為什麼說Windows在AI時代變成了落後生產力？
+- Duplicate entry (2x): 2026-05-28-京東養車：以產教融合突破新能源技師人才缺口
+- Duplicate entry (2x): 2026-05-28-縣城商鋪倒閉潮，遠比我們想像中的慘烈
+- Duplicate entry (2x): 2026-05-29-2026企業獲客新方向：以AI為翼，走合規增長之路
+- Duplicate entry (2x): 2026-05-29-AI，開始悄悄砸掉景區旅拍飯碗
+- Duplicate entry (2x): 2026-05-29-Puma 押中了 HYROX？
+- Duplicate entry (3x): 2026-05-29-Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求
+- Duplicate entry (3x): 2026-05-29-The Set奢華酒店會員制：以情感連結取代積點獎勵
+- Duplicate entry (2x): 2026-05-29-中產出國，不想住有班味的酒店了
+- Duplicate entry (2x): 2026-05-29-全網刷屏的韜定律，到底是什麼意思？
+- Duplicate entry (2x): 2026-05-29-卷不動一線，民宿殺向小城
+- Duplicate entry (2x): 2026-05-29-卷不動親子遊，酒店盯上了毛孩子
+- Duplicate entry (2x): 2026-05-29-希爾頓萬豪們，開始偷襲攜程
+- Duplicate entry (2x): 2026-05-29-幾塊錢的旅遊卡，撬動一座城？
+- Duplicate entry (2x): 2026-05-29-從技術噱頭到業務原生，企業如何抓住智能體規模化紅利？
+- Duplicate entry (3x): 2026-05-29-李開復內部談話：今年15億訂單，2027年IPO｜獨家
+- Duplicate entry (3x): 2026-05-29-淡季的國內酒店，卷到沒有底線了
+- Duplicate entry (2x): 2026-05-29-為什麼里程兌換機票越來越難了？
+- Duplicate entry (2x): 2026-05-29-萬億情緒經濟，情緒消費爆款的7個共同規律
+- Duplicate entry (2x): 2026-05-29-賣衣服的星巴克，在等待它的蜜雪时刻
+- Duplicate entry (3x): 2026-05-29-鈴木敏文逝世：他與7-Eleven的三個反常識故事
+- Duplicate entry (2x): 2026-05-30-During off-peak hours, hospitality chai
+- Duplicate entry (3x): 2026-05-30-一個行業正在被AI悄悄重寫
+- Duplicate entry (3x): 2026-05-30-中產三寶，殺出一個新勁敵
+- Duplicate entry (3x): 2026-05-30-天津大悅城，如何把青年文化做成慢生意
+- Duplicate entry (3x): 2026-05-30-小山姆成了商場B1新頂流
+- Duplicate entry (3x): 2026-05-30-快閃，正在成為商場的主菜
+- Duplicate entry (2x): 2026-05-30-擺脫成長瓶頸台灣零售業的下一條上升曲線怎麼走 勤業眾信
+- Duplicate entry (3x): 2026-05-30-聊聊那些拿到結果的主理人
+- Duplicate entry (3x): 2026-05-30-自然堂連續15年ESG報告：把可持續做成一門生意
+- Duplicate entry (3x): 2026-05-30-花知曉接住了珀萊雅的增長焦慮
+- Duplicate entry (2x): 2026-05-30-誠品衝刺營運 吳旻潔宣布大阪開新店、首推誠品會員聚所
+- Duplicate entry (3x): 2026-05-30-長鑫科技上市，合肥為何逢賭必赢
+- Duplicate entry (3x): 2026-05-30-阿里們並不需要標價50億美元的朴朴
+- Duplicate entry (3x): 2026-06-01-一場設計師大賽背後中國時尚產業正在補齊哪塊基礎設施
+- Duplicate entry (3x): 2026-06-01-中國的第三次紅利是什麼
+- Duplicate entry (2x): 2026-06-01-從場人貨的角度我們聊聊到底什麼是新零售
+- Duplicate entry (3x): 2026-06-01-我陪17位企業家找到了價值200萬的問題
+- 5 blank lines inside entry list
+
+### 地方創生.md
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞·秦皇島全年活動預告
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞×單立人喜劇節全內容揭秘
+- Duplicate entry (2x): 2026-03-29-一覺醒來，品牌又做了哪些好案例？（Vol.390 03.15-03.21）
+- Duplicate entry (2x): 2026-03-29-別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極
+- Duplicate entry (2x): 2026-03-29-專訪群玉山&愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-03-30-不權威發布：2026 年值得關注的 26 個趨勢
+- Duplicate entry (2x): 2026-03-30-人才爆出走潮！歐洲「這強國」41%青年想移居，2成已有具體計畫
+- Duplicate entry (2x): 2026-03-30-進口量、金額雙創新高！海外包裹一年湧入 6500 萬件，台灣人的錢都流去哪了？
+- Duplicate entry (2x): 2026-04-08-2026阿那亞·秦皇島全年活動預告出爐！
+- Duplicate entry (2x): 2026-04-08-不拆一磚一瓦｜日本町家再生，給城市更新上的一堂課
+- Duplicate entry (2x): 2026-04-08-在「平等」的古巴，我重新理解了「貧窮」
+- Duplicate entry (2x): 2026-04-08-在山中駐留的日子，藝術家們留下了什麼？阿那亞·金山嶺駐地藝術計劃
+- Duplicate entry (2x): 2026-04-08-檀谷開山節前 你可能會感興趣的事｜跳海×開山 前夜派對
+- Duplicate entry (2x): 2026-04-08-沉浸式商業｜「濱水商業」重塑：新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜「十五五」文旅創新圖景，從全國兩會看文旅融合的深度變革與趨勢前瞻
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜東方美學的沉浸回歸與國潮場景營造
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜沉浸營造春日賞花新場景，創意激活文旅消費新動能
+- Duplicate entry (2x): 2026-04-08-阿那亞研學交流中心×感性城市，「一堂運營課」首期招募
+- Duplicate entry (2x): 2026-04-08-龍雀年鑑｜當空間成為情緒的擺渡人——2026文旅空間設計美學年度觀察
+- Duplicate entry (2x): 2026-04-09-一個225平方公里的「庄」，如何成為AI「頂流」
+- Duplicate entry (2x): 2026-04-12-「花鳥市場」重構，構建烟火城市新據點，營造自然治愈情緒場
+- Duplicate entry (2x): 2026-04-12-花鳥市場重構，構建煙火城市新據點，營造自然治癒情緒場
+- Duplicate entry (2x): 2026-04-13-台灣「軌道經濟」圖解｜南港建設密度全台第一、高雄亞灣鴻海進駐⋯四都投資熱點一次
+- Duplicate entry (2x): 2026-04-15-中國「打工人」第一城，誕生
+- Duplicate entry (2x): 2026-04-15-粗門完成數千萬A+輪融資：AI時代讓更多人「出門」
+- Duplicate entry (2x): 2026-04-15-觀點｜從二手垃圾卡車出發！無畏旅遊帶著28萬旅客實踐「使命感旅行」，創下6.2
+- Duplicate entry (2x): 2026-04-16-沉浸式文旅｜从City Walk到Color Walk，城市文旅消费逻辑转向
+- Duplicate entry (2x): 2026-04-16-老街區激活新場景：歷史文化街區活化趨勢與路徑
+- Duplicate entry (2x): 2026-04-17-2026十大文旅趨勢——抓住年輕人的情緒價值和體驗需求
+- Duplicate entry (2x): 2026-04-17-城市收留我們，以街道的方式
+- Duplicate entry (2x): 2026-04-17-空心村和3.2億老人，正在完成一場雙向奔赴
+- Duplicate entry (2x): 2026-04-17-龍雀大咖開講｜風語筑：科技賦能城市IP
+- Duplicate entry (2x): 2026-04-18-沉浸式踏青——移步換景式春日體驗的場景重構、敘事設計與技術賦能
+- Duplicate entry (2x): 2026-04-19-不拆一砖一瓦｜日本町家再生，给城市更新上的一堂课
+- Duplicate entry (2x): 2026-04-19-中国追求网红街区，日本守护场所精神两种更新，两种命运
+- Duplicate entry (2x): 2026-04-19-内地网红化更新vs 香港保育式活化谁走得更久？
+- Duplicate entry (2x): 2026-04-19-废墟里的新生｜泰国Galile Oasis，用野性对抗千城一面
+- Duplicate entry (2x): 2026-04-19-建筑是壳人是核五城在地文化保护的核心共识与差异
+- Duplicate entry (2x): 2026-04-19-日本极致秩序vs泰国极致自由城市更新的两个极端
+- Duplicate entry (2x): 2026-04-19-永庆坊之后中国城市更新该如何守住原居民的乡愁
+- Duplicate entry (2x): 2026-04-19-江蘇的鬆弛感從何而來
+- Duplicate entry (2x): 2026-04-21-中慶文旅劉靜：城市更新下的公園運營實踐
+- Duplicate entry (2x): 2026-04-21-他們用「中產階級」這詞替換掉了什麼？
+- Duplicate entry (2x): 2026-04-21-全球 10 个值得逛的菜市场：为什么它们没被超市和算法杀掉？
+- Duplicate entry (2x): 2026-04-21-奔赴一场千年的约会，年轻人花式扫墓背后的情感消费与文旅焕新叙事
+- Duplicate entry (2x): 2026-04-21-奥雅股份李方悦：空间赋能到IP创造，奥雅的AI驱动城市焕新之路
+- Duplicate entry (2x): 2026-04-21-戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
+- Duplicate entry (2x): 2026-04-21-比情緒穩定更重要的，是「情緒自由」
+- Duplicate entry (2x): 2026-04-21-沉浸式旅遊｜China Travel 火遍全球之後，沉浸式體驗如何激活入境遊新
+- Duplicate entry (2x): 2026-04-21-為什麼非標商業在這幾年爆發？
+- Duplicate entry (2x): 2026-04-23-雲南潑水節，流氓的狂歡
+- Duplicate entry (2x): 2026-04-25-天津MCN行業觀察：在提質浪潮中，看見津派生長力
+- Duplicate entry (2x): 2026-04-25-當中型餐飲的擴張焦慮，遇上小紅書的本地生活野心
+- Duplicate entry (2x): 2026-04-28-当世界变得复杂，总有人简单爱着地球
+- Duplicate entry (2x): 2026-04-28-当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-28-成都玉林，为何能自发的更新？
+- Duplicate entry (2x): 2026-04-28-把人的快乐复制给宠物，开创宠物文旅新物种
+- Duplicate entry (2x): 2026-04-28-曼谷FRIEND FRIEND用边角料空间长出新的吸引力
+- Duplicate entry (2x): 2026-04-28-杨楠：从1到100用数字创意让深海科考变成可消费的文旅体验
+- Duplicate entry (2x): 2026-04-28-梁红杰：红色文旅演艺年轻化
+- Duplicate entry (2x): 2026-04-28-绍兴天章寺爆火，景区留白美学成为文旅破局关键
+- Duplicate entry (2x): 2026-04-28-聊聊作为生意的非标商业
+- Duplicate entry (2x): 2026-04-28-苏州商业，越来越热闹了
+- Duplicate entry (2x): 2026-04-28-豪门失宠，全季成为山姆酒店？华住正在重写酒店业
+- Duplicate entry (2x): 2026-04-30-三农内容只有“卖货”和“种地”？这些年轻人给出了新答案
+- Duplicate entry (2x): 2026-04-30-巨富长里的宝藏，这条有故事的马路复活，成了年轻人潮流乐园
+- Duplicate entry (2x): 2026-04-30-沉浸式文旅｜“跟着电影去旅行”，“电影+文旅”沉浸营造地方光影文旅新场景、新业
+- Duplicate entry (2x): 2026-04-30-难以打工的日子，他们拍火了一条“西游路”
+- Duplicate entry (2x): 2026-05-04-五一酒店，压不住的涨价潮？
+- Duplicate entry (2x): 2026-05-04-未来轻资产市集_商业市集：从“事件型”转化为“节律型”资产
+- Duplicate entry (2x): 2026-05-04-未来非标商业    非标商业+文旅：首发体验店“引流”，空间美学“驻留”，亲子
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜“跟着电影去旅行”，“电影+文旅”沉浸营造地方光影文旅新场景、新业
+- Duplicate entry (3x): 2026-05-08-2026-商管人的真實生存現狀-從管理者到要債的
+- Duplicate entry (3x): 2026-05-08-Ffern-一個小眾香水品牌-很懂銷售自然
+- Duplicate entry (2x): 2026-05-08-一個危險的信號-你每天都在做的這件事-正在讓你的腦子悄悄腐爛
+- Duplicate entry (3x): 2026-05-08-一座城市地標的可持續營造記
+- Duplicate entry (3x): 2026-05-08-中國夜店正在集體淘汰舞池
+- Duplicate entry (3x): 2026-05-08-從山姆到胖東來-零售大店的邏輯變了
+- Duplicate entry (3x): 2026-05-08-從新六百YOUNG開業-看老百貨如何年輕化突圍
+- Duplicate entry (3x): 2026-05-11-不做藝術第四城的成都，長出了什麼？
+- Duplicate entry (2x): 2026-05-11-文化「新三樣」，城市更新新引擎！
+- Duplicate entry (2x): 2026-05-11-青年發展型城市2.0：從「搶人」到「投資於人」
+- Duplicate entry (3x): 2026-05-13-Agoda 調查：亞洲旅客對目的地深度參與旅遊的需求持續成長
+- Duplicate entry (3x): 2026-05-14-咖啡館化是城市更新的慢性毒藥嗎
+- Duplicate entry (2x): 2026-05-14-未來城市第三空間的演化邏輯
+- Duplicate entry (3x): 2026-05-14-胖東來救得了永輝，但救不了你的「偽社區商業」
+- Duplicate entry (2x): 2026-05-15-00後湧入景區當NPC在情緒價值裡淘金
+- Duplicate entry (2x): 2026-05-26-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-27-WeRoad 融資 5800 萬美元押注 IRL 經濟
+- Duplicate entry (3x): 2026-05-27-星野集團OMO系列數字代表什麼？專為都市觀光而生的OMO飯店有什麼特色？
+- Duplicate entry (3x): 2026-05-27-東京潮流發信地澀谷Parco霸氣重生，時尚、娛樂、餐飲、劇場、藝術全方位打造次
+- Duplicate entry (3x): 2026-05-29-卷不動一線，民宿殺向小城
+- Duplicate entry (3x): 2026-05-29-國內景區死因，懂審美的領導太少？
+- Duplicate entry (3x): 2026-05-29-幾塊錢的旅遊卡，撬動一座城？
+- Duplicate entry (3x): 2026-05-29-投資於人為什麼要優先投資於青年？——理論視角、價值意蘊與實踐路徑
+- Duplicate entry (3x): 2026-05-29-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-29-海底撈都帶不動的寵物友好，景區卻搶著排隊當韭菜？
+- Duplicate entry (3x): 2026-05-30-Charlene：把文化變成一件可以用的事
+- Duplicate entry (2x): 2026-05-30-During off-peak hours, hospitality chai
+- Duplicate entry (3x): 2026-05-30-天津大悅城，如何把青年文化做成慢生意
+- Duplicate entry (3x): 2026-05-30-對廣州，聚龍灣到底改變了什麼
+
+### 城市與空間.md
+- Duplicate entry (2x): 2026-02-10-2025百貨集團版圖大洗牌！業績平均成長1%，這業態發威意外成救星
+- Duplicate entry (2x): 2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-03-30-95 億人次背後：2026 春節文旅市場全景洞察
+- Duplicate entry (2x): 2026-04-08-2026阿那亞·秦皇島全年活動預告出爐！
+- Duplicate entry (2x): 2026-04-08-M50展訊｜六島新展「第四面墻」
+- Duplicate entry (2x): 2026-04-08-不拆一磚一瓦｜日本町家再生，給城市更新上的一堂課
+- Duplicate entry (2x): 2026-04-08-中國年輕人止損的最後一招：在通脹地區賺錢，在通縮地區消費
+- Duplicate entry (2x): 2026-04-08-在山中駐留的日子，藝術家們留下了什麼？阿那亞·金山嶺駐地藝術計劃
+- Duplicate entry (2x): 2026-04-08-峇里島爆改「體校」，新中產又卷瘋了
+- Duplicate entry (2x): 2026-04-08-未來，即刻發生！科幻世界·即刻發生叢書首發式
+- Duplicate entry (2x): 2026-04-08-檀谷開山節前 你可能會感興趣的事｜跳海×開山 前夜派對
+- Duplicate entry (2x): 2026-04-08-沉浸式商業｜「濱水商業」重塑：新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-04-08-沉浸式教育丨「打破教育的邊界」，沉浸式教育助力中小學空間重構、技術賦能與機制創
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜「十五五」文旅創新圖景，從全國兩會看文旅融合的深度變革與趨勢前瞻
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜東方美學的沉浸回歸與國潮場景營造
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜沉浸營造春日賞花新場景，創意激活文旅消費新動能
+- Duplicate entry (2x): 2026-04-08-深度｜香港，奢侈品零售業復甦了嗎？
+- Duplicate entry (2x): 2026-04-08-碼住收藏！2026阿那亞×單立人喜劇節全內容揭秘來了！
+- Duplicate entry (2x): 2026-04-08-阿那亞研學交流中心×感性城市，「一堂運營課」首期招募
+- Duplicate entry (2x): 2026-04-08-香格納M50  當午夜遇見正午，或我們如何想象遠處的風景  策展人寫作
+- Duplicate entry (2x): 2026-04-08-龍雀年鑑｜當空間成為情緒的擺渡人——2026文旅空間設計美學年度觀察
+- Duplicate entry (2x): 2026-04-09-一個225平方公里的「庄」，如何成為AI「頂流」
+- Duplicate entry (2x): 2026-04-10-100萬如何參與千萬資產？剖析通膨時代年輕世代的新買房策略
+- Duplicate entry (2x): 2026-04-10-Outlet＋LaLaport發威，三井超車微風擠進全台百貨前四強
+- Duplicate entry (2x): 2026-04-10-亦庄如何成為AI頂流：225平方公里的AI實驗場
+- Duplicate entry (2x): 2026-04-10-從「路易號」看高端商業體如何把握「天時地利人和」
+- Duplicate entry (2x): 2026-04-10-日式新商場，真正新在哪？
+- Duplicate entry (2x): 2026-04-10-臺中國家歌劇院藝術總監邱瑗的「文化CEO」治理思維
+- Duplicate entry (2x): 2026-04-12-「花鳥市場」重構，構建烟火城市新據點，營造自然治愈情緒場
+- Duplicate entry (2x): 2026-04-12-花鳥市場重構，構建煙火城市新據點，營造自然治癒情緒場
+- Duplicate entry (2x): 2026-04-13-一批單身女性正在「撿漏」買房
+- Duplicate entry (2x): 2026-04-13-台灣「軌道經濟」圖解｜南港建設密度全台第一、高雄亞灣鴻海進駐⋯四都投資熱點一次
+- Duplicate entry (2x): 2026-04-15-中國「打工人」第一城，誕生
+- Duplicate entry (2x): 2026-04-15-縣城貴婦，養活多少五星酒店？
+- Duplicate entry (2x): 2026-04-15-觀點公共服務設計不只是優化介面！以人生為單位，重構有感的行政流程
+- Duplicate entry (2x): 2026-04-15-觀點｜公共服務設計不只是優化介面！以人生為單位，重構「有感的」行政流程
+- Duplicate entry (2x): 2026-04-16-沉浸式文旅｜从City Walk到Color Walk，城市文旅消费逻辑转向
+- Duplicate entry (2x): 2026-04-16-老街區激活新場景：歷史文化街區活化趨勢與路徑
+- Duplicate entry (2x): 2026-04-17-城市收留我們，以街道的方式
+- Duplicate entry (2x): 2026-04-17-招商的尽头是三观一致
+- Duplicate entry (2x): 2026-04-17-永远未完成的阿那亚
+- Duplicate entry (2x): 2026-04-17-空心村和3.2億老人，正在完成一場雙向奔赴
+- Duplicate entry (2x): 2026-04-17-龍雀大咖開講｜風語筑：科技賦能城市IP
+- Duplicate entry (2x): 2026-04-18-沉浸式踏青——移步換景式春日體驗的場景重構、敘事設計與技術賦能
+- Duplicate entry (2x): 2026-04-19-不拆一砖一瓦｜日本町家再生，给城市更新上的一堂课
+- Duplicate entry (2x): 2026-04-19-中国追求网红街区，日本守护场所精神两种更新，两种命运
+- Duplicate entry (2x): 2026-04-19-公共艺术装置，都是美丽废物吗｜专访「大星吉子」联创谢琼枝
+- Duplicate entry (2x): 2026-04-19-内地网红化更新vs 香港保育式活化谁走得更久？
+- Duplicate entry (2x): 2026-04-19-废墟里的新生｜泰国Galile Oasis，用野性对抗千城一面
+- Duplicate entry (2x): 2026-04-19-建筑是壳人是核五城在地文化保护的核心共识与差异
+- Duplicate entry (2x): 2026-04-19-张园与鸿寿坊当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-19-日本极致秩序vs泰国极致自由城市更新的两个极端
+- Duplicate entry (2x): 2026-04-19-永庆坊之后中国城市更新该如何守住原居民的乡愁
+- Duplicate entry (2x): 2026-04-21-中慶文旅劉靜：城市更新下的公園運營實踐
+- Duplicate entry (2x): 2026-04-21-全球 10 个值得逛的菜市场：为什么它们没被超市和算法杀掉？
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年 Q1 零售業復盤：開店邏輯兩極分化
+- Duplicate entry (2x): 2026-04-21-奥雅股份李方悦：空间赋能到IP创造，奥雅的AI驱动城市焕新之路
+- Duplicate entry (2x): 2026-04-21-沉浸式旅遊｜China Travel 火遍全球之後，沉浸式體驗如何激活入境遊新
+- Duplicate entry (2x): 2026-04-21-為什麼非標商業在這幾年爆發？
+- Duplicate entry (2x): 2026-04-23-Friend Friend｜Emporium 裡的時尚綠洲
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯
+- Duplicate entry (2x): 2026-04-23-不擠人頭、不做攻略、只住酒店：00後的旅行，把上一代人看懵了
+- Duplicate entry (2x): 2026-04-25-LV開巨輪、商場變劇場2026年，不會「講故事」的商業空間都死了
+- Duplicate entry (2x): 2026-04-28-当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-28-成都玉林，为何能自发的更新？
+- Duplicate entry (2x): 2026-04-28-把人的快乐复制给宠物，开创宠物文旅新物种
+- Duplicate entry (2x): 2026-04-28-曼谷FRIEND FRIEND用边角料空间长出新的吸引力
+- Duplicate entry (2x): 2026-04-28-杨楠：从1到100用数字创意让深海科考变成可消费的文旅体验
+- Duplicate entry (2x): 2026-04-28-梁红杰：红色文旅演艺年轻化
+- Duplicate entry (2x): 2026-04-28-第一篇：黄金时代当购物中心学会奔跑
+- Duplicate entry (2x): 2026-04-28-第二篇：白银时代当奔跑不再足够
+- Duplicate entry (2x): 2026-04-28-绍兴天章寺爆火，景区留白美学成为文旅破局关键
+- Duplicate entry (2x): 2026-04-28-聊聊作为生意的非标商业
+- Duplicate entry (2x): 2026-04-28-苏州商业，越来越热闹了
+- Duplicate entry (2x): 2026-04-28-谁在接手线下美妆零售？
+- Duplicate entry (2x): 2026-04-28-豪门失宠，全季成为山姆酒店？华住正在重写酒店业
+- Duplicate entry (2x): 2026-04-28-蹲坑旁边就是床漂在大城市的年轻人住进奇葩房
+- Duplicate entry (2x): 2026-04-28-这一站，上海：来故事客栈交换情绪故事
+- Duplicate entry (2x): 2026-04-28-金鱼在下沉我们在捞世界｜第三届沿海公路音乐节回顾
+- Duplicate entry (2x): 2026-04-28-风语筑董事长李晖：科技赋能城市IP，重构文旅增长的边界
+- Duplicate entry (2x): 2026-04-28-高密度VS低密度不同城市形态下，在地文化的生存逻辑
+- Duplicate entry (2x): 2026-04-29-网红城市更新火得快、冷得快？如何破解？
+- Duplicate entry (2x): 2026-04-30-2026年购物中心生死局：不搞定这四件事，真的会被淘汰
+- Duplicate entry (2x): 2026-04-30-城市跑得越快，越缺能让人待得住的商业
+- Duplicate entry (2x): 2026-04-30-巨富长里的宝藏，这条有故事的马路复活，成了年轻人潮流乐园
+- Duplicate entry (2x): 2026-04-30-社区营造，正在成为商业的新变量
+- Duplicate entry (2x): 2026-04-30-网红城市更新火得快、冷得快？如何破解？
+- Duplicate entry (2x): 2026-04-30-青年发展型城市2.0：从「抢人」到「投资于人」
+- Duplicate entry (2x): 2026-05-03-10年了，為什麼無人機還是送不了外賣？
+- Duplicate entry (2x): 2026-05-04-全球 10 条“最不精致”的街道：混乱与包容才是文化的母体
+- Duplicate entry (2x): 2026-05-04-全球最不精致街道的启示
+- Duplicate entry (2x): 2026-05-04-公园式商业的招商突围
+- Duplicate entry (2x): 2026-05-04-商业街场景驱动化新模式
+- Duplicate entry (2x): 2026-05-04-宁波老街文化焕新
+- Duplicate entry (2x): 2026-05-04-招商难？看看这5个把“公园”搬进商场的项目，出租率从45%飙到了99%
+- Duplicate entry (2x): 2026-05-04-文化先行，宁波这座老街即将“换芯”
+- Duplicate entry (2x): 2026-05-04-未来商街_休闲商业街“场景驱动化”新模式：从功能消费到情绪沉浸
+- Duplicate entry (2x): 2026-05-04-杭州萬象城的香氛節，不只是把香水搬到街區
+- Duplicate entry (2x): 2026-05-04-杭州萬象城香氛節體驗分析
+- Duplicate entry (2x): 2026-05-04-沉浸城市丨从工业锈带到艺术秀带：复兴岛船台公园的轻度改造与沉浸式更新
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜“文旅+研学”，在具身行走的文旅课堂里，让知识自然生长、沉浸感悟
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜“烟火”沉浸营造，以在地温情重构文旅情绪消费
+- Duplicate entry (2x): 2026-05-04-淮海中路变陌生了？上海市中心商业街正经历一场“突围战”
+- Duplicate entry (2x): 2026-05-04-购物中心的下一站内容战争
+- Duplicate entry (3x): 2026-05-07-AI對購物中心和實體店的衝擊
+- Duplicate entry (3x): 2026-05-07-機場就是零售城市
+- Duplicate entry (3x): 2026-05-07-機場正在成為零售城市
+- Duplicate entry (2x): 2026-05-08-一座城市地標的可持續營造記
+- Duplicate entry (2x): 2026-05-10-從央視大樓到全球頂流他在華20多年親歷中國地標的變化
+- Duplicate entry (2x): 2026-05-11-不做藝術第四城的成都，長出了什麼？
+- Duplicate entry (3x): 2026-05-11-文化「新三樣」，城市更新新引擎！
+- Duplicate entry (3x): 2026-05-11-青年發展型城市2.0：從「搶人」到「投資於人」
+- Duplicate entry (3x): 2026-05-13-EB Denim 旗艦店：零售、創意工作室與倉儲三合一
+- Duplicate entry (3x): 2026-05-14-咖啡館化是城市更新的慢性毒藥嗎
+- Duplicate entry (3x): 2026-05-14-未來城市第三空間的演化邏輯
+- Duplicate entry (3x): 2026-05-14-沉浸式演藝：從觀演到入戲，放大文旅價值
+- Duplicate entry (3x): 2026-05-15-K67Kiosk這個紅色小亭子藏著一個時代的模組化想像
+- Duplicate entry (2x): 2026-05-15-一座花園城一張長期主義底牌
+- Duplicate entry (2x): 2026-05-18-K67 Kiosk：這個紅色小亭子，藏著一個時代的模組化想像
+- Duplicate entry (2x): 2026-05-18-從首店開業到文旅目的地的模式躍遷，從傳統商業的「租金依賴」向「品牌孵化+價值投
+- Duplicate entry (3x): 2026-05-20-音樂帶動旅遊：新加坡與環球音樂的城市品牌策略
+- Duplicate entry (3x): 2026-05-26-零售選址不是單點決策：把門市網絡當資本系統管理
+- Duplicate entry (3x): 2026-05-27-商業洞察｜海外高端百貨接連失守中國，它們做錯了什麼
+- Duplicate entry (3x): 2026-05-27-星野集團OMO系列數字代表什麼？專為都市觀光而生的OMO飯店有什麼特色？
+- Duplicate entry (3x): 2026-05-27-東京潮流發信地澀谷Parco霸氣重生，時尚、娛樂、餐飲、劇場、藝術全方位打造次
+- Duplicate entry (2x): 2026-05-29-國內景區死因，懂審美的領導太少？
+- Duplicate entry (3x): 2026-05-29-幾塊錢的旅遊卡，撬動一座城？
+- Duplicate entry (3x): 2026-05-29-數字異化、情感勞動與空間重構：當代青年儀式性就業的實踐形態與三重透視
+- Duplicate entry (3x): 2026-05-30-During off-peak hours, hospitality chai
+- Duplicate entry (3x): 2026-05-30-對廣州，聚龍灣到底改變了什麼
+- Duplicate entry (3x): 2026-05-30-小山姆成了商場B1新頂流
+- Duplicate entry (3x): 2026-05-30-快閃，正在成為商場的主菜
+- Duplicate entry (3x): 2026-05-30-長鑫科技上市，合肥為何逢賭必赢
+- Duplicate entry (3x): 2026-06-01-長三角萬億之城迎來人口拐點
+
+### 媒體與敘事.md
+- Duplicate entry (2x): 2026-02-08-2025年行銷廣告獎評審復盤：從 AI 共感到短影音變現，看見 AI、文化力與
+- Duplicate entry (2x): 2026-02-24-〈全台圓環體檢〉數據幕後：兩塊鳳梨酥＋機器學習演算法，如何幫我們從219萬筆交
+- Duplicate entry (2x): 2026-03-23-訂位暴增303%！從《黑白大廚》看旅遊新趨勢：連飯店都帶房客去逛菜市場
+- Duplicate entry (2x): 2026-03-27-AI 時代正在兩極割裂：富人越富 窮人越窮
+- Duplicate entry (2x): 2026-03-27-美國 AI 新政：告別「50 個實驗室」時代 華盛頓要開一扇新寬門
+- Duplicate entry (2x): 2026-03-27-這家公司全用 AI 做內容 讀者跑光了
+- Duplicate entry (2x): 2026-03-29-OpenAI 關閉 Sora 的真正原因
+- Duplicate entry (2x): 2026-03-29-一條創始人徐滬生：做個人IP應該如何找選題？
+- Duplicate entry (2x): 2026-03-29-情感語錄集
+- Duplicate entry (2x): 2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-03-29-複雜資訊秒變清晰！用「8種視覺化語言」，讓主管與客戶秒懂你的圖像提案技巧
+- Duplicate entry (2x): 2026-03-30-2028 AI 屠宰場：萬字長文引發華爾街地震
+- Duplicate entry (2x): 2026-03-30-SK-II、CELINE、麥當勞：2026 品牌行銷新風向搶先看
+- Duplicate entry (2x): 2026-03-30-哪些企業 CXO 更迭值得關注？2026 春節特輯
+- Duplicate entry (2x): 2026-03-30-比錢櫃、好樂迪跑得快！KTV南霸天鎖定銀髮族，2策略讓冷門時段變熱門、營收衝近
+- Duplicate entry (2x): 2026-03-31-更多美國人使用AI工具卻越來越不信任AI的結果
+- Duplicate entry (2x): 2026-03-31-YC今年最突兀的入選者：為何 OpenAI 與 Google 都在關注這家非營
+- Duplicate entry (2x): 2026-03-31-白嫖迪麗熱巴拍土味短劇這家A股公司把自己作退市了
+- Duplicate entry (2x): 2026-04-07-過去十多年，我們對企業新媒體的認知錯了，錯得離譜
+- Duplicate entry (2x): 2026-04-08-AI 不能替代人類，這個世界不能沒有手搓文案
+- Duplicate entry (2x): 2026-04-08-FOB上線｜你以為你在說事實，其實你在說偏見
+- Duplicate entry (2x): 2026-04-08-《2026年第一季度微短劇報告》
+- Duplicate entry (2x): 2026-04-08-《春天，即興出演》AIGC視頻上線｜把每一場臨時起意，變成品牌生長的契機
+- Duplicate entry (2x): 2026-04-08-出道9天就火遍大江南北！最醜女團時隔6年翻紅，還有人買帳嗎？
+- Duplicate entry (2x): 2026-04-08-小紅書為何逆勢對 AI 內容「痛下殺手」？
+- Duplicate entry (2x): 2026-04-08-康師傅讓我的人生綠了
+- Duplicate entry (2x): 2026-04-08-把趨勢上新玩成「古宅尋新」，天貓超級品類日這次給到夯！
+- Duplicate entry (2x): 2026-04-08-普通人敘事：品牌的新信任貨幣
+- Duplicate entry (2x): 2026-04-08-未來，即刻發生！科幻世界·即刻發生叢書首發式
+- Duplicate entry (2x): 2026-04-08-沉浸式演艺｜当非遗遇见跨媒介舞台剧，数字技术赋能下非遗文化的叙事创新与传播重塑
+- Duplicate entry (2x): 2026-04-08-流量可以買，年輕人的默契只有B站給得了
+- Duplicate entry (2x): 2026-04-08-蕉內最具活人感文案，不是自己寫的
+- Duplicate entry (2x): 2026-04-08-這個婦女節，我們為媽媽、姥姥、奶奶辦了一個美術展
+- Duplicate entry (2x): 2026-04-08-電商品牌如何做好內容行銷（萬字）
+- Duplicate entry (2x): 2026-04-08-香格納M50  當午夜遇見正午，或我們如何想象遠處的風景  策展人寫作
+- Duplicate entry (2x): 2026-04-08-魯豫的事，反轉了！
+- Duplicate entry (2x): 2026-04-09-GEO：AI搜索時代的內容「排名」新規
+- Duplicate entry (2x): 2026-04-09-PM平衡：內容審核的「不可能三角」
+- Duplicate entry (2x): 2026-04-10-2026年GEO优化入门手册：AI搜索时代你的内容为什么没被引用
+- Duplicate entry (2x): 2026-04-10-名創、衛龍「商業互捧」，代言人「時代少年團」負全責哈哈哈！
+- Duplicate entry (2x): 2026-04-10-從來沒有「創始人IP」成就偉大公司，只有偉大的公司成就IP
+- Duplicate entry (2x): 2026-04-10-歐萊雅蘭珍珍：AI時代做好內容的「複利神器」
+- Duplicate entry (2x): 2026-04-10-社交媒體「去社交化」：內容平台正在取代關係網絡
+- Duplicate entry (2x): 2026-04-12-內容即流量的今天，如何寫出好文章？
+- Duplicate entry (2x): 2026-04-12-會說遠比會做更重要SBTI爆火現象的五層觀察
+- Duplicate entry (2x): 2026-04-12-請笑納：我這28年的寫作心法，全部都在這裡了
+- Duplicate entry (2x): 2026-04-12-讓勞動者自己說話，才是真活人感！
+- Duplicate entry (2x): 2026-04-13-2026春日行銷真相：限定款捲不動，敘事是出圈密碼
+- Duplicate entry (2x): 2026-04-13-凱度攜手小紅書洞悉娛樂消費市場，以深度觀眾視角解鎖行業新征程
+- Duplicate entry (2x): 2026-04-13-正式發布！2026中國社交媒體行銷趨勢報告：生態分化時代，品牌如何協同破局？
+- Duplicate entry (2x): 2026-04-15-1.2億觀眾，見證AI漫劇從狂熱到崩塌
+- Duplicate entry (2x): 2026-04-15-B站上最會用AI的創作者，關於AI的25條思考
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰辜仲諒友人否認真正想買的人是媒體百億元競購戰開打
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰？辜仲諒友人否認、真正想買的人是媒體？「百億元」競購戰開打
+- Duplicate entry (2x): 2026-04-15-從創意到運營，AI正從5方面「吃掉」廣告業
+- Duplicate entry (2x): 2026-04-15-當抖音認真搞時尚：讓創作者直擊秀場，讓設計師走向台前
+- Duplicate entry (2x): 2026-04-15-被蒸餾的人
+- Duplicate entry (2x): 2026-04-16-《中國小朋友》出續篇，這次靠什麼打動人？
+- Duplicate entry (2x): 2026-04-16-一条创始人徐沪生：如何快速启动个人IP
+- Duplicate entry (2x): 2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢
+- Duplicate entry (2x): 2026-04-16-别什么都怪短剧
+- Duplicate entry (2x): 2026-04-16-批量刪文封號？微信重拳出手打擊純AI寫作！
+- Duplicate entry (2x): 2026-04-17-Netflix推出垂直影音並以AI強化內容推薦
+- Duplicate entry (2x): 2026-04-17-未来的公司将变成一种新物种一半媒体一半机器
+- Duplicate entry (2x): 2026-04-17-淘寶第一文案「步履不停」，又出神作了
+- Duplicate entry (2x): 2026-04-17-行銷污名化久矣，但0人在意
+- Duplicate entry (2x): 2026-04-18-你們戶外廣告，真的沒有創作瓶頸嗎？
+- Duplicate entry (2x): 2026-04-18-內娛最不被看好的一對，官宣結婚
+- Duplicate entry (2x): 2026-04-18-從「護城河」到「一魚多吃」，愛奇藝詳解AI時代長視頻IP的生存法則
+- Duplicate entry (2x): 2026-04-18-沉浸式踏青——移步換景式春日體驗的場景重構、敘事設計與技術賦能
+- Duplicate entry (2x): 2026-04-20-NGOs環境會議未達共識就扼殺遊蕩犬建言？
+- Duplicate entry (2x): 2026-04-20-做AI選題工具三個月踩了這些坑
+- Duplicate entry (2x): 2026-04-20-小紅書博主合作Brief撰寫指南第三期
+- Duplicate entry (2x): 2026-04-21-2026 市場行銷的底層邏輯變了
+- Duplicate entry (2x): 2026-04-21-GEO 內容創作的五個結構化技巧——只改格式，AI 引用率翻倍
+- Duplicate entry (2x): 2026-04-21-他們用「中產階級」這詞替換掉了什麼？
+- Duplicate entry (2x): 2026-04-21-為什麼這一次，品牌不願錯過《穿普拉達的女王2》
+- Duplicate entry (2x): 2026-04-21-電影，是一門必然要衰落的藝術
+- Duplicate entry (2x): 2026-04-23-融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板
+- Duplicate entry (2x): 2026-04-24-AI時代，品牌的分水嶺是「內容品牌化」
+- Duplicate entry (2x): 2026-04-25-7家北京科技公司殺入，AI賣鏟人為何下場做漫劇
+- Duplicate entry (2x): 2026-04-25-LV開巨輪、商場變劇場2026年，不會「講故事」的商業空間都死了
+- Duplicate entry (2x): 2026-04-25-天津MCN行業觀察：在提質浪潮中，看見津派生長力
+- Duplicate entry (2x): 2026-04-25-從毽子到一個河北男人的證件照：我們在春遊以物易物
+- Duplicate entry (2x): 2026-04-28-爱奇艺是不是穷疯了
+- Duplicate entry (2x): 2026-04-30-AI写不出的文案
+- Duplicate entry (2x): 2026-04-30-三农内容只有“卖货”和“种地”？这些年轻人给出了新答案
+- Duplicate entry (2x): 2026-04-30-头部视频播客一档难求，高端美奢品牌在B站抢什么？
+- Duplicate entry (2x): 2026-04-30-我庆幸人类语言里，还有无法被AI蒸馏的部分
+- Duplicate entry (2x): 2026-04-30-沉浸式文旅｜“跟着电影去旅行”，“电影+文旅”沉浸营造地方光影文旅新场景、新业
+- Duplicate entry (2x): 2026-04-30-难以打工的日子，他们拍火了一条“西游路”
+- Duplicate entry (2x): 2026-05-02-當大家都用AI獲取資訊，我開始擔心小紅書搜尋
+- Duplicate entry (3x): 2026-05-04-五月，適合想清楚一件事
+- Duplicate entry (2x): 2026-05-04-以文學意象為源頭而非裝飾
+- Duplicate entry (2x): 2026-05-04-從廣告科技稅到AI數據中間商：新中間層拿走100%
+- Duplicate entry (3x): 2026-05-06-反算法的二十五歲播客人如何用深度訪談打進AI核心圈層
+- Duplicate entry (3x): 2026-05-06-行銷人如何在Possible大會調適AI時代的人性張力
+- Duplicate entry (3x): 2026-05-11-零點擊搜尋時代行銷人如何優化GEO策略
+- Duplicate entry (2x): 2026-05-14-8集超7.5億播放，《ENEMY》給短劇圈又上了一課
+- Duplicate entry (3x): 2026-05-14-AI時代會出現新的張一鳴嗎？
+- Duplicate entry (3x): 2026-05-14-品牌和廣告人都在養的賽博員工，一句話出片有多神！
+- Duplicate entry (3x): 2026-05-14-泡泡瑪特跨界、愛奇藝建庫：內容產業正面臨一場大遷徙
+- Duplicate entry (3x): 2026-05-14-炸了！三聯的瓜突然爆了
+- Duplicate entry (2x): 2026-05-18-實際上，小紅書內容運營的正確框架是這樣的
+- Duplicate entry (3x): 2026-05-26-什麼時候開始，銷售這件事要通過做內容才能實現了？
+- Duplicate entry (3x): 2026-05-26-內娛嬌夫，氾濫成災
+- Duplicate entry (2x): 2026-05-26-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-26-潮汕人拍出了今年最好的國產片
+- Duplicate entry (3x): 2026-05-27-2026微短劇行業生態圖譜徵集正式啟動，共繪微短劇產業新版圖
+- Duplicate entry (3x): 2026-05-27-商業洞察｜演算法以外，誰在重塑戛納電影節的行銷博弈法則
+- Duplicate entry (3x): 2026-05-29-520商場大屏文案，不搞對象搞抽象
+- Duplicate entry (3x): 2026-05-29-AI之後，品牌內容開始PK誰更朴素
+- Duplicate entry (3x): 2026-05-29-女性正在用另一種流量「投票」
+- Duplicate entry (3x): 2026-05-29-既下山的文案，適合慢慢看
+- Duplicate entry (3x): 2026-05-29-潔麗雅風波，不是公關危機那麼簡單
+- Duplicate entry (2x): 2026-05-29-當消費者開始為治癒感買單，這個品牌把藥材好寫成了詩
+- Duplicate entry (2x): 2026-05-30-騰訊綜藝，重寫內娛的造人邏輯
+
+### 學習與思考.md
+- Duplicate entry (2x): 2026-03-27-AI 時代正在兩極割裂：富人越富 窮人越窮
+- Duplicate entry (2x): 2026-03-27-AI提升20%生產力後，為什麼員工週五反而「沒力了」？聰明人都懂的「放空價值」
+- Duplicate entry (2x): 2026-03-27-林俊暘離職阿里首次發文：智能體時代正在到來
+- Duplicate entry (2x): 2026-03-29-你用 AI 寫的那篇文章，你還信嗎？
+- Duplicate entry (2x): 2026-03-30-2026 是 Multi-Agent 元年 計算機歷史博物館
+- Duplicate entry (2x): 2026-03-30-2026企業生存戰：別讓AI成了你公司的「平庸加速器」
+- Duplicate entry (2x): 2026-03-30-做長期自媒體生意，最後看的就 2 個東西：你是誰 + 核心方法論
+- Duplicate entry (2x): 2026-03-31-為什麼用了那麼多 AI，你的工作還是一團亂？
+- Duplicate entry (2x): 2026-04-07-AI新創 Rocket 提供麥肯錫式顧問報告，只需極少成本
+- Duplicate entry (2x): 2026-04-07-我如何用 Cursor+AI，3天搞懂一個複雜的AI財務系統
+- Duplicate entry (2x): 2026-04-08-2026 AI產品經理能力自測：10分鐘定位你的短板和進階路徑
+- Duplicate entry (2x): 2026-04-08-AI改不了這12條規律
+- Duplicate entry (2x): 2026-04-08-AI逼出了教育的真相，美國大學開始復興一種古老傳統
+- Duplicate entry (2x): 2026-04-08-FOB上線｜你以為你在說事實，其實你在說偏見
+- Duplicate entry (2x): 2026-04-08-NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓
+- Duplicate entry (2x): 2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型
+- Duplicate entry (2x): 2026-04-08-什麼時候Agent能自己寫skill？｜Hao好聊趨勢
+- Duplicate entry (2x): 2026-04-08-你的知識庫已經死了——卡帕西的「活體維基」，才是AI時代真正的第二大腦
+- Duplicate entry (2x): 2026-04-08-你越把這3件事當回事，別人越把你當回事
+- Duplicate entry (2x): 2026-04-08-在「平等」的古巴，我重新理解了「貧窮」
+- Duplicate entry (2x): 2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解
+- Duplicate entry (2x): 2026-04-08-戒掉無效資訊，是給大腦減負的第一步
+- Duplicate entry (2x): 2026-04-08-撕碎日拱一卒的謊言：複雜系統裡，如何獲得真實的人生複利？
+- Duplicate entry (2x): 2026-04-08-每個人都需要的銷售思維
+- Duplicate entry (2x): 2026-04-08-永遠對AI保持懷疑：警惕算法時代的認知外包
+- Duplicate entry (2x): 2026-04-08-沉浸式教育丨「打破教育的邊界」，沉浸式教育助力中小學空間重構、技術賦能與機制創
+- Duplicate entry (2x): 2026-04-08-谷愛凌反覆推薦的5本書
+- Duplicate entry (2x): 2026-04-08-養龍蝦有風險，還有靠譜的AI員工嗎
+- Duplicate entry (2x): 2026-04-08-馮侖：人到中年，最重要的是別算這三筆帳
+- Duplicate entry (2x): 2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？
+- Duplicate entry (2x): 2026-04-09-這兩天，我突然意識到AI於我而言最大的BUG是什麼？
+- Duplicate entry (2x): 2026-04-10-Vibe Coding三天搭族譜APP：全端產品實戰復盤
+- Duplicate entry (2x): 2026-04-10-吳軍：AI時代，普通人該有的10個清醒認知
+- Duplicate entry (2x): 2026-04-10-團隊各做各的、方向不一致？創辦人得先找到自己的「為什麼」
+- Duplicate entry (2x): 2026-04-10-為何外面的人才看起來更優秀？不是現有員工不夠好，是你的大腦在騙你
+- Duplicate entry (2x): 2026-04-10-用「黃金三法則」見了三次，他看穿這位新創執行長遲早出事
+- Duplicate entry (2x): 2026-04-10-當PM習慣讓AI替他思考，產品判斷力會萎縮嗎？
+- Duplicate entry (2x): 2026-04-10-老一輩的經驗，對年輕人是危險的
+- Duplicate entry (2x): 2026-04-11-模型不是壁壘，Harness 也不是
+- Duplicate entry (2x): 2026-04-12-內容即流量的今天，如何寫出好文章？
+- Duplicate entry (2x): 2026-04-12-公司如何擁抱 AI 時代，這是一道組織題
+- Duplicate entry (2x): 2026-04-12-從聽不懂到完全信任我的Codex深度產品體驗
+- Duplicate entry (2x): 2026-04-12-請笑納：我這28年的寫作心法，全部都在這裡了
+- Duplicate entry (2x): 2026-04-12-還沒學會OpenClaw更猛的Hermes-Agent來了
+- Duplicate entry (2x): 2026-04-13-從大廠總監到創業3年，我把一人公司跑通了，方法都在這篇萬字長文裡
+- Duplicate entry (2x): 2026-04-13-用小龍蝦做競品分析報告：從2天到20分鐘，我是怎麼做到的
+- Duplicate entry (2x): 2026-04-15-7個數字顯示AI職場力大提升！這18般創意變現工具，你用過嗎？讓人「好用一直用
+- Duplicate entry (2x): 2026-04-15-AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTec
+- Duplicate entry (2x): 2026-04-15-BCG頂尖顧問的AI私房用法：「來挑戰我」！這2種角色，讓思考大幅升級
+- Duplicate entry (2x): 2026-04-15-B站上最會用AI的創作者，關於AI的25條思考
+- Duplicate entry (2x): 2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的
+- Duplicate entry (2x): 2026-04-15-OKR死於2026
+- Duplicate entry (2x): 2026-04-15-不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.
+- Duplicate entry (2x): 2026-04-15-中年的心事：對人生的日益「失控」
+- Duplicate entry (2x): 2026-04-16-ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫
+- Duplicate entry (2x): 2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代
+- Duplicate entry (2x): 2026-04-16-「蒸餾」這個詞，純粹就是在製造恐慌
+- Duplicate entry (2x): 2026-04-16-一文帶你看懂，火爆全網的Harness Engineering到底是個啥
+- Duplicate entry (2x): 2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法
+- Duplicate entry (2x): 2026-04-16-去除遮蔽，警惕平均：80歲「寶藏奶奶」教我們的事
+- Duplicate entry (2x): 2026-04-16-如何高效復盤？
+- Duplicate entry (2x): 2026-04-16-怎樣對抗心中那個「一念成魔」的時刻？
+- Duplicate entry (2x): 2026-04-16-產品人如何用AI打破自己的能力天花板：今天就能執行的4個方法
+- Duplicate entry (2x): 2026-04-16-用好Agent最重要的技巧不是Skills，是這四個字。
+- Duplicate entry (2x): 2026-04-16-矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？
+- Duplicate entry (2x): 2026-04-16-管理教父柯林斯：最危險的職涯是「擅長但不熱愛」
+- Duplicate entry (2x): 2026-04-16-這3種看似正常的表現可能是抑鬱的信號
+- Duplicate entry (2x): 2026-04-17-AI教育產品Gizmo三年用戶40倍融資2200萬美元
+- Duplicate entry (2x): 2026-04-17-AI時代，好的問題勝過全部
+- Duplicate entry (2x): 2026-04-17-AI訓練AI是技術飛躍還是潘多拉魔盒
+- Duplicate entry (2x): 2026-04-17-如何用 Skills 高效完成產品經理的工作？
+- Duplicate entry (2x): 2026-04-17-微軟新工作未來報告：六條反常識發現，承認自己用AI反而不被信任
+- Duplicate entry (2x): 2026-04-18-AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%
+- Duplicate entry (2x): 2026-04-18-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-18-如何在AI時代，找回你被埋沒的創造力
+- Duplicate entry (2x): 2026-04-18-從電力到智力：拆解AI重塑商業效率
+- Duplicate entry (2x): 2026-04-18-我的理想工作：做點真正有意義的事
+- Duplicate entry (2x): 2026-04-19-万维钢：你不是老了才退出，而是退出后才变老
+- Duplicate entry (2x): 2026-04-19-冯仑：别太相信好人，也别急着远离坏人
+- Duplicate entry (2x): 2026-04-19-又一所大学突然倒闭，乔布斯30年前的预言成真了
+- Duplicate entry (2x): 2026-04-19-当一个边缘人对AI感到焦虑（下篇）
+- Duplicate entry (2x): 2026-04-21-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-21-凯文·凯利最新预测AI时代的22个确定性
+- Duplicate entry (2x): 2026-04-21-判断一个地方值不值得待，就看这3件事
+- Duplicate entry (2x): 2026-04-21-同样被AI冲击，为什么这39%的人不焦虑？
+- Duplicate entry (2x): 2026-04-21-為什麼追求「更好」，不會讓生活變好？
+- Duplicate entry (2x): 2026-04-22-OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了
+- Duplicate entry (2x): 2026-04-23-GMO 傳奇預言家再次唱空：AI 救不了美股，現在行情和 2000 年一樣危險
+- Duplicate entry (2x): 2026-04-23-如何從AI工具中挖掘商機
+- Duplicate entry (2x): 2026-04-24-一人公司，如何活過「一人」？
+- Duplicate entry (2x): 2026-04-28-AI時代的產品經理應該是怎樣的？
+- Duplicate entry (2x): 2026-04-28-AI時代，我們更應該認識到「工具之外，事情本身」
+- Duplicate entry (2x): 2026-04-28-哎，很多工作都即将成为非遗
+- Duplicate entry (2x): 2026-04-28-当世界变得复杂，总有人简单爱着地球
+- Duplicate entry (2x): 2026-04-28-微软是如何穿越30年周期的
+- Duplicate entry (2x): 2026-04-28-新北首間 AI 科技高中！錦和高中導入羅技電子 Rally Board 65 
+- Duplicate entry (2x): 2026-04-28-最容易滑落的铁饭碗，近四成人陷入抑郁
+- Duplicate entry (2x): 2026-04-28-李善友：总市值再破5万亿美元，英伟达为什么总能跨越鸿沟？
+- Duplicate entry (2x): 2026-04-28-爱上玄学，是认知退化吗？
+- Duplicate entry (2x): 2026-04-28-真正的自由，不是拥有很多东西，而是可以不依赖任何东西
+- Duplicate entry (2x): 2026-04-28-都说要学AI，但3种人，3种学法
+- Duplicate entry (2x): 2026-04-29-功能開發已壓縮到「日更」，PM的價值錨點在哪裡？
+- Duplicate entry (2x): 2026-04-30-AGI時代的個人OS重構：為什麼你的「SFT資料集」決定了你的階層？
+- Duplicate entry (2x): 2026-04-30-Obsidian打造AI化神经中枢：10个在用工作流分享
+- Duplicate entry (2x): 2026-04-30-“正经人谁还看书啊”
+- Duplicate entry (2x): 2026-04-30-为什么很多捷径，最后都成了回头路？
+- Duplicate entry (2x): 2026-04-30-企業爭奪「好用的人」：2026年，用人邏輯已經變天了
+- Duplicate entry (2x): 2026-04-30-大数据告诉你：大器晚成，才是人生常态
+- Duplicate entry (2x): 2026-04-30-突然发现：那些内心强大到可怕的人，都有这1个特征
+- Duplicate entry (2x): 2026-04-30-这一种“上瘾”行为，是怎么毁掉一个人的？
+- Duplicate entry (2x): 2026-05-02-为什么你越拼命学技巧，自媒体越赚不到钱？？？
+- Duplicate entry (3x): 2026-05-04-一個人轉運的最好方式：避舊
+- Duplicate entry (3x): 2026-05-04-五月，適合想清楚一件事
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器—普通人拿什麼創業
+- Duplicate entry (3x): 2026-05-05-不要急著解決問題
+- Duplicate entry (3x): 2026-05-06-反算法的二十五歲播客人如何用深度訪談打進AI核心圈層
+- Duplicate entry (3x): 2026-05-07-想要Skills變現，你需要先搞懂這5點
+- Duplicate entry (3x): 2026-05-08-高可用架構的工程智慧
+- Duplicate entry (3x): 2026-05-09-文科生的AI逆襲對話Anthropic聯合創始人
+- Duplicate entry (3x): 2026-05-09-當代碼變便宜之後我們失去了什麼
+- Duplicate entry (2x): 2026-05-11-反脆弱公司治理《精益創業》作者Eric Ries如何防止公司腐化
+- Duplicate entry (3x): 2026-05-12-個人生產力暴增10倍，公司價值卻沒變：AI時代最昂貴的教訓
+- Duplicate entry (3x): 2026-05-13-Cursor CEO：AI 編程的下一個時代
+- Duplicate entry (3x): 2026-05-13-需求優先級評估的六個實用方法
+- Duplicate entry (3x): 2026-05-14-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-14-三位神經科學研究者：年輕人的腦子太累了
+- Duplicate entry (3x): 2026-05-14-不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI
+- Duplicate entry (3x): 2026-05-14-全網都力竭了
+- Duplicate entry (3x): 2026-05-14-沒人知道何時會跨越臨界點
+- Duplicate entry (3x): 2026-05-14-炸了！三聯的瓜突然爆了
+- Duplicate entry (2x): 2026-05-14-當代人的崩潰：閒不下來，也快樂不起來
+- Duplicate entry (2x): 2026-05-14-范凱說 AI · 周日晚聊 第19期：AI把天花板打開了，切入點決定你在哪邊
+- Duplicate entry (3x): 2026-05-18-AI到底會不會讓大學變成一堆沒用的磚頭？
+- Duplicate entry (3x): 2026-05-18-Markdown 已死，HTML 登基：極客思維正在毀掉你的交付力
+- Duplicate entry (3x): 2026-05-18-低谷期突圍最快的方式：換！換！換！
+- Duplicate entry (2x): 2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买
+- Duplicate entry (3x): 2026-05-18-想轉行AI產品經理，90%的人第一步就走錯了！
+- Duplicate entry (3x): 2026-05-18-沒明星、沒經費，一群大學生靠燒腦拍出9.4分神級綜藝
+- Duplicate entry (3x): 2026-05-18-熬過1480天的大廠人，不再渴望上岸
+- Duplicate entry (3x): 2026-05-18-百度AI，單幹創業
+- Duplicate entry (2x): 2026-05-18-絕望的直女：如何厭男又愛男？
+- Duplicate entry (3x): 2026-05-18-老年大學裡的銀發攀比，老了也要內卷
+- Duplicate entry (3x): 2026-05-20-百萬台割草機器人背後：創辦人讓自己「變得不重要」
+- Duplicate entry (3x): 2026-05-23-AI進入產業前線未來最稀缺的AI人才是誰
+- Duplicate entry (3x): 2026-05-23-一個AI創始人的虛榮心和愚昧之巔
+- Duplicate entry (3x): 2026-05-26-企業增長卡住，最先亂掉的往往是內部語言
+- Duplicate entry (3x): 2026-05-26-分享一套從頭到腳愛自己的詳細教程
+- Duplicate entry (3x): 2026-05-26-創業者閉門探討：為Agent打造其實還是為人打造
+- Duplicate entry (3x): 2026-05-26-在一起的能力 方所選書
+- Duplicate entry (3x): 2026-05-26-楊絳：什麼是格局？
+- Duplicate entry (3x): 2026-05-26-盡量去研究自媒體的規律，這就是人生規律
+- Duplicate entry (3x): 2026-05-26-真正厲害的老闆，最後都回到了常識
+- Duplicate entry (3x): 2026-05-26-納瓦爾思維：人一旦有了體系，做什麼都容易成功
+- Duplicate entry (3x): 2026-05-27-別把你的價值，全掛在別人的秤桿上
+- Duplicate entry (3x): 2026-05-27-為什麼我們總覺得過去更美好
+- Duplicate entry (3x): 2026-05-29-更強大腦：AI時代的人類優勢（麥肯錫與世界經濟論壇聯合報告）
+- Duplicate entry (3x): 2026-05-29-減少內耗最好的方式：遠離蠢人
+- Duplicate entry (3x): 2026-05-29-鈴木敏文逝世：他與7-Eleven的三個反常識故事
+- Duplicate entry (2x): 2026-05-30-壓迫，很多時候以真理的姿態出現
+- Duplicate entry (3x): 2026-06-01-3個心法送給職場反覆內耗的你
+- Duplicate entry (2x): 2026-06-01-至少要對得起自己的時間吧
+- 3 blank lines inside entry list
+
+### 市場與需求.md
+- Duplicate entry (2x): 2026-02-08-2025年行銷廣告獎評審復盤：從 AI 共感到短影音變現，看見 AI、文化力與
+- Duplicate entry (2x): 2026-02-10-2025百貨集團版圖大洗牌！業績平均成長1%，這業態發威意外成救星
+- Duplicate entry (2x): 2026-03-23-從 BTS、獵人到素還真，麥當勞如何用IP精準收服不同世代的「情緒價值」？
+- Duplicate entry (2x): 2026-03-23-訂位暴增303%！從《黑白大廚》看旅遊新趨勢：連飯店都帶房客去逛菜市場
+- Duplicate entry (2x): 2026-03-24-德國超市推「慢結帳」服務，收銀媽媽化身抗老年孤獨橋樑
+- Duplicate entry (2x): 2026-03-25-別讓缺工斷了出貨鏈！中小企業如何靠 Lalamove 打造更有彈性的「雙軌物流
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞·秦皇島全年活動預告
+- Duplicate entry (2x): 2026-03-29-AI 焦慮，天塌了的故事
+- Duplicate entry (2x): 2026-03-29-Sora 關閉：AI 影片產業的現實考驗時刻
+- Duplicate entry (2x): 2026-03-29-一覺醒來，品牌又做了哪些好案例？（Vol.390 03.15-03.21）
+- Duplicate entry (2x): 2026-03-29-你用 AI 寫的那篇文章，你還信嗎？
+- Duplicate entry (2x): 2026-03-29-專訪群玉山&愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-03-29-工作流、Agent、智能體，究竟都是個啥？
+- Duplicate entry (2x): 2026-03-29-從虧損 40 億到獲利翻 6 倍！亞瑟士如何靠「減法戰略」逆轉勝？3 大關鍵策
+- Duplicate entry (2x): 2026-03-29-情感語錄集
+- Duplicate entry (2x): 2026-03-29-科技 CEO 突然愛把裁員怪給 AI，背後真正原因是什麼？
+- Duplicate entry (2x): 2026-03-29-蕉內最具「活人感」文案，不是自己寫的
+- Duplicate entry (2x): 2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-03-30-2026 行銷革命：知識庫+智能體=品牌增長新引擎
+- Duplicate entry (2x): 2026-03-30-2028 AI 屠宰場：萬字長文引發華爾街地震
+- Duplicate entry (2x): 2026-03-30-5 個關鍵詞，前瞻 2026 品牌行銷趨勢
+- Duplicate entry (2x): 2026-03-30-95 億人次背後：2026 春節文旅市場全景洞察
+- Duplicate entry (2x): 2026-03-30-SK-II、CELINE、麥當勞：2026 品牌行銷新風向搶先看
+- Duplicate entry (2x): 2026-03-30-今年，哪些行業能過上好日子？
+- Duplicate entry (2x): 2026-03-30-哪些企業 CXO 更迭值得關注？2026 春節特輯
+- Duplicate entry (2x): 2026-03-30-報告分享｜《2026 年輕人消費趨勢報告》
+- Duplicate entry (2x): 2026-03-30-比錢櫃、好樂迪跑得快！KTV南霸天鎖定銀髮族，2策略讓冷門時段變熱門、營收衝近
+- Duplicate entry (2x): 2026-03-30-臨危受命，95 後兒媳接手家族企業，靠自毀式升級半年扭虧
+- Duplicate entry (2x): 2026-03-30-進口量、金額雙創新高！海外包裹一年湧入 6500 萬件，台灣人的錢都流去哪了？
+- Duplicate entry (2x): 2026-03-31-Mistral AI募資8.3億美元在巴黎近郊建立資料中心
+- Duplicate entry (2x): 2026-03-31-別再跟 Z 世代說「想當年」！哈佛心理學家：停止說教吧，你年輕時也一樣掙扎
+- Duplicate entry (2x): 2026-03-31-四家機器人廠商，一起投了一家數據公司
+- Duplicate entry (2x): 2026-03-31-壁仞科技營收三年增16倍，國產算力芯片業績兌現期
+- Duplicate entry (2x): 2026-03-31-科技CEO為何突然愛把大規模裁員怪給AI
+- Duplicate entry (2x): 2026-03-31-追覓生態鏈AI儲能融入智慧家居生態
+- Duplicate entry (2x): 2026-04-01-供應鏈效率成零售業決勝點！AI 導購 0.1 秒成交，智慧倉儲如何解決出貨慢痛
+- Duplicate entry (2x): 2026-04-02-我拆了5個設計素材平台的小紅書賬號，發現兩種完全不同的官網引流邏輯
+- Duplicate entry (2x): 2026-04-05-「上線產品就能找到工作」這個謊言害了多少轉行的人
+- Duplicate entry (2x): 2026-04-06-衆籌300萬美元的Agent盒子，想徹底解決你的算力焦慮
+- Duplicate entry (2x): 2026-04-07-AI新創 Rocket 提供麥肯錫式顧問報告，只需極少成本
+- Duplicate entry (2x): 2026-04-07-AI淘金熱讓私人財富轉向更早期、更高風險的押注
+- Duplicate entry (2x): 2026-04-07-前迪士尼工程師和Midjourney聯創，要做一款「會呼吸」的DIY仿生機器人
+- Duplicate entry (2x): 2026-04-08-2025-2026中國吃喝玩樂消費洞察：情緒金字塔重構，品牌如何借梯媒全域破局
+- Duplicate entry (2x): 2026-04-08-Kimi估值涨至180亿美元，3个月翻4倍；腾讯QClaw开启全量公测；霸王茶
+- Duplicate entry (2x): 2026-04-08-Zara母公司創歷史最佳業績：利潤突破62億歐元
+- Duplicate entry (2x): 2026-04-08-下場做品牌，「新拼姆」能成為拼多多的二級火箭嗎？
+- Duplicate entry (2x): 2026-04-08-中國奢侈品市場格局改寫：LV、老舖、愛馬仕位列前三
+- Duplicate entry (2x): 2026-04-08-劉潤：2026年，中小企業有個大機會
+- Duplicate entry (2x): 2026-04-08-半年賺了14億，曾經「打骨折」的中產品牌，憑什麼讓中國女人回頭瘋搶？
+- Duplicate entry (2x): 2026-04-08-原油「打噴嚏」衝鋒衣「重感冒」：地緣到衣櫃的價格傳導
+- Duplicate entry (2x): 2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-04-08-從李寧到迪卡儂，今年戶外的「潛規則」變了
+- Duplicate entry (2x): 2026-04-08-拼多多Temu將孵化自營品牌；阿里國際推電商版「龍蝦」；TikTok Shop
+- Duplicate entry (2x): 2026-04-08-拼多多將投千億做品牌自營；老鋪黃金2025中國營收超越愛馬仕｜零售電商週報
+- Duplicate entry (2x): 2026-04-08-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長｜一
+- Duplicate entry (2x): 2026-04-08-業內首份「時尚AI投資報告」by「華麗智庫」正式發布！涵蓋近百創業公司和50+
+- Duplicate entry (2x): 2026-04-08-泡泡瑪特不再性感
+- Duplicate entry (2x): 2026-04-08-海外市場高客單產品的用戶購物旅程洞察
+- Duplicate entry (2x): 2026-04-08-深度｜香港，奢侈品零售業復甦了嗎？
+- Duplicate entry (2x): 2026-04-08-為什麼越來越多年輕人，選擇開著獵裝車上路？
+- Duplicate entry (2x): 2026-04-08-美以伊戰爭硝煙背後：石油美元體系走向崩塌了嗎？
+- Duplicate entry (2x): 2026-04-08-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-04-08-阿里預計2029財年即時零售業務板塊將實現整體盈利；椰樹集團要買50台機器人剝
+- Duplicate entry (2x): 2026-04-08-順應「輕奢化」趨勢，Michael Kors 和 Jimmy Choo 如何調
+- Duplicate entry (2x): 2026-04-10-小红书精准洞察，助力天猫细分品类长效破局
+- Duplicate entry (2x): 2026-04-10-從「找工作」到「選職涯」：企業吸引力的競爭規則，正在被Z世代改寫
+- Duplicate entry (2x): 2026-04-10-情緒消費越火，普通產品越難賣
+- Duplicate entry (2x): 2026-04-10-我們正在跑步進入電商下半場
+- Duplicate entry (2x): 2026-04-10-找不到差異化？90%的失敗卡在競爭分類第一步
+- Duplicate entry (2x): 2026-04-10-拒絕募資、堅持免費 15 年：iLovePDF 如何從一人工具做到全球流量前 
+- Duplicate entry (2x): 2026-04-10-日本販賣機大廠Dydo為何會虧損？產業第一線觀察，販賣機市場正在轉型成長
+- Duplicate entry (2x): 2026-04-10-美妝香水，「躺贏」模式已經過時！科蒂中國高端美妝總經理論壇分享
+- Duplicate entry (2x): 2026-04-12-2026 年，商家如何靠品質在淘寶直播找回確定性增長？
+- Duplicate entry (2x): 2026-04-12-為什麼說電商消費需要一場品質審美
+- Duplicate entry (2x): 2026-04-13-2026人群白皮書：錨定真實的人
+- Duplicate entry (2x): 2026-04-13-2026體育超級大年，天貓運動戶外為品牌造了一個「新主場」
+- Duplicate entry (2x): 2026-04-13-中國的體驗經濟向何處去？萬豪集團地區總經理對談中金公司研究部總監｜2026年度
+- Duplicate entry (2x): 2026-04-13-估值2.5億，成立4個月，潮玩中的愛馬仕MOMOTOY獲數千萬元融資
+- Duplicate entry (2x): 2026-04-13-凱度攜手小紅書洞悉娛樂消費市場，以深度觀眾視角解鎖行業新征程
+- Duplicate entry (2x): 2026-04-13-年輕人的消費決策路徑，變了！
+- Duplicate entry (2x): 2026-04-13-新消費最殘酷的真相：大多數品牌從一開始就沒機會
+- Duplicate entry (2x): 2026-04-13-木鳥、途家、美團對打，平台春天行動開「卷」
+- Duplicate entry (2x): 2026-04-13-裝睡的品牌，正在被年輕人集體拋棄
+- Duplicate entry (2x): 2026-04-15-2026-2029預測：情緒消費將破4.5萬億，下一個風口在哪
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰？辜仲諒友人否認、真正想買的人是媒體？「百億元」競購戰開打
+- Duplicate entry (2x): 2026-04-15-一年過去，潮玩行業沒能等來「第二個Labubu」
+- Duplicate entry (2x): 2026-04-15-中國「打工人」第一城，誕生
+- Duplicate entry (2x): 2026-04-15-台灣碳費是偽命題？制度建置能力才是核心
+- Duplicate entry (2x): 2026-04-15-日本汽車業已逼近生存關鍵點本田近70年來首次淨虧損背後揭日本競爭力流失真相
+- Duplicate entry (2x): 2026-04-15-瑞幸、凱娜克紛紛插旗台灣，全家、路易莎為何老神在在？
+- Duplicate entry (2x): 2026-04-15-縣城貴婦，養活多少五星酒店？
+- Duplicate entry (2x): 2026-04-16-「去班味」的年轻人，爆买踏青「硬通货」
+- Duplicate entry (2x): 2026-04-16-中国经济，未来五年会发生怎样的变革？
+- Duplicate entry (2x): 2026-04-16-即时零售下半场，为何自营成了普遍趋势
+- Duplicate entry (2x): 2026-04-16-增長突然停了，大概率不是流量問題
+- Duplicate entry (2x): 2026-04-16-日本消费经济大师警告餐饮人卷价格正在走一条死路
+- Duplicate entry (2x): 2026-04-16-笑不活了！農夫山泉把離職的產品經理逼出來了
+- Duplicate entry (2x): 2026-04-17-2026十大文旅趨勢——抓住年輕人的情緒價值和體驗需求
+- Duplicate entry (2x): 2026-04-18-2026年中國消費市場：前景展望樂觀
+- Duplicate entry (2x): 2026-04-18-中產失靈，但星巴克還想「死磕」溢價
+- Duplicate entry (2x): 2026-04-18-即時零售進入拼供應鏈深水區
+- Duplicate entry (2x): 2026-04-19-LVMH集团高管细说：中国客群、路易威登、迪奥、蒂芙尼
+- Duplicate entry (2x): 2026-04-19-万亿情绪经济来了：哪些行业正在被重构？
+- Duplicate entry (2x): 2026-04-19-中国零售出海，不再只是卖货
+- Duplicate entry (2x): 2026-04-19-文章复出火上热搜现状让人唏嘘
+- Duplicate entry (2x): 2026-04-19-瑞幸終結咖啡9.9元時代
+- Duplicate entry (2x): 2026-04-20-動物用人藥新制將上路 藥廠登錄意願低恐釀紛爭 引獸醫飼主憂
+- Duplicate entry (2x): 2026-04-20-動物用藥新制宣告註銷 再提管理辦法草案時間未定
+- Duplicate entry (2x): 2026-04-20-動物用藥新制紛爭多 農業部拍板延後上路時間
+- Duplicate entry (2x): 2026-04-20-粗暴拖拉致失禁 楊梅訓犬中心陷虐犬爭議
+- Duplicate entry (2x): 2026-04-21-一个过气APP，吃透已婚女人的钱包
+- Duplicate entry (2x): 2026-04-21-一個買菜 APP，把江浙滬釣成翹嘴
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年，時尚資本交易數量更少、但規模更大？
+- Duplicate entry (2x): 2026-04-21-女性的瑜伽褲，中產的遮羞布
+- Duplicate entry (2x): 2026-04-21-戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
+- Duplicate entry (2x): 2026-04-21-用不起Token的我，成了AI時代的下沉市場人群
+- Duplicate entry (2x): 2026-04-23-2026 年療愈經濟：國家戰略背書，療愈行業正式步入黃金時代
+- Duplicate entry (2x): 2026-04-23-2026 日內瓦鐘表展：焦慮蔓延，瑞表如何交卷？
+- Duplicate entry (2x): 2026-04-23-主題樂園的復購難題，被美團破解了？
+- Duplicate entry (2x): 2026-04-23-比中籤還難的訂酒店，跑馬人在華住會破局了？
+- Duplicate entry (2x): 2026-04-23-現在的男女，不願再為低品質感情買單
+- Duplicate entry (2x): 2026-04-23-美國百年太妃糖品牌Roca樂家被全資收購
+- Duplicate entry (2x): 2026-04-23-頭頂有神，心裡有帳——中國人的信仰經濟學
+- Duplicate entry (2x): 2026-04-24-AI時代最大的紅利，藏在那些「老登」看不懂的地方
+- Duplicate entry (2x): 2026-04-25-AI視頻，這一次中國真贏了
+- Duplicate entry (2x): 2026-04-25-LV開巨輪、商場變劇場2026年，不會「講故事」的商業空間都死了
+- Duplicate entry (2x): 2026-04-25-「中國製造」升級如何重新定義中國品牌？
+- Duplicate entry (2x): 2026-04-27-前蘋果工程師做了款體感遊戲機，銷量拳打Xbox，營收數億美元
+- Duplicate entry (2x): 2026-04-27-我已經不太推薦大家去小紅書開店賣貨了
+- Duplicate entry (2x): 2026-04-28-被群嘲的“最丑”小车，凭什么逆袭大卖？
+- Duplicate entry (2x): 2026-04-28-跨山越水，连接价值——明略科技《2026户外出行广告价值洞察（下）城际跨越》发
+- Duplicate entry (2x): 2026-04-28-逃不开的经济周期，以及对未来的5个建议
+- Duplicate entry (2x): 2026-04-29-哈囉不太順風的十週年
+- Duplicate entry (2x): 2026-04-29-有人發育有人失速，木鳥途家美團民宿平台正在分化
+- Duplicate entry (2x): 2026-04-30-Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危
+- Duplicate entry (2x): 2026-04-30-一支卷发棒狂卖2亿美元背后，中国制造的出海新航道
+- Duplicate entry (2x): 2026-04-30-今年五一，“社恐型酒店”火了
+- Duplicate entry (2x): 2026-04-30-创业第8年，刀法走的每一步，都是人群战略
+- Duplicate entry (2x): 2026-04-30-商业洞察｜奢侈品巨头直谈危机，密集的股东大会释放了哪些信号？
+- Duplicate entry (2x): 2026-04-30-批量「透支」後，AI創業更累了
+- Duplicate entry (2x): 2026-04-30-把文化做成刚需，这碗面让老外彻底“真香”
+- Duplicate entry (2x): 2026-04-30-老登消费，能拯救购物中心吗？
+- Duplicate entry (2x): 2026-05-02-一家银行的价值不只写在利润表上
+- Duplicate entry (2x): 2026-05-02-逃离5A景区的中年人，正在涌向“差评最多”的小店
+- Duplicate entry (2x): 2026-05-03-一篇講透：小紅書電商選品全鏈路
+- Duplicate entry (2x): 2026-05-04-Fabletics如何成長為美國最大的DTC運動服品牌
+- Duplicate entry (2x): 2026-05-04-“增收不增利”，宠物食品行业的品牌化代价？
+- Duplicate entry (2x): 2026-05-04-“香水热”见顶了吗？
+- Duplicate entry (2x): 2026-05-04-五一酒店，压不住的涨价潮？
+- Duplicate entry (2x): 2026-05-04-拉美电商三国演义
+- Duplicate entry (2x): 2026-05-04-拉美電商激戰與中國供應鏈博弈
+- Duplicate entry (2x): 2026-05-04-香水氣味測試營銷分析
+- Duplicate entry (2x): 2026-05-05-萬億零食市場迎來大洗牌
+- Duplicate entry (2x): 2026-05-07-對話孫來春：年入25億的林清軒不想做中國歐萊雅
+- Duplicate entry (2x): 2026-05-07-消費者向低價零售商轉移
+- Duplicate entry (3x): 2026-05-07-消費者正在轉向低價零售商
+- Duplicate entry (2x): 2026-05-07-消費者正在轉向低價零售商，報告顯示
+- Duplicate entry (3x): 2026-05-08-2026-商管人的真實生存現狀-從管理者到要債的
+- Duplicate entry (3x): 2026-05-08-TOP-TOY二衝上市-賣別人的IP難賺錢
+- Duplicate entry (3x): 2026-05-08-互聯網泡沫撇清-新一代數字品牌強勢碾壓初代玩家
+- Duplicate entry (3x): 2026-05-08-兩大根變量重塑消費邏輯-基諾浦的母嬰生態化思考
+- Duplicate entry (2x): 2026-05-08-別把情緒價值用爛了
+- Duplicate entry (2x): 2026-05-08-品牌年輕化-不是討好年輕人
+- Duplicate entry (3x): 2026-05-08-從山姆到胖東來-零售大店的邏輯變了
+- Duplicate entry (2x): 2026-05-08-從新六百YOUNG開業-看老百貨如何年輕化突圍
+- Duplicate entry (3x): 2026-05-09-如何打造長紅產品讀懂這五個底層邏輯
+- Duplicate entry (3x): 2026-05-10-19.9元買小破爛買到上頭00後有自己的兩元店
+- Duplicate entry (3x): 2026-05-10-Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯
+- Duplicate entry (3x): 2026-05-10-一圖概覽母嬰寵物行業618大促全景攻略育見增長共創新機
+- Duplicate entry (3x): 2026-05-10-五一出行消費觀察火爆數據下哪些才是真實風口
+- Duplicate entry (3x): 2026-05-10-告別增長時代醫藥重畫生死線
+- Duplicate entry (3x): 2026-05-10-從路過到停留街區商業如何擴大地盤
+- Duplicate entry (3x): 2026-05-10-情緒主場心動即行動2026巨量引擎食飲行業星圖大會精彩回顧
+- Duplicate entry (3x): 2026-05-10-日本車企在中國正加速走向消亡
+- Duplicate entry (3x): 2026-05-10-為什麼這幾條街靠情緒價值場景營造年收上億元
+- Duplicate entry (3x): 2026-05-10-由豆包付費想到AI到底會長成一門什麼生意
+- Duplicate entry (2x): 2026-05-10-百萬豪宅月租400年輕人湧入空城
+- Duplicate entry (3x): 2026-05-10-第三空間的沉浸重構從打卡到駐留的五重轉向
+- Duplicate entry (2x): 2026-05-10-算法時代互聯網大廠為何下場做商業
+- Duplicate entry (3x): 2026-05-10-終於2026年的家居趨勢不再只是一種風格
+- Duplicate entry (3x): 2026-05-10-線下活動如何承載我們對公共生活的想象
+- Duplicate entry (3x): 2026-05-10-膠東商業矛盾的面子和裡子
+- Duplicate entry (2x): 2026-05-10-花卉美陳的櫥窗效應治癒型視覺美感沉浸營造與空間情感共鳴設計
+- Duplicate entry (3x): 2026-05-10-菜市場救不了書店
+- Duplicate entry (2x): 2026-05-10-被坑慘了的年輕人已經放棄找旅遊搭子了
+- Duplicate entry (3x): 2026-05-10-阿那亞常熟啟幕學園社區未來生活
+- Duplicate entry (2x): 2026-05-10-非標商業不是孵化器而是試紙
+- Duplicate entry (3x): 2026-05-10-高端商場的進化從無用消費開始突圍了
+- Duplicate entry (3x): 2026-05-11-AI小店占領縣城，老板們賺到錢了嗎？
+- Duplicate entry (2x): 2026-05-11-POLOWALK們正在收割中年男人
+- Duplicate entry (2x): 2026-05-11-新消費企業做新品，不能只看品類空白，還要看情緒空白
+- Duplicate entry (2x): 2026-05-11-觀夏、宋朝、野獸派，其實在做三種完全不同的香氛。
+- Duplicate entry (3x): 2026-05-13-零食品牌效率轉型：從做大到做對的經營選擇
+- Duplicate entry (3x): 2026-05-14-2026年香氛報告：關鍵趨勢，品牌和香氣
+- Duplicate entry (3x): 2026-05-14-8集超7.5億播放，《ENEMY》給短劇圈又上了一課
+- Duplicate entry (3x): 2026-05-14-新鮮零食，擠進商場B1層
+- Duplicate entry (3x): 2026-05-14-為什麼你做的AI工具沒人買單？放棄宏大敘事，去社會的「神經末梢」撿錢
+- Duplicate entry (3x): 2026-05-15-麥記牛奶：糖水賽道的窗口期策略
+- Duplicate entry (3x): 2026-05-16-未來的渠道，都是「特渠」
+- Duplicate entry (3x): 2026-05-17-肯德基也要被賣了？
+- Duplicate entry (3x): 2026-05-17-開放式耳機的品類革命
+- Duplicate entry (2x): 2026-05-18-Markdown 已死，HTML 登基，極客思維正在毀掉你的交付力
+- Duplicate entry (2x): 2026-05-18-今年五一出行，大家都不想吃苦了
+- Duplicate entry (3x): 2026-05-18-少女風，憑什麼火過快時尚？
+- Duplicate entry (3x): 2026-05-18-年輕人患上青菜焦慮症，餐飲老闆的機會來了？
+- Duplicate entry (2x): 2026-05-18-從亞洲走向世界，Netflix Ads首個出海營銷活動釋放了3個關鍵信號
+- Duplicate entry (2x): 2026-05-18-快閃，正在成為商場的主菜
+- Duplicate entry (2x): 2026-05-18-情緒消費不是賣情緒，而是讓產品從「有用」變成「想買」
+- Duplicate entry (2x): 2026-05-18-想轉行AI產品經理，90%的人第一步就走錯了！
+- Duplicate entry (2x): 2026-05-18-按要求「蒸餾」自己後，他們被裁了
+- Duplicate entry (3x): 2026-05-18-橫店短劇大撤退，停工、降薪，與被擠掉的飯碗
+- Duplicate entry (2x): 2026-05-18-為什麼追年輕人的商業，容易火但不容易持久？
+- Duplicate entry (2x): 2026-05-18-當身心與生活都在超載，我們該如何找回失落的輕盈
+- Duplicate entry (2x): 2026-05-18-線上賣貨最大的誤區，把上架當成了決策現場
+- Duplicate entry (3x): 2026-05-18-鄭州商業，實用主義的極致演繹
+- Duplicate entry (2x): 2026-05-18-韓國時尚卷王殺入中國，3家店開局就火，放話要再開100家
+- Duplicate entry (2x): 2026-05-18-飲料瓶裡的故事，你得喝完才看得到
+- Duplicate entry (3x): 2026-05-19-小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路
+- Duplicate entry (3x): 2026-05-23-440億投資清零AI正在殺死這個賽道
+- Duplicate entry (3x): 2026-05-24-珀萊雅收購花知曉美妝界安踏尚未誕生
+- Duplicate entry (3x): 2026-05-26-從規模到質量，木鳥途家美團轉向情緒消費
+- Duplicate entry (3x): 2026-05-26-確診新型網紅病：腦子沒壞，錢包空了
+- Duplicate entry (2x): 2026-05-26-親子關係改變，童裝品牌跟著變？我和巴拉巴拉總經理聊了聊
+- Duplicate entry (3x): 2026-05-26-評論區，比很多調研報告更接近真實消費心理
+- Duplicate entry (3x): 2026-05-27-萬國來朝？為什麼全世界都在扎堆飛中國？
+- Duplicate entry (3x): 2026-05-28-為什麼大健康用戶越來越難成交？
+- Duplicate entry (3x): 2026-05-28-紐約零售大變局：奢侈品退潮、SoHo崛起與品牌定位的終極考驗
+- Duplicate entry (3x): 2026-05-28-縣城商鋪倒閉潮，遠比我們想像中的慘烈
+- Duplicate entry (3x): 2026-05-29-Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求
+- Duplicate entry (3x): 2026-05-29-The Set奢華酒店會員制：以情感連結取代積點獎勵
+- Duplicate entry (2x): 2026-05-29-橫店短劇大撤退：停工、降薪，與被擠掉的飯碗
+- Duplicate entry (3x): 2026-05-29-海底撈都帶不動的寵物友好，景區卻搶著排隊當韭菜？
+- Duplicate entry (3x): 2026-05-29-湯泉，慎入
+- Duplicate entry (3x): 2026-05-29-男色經濟，滑向曖昧深處
+- Duplicate entry (3x): 2026-05-29-碳水臉，又一個很惡意的詞
+- Duplicate entry (2x): 2026-05-30-不想做飯的年輕人，愛上成人輔食
+- Duplicate entry (2x): 2026-05-30-中產三寶，殺出一個新勁敵
+- Duplicate entry (3x): 2026-05-30-大衆人群消費：畫像一覽
+- Duplicate entry (2x): 2026-05-30-小山姆成了商場B1新頂流
+- Duplicate entry (3x): 2026-05-30-擺脫成長瓶頸台灣零售業的下一條上升曲線怎麼走 勤業眾信
+- Duplicate entry (2x): 2026-05-30-花知曉接住了珀萊雅的增長焦慮
+- Duplicate entry (2x): 2026-05-30-貓 dead 已經有小天才手錶了 (貓都已經有小天才手錶了)
+- Duplicate entry (2x): 2026-05-30-賣不出去的Apple Watch，被出片女孩炒火了？
+- Duplicate entry (2x): 2026-05-30-阿里們並不需要標價50億美元的朴朴
+- Duplicate entry (3x): 2026-06-01-中國的第三次紅利是什麼
+
+### 平台與生態系.md
+- Duplicate entry (2x): 2026-03-27-AI 支付的重點 不是支付本身
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞·秦皇島全年活動預告
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞×單立人喜劇節全內容揭秘
+- Duplicate entry (2x): 2026-03-29-從虧損 40 億到獲利翻 6 倍！亞瑟士如何靠「減法戰略」逆轉勝？3 大關鍵策
+- Duplicate entry (2x): 2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-臨危受命，95 後兒媳接手家族企業，靠自毀式升級半年扭虧
+- Duplicate entry (2x): 2026-03-30-進口量、金額雙創新高！海外包裹一年湧入 6500 萬件，台灣人的錢都流去哪了？
+- Duplicate entry (2x): 2026-03-31-COZE實戰：從零搭建人物生平視頻自動化生成流程
+- Duplicate entry (2x): 2026-03-31-前Coatue合夥人為企業AI新創募得6500萬美元種子輪
+- Duplicate entry (2x): 2026-03-31-壁仞科技營收三年增16倍，國產算力芯片業績兌現期
+- Duplicate entry (2x): 2026-03-31-小紅書2025年經營趨勢回顧：心智占領與小生意時代
+- Duplicate entry (2x): 2026-04-02-2026互聯網變天了：AI不再是互聯網的工具，AI是互聯網新底座
+- Duplicate entry (2x): 2026-04-02-我拆了5個設計素材平台的小紅書賬號，發現兩種完全不同的官網引流邏輯
+- Duplicate entry (2x): 2026-04-03-AI時代內容審核：前Facebook內部人士創立的Moonbounce獲120
+- Duplicate entry (2x): 2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資
+- Duplicate entry (2x): 2026-04-03-黑燈實驗室戴納科技獲近億元融資
+- Duplicate entry (2x): 2026-04-05-一篇講透小紅書閉環電商的5種常見策略打法
+- Duplicate entry (2x): 2026-04-08-AI公司員工，正在批量成為千萬富翁
+- Duplicate entry (2x): 2026-04-08-CNY品牌行銷全攻略：四大場景品廣投放策略與案例分享
+- Duplicate entry (2x): 2026-04-08-Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付
+- Duplicate entry (2x): 2026-04-08-GEO已死，AEO是答案
+- Duplicate entry (2x): 2026-04-08-Kimi估值涨至180亿美元，3个月翻4倍；腾讯QClaw开启全量公测；霸王茶
+- Duplicate entry (2x): 2026-04-08-Zara母公司創歷史最佳業績：利潤突破62億歐元
+- Duplicate entry (2x): 2026-04-08-《2026年第一季度微短劇報告》
+- Duplicate entry (2x): 2026-04-08-「天穹」之下，一場中國產業鏈的集體突圍
+- Duplicate entry (2x): 2026-04-08-下場做品牌，「新拼姆」能成為拼多多的二級火箭嗎？
+- Duplicate entry (2x): 2026-04-08-小紅書 CNY 新品組合裂變玩法，助力新春營銷
+- Duplicate entry (2x): 2026-04-08-小紅書為何逆勢對 AI 內容「痛下殺手」？
+- Duplicate entry (2x): 2026-04-08-拼多多Temu將孵化自營品牌；阿里國際推電商版「龍蝦」；TikTok Shop
+- Duplicate entry (2x): 2026-04-08-拼多多將投千億做品牌自營；老鋪黃金2025中國營收超越愛馬仕｜零售電商週報
+- Duplicate entry (2x): 2026-04-08-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長｜一
+- Duplicate entry (2x): 2026-04-08-泡泡瑪特不再性感
+- Duplicate entry (2x): 2026-04-08-流量可以買，年輕人的默契只有B站給得了
+- Duplicate entry (2x): 2026-04-08-為什麼拼多多看起來沒有「AI焦慮」
+- Duplicate entry (2x): 2026-04-08-第一批裝龍蝦的人，已經「棄養」了
+- Duplicate entry (2x): 2026-04-08-美團的真正威脅藏在暗處
+- Duplicate entry (2x): 2026-04-08-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-04-08-阿里、字節，死磕一個昔日「全軍覆沒」的賽道
+- Duplicate entry (2x): 2026-04-08-阿里電商 AI 新動向：圍繞 Token 重構電商
+- Duplicate entry (2x): 2026-04-08-阿里預計2029財年即時零售業務板塊將實現整體盈利；椰樹集團要買50台機器人剝
+- Duplicate entry (2x): 2026-04-08-黃仁勳最新演講（GTC 2026）
+- Duplicate entry (2x): 2026-04-09-Canva加碼AI與行銷自動化：收購Simtheory與Ortto
+- Duplicate entry (2x): 2026-04-09-Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？
+- Duplicate entry (2x): 2026-04-09-PM平衡：內容審核的「不可能三角」
+- Duplicate entry (2x): 2026-04-10-亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓
+- Duplicate entry (2x): 2026-04-10-亦庄如何成為AI頂流：225平方公里的AI實驗場
+- Duplicate entry (2x): 2026-04-10-實體快閃、造型交通卡到授權酒款！解密鑫夢想三大艦隊
+- Duplicate entry (2x): 2026-04-10-日本販賣機大廠Dydo為何會虧損？產業第一線觀察，販賣機市場正在轉型成長
+- Duplicate entry (2x): 2026-04-10-流量孤島時代，為什麼你的企業依然需要一個官網？
+- Duplicate entry (2x): 2026-04-10-社交媒體「去社交化」：內容平台正在取代關係網絡
+- Duplicate entry (2x): 2026-04-10-美團為何做AI瀏覽器：GN06負責人劉炯訪談
+- Duplicate entry (2x): 2026-04-10-零代碼上線日式AI酒館：AI產品經理實戰四天全紀錄
+- Duplicate entry (2x): 2026-04-11-Anthropic收入憑什麼反超OpenAI，終於有人把這事說清楚了
+- Duplicate entry (2x): 2026-04-11-和幾位小紅書操盤手聊了8小時，乾貨全在這
+- Duplicate entry (2x): 2026-04-11-給DeepSeek的最後一封催更信
+- Duplicate entry (2x): 2026-04-12-2026 年，商家如何靠品質在淘寶直播找回確定性增長？
+- Duplicate entry (2x): 2026-04-12-京東圍繞供應鏈下場的那些事
+- Duplicate entry (2x): 2026-04-12-當瀏覽器開始替你看網頁AI瀏覽器正在拆掉它腳下的網
+- Duplicate entry (2x): 2026-04-13-2026體育超級大年，天貓運動戶外為品牌造了一個「新主場」
+- Duplicate entry (2x): 2026-04-13-一文搞懂 Hermes Agent 與 OpenClaw 選型對比
+- Duplicate entry (2x): 2026-04-13-凱度攜手小紅書洞悉娛樂消費市場，以深度觀眾視角解鎖行業新征程
+- Duplicate entry (2x): 2026-04-13-年輕人的消費決策路徑，變了！
+- Duplicate entry (2x): 2026-04-13-木鳥、途家、美團對打，平台春天行動開「卷」
+- Duplicate entry (2x): 2026-04-13-正式發布！2026中國社交媒體行銷趨勢報告：生態分化時代，品牌如何協同破局？
+- Duplicate entry (2x): 2026-04-13-萬字拆解小雲雀產品分析：AI創作工具的破局與進化
+- Duplicate entry (2x): 2026-04-13-重新給小米稱個重
+- Duplicate entry (2x): 2026-04-13-阿里HappyHorse，一場關於「Token經濟」的陽謀
+- Duplicate entry (2x): 2026-04-15-AI替代潮之下，跨境電商「賣鏟人」還好嗎？
+- Duplicate entry (2x): 2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰辜仲諒友人否認真正想買的人是媒體百億元競購戰開打
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰？辜仲諒友人否認、真正想買的人是媒體？「百億元」競購戰開打
+- Duplicate entry (2x): 2026-04-15-《明末》團隊解散背後：國產單機究竟還缺什麼？
+- Duplicate entry (2x): 2026-04-15-當抖音認真搞時尚：讓創作者直擊秀場，讓設計師走向台前
+- Duplicate entry (2x): 2026-04-16-10億紅包開打：國內大模型進入「拼多多式」戰爭
+- Duplicate entry (2x): 2026-04-16-Hermes 憑什麼兩個月接棒 OpenClaw？
+- Duplicate entry (2x): 2026-04-16-别什么都怪短剧
+- Duplicate entry (2x): 2026-04-16-即时零售下半场，为何自营成了普遍趋势
+- Duplicate entry (2x): 2026-04-16-小紅書「新朋友營地」落地三亞，海邊新品發佈有了新樣本
+- Duplicate entry (2x): 2026-04-16-快倒閉的矽谷神鞋，轉行 AI 股價暴漲 7 倍，龍蝦之父都懵了
+- Duplicate entry (2x): 2026-04-16-批量刪文封號？微信重拳出手打擊純AI寫作！
+- Duplicate entry (2x): 2026-04-16-攀峰智能完成天使輪融資：打造電商Agent OS新賽道
+- Duplicate entry (2x): 2026-04-16-氪星晚報｜特斯拉上海生產人形機器人台積電AI供應吃緊
+- Duplicate entry (2x): 2026-04-16-關於小紅書，我真希望有人早告訴我這些
+- Duplicate entry (2x): 2026-04-17-2026穿山甲開發者夥伴交流會：提升APP經營能力，做開發者全生命週期的增長合
+- Duplicate entry (2x): 2026-04-17-Netflix推出垂直影音並以AI強化內容推薦
+- Duplicate entry (2x): 2026-04-17-「海外版TOPTALK」釋放最強信號，速賣通憑什麼成為品牌出海新主場？
+- Duplicate entry (2x): 2026-04-17-专访大事件：用内容替代广告、用达人替代媒介
+- Duplicate entry (2x): 2026-04-17-享刻智能：不追人形機器人，深耕餐飲場景做具身智能落地派
+- Duplicate entry (2x): 2026-04-17-投变一体增长破局GroMore 2026升级打通开发者经营全链路
+- Duplicate entry (2x): 2026-04-17-永远未完成的阿那亚
+- Duplicate entry (2x): 2026-04-18-AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面
+- Duplicate entry (2x): 2026-04-18-七家值得關注的AI初創公司：從安全服務到國防AI再到芯片崛起
+- Duplicate entry (2x): 2026-04-18-即時零售進入拼供應鏈深水區
+- Duplicate entry (2x): 2026-04-18-智元機器人：從硬體製造到AI大模型平台開放生態
+- Duplicate entry (2x): 2026-04-18-智元機器人：要做AI大模型平台和開放生態
+- Duplicate entry (2x): 2026-04-19-2026年入局小紅書閉環電商，先讀這篇
+- Duplicate entry (2x): 2026-04-19-AI大事件：機器人從「能表演」走向「能干活」；Cursor 500億估值融資、
+- Duplicate entry (2x): 2026-04-19-AI新創的十二個月窗口期
+- Duplicate entry (2x): 2026-04-19-▍下一輪加密敘事｜20260418
+- Duplicate entry (2x): 2026-04-19-中国零售出海，不再只是卖货
+- Duplicate entry (2x): 2026-04-20-鴻蒙操作系統市佔18%小米OV們為何至今不願加入
+- Duplicate entry (2x): 2026-04-21-Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場
+- Duplicate entry (2x): 2026-04-21-你按下的那个“投诉”，正在毁掉一个陌生人的一天
+- Duplicate entry (2x): 2026-04-21-商業洞察｜2026 年，時尚資本交易數量更少、但規模更大？
+- Duplicate entry (2x): 2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象
+- Duplicate entry (2x): 2026-04-23-主題樂園的復購難題，被美團破解了？
+- Duplicate entry (2x): 2026-04-23-給所有小紅書品牌商家潑盆冷水
+- Duplicate entry (2x): 2026-04-23-融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板
+- Duplicate entry (2x): 2026-04-24-DeepSeek告別「孤膽英雄」時代
+- Duplicate entry (2x): 2026-04-24-用「活人感」做科技社區，小紅書能成嗎？
+- Duplicate entry (2x): 2026-04-25-增速降至2.5%背后：MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-04-25-天津MCN行業觀察：在提質浪潮中，看見津派生長力
+- Duplicate entry (2x): 2026-04-25-從今天起，OpenAI不賣Token了
+- Duplicate entry (2x): 2026-04-25-當中型餐飲的擴張焦慮，遇上小紅書的本地生活野心
+- Duplicate entry (2x): 2026-04-26-AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI
+- Duplicate entry (2x): 2026-04-26-小紅書經營實錄：50條價值百萬的實戰心得
+- Duplicate entry (2x): 2026-04-27-我已經不太推薦大家去小紅書開店賣貨了
+- Duplicate entry (2x): 2026-04-28-DeepSeek告别“孤胆英雄”时代
+- Duplicate entry (2x): 2026-04-28-DeepSeek和华为的双向奔赴
+- Duplicate entry (2x): 2026-04-28-Snapchat推出AI驅動的對話式廣告功能
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理主張上線，保護的是誰？
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理的本質：不是「禁用」，而是「重劃賽道」
+- Duplicate entry (2x): 2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？
+- Duplicate entry (2x): 2026-04-29-Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣
+- Duplicate entry (2x): 2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CM
+- Duplicate entry (2x): 2026-04-29-哈囉不太順風的十週年
+- Duplicate entry (2x): 2026-04-29-有人發育有人失速，木鳥途家美團民宿平台正在分化
+- Duplicate entry (2x): 2026-04-30-618前夕，快手电商亮出了它的“全域复利”公式
+- Duplicate entry (2x): 2026-04-30-Codex，準備接管程式設計師的一切了！
+- Duplicate entry (2x): 2026-04-30-一支卷发棒狂卖2亿美元背后，中国制造的出海新航道
+- Duplicate entry (2x): 2026-04-30-品牌人以群分时代，先要看懂人群宇宙
+- Duplicate entry (2x): 2026-04-30-批量「透支」後，AI創業更累了
+- Duplicate entry (2x): 2026-04-30-法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化
+- Duplicate entry (2x): 2026-04-30-直播带货这场梦，很多工厂白牌该醒了
+- Duplicate entry (2x): 2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」
+- Duplicate entry (2x): 2026-05-02-为什么说每一次五年规划，都是一次财富再分配的窗口期？
+- Duplicate entry (2x): 2026-05-03-AI Agent正在構建五萬億美元的經濟體
+- Duplicate entry (2x): 2026-05-03-AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元
+- Duplicate entry (2x): 2026-05-03-一篇講透：小紅書電商選品全鏈路
+- Duplicate entry (2x): 2026-05-04-公园式商业的招商突围
+- Duplicate entry (2x): 2026-05-04-千問App深度體驗報告（2026）
+- Duplicate entry (2x): 2026-05-04-拉美電商激戰與中國供應鏈博弈
+- Duplicate entry (3x): 2026-05-05-AI緊逼之下SaaS出路在何方
+- Duplicate entry (3x): 2026-05-05-萬億零食市場迎來大洗牌
+- Duplicate entry (3x): 2026-05-07-機場就是零售城市
+- Duplicate entry (3x): 2026-05-09-中國機器人的全球化野心與Physical AI的爆發準備
+- Duplicate entry (3x): 2026-05-09-豆包和OpenAI都走在互聯網變現的老路上
+- Duplicate entry (3x): 2026-05-10-AI蔓延失控亞馬遜引以為傲的小團隊文化竟親手埋下資安地雷
+- Duplicate entry (3x): 2026-05-10-Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯
+- Duplicate entry (3x): 2026-05-10-一圖概覽母嬰寵物行業618大促全景攻略育見增長共創新機
+- Duplicate entry (3x): 2026-05-10-年營收10億B2B占45鮮乳坊靠這套加價機制讓供應鏈願意跟你走
+- Duplicate entry (3x): 2026-05-10-第三篇長贏篇招商是起點運營才是護城河
+- Duplicate entry (3x): 2026-05-10-第二篇破局篇填鋪式招商已死2026破局就靠這三招
+- Duplicate entry (3x): 2026-05-12-OpenAI讓在ChatGPT投放購物廣告變得更容易
+- Duplicate entry (3x): 2026-05-14-AI Trading的新座標系：To-Agent Harness
+- Duplicate entry (3x): 2026-05-14-AI時代會出現新的張一鳴嗎？
+- Duplicate entry (3x): 2026-05-14-小紅書強推直客體系三年後
+- Duplicate entry (3x): 2026-05-14-泡泡瑪特跨界、愛奇藝建庫：內容產業正面臨一場大遷徙
+- Duplicate entry (3x): 2026-05-14-范凱說 AI · 周日晚聊 第19期：AI把天花板打開了，切入點決定你在哪邊
+- Duplicate entry (3x): 2026-05-16-Agent 生態五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-Agent生態中的五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-未來的渠道，都是「特渠」
+- Duplicate entry (3x): 2026-05-18-零售媒體網絡的新規則
+- Duplicate entry (3x): 2026-05-18-零售新規則：零售媒體網絡成品牌必答題
+- Duplicate entry (3x): 2026-05-24-珀萊雅收購花知曉美妝界安踏尚未誕生
+- Duplicate entry (3x): 2026-05-26-從規模到質量，木鳥途家美團轉向情緒消費
+- Duplicate entry (3x): 2026-05-26-行銷內容從「用AI」到「管AI」的十倍提效
+- Duplicate entry (3x): 2026-05-27-2026微短劇行業生態圖譜徵集正式啟動，共繪微短劇產業新版圖
+- Duplicate entry (3x): 2026-05-27-一個時尚雜誌編輯的十五年：從頭等艙到裁員危機，黃金時代過去了
+- Duplicate entry (3x): 2026-05-27-萬國來朝？為什麼全世界都在扎堆飛中國？
+- Duplicate entry (3x): 2026-05-28-京東養車：以產教融合突破新能源技師人才缺口
+- Duplicate entry (3x): 2026-05-28-紐約零售大變局：奢侈品退潮、SoHo崛起與品牌定位的終極考驗
+- Duplicate entry (3x): 2026-05-28-縣城商鋪倒閉潮，遠比我們想像中的慘烈
+- Duplicate entry (3x): 2026-05-29-希爾頓萬豪們，開始偷襲攜程
+- Duplicate entry (2x): 2026-05-30-小紅書徹底爆發了
+- Duplicate entry (3x): 2026-06-01-0xU華語最有影響力Web3學生組織如何從香港長出
+- Duplicate entry (3x): 2026-06-01-一場設計師大賽背後中國時尚產業正在補齊哪塊基礎設施
+- Duplicate entry (2x): 2026-06-01-小紅書上精神細糠正在生長
+
+### 心理.md
+- Duplicate entry (2x): 2026-02-08-2025年行銷廣告獎評審復盤：從 AI 共感到短影音變現，看見 AI、文化力與
+- Duplicate entry (2x): 2026-03-20-美國年輕人突大量親中？喝溫水、脫鞋進屋⋯社群掀「Chinamaxxing」風潮
+- Duplicate entry (2x): 2026-03-24-德國超市推「慢結帳」服務，收銀媽媽化身抗老年孤獨橋樑
+- Duplicate entry (2x): 2026-03-25-別讓缺工斷了出貨鏈！中小企業如何靠 Lalamove 打造更有彈性的「雙軌物流
+- Duplicate entry (2x): 2026-03-26-商務座位大增27％，「坪效之王」豪經艙如何改寫座艙設計圖？
+- Duplicate entry (2x): 2026-03-27-為何老朋友越來越少？原來中年人際關係也需要維繫！留住3種朋友未來不孤獨
+- Duplicate entry (2x): 2026-03-29-AI 提效喊了這麼久，為什麼我反而越干越累？
+- Duplicate entry (2x): 2026-03-29-Sora 關閉：AI 影片產業的現實考驗時刻
+- Duplicate entry (2x): 2026-03-29-你用 AI 寫的那篇文章，你還信嗎？
+- Duplicate entry (2x): 2026-03-29-害怕被識破能力不足？Google前主管勸你「無恥」一點，將冒牌者症候群轉為競爭
+- Duplicate entry (2x): 2026-03-29-工作流、Agent、智能體，究竟都是個啥？
+- Duplicate entry (2x): 2026-03-29-複雜資訊秒變清晰！用「8種視覺化語言」，讓主管與客戶秒懂你的圖像提案技巧
+- Duplicate entry (2x): 2026-03-30-人才爆出走潮！歐洲「這強國」41%青年想移居，2成已有具體計畫
+- Duplicate entry (2x): 2026-03-31-別再跟 Z 世代說「想當年」！哈佛心理學家：停止說教吧，你年輕時也一樣掙扎
+- Duplicate entry (2x): 2026-03-31-周杰倫和李榮浩，輸給了同一個東西
+- Duplicate entry (2x): 2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新
+- Duplicate entry (2x): 2026-04-06-OpenAI 校友秘密籌建潛在 1 億美元規模的新基金
+- Duplicate entry (2x): 2026-04-06-Picsart 推出創作者變現計劃，讓設計師從作品中獲利
+- Duplicate entry (2x): 2026-04-08-26歲心梗35歲支架這屆年輕人的心臟正在提前報廢
+- Duplicate entry (2x): 2026-04-08-FOB上線｜你以為你在說事實，其實你在說偏見
+- Duplicate entry (2x): 2026-04-08-「干婚」是最具婚缩力的关系
+- Duplicate entry (2x): 2026-04-08-一個人，讓你有這1種感覺，就是在提醒你，遠離他
+- Duplicate entry (2x): 2026-04-08-一種看似奇怪的走路方式，現在的年輕人卻愛得要命
+- Duplicate entry (2x): 2026-04-08-婚姻的底層真相：愛不愛的不重要，重要的是這3件事
+- Duplicate entry (2x): 2026-04-08-我已經不討厭冬天了，我們都要努力改變成更好的自己
+- Duplicate entry (2x): 2026-04-08-戒掉無效資訊，是給大腦減負的第一步
+- Duplicate entry (2x): 2026-04-08-永遠對AI保持懷疑：警惕算法時代的認知外包
+- Duplicate entry (2x): 2026-04-08-沒有大佬可以活著逃出溫柔鄉｜可可談
+- Duplicate entry (2x): 2026-04-08-為什麼「斷親式婚姻」開始流行？
+- Duplicate entry (2x): 2026-04-09-這兩天，我突然意識到AI於我而言最大的BUG是什麼？
+- Duplicate entry (2x): 2026-04-10-《看不见的更年期》⑦  人到中年，肌肉比黄金值钱
+- Duplicate entry (2x): 2026-04-10-原生家庭的傷，打工人用「原生相機」治好了
+- Duplicate entry (2x): 2026-04-10-在當下，為什麼人人都覺得自己是受害者
+- Duplicate entry (2x): 2026-04-10-比性缘脑更可怕的东西，出现了
+- Duplicate entry (2x): 2026-04-10-為何外面的人才看起來更優秀？不是現有員工不夠好，是你的大腦在騙你
+- Duplicate entry (2x): 2026-04-10-當PM習慣讓AI替他思考，產品判斷力會萎縮嗎？
+- Duplicate entry (2x): 2026-04-15-「邪修」攢錢的年輕人，正在偷偷暴富
+- Duplicate entry (2x): 2026-04-15-中年的心事：對人生的日益「失控」
+- Duplicate entry (2x): 2026-04-16-怎樣對抗心中那個「一念成魔」的時刻？
+- Duplicate entry (2x): 2026-04-16-拜託別人也有黃金時段揭密上班族最沒防備的時間點下午2點
+- Duplicate entry (2x): 2026-04-16-管理教父柯林斯：最危險的職涯是「擅長但不熱愛」
+- Duplicate entry (2x): 2026-04-16-這3種看似正常的表現可能是抑鬱的信號
+- Duplicate entry (2x): 2026-04-17-「修正叙事是一种权利」
+- Duplicate entry (2x): 2026-04-17-前额叶，扛下了年轻人所有的错
+- Duplicate entry (2x): 2026-04-18-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-18-我的理想工作：做點真正有意義的事
+- Duplicate entry (2x): 2026-04-19-Gap一年半后，重新上班的感受。
+- Duplicate entry (2x): 2026-04-19-好好睡觉会有好报。
+- Duplicate entry (2x): 2026-04-19-消費狂歡中，永不滿足的欲望究竟從何而來？
+- Duplicate entry (2x): 2026-04-21-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-21-比情緒穩定更重要的，是「情緒自由」
+- Duplicate entry (2x): 2026-04-21-為什麼追求「更好」，不會讓生活變好？
+- Duplicate entry (2x): 2026-04-23-人，讓動物天性重新接管你
+- Duplicate entry (2x): 2026-04-28-我见过最会破坏关系的行为，5个字，很多人都做过
+- Duplicate entry (2x): 2026-04-28-打工人的五一回血指南，低成本，不累人！
+- Duplicate entry (2x): 2026-04-28-最容易滑落的铁饭碗，近四成人陷入抑郁
+- Duplicate entry (2x): 2026-04-28-爱上玄学，是认知退化吗？
+- Duplicate entry (2x): 2026-04-28-真正的自由，不是拥有很多东西，而是可以不依赖任何东西
+- Duplicate entry (2x): 2026-04-28-祈福经济：好运是怎么变成生意的？
+- Duplicate entry (2x): 2026-04-28-美女同事入职：面试是仙女，现在是野人
+- Duplicate entry (2x): 2026-04-28-行为设计，本质就是情绪设计，真正改变人的，从来不是道理
+- Duplicate entry (2x): 2026-04-28-被操控的饭圈女孩：为偶像，牺牲一切
+- Duplicate entry (2x): 2026-04-28-请正确对待你的痛苦：来自精神科医生的叮嘱
+- Duplicate entry (2x): 2026-04-28-起猛了，我的20块有线耳机被捧成顶流潮品了？
+- Duplicate entry (2x): 2026-04-28-越是分房睡、经济AA制、不干涉对方隐私的夫妻，往往把婚姻过成
+- Duplicate entry (2x): 2026-04-28-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-04-28-越来越多人，选择不抢救
+- Duplicate entry (2x): 2026-04-28-蹲坑旁边就是床漂在大城市的年轻人住进奇葩房
+- Duplicate entry (2x): 2026-04-28-这3种看似正常的表现，可能是抑郁的信号，千万别忽视
+- Duplicate entry (2x): 2026-04-28-这一站，上海：来故事客栈交换情绪故事
+- Duplicate entry (2x): 2026-04-28-选品和打法都能被抄走，唯有情感锚点是你的终极护城河
+- Duplicate entry (2x): 2026-04-28-郭国庆：犒赏经济如何提振消费？
+- Duplicate entry (2x): 2026-04-28-金鱼在下沉我们在捞世界｜第三届沿海公路音乐节回顾
+- Duplicate entry (2x): 2026-04-28-降價促銷失靈？當大眾尋求心靈满足，情绪行銷才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-30-“正经人谁还看书啊”
+- Duplicate entry (2x): 2026-04-30-一个笨拙的人，在大厂生存的1480天
+- Duplicate entry (2x): 2026-04-30-为什么很多捷径，最后都成了回头路？
+- Duplicate entry (2x): 2026-04-30-史上最早熟小学生也太乱来了！小嘴抹了蜜，这才是内娱第一吐槽役吧...
+- Duplicate entry (2x): 2026-04-30-在贫穷和上班之间，选择贫穷地上班
+- Duplicate entry (2x): 2026-04-30-大数据告诉你：大器晚成，才是人生常态
+- Duplicate entry (2x): 2026-04-30-工作不再可靠之后，人生该怎么重新排列？
+- Duplicate entry (2x): 2026-04-30-我庆幸人类语言里，还有无法被AI蒸馏的部分
+- Duplicate entry (2x): 2026-04-30-突然发现：那些内心强大到可怕的人，都有这1个特征
+- Duplicate entry (2x): 2026-04-30-这一种“上瘾”行为，是怎么毁掉一个人的？
+- Duplicate entry (2x): 2026-05-02-新消费品牌增长，不要只会做内容，要设计产品接触点
+- Duplicate entry (2x): 2026-05-02-罗翔：当你接触的人越多，你会发现：如果一个男人，不吸烟，不喝酒，性格内向，那他
+- Duplicate entry (2x): 2026-05-02-高客单产品让用户犹豫的，往往不是价格本身
+- Duplicate entry (2x): 2026-05-04-MBTI × 職場靈魂牌對照｜INTP × 吊人牌
+- Duplicate entry (2x): 2026-05-04-一个笨拙的人在大厂生存的1480天
+- Duplicate entry (2x): 2026-05-04-一個人轉運的最好方式：避舊
+- Duplicate entry (2x): 2026-05-04-一批8090后正在崩老头里醉生梦死
+- Duplicate entry (2x): 2026-05-04-不打卡的年轻人把旅行当成情绪补剂
+- Duplicate entry (2x): 2026-05-04-主体性复建与轻握人生
+- Duplicate entry (2x): 2026-05-04-从卖点竞争到情绪竞争
+- Duplicate entry (2x): 2026-05-04-何润东“零成本”翻红
+- Duplicate entry (2x): 2026-05-04-商业市集文旅新模式
+- Duplicate entry (2x): 2026-05-04-商业街场景驱动化新模式
+- Duplicate entry (2x): 2026-05-04-大齡男女相親局：愛情比不上門當戶對
+- Duplicate entry (2x): 2026-05-04-对话文淇互相说句你很好
+- Duplicate entry (2x): 2026-05-04-当中式庭院沦为阶级过滤器
+- Duplicate entry (2x): 2026-05-04-我提议女孩们从今天起，互相说句“你很好” ｜对话文淇
+- Duplicate entry (2x): 2026-05-04-文淇對話與女性主體性重塑
+- Duplicate entry (2x): 2026-05-04-有些路，不必每一步都走得那么用力
+- Duplicate entry (2x): 2026-05-04-未来商街_休闲商业街“场景驱动化”新模式：从功能消费到情绪沉浸
+- Duplicate entry (2x): 2026-05-04-杭州萬象城的香氛節，不只是把香水搬到街區
+- Duplicate entry (2x): 2026-05-04-林依晨：我曾经也和你一样，好想成为程又青
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜“烟火”沉浸营造，以在地温情重构文旅情绪消费
+- Duplicate entry (2x): 2026-05-04-沉浸式文旅｜从物质消费到精神共鸣：情绪经济主导下的时代消费焕新
+- Duplicate entry (2x): 2026-05-04-浅聊一下 2026 的营销风向，顺便划个重点
+- Duplicate entry (2x): 2026-05-04-现在的05后去夜店，为什么只玩抓手指啊？
+- Duplicate entry (2x): 2026-05-04-这届年轻人，正在集体“断亲”
+- Duplicate entry (2x): 2026-05-04-香水气味测试营销分析
+- Duplicate entry (2x): 2026-05-04-香水热见顶了吗
+- Duplicate entry (3x): 2026-05-08-AI給的是不是情緒價值-取決於你
+- Duplicate entry (2x): 2026-05-08-Tobias-Rees-AI為何是人類和機器的中間態
+- Duplicate entry (3x): 2026-05-08-一人商業的第一步-是和全部的自己握手言和
+- Duplicate entry (2x): 2026-05-08-一個危險的信號-你每天都在做的這件事-正在讓你的腦子悄悄腐爛
+- Duplicate entry (2x): 2026-05-08-中國夜店正在集體淘汰舞池
+- Duplicate entry (2x): 2026-05-08-假期出游-我被AI坑慘了
+- Duplicate entry (2x): 2026-05-08-做IP-你會的越多-越容易找不到客戶
+- Duplicate entry (2x): 2026-05-08-別把情緒價值用爛了
+- Duplicate entry (2x): 2026-05-08-哪怕春天結束-你也要長长地活下去
+- Duplicate entry (2x): 2026-05-08-大廠逼員工用AI-成了一種形式主義
+- Duplicate entry (2x): 2026-05-08-我們的品牌為啥缺少娛樂精神
+- Duplicate entry (3x): 2026-05-08-為什麼越來越多年輕人-開始選擇斷捨離的生活方式
+- Duplicate entry (2x): 2026-05-08-當你接觸的人越多-人性的本質就是-低詆毀-同欣賞-高鼓勵
+- Duplicate entry (2x): 2026-05-08-當品牌讀懂奧德賽時期-五四短片走進年輕人的心裡
+- Duplicate entry (2x): 2026-05-08-當團隊不敢講真話-公司就離完蛋不远了
+- Duplicate entry (2x): 2026-05-08-發現一個奇怪的現象-哪怕家裡條件再差-一旦子女成家-全家精氣神大變
+- Duplicate entry (3x): 2026-05-10-一個人生建議停止餵養任何人
+- Duplicate entry (3x): 2026-05-10-不要急著解決問題
+- Duplicate entry (3x): 2026-05-10-人類不會被AI蒸餾的32個證據
+- Duplicate entry (3x): 2026-05-10-價值觀IP正在吃掉知識IP營銷的盡頭不是賣貨是表態
+- Duplicate entry (3x): 2026-05-10-別做公司裡的點子大王
+- Duplicate entry (3x): 2026-05-10-打工人最新玄學痛吻offer大樓
+- Duplicate entry (3x): 2026-05-10-李璞普通人如何實現財務自由
+- Duplicate entry (3x): 2026-05-10-段永平過時了嗎
+- Duplicate entry (2x): 2026-05-10-永久底層矽谷的AI從業者普遍認為普通人已經完蛋了
+- Duplicate entry (2x): 2026-05-10-深度復盤4種高頻品牌輿情該怎麼打
+- Duplicate entry (3x): 2026-05-10-無婚無孩就會又老又小
+- Duplicate entry (2x): 2026-05-10-營銷的底層邏輯
+- Duplicate entry (2x): 2026-05-10-百萬豪宅月租400年輕人湧入空城
+- Duplicate entry (2x): 2026-05-10-管理者要有被一眼看穿的能力
+- Duplicate entry (2x): 2026-05-10-終於2026年的家居趨勢不再只是一種風格
+- Duplicate entry (2x): 2026-05-10-線下活動如何承載我們對公共生活的想象
+- Duplicate entry (2x): 2026-05-10-職場打工要學會一魚多吃
+- Duplicate entry (3x): 2026-05-10-自我發展模型我們這一生要經歷的心智階段都有哪些
+- Duplicate entry (2x): 2026-05-10-花卉美陳的櫥窗效應治癒型視覺美感沉浸營造與空間情感共鳴設計
+- Duplicate entry (2x): 2026-05-10-被AI搶走工作的人在忙什麼
+- Duplicate entry (3x): 2026-05-10-被坑慘了的年輕人已經放棄找旅遊搭子了
+- Duplicate entry (2x): 2026-05-10-高端商場的進化從無用消費開始突圍了
+- Duplicate entry (2x): 2026-05-11-一場失敗的自救：我所經歷的真實的大廠
+- Duplicate entry (2x): 2026-05-11-工作毀掉了我美好的人性
+- Duplicate entry (2x): 2026-05-11-當年輕人感到不舒服，他們會怎麼做？
+- Duplicate entry (2x): 2026-05-14-40歲和66歲，一對母子選擇共居：互相滋養、各得其樂
+- Duplicate entry (3x): 2026-05-14-三位神經科學研究者：年輕人的腦子太累了
+- Duplicate entry (3x): 2026-05-14-全網都力竭了
+- Duplicate entry (3x): 2026-05-14-情緒消費拼的不是賣點，而是生活洞察
+- Duplicate entry (3x): 2026-05-14-當代人的崩潰：閒不下來，也快樂不起來
+- Duplicate entry (3x): 2026-05-14-確實，生理性喜歡是不會騙人的
+- Duplicate entry (3x): 2026-05-14-遊戲裡爆改老破小，是疲憊成年人的新型安慰劑
+- Duplicate entry (3x): 2026-05-15-AI開始接管年輕人的精神自留地
+- Duplicate entry (3x): 2026-05-15-bro文化是如何養成的
+- Duplicate entry (2x): 2026-05-15-下一輪個人IP的紅利就是把你的體驗變成錢
+- Duplicate entry (2x): 2026-05-15-不販賣焦慮中女時代的錢都被誰賺走了
+- Duplicate entry (2x): 2026-05-15-與陳嘉映閒聊越少關注自我自我就越舒展
+- Duplicate entry (2x): 2026-05-18-工作毀掉了我美好的人性
+- Duplicate entry (2x): 2026-05-18-情緒消費不是賣情緒，而是讓產品從「有用」變成「想買」
+- Duplicate entry (3x): 2026-05-26-勸大家極限存錢吧，從5月開始！
+- Duplicate entry (3x): 2026-05-26-楊絳：什麼是格局？
+- Duplicate entry (3x): 2026-05-26-評論區，比很多調研報告更接近真實消費心理
+- Duplicate entry (3x): 2026-05-27-520這天，被全網羨慕的唐藝昕張若昀，反而告訴了我們偶像劇最大的謊
+- Duplicate entry (3x): 2026-05-27-9種生活狀態，正在重新定義年輕人的消費決策
+- Duplicate entry (3x): 2026-05-27-為什麼我們總覺得過去更美好
+- Duplicate entry (3x): 2026-05-27-為什麼斷親式婚姻開始流行？
+- Duplicate entry (3x): 2026-05-29-吃過一次二婚的席，婚宴上新娘沒有穿白紗，沒有花童，也沒有司儀，我卻看清了婚姻的
+- Duplicate entry (2x): 2026-05-29-情緒消費持續復購的產品，通常抓住了這3個穩定場景
+- Duplicate entry (3x): 2026-05-29-減少內耗最好的方式：遠離蠢人
+- Duplicate entry (3x): 2026-05-29-碳水臉，又一個很惡意的詞
+- Duplicate entry (2x): 2026-05-30-倦怠社會中的雞尾酒效應：青年健身趣緣群體的身份重構
+- Duplicate entry (2x): 2026-05-30-壓迫，很多時候以真理的姿態出現
+- Duplicate entry (2x): 2026-05-30-永生，會成為有錢人的特權嗎？
+- Duplicate entry (2x): 2026-05-30-當代打工人，把阿福用成了工傷銀行
+- Duplicate entry (3x): 2026-06-01-3個心法送給職場反覆內耗的你
+- Duplicate entry (2x): 2026-06-01-搞懂人性才能做好表達
+- Duplicate entry (3x): 2026-06-01-李笛AI最終拼的不是智商而是情商
+- Duplicate entry (3x): 2026-06-01-讓老板高興正變成一種KPI
+- 3 blank lines inside entry list
+
+### 情緒與關係.md
+- Duplicate entry (2x): 2026-03-27-為何老朋友越來越少？原來中年人際關係也需要維繫！留住3種朋友未來不孤獨
+- Duplicate entry (2x): 2026-03-29-做簡報、寫email別再用「我」開頭！《財星》500強顧問：以對方為中心，贏得
+- Duplicate entry (2x): 2026-03-29-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-03-29-情感語錄集
+- Duplicate entry (2x): 2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-03-31-別再跟 Z 世代說「想當年」！哈佛心理學家：停止說教吧，你年輕時也一樣掙扎
+- Duplicate entry (2x): 2026-03-31-追覓生態鏈AI儲能融入智慧家居生態
+- Duplicate entry (2x): 2026-04-08-26歲心梗35歲支架這屆年輕人的心臟正在提前報廢
+- Duplicate entry (2x): 2026-04-08-「干婚」是最具婚缩力的关系
+- Duplicate entry (2x): 2026-04-08-一個人，讓你有這1種感覺，就是在提醒你，遠離他
+- Duplicate entry (2x): 2026-04-08-婚姻的底層真相：愛不愛的不重要，重要的是這3件事
+- Duplicate entry (2x): 2026-04-08-婦女一直在工作，網友奈雪的茶新文案鲨瘋了！
+- Duplicate entry (2x): 2026-04-08-我已經不討厭冬天了，我們都要努力改變成更好的自己
+- Duplicate entry (2x): 2026-04-08-沒有大佬可以活著逃出溫柔鄉｜可可談
+- Duplicate entry (2x): 2026-04-08-為什麼「斷親式婚姻」開始流行？
+- Duplicate entry (2x): 2026-04-08-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-04-08-馮侖：人到中年，最重要的是別算這三筆帳
+- Duplicate entry (2x): 2026-04-10-一邊「被罵」，一邊「賣爆」，Tagi.到底押中了什麼？
+- Duplicate entry (2x): 2026-04-10-原生家庭的傷，打工人用「原生相機」治好了
+- Duplicate entry (2x): 2026-04-10-情緒消費越火，普通產品越難賣
+- Duplicate entry (2x): 2026-04-10-情緒行銷才是品牌最強護城河
+- Duplicate entry (2x): 2026-04-10-當 AI 似乎比人更貼心，會怎樣改變你的人際關係
+- Duplicate entry (2x): 2026-04-10-觀影｜於世俗縫隙，見女性自我
+- Duplicate entry (2x): 2026-04-10-降價促銷失靈？當大眾尋求心靈滿足，「情緒行銷」才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-12-「花鳥市場」重構，構建烟火城市新據點，營造自然治愈情緒場
+- Duplicate entry (2x): 2026-04-12-我好佩服她的40歲：離過婚，帶著娃，眼裡卻有光
+- Duplicate entry (2x): 2026-04-13-2026春日行銷真相：限定款捲不動，敘事是出圈密碼
+- Duplicate entry (2x): 2026-04-13-一張包裝紙，成了Kiri的最佳廣告位
+- Duplicate entry (2x): 2026-04-13-中國的體驗經濟向何處去？萬豪集團地區總經理對談中金公司研究部總監｜2026年度
+- Duplicate entry (2x): 2026-04-13-凱度攜手小紅書洞悉娛樂消費市場，以深度觀眾視角解鎖行業新征程
+- Duplicate entry (2x): 2026-04-15-2026-2029預測：情緒消費將破4.5萬億，下一個風口在哪
+- Duplicate entry (2x): 2026-04-15-2026小紅書十大熱詞：讀懂年輕人的情緒與消費密碼
+- Duplicate entry (2x): 2026-04-16-笑不活了！農夫山泉把離職的產品經理逼出來了
+- Duplicate entry (2x): 2026-04-17-AI入侵社交：我的相亲对象，已经不说「人话」了
+- Duplicate entry (2x): 2026-04-17-「修正叙事是一种权利」
+- Duplicate entry (2x): 2026-04-17-中產夫妻AA制：機關算盡，已離婚
+- Duplicate entry (2x): 2026-04-17-亚朵品牌部的工作，贩卖「平静」
+- Duplicate entry (2x): 2026-04-18-「中年返貧三件套」，正在吞掉一代人的存款
+- Duplicate entry (2x): 2026-04-18-上海故事客棧：來交換情緒故事（簡單心理活動通知）
+- Duplicate entry (2x): 2026-04-18-內娛最不被看好的一對，官宣結婚
+- Duplicate entry (2x): 2026-04-18-玫瑰空調我不屑一顧，小貓空調我將全款購入！
+- Duplicate entry (2x): 2026-04-19-Gap一年半后，重新上班的感受。
+- Duplicate entry (2x): 2026-04-19-一张包装纸，成了Kiri的最佳广告位
+- Duplicate entry (2x): 2026-04-19-万亿情绪经济来了：哪些行业正在被重构？
+- Duplicate entry (2x): 2026-04-19-沒有體驗過洗完澡裸著出浴室的人生是不完整的
+- Duplicate entry (2x): 2026-04-21-同样被AI冲击，为什么这39%的人不焦虑？
+- Duplicate entry (2x): 2026-04-21-周末男女最狠约会：挖野菜，见人品
+- Duplicate entry (2x): 2026-04-21-品牌新品癫活大赏：听说你还在搞什么原创？
+- Duplicate entry (2x): 2026-04-21-奔赴一场千年的约会，年轻人花式扫墓背后的情感消费与文旅焕新叙事
+- Duplicate entry (2x): 2026-04-21-從賣薯片到造空間，樂事更懂年輕人了
+- Duplicate entry (2x): 2026-04-23-2026 年療愈經濟：國家戰略背書，療愈行業正式步入黃金時代
+- Duplicate entry (2x): 2026-04-23-TikTok 信仰經濟再度燃爆！一款聖經周邊賣了近 700 萬
+- Duplicate entry (2x): 2026-04-23-現在的男女，不願再為低品質感情買單
+- Duplicate entry (2x): 2026-04-25-一個亞比寫給阿姨的贖罪信
+- Duplicate entry (2x): 2026-04-28-一批年轻女性，正在崩老头
+- Duplicate entry (2x): 2026-04-28-年轻人为兴趣上头？背后都藏着情绪密码
+- Duplicate entry (2x): 2026-04-28-怀旧经济火了，我们到底在怀念什么？
+- Duplicate entry (2x): 2026-04-28-我们的品牌为啥缺少娱乐精神
+- Duplicate entry (2x): 2026-04-28-我见过最会破坏关系的行为，5个字，很多人都做过
+- Duplicate entry (2x): 2026-04-28-打工人的五一回血指南，低成本，不累人！
+- Duplicate entry (2x): 2026-04-28-最容易滑落的铁饭碗，近四成人陷入抑郁
+- Duplicate entry (2x): 2026-04-28-真正的自由，不是拥有很多东西，而是可以不依赖任何东西
+- Duplicate entry (2x): 2026-04-28-这3种看似正常的表现，可能是抑郁的信号，千万别忽视
+- Duplicate entry (2x): 2026-04-28-这一站，上海：来故事客栈交换情绪故事
+- Duplicate entry (2x): 2026-04-30-AI写不出的文案
+- Duplicate entry (2x): 2026-05-02-95 後女孩正在主動放棄性生活
+- Duplicate entry (2x): 2026-05-04-不「打卡」的年轻人，把旅行当成「情绪」补剂
+- Duplicate entry (2x): 2026-05-04-为情绪奔赴一座城，Z 世代五一旅行新趋势出炉
+- Duplicate entry (3x): 2026-05-04-大齡男女相親局：愛情比不上門當戶對
+- Duplicate entry (3x): 2026-05-07-AI真的能拯救你的孤獨嗎？
+- Duplicate entry (3x): 2026-05-10-19.9元買小破爛買到上頭00後有自己的兩元店
+- Duplicate entry (3x): 2026-05-10-一個人生建議停止餵養任何人
+- Duplicate entry (3x): 2026-05-10-無婚無孩就會又老又小
+- Duplicate entry (2x): 2026-05-10-線下活動如何承載我們對公共生活的想象
+- Duplicate entry (2x): 2026-05-10-自我發展模型我們這一生要經歷的心智階段都有哪些
+- Duplicate entry (3x): 2026-05-10-被坑慘了的年輕人已經放棄找旅遊搭子了
+- Duplicate entry (3x): 2026-05-18-00後湧入景區當NPC，在情緒價值裡淘金
+- Duplicate entry (3x): 2026-05-18-35+覺醒的女人都在做這3件事——第一件就是把朋友圈裡所有親戚拉黑
+- Duplicate entry (2x): 2026-05-18-今年五一出行，大家都不想吃苦了
+- Duplicate entry (2x): 2026-05-18-低谷期突圍最快的方式：換！換！換！
+- Duplicate entry (2x): 2026-05-18-工作毀掉了我美好的人性
+- Duplicate entry (2x): 2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买
+- Duplicate entry (2x): 2026-05-18-情緒消費不是賣情緒，而是讓產品從「有用」變成「想買」
+- Duplicate entry (2x): 2026-05-18-慢性疲勞纏上年輕一代，查不出任何病，但我的身體真的「壞了」
+- Duplicate entry (3x): 2026-05-18-拋棄漂亮飯的年輕人，集體鑽進老式咖啡餐吧
+- Duplicate entry (2x): 2026-05-18-按要求「蒸餾」自己後，他們被裁了
+- Duplicate entry (2x): 2026-05-18-橫店短劇大撤退，停工、降薪，與被擠掉的飯碗
+- Duplicate entry (3x): 2026-05-26-勸大家極限存錢吧，從5月開始！
+- Duplicate entry (3x): 2026-05-26-愛情貶值時代，這群年輕人主動選擇婚內分居
+- Duplicate entry (3x): 2026-05-26-潮汕人拍出了今年最好的國產片
+- Duplicate entry (3x): 2026-05-26-給寵物上墳，讓我月入81萬
+- Duplicate entry (2x): 2026-05-26-親子關係改變，童裝品牌跟著變？我和巴拉巴拉總經理聊了聊
+- Duplicate entry (3x): 2026-05-26-錢...錢輩，請和我交往！從廣告位到情緒窗口，戶外大屏在嘴替式進化
+- Duplicate entry (3x): 2026-05-26-高能量的女性，都有一個很絕的心態：我不入你的局
+- Duplicate entry (3x): 2026-05-27-520這天，被全網羨慕的唐藝昕張若昀，反而告訴了我們偶像劇最大的謊
+- Duplicate entry (3x): 2026-05-27-為什麼斷親式婚姻開始流行？
+- Duplicate entry (3x): 2026-05-29-00後婚戀觀的時代底色與成長思考
+- Duplicate entry (3x): 2026-05-29-吃過一次二婚的席，婚宴上新娘沒有穿白紗，沒有花童，也沒有司儀，我卻看清了婚姻的
+- Duplicate entry (2x): 2026-05-29-數字斷連當代中國青年職場關係建構實踐
+- Duplicate entry (3x): 2026-05-29-殺豬盤變殺鳥盤，坑慘已婚女
+- Duplicate entry (2x): 2026-06-01-搞懂人性才能做好表達
+- Duplicate entry (2x): 2026-06-01-李笛AI最終拼的不是智商而是情商
+- Duplicate entry (3x): 2026-06-01-讓老板高興正變成一種KPI
+
+### 數位系統.md
+- Duplicate entry (2x): 2026-03-20-人人都能寫程式的時代，PM才是新時代最強職位？
+- Duplicate entry (2x): 2026-03-24-數位韌性，是對病患最深的承諾：馬偕醫院攜手微軟，從一場資安考驗中，淬煉出台灣醫
+- Duplicate entry (2x): 2026-03-27-AI 支付的重點 不是支付本身
+- Duplicate entry (3x): 2026-03-27-Afresh 將 AI 從生鮮擴展至全店管理
+- Duplicate entry (2x): 2026-03-29-AI 提效喊了這麼久，為什麼我反而越干越累？
+- Duplicate entry (2x): 2026-03-29-Claude 官方公布 85 個真實使用情境，涵蓋職場專業、行銷等 12 類別
+- Duplicate entry (2x): 2026-03-29-別人還在喊數位轉型，FedEx 已讓 AI 代理直接上工！一次看懂全球物流巨頭
+- Duplicate entry (2x): 2026-03-29-工作流、Agent、智能體，究竟都是個啥？
+- Duplicate entry (2x): 2026-03-30-一被駭至少要1600萬元！台灣為何這麼容易變肥羊？談判專家揭企業不敢公開的勒索
+- Duplicate entry (2x): 2026-03-30-愈沒效率愈有價值？到 2034 年仍搶手的人才，擅長這 5 件「AI 做不到」
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-31-8萬人調查揭露：AI越快、人越迷茫！3步驟設定停損點，讓工具為幸福服務
+- Duplicate entry (2x): 2026-03-31-更多美國人使用AI工具卻越來越不信任AI的結果
+- Duplicate entry (2x): 2026-03-31-前Coatue合夥人為企業AI新創募得6500萬美元種子輪
+- Duplicate entry (2x): 2026-03-31-Google Stitch：測試3天，它可能會讓UI設計師開始焦慮
+- Duplicate entry (2x): 2026-03-31-一個人的營銷部門：40個AI Agent如何顛覆工作方式
+- Duplicate entry (2x): 2026-03-31-為什麼有了MCP後，又出現了Skill？
+- Duplicate entry (2x): 2026-03-31-營收三年增16倍，壁仞科技迎來業績兌現期
+- Duplicate entry (2x): 2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態
+- Duplicate entry (2x): 2026-04-04-開源項目Hermes Agent評測：越用越聰明的開源AI智慧體
+- Duplicate entry (2x): 2026-04-05-當每一次生成都要花錢：從Sora之死看AI時代的產品新邏輯
+- Duplicate entry (2x): 2026-04-08-AI Agent 如何重新定義行銷？我現在知道：多花一塊錢能帶來多少營收增長！
+- Duplicate entry (2x): 2026-04-08-Circle的反轉時刻：股價翻倍，鏈上交易碾壓USDT，精準卡位Agent支付
+- Duplicate entry (2x): 2026-04-08-GEO已死，AEO是答案
+- Duplicate entry (2x): 2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型
+- Duplicate entry (2x): 2026-04-08-一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？
+- Duplicate entry (2x): 2026-04-08-三天養蝦十倍增長，剛出爐的養蝦經驗｜計算機歷史博物館
+- Duplicate entry (2x): 2026-04-08-什麼時候Agent能自己寫skill？｜Hao好聊趨勢
+- Duplicate entry (2x): 2026-04-08-你的知識庫已經死了——卡帕西的「活體維基」，才是AI時代真正的第二大腦
+- Duplicate entry (2x): 2026-04-08-別搞聊天框了！AI落地的生死劫，全藏在毫無性感的「規則引擎」裡
+- Duplicate entry (2x): 2026-04-08-創業者自述：我為什麼放棄做Web3支付？
+- Duplicate entry (2x): 2026-04-08-劉潤：2026年，中小企業有個大機會
+- Duplicate entry (2x): 2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解
+- Duplicate entry (2x): 2026-04-08-扎根數字，向上生長：零售企業的長期主義轉型
+- Duplicate entry (2x): 2026-04-08-海外市場高客單產品的用戶購物旅程洞察
+- Duplicate entry (2x): 2026-04-08-當龍蝦代替我們去工作和消費，傳統經濟學法則還會成立嗎？
+- Duplicate entry (2x): 2026-04-08-養龍蝦有風險，還有靠譜的AI員工嗎
+- Duplicate entry (2x): 2026-04-08-黃仁勳最新演講（GTC 2026）
+- Duplicate entry (2x): 2026-04-09-GEO：AI搜索時代的內容「排名」新規
+- Duplicate entry (2x): 2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？
+- Duplicate entry (2x): 2026-04-09-對話前阿里高管、天貓設計家CEO：這些年燒掉千億，家裝行業還能怎麼做？
+- Duplicate entry (2x): 2026-04-10-Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略
+- Duplicate entry (2x): 2026-04-10-Autopass進軍日本，解決熊本「台積村」交通陣痛！一個ID搞定租車、支付、
+- Duplicate entry (2x): 2026-04-10-Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力
+- Duplicate entry (2x): 2026-04-10-Guardrails：AI生成內容的安全紅線制定者
+- Duplicate entry (2x): 2026-04-10-亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓
+- Duplicate entry (2x): 2026-04-10-小红书精准洞察，助力天猫细分品类长效破局
+- Duplicate entry (2x): 2026-04-10-拒絕募資、堅持免費 15 年：iLovePDF 如何從一人工具做到全球流量前 
+- Duplicate entry (2x): 2026-04-10-流量孤島時代，為什麼你的企業依然需要一個官網？
+- Duplicate entry (2x): 2026-04-10-被外掛攪亂的數字空間，是時候結束這場鬧劇了
+- Duplicate entry (2x): 2026-04-11-模型不是壁壘，Harness 也不是
+- Duplicate entry (2x): 2026-04-11-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-從聽不懂到完全信任我的Codex深度產品體驗
+- Duplicate entry (2x): 2026-04-12-還沒學會OpenClaw更猛的Hermes-Agent來了
+- Duplicate entry (2x): 2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-零代碼一天我用Vibe Coding做了一個網站
+- Duplicate entry (2x): 2026-04-13-AI產品的「生命線」——數據採集、標注、清洗的產品化設計
+- Duplicate entry (2x): 2026-04-13-一文搞懂 Hermes Agent 與 OpenClaw 選型對比
+- Duplicate entry (2x): 2026-04-13-全聯林敏雄的兩場賭注：40億電子標籤挽回消費者，線上百億業績搶下數據主導權
+- Duplicate entry (2x): 2026-04-13-榮耀做了個「養蝦本」，預制5大主蝦，要重新定義AI PC
+- Duplicate entry (2x): 2026-04-15-AI替代潮之下，跨境電商「賣鏟人」還好嗎？
+- Duplicate entry (2x): 2026-04-15-Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃
+- Duplicate entry (2x): 2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的
+- Duplicate entry (2x): 2026-04-15-Google簡報AI功能教學｜3步驟生成可編輯投影片，標題內文都能直接修改
+- Duplicate entry (2x): 2026-04-15-OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守
+- Duplicate entry (2x): 2026-04-15-Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞
+- Duplicate entry (2x): 2026-04-15-不用Obsidian也能建AI知識庫！Karpathy同款「說明書」設定，4.
+- Duplicate entry (2x): 2026-04-15-沒補員工，營收竟年增2成！意藍押對哪3種特性模型，從企業搜尋引擎搖身「AI輿情
+- Duplicate entry (2x): 2026-04-15-觀點公共服務設計不只是優化介面！以人生為單位，重構有感的行政流程
+- Duplicate entry (2x): 2026-04-16-7個數字顯示AI職場力大提升！這18個創意變現工具，你用過嗎？
+- Duplicate entry (2x): 2026-04-16-ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫
+- Duplicate entry (2x): 2026-04-16-Factory 15億估值：企業級AI工程代理的崛起
+- Duplicate entry (2x): 2026-04-16-Good Context Good Code：掌握Context飛輪讓AI寫代
+- Duplicate entry (2x): 2026-04-16-Hermes 憑什麼兩個月接棒 OpenClaw？
+- Duplicate entry (2x): 2026-04-16-InsightFinder獲1500萬美元融資幫企業診斷AI代理故障
+- Duplicate entry (2x): 2026-04-16-Physical Intelligence新機器人大腦能組合自學未訓練任務
+- Duplicate entry (2x): 2026-04-16-一文帶你看懂，火爆全網的Harness Engineering到底是個啥
+- Duplicate entry (2x): 2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法
+- Duplicate entry (2x): 2026-04-16-攀峰智能完成天使輪融資：打造電商Agent OS新賽道
+- Duplicate entry (2x): 2026-04-16-用好Agent最重要的技巧不是Skills，是這四個字。
+- Duplicate entry (2x): 2026-04-16-讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？
+- Duplicate entry (2x): 2026-04-17-2026穿山甲開發者夥伴交流會：提升APP經營能力，做開發者全生命週期的增長合
+- Duplicate entry (2x): 2026-04-17-Loop獲9500萬美元：用AI預測供應鏈中斷
+- Duplicate entry (2x): 2026-04-17-Token 為王的資安新時代 AI 算力大開，防禦者如何用「鈔能力」取勝？
+- Duplicate entry (2x): 2026-04-17-如何用 Skills 高效完成產品經理的工作？
+- Duplicate entry (2x): 2026-04-17-投变一体增长破局GroMore 2026升级打通开发者经营全链路
+- Duplicate entry (2x): 2026-04-17-重新理解企業的內部協作
+- Duplicate entry (2x): 2026-04-18-人是第一要素，我認為這還遠遠不夠
+- Duplicate entry (2x): 2026-04-18-公司中層可能即將消失
+- Duplicate entry (2x): 2026-04-18-阿里秒悟：把編程門檻從語法轉移到表達能力
+- Duplicate entry (2x): 2026-04-19-2026年入局小紅書閉環電商，先讀這篇
+- Duplicate entry (2x): 2026-04-19-▍下一輪加密敘事｜20260418
+- Duplicate entry (2x): 2026-04-19-当一个边缘人对AI感到焦虑（下篇）
+- Duplicate entry (2x): 2026-04-20-動物用人藥新制將上路 藥廠登錄意願低恐釀紛爭 引獸醫飼主憂
+- Duplicate entry (2x): 2026-04-20-沉睡29年的402狀態碼正在給AI裝上神經
+- Duplicate entry (2x): 2026-04-20-犬蹤地圖APP上線 邀公民回報助定位衝突熱區
+- Duplicate entry (2x): 2026-04-20-釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑
+- Duplicate entry (2x): 2026-04-20-鴻蒙操作系統市佔18%小米OV們為何至今不願加入
+- Duplicate entry (2x): 2026-04-21-GEO 內容創作的五個結構化技巧——只改格式，AI 引用率翻倍
+- Duplicate entry (2x): 2026-04-21-Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場
+- Duplicate entry (2x): 2026-04-21-凯文·凯利最新预测AI时代的22个确定性
+- Duplicate entry (2x): 2026-04-21-在Agent时代，什么才是真正的护城河？
+- Duplicate entry (2x): 2026-04-22-OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了
+- Duplicate entry (2x): 2026-04-23-AI Agent評估體系到底該怎麼做
+- Duplicate entry (2x): 2026-04-23-全国首个线上超市AI智能体，超喵凭什么帮商家翻倍增长？
+- Duplicate entry (2x): 2026-04-24-AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰
+- Duplicate entry (2x): 2026-04-27-大型行銷活動目標人群識別探索
+- Duplicate entry (3x): 2026-04-28-Manus20億美元交易熔斷—中國劃出AI主權紅線
+- Duplicate entry (2x): 2026-04-28-如何一個人驗證一個產品方向？
+- Duplicate entry (2x): 2026-04-29-Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去
+- Duplicate entry (2x): 2026-04-30-7个免费AI Skills，帮我从自媒体体力活中彻底解脱｜封面、文案、排版
+- Duplicate entry (2x): 2026-04-30-Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危
+- Duplicate entry (2x): 2026-04-30-Codex，準備接管程式設計師的一切了！
+- Duplicate entry (2x): 2026-04-30-Obsidian打造AI化神经中枢：10个在用工作流分享
+- Duplicate entry (2x): 2026-04-30-稳定币，需要“隐身”
+- Duplicate entry (2x): 2026-04-30-被3次監管警示函逼出的需求分析方法：我做金融合規多智能體審核的踩坑實錄
+- Duplicate entry (2x): 2026-05-01-2026—2027招投標AI化的時間表
+- Duplicate entry (2x): 2026-05-02-又一算力獨角獸衝擊IPO：超聚變五百億估值
+- Duplicate entry (2x): 2026-05-03-AI Agent正在構建五萬億美元的經濟體
+- Duplicate entry (3x): 2026-05-05-AI緊逼之下SaaS出路在何方
+- Duplicate entry (3x): 2026-05-06-AI Agent時代的產品未來
+- Duplicate entry (3x): 2026-05-08-高可用架構的工程智慧
+- Duplicate entry (3x): 2026-05-09-YC合夥人AI原生公司應該怎麼搭建
+- Duplicate entry (2x): 2026-05-11-你用AI搭建的不該是大系統，而是這5個小流程
+- Duplicate entry (3x): 2026-05-11-行銷人員在零點擊搜尋衝擊下優化GEO策略
+- Duplicate entry (3x): 2026-05-11-零點擊搜尋時代行銷人如何優化GEO策略
+- Duplicate entry (3x): 2026-05-13-Cursor CEO：AI 編程的下一個時代
+- Duplicate entry (3x): 2026-05-13-需求優先級評估的六個實用方法
+- Duplicate entry (3x): 2026-05-14-AI Trading的新座標系：To-Agent Harness
+- Duplicate entry (3x): 2026-05-14-不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI
+- Duplicate entry (3x): 2026-05-14-互聯網毀掉了客服，AI又拯救了它
+- Duplicate entry (3x): 2026-05-14-行銷人員AI使用率攀升但技術能力停滯
+- Duplicate entry (2x): 2026-05-15-AI創業時代一人公司的七種打開方式
+- Duplicate entry (2x): 2026-05-15-AI開始接管年輕人的精神自留地
+- Duplicate entry (3x): 2026-05-15-矽谷正在硬化，AI把軟體聖地重新推回了電力、鋼鐵與核反應堆的世界
+- Duplicate entry (2x): 2026-05-15-與陳嘉映閒聊越少關注自我自我就越舒展
+- Duplicate entry (3x): 2026-05-16-Agent 生態五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-16-Agent生態中的五大黃金創業賽道
+- Duplicate entry (3x): 2026-05-18-零售媒體網絡的新規則
+- Duplicate entry (3x): 2026-05-25-Sephora引領美妝科技：實體與數位融合的零售革命
+- Duplicate entry (3x): 2026-05-27-為什麼說Windows在AI時代變成了落後生產力？
+- Duplicate entry (2x): 2026-05-29-一個90後會計，如何用AI改造了一座67年的老工廠
+- Duplicate entry (2x): 2026-05-29-氣球帶著烏克蘭的無人機去打莫斯科
+- 3 blank lines inside entry list
+
+### 文化現象.md
+- Missing frontmatter
+- Missing ## 核心定義 section
+- Duplicate entry (3x): 2026-05-29-520商場大屏文案，不搞對象搞抽象
+- Duplicate entry (3x): 2026-05-22-Everlane 賣給 Shein，透明度究竟值多少
+- Duplicate entry (3x): 2026-05-26-高能量的女性，都有一個很絕的心態：我不入你的局
+- Duplicate entry (3x): 2026-05-26-潮汕人拍出了今年最好的國產片
+- Duplicate entry (3x): 2026-05-26-內娛嬌夫，氾濫成災
+- Duplicate entry (3x): 2026-05-26-確診新型網紅病：腦子沒壞，錢包空了
+- Duplicate entry (3x): 2026-05-26-愛情貶值時代，這群年輕人主動選擇婚內分居
+- Duplicate entry (3x): 2026-05-26-在一起的能力 方所選書
+- Duplicate entry (3x): 2026-05-26-錢...錢輩，請和我交往！從廣告位到情緒窗口，戶外大屏在嘴替式進化
+- Duplicate entry (3x): 2026-05-27-萬國來朝？為什麼全世界都在扎堆飛中國？
+- Duplicate entry (3x): 2026-05-27-一個時尚雜誌編輯的十五年：從頭等艙到裁員危機，黃金時代過去了
+- Duplicate entry (3x): 2026-05-27-520這天，被全網羨慕的唐藝昕張若昀，反而告訴了我們偶像劇最大的謊
+- Duplicate entry (3x): 2026-05-20-音樂帶動旅遊：新加坡與環球音樂的城市品牌策略
+- Duplicate entry (3x): 2026-05-18-00後湧入景區當NPC，在情緒價值裡淘金
+- Duplicate entry (3x): 2026-05-15-K67Kiosk這個紅色小亭子藏著一個時代的模組化想像
+- Duplicate entry (3x): 2026-05-15-bro文化是如何養成的
+- Duplicate entry (3x): 2026-05-14-全網都力竭了
+- Duplicate entry (3x): 2026-05-14-吃香將成為中國香氛市場的未來趨勢
+- Duplicate entry (3x): 2026-05-14-咖啡館化是城市更新的慢性毒藥嗎
+- Duplicate entry (3x): 2026-05-14-沒人知道何時會跨越臨界點
+- Duplicate entry (3x): 2026-05-14-遊戲裡爆改老破小，是疲憊成年人的新型安慰劑
+- Duplicate entry (3x): 2026-05-14-省油省錢的小電驢，正在掏空中女錢包
+- Duplicate entry (3x): 2026-05-14-確實，生理性喜歡是不會騙人的
+- Duplicate entry (3x): 2026-05-14-沉浸式演藝：從觀演到入戲，放大文旅價值
+- Duplicate entry (3x): 2026-05-13-Agoda 調查：亞洲旅客對目的地深度參與旅遊的需求持續成長
+- Duplicate entry (3x): 2026-05-11-工作毀掉了我美好的人性
+- Duplicate entry (3x): 2026-05-11-不做藝術第四城的成都，長出了什麼？
+- Duplicate entry (3x): 2026-05-11-一場失敗的自救：我所經歷的真實的大廠
+- Duplicate entry (3x): 2026-05-11-POLOWALK們正在收割中年男人
+- Duplicate entry (3x): 2026-05-29-潔麗雅風波，不是公關危機那麼簡單
+- Duplicate entry (3x): 2026-05-29-男色經濟，滑向曖昧深處
+- Duplicate entry (3x): 2026-05-29-碳水臉，又一個很惡意的詞
+- Duplicate entry (3x): 2026-05-29-負鼠表情包成新晉頂流！鼠鼠統治互聯網？
+- Duplicate entry (3x): 2026-05-29-青年潮玩消費的時間敘事——以Labubu符號消費實踐為例
+- Duplicate entry (2x): 2026-02-08-2025年行銷廣告獎評審復盤：從 AI 共感到短影音變現，看見 AI、文化力與
+- Duplicate entry (2x): 2026-03-20-美國年輕人突大量親中？喝溫水、脫鞋進屋⋯社群掀「Chinamaxxing」風潮
+- Duplicate entry (2x): 2026-03-29-Claude 官方公布 85 個真實使用情境，涵蓋職場專業、行銷等 12 類別
+- Duplicate entry (2x): 2026-03-29-害怕被識破能力不足？Google前主管勸你「無恥」一點，將冒牌者症候群轉為競爭
+- Duplicate entry (2x): 2026-03-29-最好的商業模式是什麼？
+- Duplicate entry (2x): 2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營
+- Duplicate entry (2x): 2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-03-29-複雜資訊秒變清晰！用「8種視覺化語言」，讓主管與客戶秒懂你的圖像提案技巧
+- Duplicate entry (2x): 2026-03-30-5 個關鍵詞，前瞻 2026 品牌行銷趨勢
+- Duplicate entry (2x): 2026-03-30-三行之內必有解藥，一文讀懂當下的年輕人！
+- Duplicate entry (2x): 2026-03-30-復工第一週，15 位資深從業者 2026 爆款內容指南
+- Duplicate entry (2x): 2026-03-30-進口量、金額雙創新高！海外包裹一年湧入 6500 萬件，台灣人的錢都流去哪了？
+- Duplicate entry (2x): 2026-03-31-周杰倫和李榮浩，輸給了同一個東西
+- Duplicate entry (2x): 2026-04-08-2025-2026中國吃喝玩樂消費洞察：情緒金字塔重構，品牌如何借梯媒全域破局
+- Duplicate entry (2x): 2026-04-08-2026阿那亞·秦皇島全年活動預告出爐！
+- Duplicate entry (2x): 2026-04-08-M50展訊｜六島新展「第四面墻」
+- Duplicate entry (2x): 2026-04-08-一種看似奇怪的走路方式，現在的年輕人卻愛得要命
+- Duplicate entry (2x): 2026-04-08-不拆一磚一瓦｜日本町家再生，給城市更新上的一堂課
+- Duplicate entry (2x): 2026-04-08-中國奢侈品市場格局改寫：LV、老舖、愛馬仕位列前三
+- Duplicate entry (2x): 2026-04-08-出道9天就火遍大江南北！最醜女團時隔6年翻紅，還有人買帳嗎？
+- Duplicate entry (2x): 2026-04-08-在山中駐留的日子，藝術家們留下了什麼？阿那亞·金山嶺駐地藝術計劃
+- Duplicate entry (2x): 2026-04-08-婦女一直在工作，網友奈雪的茶新文案鲨瘋了！
+- Duplicate entry (2x): 2026-04-08-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-04-08-康師傅讓我的人生綠了
+- Duplicate entry (2x): 2026-04-08-把趨勢上新玩成「古宅尋新」，天貓超級品類日這次給到夯！
+- Duplicate entry (2x): 2026-04-08-抽象力、活人感、AI 人格……小紅書 10 大熱詞裡，藏著品牌機會
+- Duplicate entry (2x): 2026-04-08-未來，即刻發生！科幻世界·即刻發生叢書首發式
+- Duplicate entry (2x): 2026-04-08-檀谷開山節前 你可能會感興趣的事｜跳海×開山 前夜派對
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜「十五五」文旅創新圖景，從全國兩會看文旅融合的深度變革與趨勢前瞻
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜東方美學的沉浸回歸與國潮場景營造
+- Duplicate entry (2x): 2026-04-08-沉浸式文旅｜沉浸營造春日賞花新場景，創意激活文旅消費新動能
+- Duplicate entry (2x): 2026-04-08-沉浸式演艺｜当非遗遇见跨媒介舞台剧，数字技术赋能下非遗文化的叙事创新与传播重塑
+- Duplicate entry (2x): 2026-04-08-當一個女性不受打擾地創作，會發生什麼？
+- Duplicate entry (2x): 2026-04-08-碼住收藏！2026阿那亞×單立人喜劇節全內容揭秘來了！
+- Duplicate entry (2x): 2026-04-08-第一批裝龍蝦的人，已經「棄養」了
+- Duplicate entry (2x): 2026-04-08-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-04-08-這個婦女節，我們為媽媽、姥姥、奶奶辦了一個美術展
+- Duplicate entry (2x): 2026-04-08-香格納M50  當午夜遇見正午，或我們如何想象遠處的風景  策展人寫作
+- Duplicate entry (2x): 2026-04-09-同事能蒸餾，前任能蒸餾，現在連貓都能賽博永生了
+- Duplicate entry (2x): 2026-04-10-AI 時代每個人都在談「品味」，但它到底是什麼？經理人
+- Duplicate entry (2x): 2026-04-10-三廚狂喜：瑞幸又把聯名檔位拉高了
+- Duplicate entry (2x): 2026-04-10-原生家庭的傷，打工人用「原生相機」治好了
+- Duplicate entry (2x): 2026-04-10-在當下，為什麼人人都覺得自己是受害者
+- Duplicate entry (2x): 2026-04-10-臺中國家歌劇院藝術總監邱瑗的「文化CEO」治理思維
+- Duplicate entry (2x): 2026-04-10-觀影｜於世俗縫隙，見女性自我
+- Duplicate entry (2x): 2026-04-15-《明末》團隊解散背後：國產單機究竟還缺什麼？
+- Duplicate entry (2x): 2026-04-15-一年過去，潮玩行業沒能等來「第二個Labubu」
+- Duplicate entry (2x): 2026-04-15-文策院資源如何讓林投姐妳叫什麼名字這部沉浸式VR創下93票房達成率
+- Duplicate entry (2x): 2026-04-16-别什么都怪短剧
+- Duplicate entry (2x): 2026-04-16-大學LOGO火出圈，中式美學驚艷一眾網友！
+- Duplicate entry (2x): 2026-04-16-老街區激活新場景：歷史文化街區活化趨勢與路徑
+- Duplicate entry (2x): 2026-04-17-2026十大文旅趨勢——抓住年輕人的情緒價值和體驗需求
+- Duplicate entry (2x): 2026-04-17-60歲路人爆改時尚大女主？有效改造的底層邏輯就這1點
+- Duplicate entry (2x): 2026-04-17-前额叶，扛下了年轻人所有的错
+- Duplicate entry (2x): 2026-04-17-城市收留我們，以街道的方式
+- Duplicate entry (2x): 2026-04-17-深度｜Tiffany高級珠寶「活」起來的秘密都在這裡！
+- Duplicate entry (2x): 2026-04-17-行銷污名化久矣，但0人在意
+- Duplicate entry (2x): 2026-04-18-內娛最不被看好的一對，官宣結婚
+- Duplicate entry (2x): 2026-04-18-為啥卡戴珊之母成了全球年輕人的財神？
+- Duplicate entry (2x): 2026-04-19-不拆一砖一瓦｜日本町家再生，给城市更新上的一堂课
+- Duplicate entry (2x): 2026-04-19-中国追求网红街区，日本守护场所精神两种更新，两种命运
+- Duplicate entry (2x): 2026-04-19-公共艺术装置，都是美丽废物吗｜专访「大星吉子」联创谢琼枝
+- Duplicate entry (2x): 2026-04-19-内地网红化更新vs 香港保育式活化谁走得更久？
+- Duplicate entry (2x): 2026-04-19-废墟里的新生｜泰国Galile Oasis，用野性对抗千城一面
+- Duplicate entry (2x): 2026-04-19-建筑是壳人是核五城在地文化保护的核心共识与差异
+- Duplicate entry (2x): 2026-04-19-张园与鸿寿坊当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-19-文章复出火上热搜现状让人唏嘘
+- Duplicate entry (2x): 2026-04-19-日本极致秩序vs泰国极致自由城市更新的两个极端
+- Duplicate entry (2x): 2026-04-19-永庆坊之后中国城市更新该如何守住原居民的乡愁
+- Duplicate entry (2x): 2026-04-19-消費狂歡中，永不滿足的欲望究竟從何而來？
+- Duplicate entry (2x): 2026-04-21-他們用「中產階級」這詞替換掉了什麼？
+- Duplicate entry (2x): 2026-04-21-女性的瑜伽褲，中產的遮羞布
+- Duplicate entry (2x): 2026-04-21-沉浸式旅遊｜China Travel 火遍全球之後，沉浸式體驗如何激活入境遊新
+- Duplicate entry (2x): 2026-04-21-為什麼這一次，品牌不願錯過《穿普拉達的女王2》
+- Duplicate entry (2x): 2026-04-21-電影，是一門必然要衰落的藝術
+- Duplicate entry (2x): 2026-04-23-TikTok 信仰經濟再度燃爆！一款聖經周邊賣了近 700 萬
+- Duplicate entry (2x): 2026-04-23-人，讓動物天性重新接管你
+- Duplicate entry (2x): 2026-04-23-雲南潑水節，流氓的狂歡
+- Duplicate entry (2x): 2026-04-23-頭頂有神，心裡有帳——中國人的信仰經濟學
+- Duplicate entry (2x): 2026-04-25-天津MCN行業觀察：在提質浪潮中，看見津派生長力
+- Duplicate entry (2x): 2026-04-25-從毽子到一個河北男人的證件照：我們在春遊以物易物
+- Duplicate entry (2x): 2026-04-27-Starboy：掛在包上的 AI 時尚潮玩？
+- Duplicate entry (2x): 2026-04-28-一批年轻女性，正在崩老头
+- Duplicate entry (2x): 2026-04-28-年入10亿美元的Alo Yoga落子香港，中国市场能否复制北美神话？
+- Duplicate entry (2x): 2026-04-28-被 AI 的胡说八道坑过多少次？这份大厂内部的避坑指南，建议贴在工位上
+- Duplicate entry (2x): 2026-04-28-跌破100美元，Strategy的买币永动机卡壳了
+- Duplicate entry (2x): 2026-04-28-高密度VS低密度不同城市形态下，在地文化的生存逻辑
+- Duplicate entry (2x): 2026-04-30-Real Talk｜30 年，李东田与他的「美学江湖」
+- Duplicate entry (2x): 2026-04-30-“正经人谁还看书啊”
+- Duplicate entry (2x): 2026-04-30-一个爆款作家，决定做一个「不讨喜」的人
+- Duplicate entry (2x): 2026-04-30-史上最早熟小学生也太乱来了！小嘴抹了蜜，这才是内娱第一吐槽役吧...
+- Duplicate entry (2x): 2026-04-30-在贫穷和上班之间，选择贫穷地上班
+- Duplicate entry (2x): 2026-04-30-小红书上的家，已经进入“适我时代”了
+- Duplicate entry (2x): 2026-04-30-我庆幸人类语言里，还有无法被AI蒸馏的部分
+- Duplicate entry (2x): 2026-04-30-把文化做成刚需，这碗面让老外彻底“真香”
+- Duplicate entry (2x): 2026-05-02-95 後女孩正在主動放棄性生活
+- Duplicate entry (2x): 2026-05-02-逃离5A景区的中年人，正在涌向“差评最多”的小店
+- Duplicate entry (2x): 2026-05-04-中女的愉己與體面
+- Duplicate entry (2x): 2026-05-04-全球最不精致街道的启示
+- Duplicate entry (2x): 2026-05-04-文化先行，宁波这座老街即将“换芯”
+- Duplicate entry (2x): 2026-05-11-文化「新三樣」，城市更新新引擎！
+- Duplicate entry (2x): 2026-05-11-當年輕人感到不舒服，他們會怎麼做？
+- Duplicate entry (2x): 2026-05-15-下一輪個人IP的紅利就是把你的體驗變成錢
+- Duplicate entry (2x): 2026-05-15-不販賣焦慮中女時代的錢都被誰賺走了
+- Duplicate entry (2x): 2026-05-15-與陳嘉映閒聊越少關注自我自我就越舒展
+- Duplicate entry (2x): 2026-05-18-K67 Kiosk：這個紅色小亭子，藏著一個時代的模組化想像
+- Duplicate entry (2x): 2026-05-18-一批未成年女孩，正在整頓健身圈
+- Duplicate entry (2x): 2026-05-18-月入5萬，陪人爬山：爬著爬著，變味了
+- Duplicate entry (2x): 2026-05-18-熬過1480天的大廠人，不再渴望上岸
+- Duplicate entry (2x): 2026-05-18-老年大學裡的銀發攀比，老了也要內卷
+- Duplicate entry (2x): 2026-05-26-從免費種草到坑位費翻倍，北美達人帶貨三年變天
+- Duplicate entry (2x): 2026-05-27-為什麼我們總覺得過去更美好
+- Duplicate entry (2x): 2026-05-29-00後婚戀觀的時代底色與成長思考
+- Duplicate entry (2x): 2026-05-29-一代人有一代人要囤的包裝紙皮
+- Duplicate entry (2x): 2026-05-29-上萬人在「奧德賽」中找答案：頻繁離職，是我的問題嗎？
+- Duplicate entry (2x): 2026-05-29-優衣庫這本城市刊物的深圳版新作，你拿到了嗎？
+- Duplicate entry (2x): 2026-05-29-在印度，像蟑螂一樣的年輕人建立了一個政黨
+- Duplicate entry (2x): 2026-05-29-女性正在用另一種流量「投票」
+- Duplicate entry (2x): 2026-05-29-山下有松市場部，來了一位天才
+- Duplicate entry (2x): 2026-05-29-從情緒物到情緒累：青年潮玩的消費實踐與情感斷連
+- Duplicate entry (2x): 2026-05-29-推薦6個好創意，讓人很有感覺
+- Duplicate entry (2x): 2026-05-29-數字異化、情感勞動與空間重構：當代青年儀式性就業的實踐形態與三重透視
+- Duplicate entry (2x): 2026-05-29-橫店短劇大撤退：停工、降薪，與被擠掉的飯碗
+- Duplicate entry (2x): 2026-05-29-殺豬盤變殺鳥盤，坑慘已婚女
+- Duplicate entry (2x): 2026-05-29-為什麼母嬰品牌，越來越需要生活美學敘事？
+- Duplicate entry (2x): 2026-05-29-賣衣服的星巴克，在等待它的蜜雪时刻
+- Duplicate entry (2x): 2026-05-30-Charlene：把文化變成一件可以用的事
+- Duplicate entry (2x): 2026-05-30-不想做飯的年輕人，愛上成人輔食
+- Duplicate entry (2x): 2026-05-30-不想結婚了，只想找人同居
+- Duplicate entry (2x): 2026-05-30-中國人的腸道裡，藏著一張飲食地圖
+- Duplicate entry (2x): 2026-05-30-倦怠社會中的雞尾酒效應：青年健身趣緣群體的身份重構
+- Duplicate entry (2x): 2026-05-30-天津大悅城，如何把青年文化做成慢生意
+- Duplicate entry (2x): 2026-05-30-永生，會成為有錢人的特權嗎？
+- Duplicate entry (2x): 2026-05-30-當代打工人，把阿福用成了工傷銀行
+- Duplicate entry (2x): 2026-05-30-賣不出去的Apple Watch，被出片女孩炒火了？
+- 2 blank lines inside entry list
+
+### 生活方式.md
+- Duplicate entry (2x): 2026-03-13-數位轉型是什麼？從定義、三階段到成功案例一次看懂
+- Duplicate entry (2x): 2026-03-20-美國年輕人突大量親中？喝溫水、脫鞋進屋⋯社群掀「Chinamaxxing」風潮
+- Duplicate entry (2x): 2026-03-23-訂位暴增303%！從《黑白大廚》看旅遊新趨勢：連飯店都帶房客去逛菜市場
+- Duplicate entry (2x): 2026-03-25-別讓缺工斷了出貨鏈！中小企業如何靠 Lalamove 打造更有彈性的「雙軌物流
+- Duplicate entry (2x): 2026-03-26-商務座位大增27％，「坪效之王」豪經艙如何改寫座艙設計圖？
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞·秦皇島全年活動預告
+- Duplicate entry (2x): 2026-03-29-OpenAI 關閉 Sora 的真正原因
+- Duplicate entry (2x): 2026-03-30-2026 年的品牌小內容：從活人感的日常切入
+- Duplicate entry (2x): 2026-03-30-2026 年，關於增長的 50 條真知灼見
+- Duplicate entry (2x): 2026-03-30-2026 是 Multi-Agent 元年 計算機歷史博物館
+- Duplicate entry (2x): 2026-03-30-95 億人次背後：2026 春節文旅市場全景洞察
+- Duplicate entry (2x): 2026-03-30-不權威發布：2026 年值得關注的 26 個趨勢
+- Duplicate entry (2x): 2026-03-30-吵完架別讓AI當「我是混蛋嗎？」裁判：史丹佛實測 11 款主流模型，比人類更會
+- Duplicate entry (2x): 2026-03-30-比錢櫃、好樂迪跑得快！KTV南霸天鎖定銀髮族，2策略讓冷門時段變熱門、營收衝近
+- Duplicate entry (2x): 2026-03-31-AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河
+- Duplicate entry (2x): 2026-04-06-衆籌300萬美元的Agent盒子，想徹底解決你的算力焦慮
+- Duplicate entry (2x): 2026-04-08-26歲心梗35歲支架這屆年輕人的心臟正在提前報廢
+- Duplicate entry (2x): 2026-04-08-一種看似奇怪的走路方式，現在的年輕人卻愛得要命
+- Duplicate entry (2x): 2026-04-08-不再只是炫技！AWE2026 現場開啟「人機共生」生活預演
+- Duplicate entry (2x): 2026-04-08-中國年輕人止損的最後一招：在通脹地區賺錢，在通縮地區消費
+- Duplicate entry (2x): 2026-04-08-峇里島爆改「體校」，新中產又卷瘋了
+- Duplicate entry (2x): 2026-04-08-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-04-08-康師傅讓我的人生綠了
+- Duplicate entry (2x): 2026-04-08-從李寧到迪卡儂，今年戶外的「潛規則」變了
+- Duplicate entry (2x): 2026-04-08-為什麼越來越多年輕人，選擇開著獵裝車上路？
+- Duplicate entry (2x): 2026-04-08-當一個女性不受打擾地創作，會發生什麼？
+- Duplicate entry (2x): 2026-04-08-素人起家、年銷破億，這群漂亮女孩在淘寶活成了爽文大女主
+- Duplicate entry (2x): 2026-04-10-《看不见的更年期》⑦  人到中年，肌肉比黄金值钱
+- Duplicate entry (2x): 2026-04-10-原生家庭的傷，打工人用「原生相機」治好了
+- Duplicate entry (2x): 2026-04-12-我好佩服她的40歲：離過婚，帶著娃，眼裡卻有光
+- Duplicate entry (2x): 2026-04-12-花鳥市場重構，構建煙火城市新據點，營造自然治癒情緒場
+- Duplicate entry (2x): 2026-04-13-Le Labo 聞獻與Ffern的「交點」，正在重塑消費邏輯
+- Duplicate entry (2x): 2026-04-13-一批單身女性正在「撿漏」買房
+- Duplicate entry (2x): 2026-04-15-「邪修」攢錢的年輕人，正在偷偷暴富
+- Duplicate entry (2x): 2026-04-15-粗門完成數千萬A+輪融資：AI時代讓更多人「出門」
+- Duplicate entry (2x): 2026-04-16-「去班味」的年轻人，爆买踏青「硬通货」
+- Duplicate entry (2x): 2026-04-16-日本消费经济大师警告餐饮人卷价格正在走一条死路
+- Duplicate entry (2x): 2026-04-16-沉浸式文旅｜从City Walk到Color Walk，城市文旅消费逻辑转向
+- Duplicate entry (2x): 2026-04-16-這3種看似正常的表現可能是抑鬱的信號
+- Duplicate entry (2x): 2026-04-17-60歲路人爆改時尚大女主？有效改造的底層邏輯就這1點
+- Duplicate entry (2x): 2026-04-17-「修正叙事是一种权利」
+- Duplicate entry (2x): 2026-04-17-中產夫妻AA制：機關算盡，已離婚
+- Duplicate entry (2x): 2026-04-17-致中女：在任何年齡去做這1件事
+- Duplicate entry (2x): 2026-04-18-「中年返貧三件套」，正在吞掉一代人的存款
+- Duplicate entry (2x): 2026-04-18-我的理想工作：做點真正有意義的事
+- Duplicate entry (2x): 2026-04-19-Gap一年半后，重新上班的感受。
+- Duplicate entry (2x): 2026-04-19-万维钢：你不是老了才退出，而是退出后才变老
+- Duplicate entry (2x): 2026-04-19-好好睡觉会有好报。
+- Duplicate entry (2x): 2026-04-19-沒有體驗過洗完澡裸著出浴室的人生是不完整的
+- Duplicate entry (2x): 2026-04-21-周末男女最狠约会：挖野菜，见人品
+- Duplicate entry (2x): 2026-04-21-女性的瑜伽褲，中產的遮羞布
+- Duplicate entry (2x): 2026-04-21-比情緒穩定更重要的，是「情緒自由」
+- Duplicate entry (2x): 2026-04-21-為什麼追求「更好」，不會讓生活變好？
+- Duplicate entry (2x): 2026-04-23-2026 年療愈經濟：國家戰略背書，療愈行業正式步入黃金時代
+- Duplicate entry (2x): 2026-04-23-Friend Friend｜Emporium 裡的時尚綠洲
+- Duplicate entry (2x): 2026-04-23-不擠人頭、不做攻略、只住酒店：00後的旅行，把上一代人看懵了
+- Duplicate entry (2x): 2026-04-23-主題樂園的復購難題，被美團破解了？
+- Duplicate entry (2x): 2026-04-23-人，讓動物天性重新接管你
+- Duplicate entry (2x): 2026-04-25-一個亞比寫給阿姨的贖罪信
+- Duplicate entry (2x): 2026-04-25-增速降至2.5%背后：MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-04-25-從毽子到一個河北男人的證件照：我們在春遊以物易物
+- Duplicate entry (2x): 2026-04-28-当世界变得复杂，总有人简单爱着地球
+- Duplicate entry (2x): 2026-04-28-怀旧经济火了，我们到底在怀念什么？
+- Duplicate entry (2x): 2026-04-28-打工人的五一回血指南，低成本，不累人！
+- Duplicate entry (2x): 2026-04-28-把人的快乐复制给宠物，开创宠物文旅新物种
+- Duplicate entry (2x): 2026-04-28-真正的自由，不是拥有很多东西，而是可以不依赖任何东西
+- Duplicate entry (2x): 2026-04-28-谁在制造山寨币的局部狂欢？
+- Duplicate entry (2x): 2026-04-30-今年五一，“社恐型酒店”火了
+- Duplicate entry (2x): 2026-04-30-小红书上的家，已经进入“适我时代”了
+- Duplicate entry (2x): 2026-05-02-为什么说每一次五年规划，都是一次财富再分配的窗口期？
+- Duplicate entry (3x): 2026-05-04-一個人轉運的最好方式：避舊
+- Duplicate entry (2x): 2026-05-04-不「打卡」的年轻人，把旅行当成「情绪」补剂
+- Duplicate entry (3x): 2026-05-04-中女的愉己與體面
+- Duplicate entry (2x): 2026-05-04-为情绪奔赴一座城，Z 世代五一旅行新趋势出炉
+- Duplicate entry (2x): 2026-05-04-五一酒店，压不住的涨价潮？
+- Duplicate entry (2x): 2026-05-04-公园式商业的招商突围
+- Duplicate entry (2x): 2026-05-04-拉美电商三国演义
+- Duplicate entry (2x): 2026-05-04-文淇對話與女性主體性重塑
+- Duplicate entry (2x): 2026-05-04-未来轻资产市集_商业市集：从“事件型”转化为“节律型”资产
+- Duplicate entry (2x): 2026-05-11-職場上最大的謊言：努力就會被看見
+- Duplicate entry (3x): 2026-05-13-Agoda 調查：亞洲旅客對目的地深度參與旅遊的需求持續成長
+- Duplicate entry (2x): 2026-05-14-2026年香氛報告：關鍵趨勢，品牌和香氣
+- Duplicate entry (3x): 2026-05-14-40歲和66歲，一對母子選擇共居：互相滋養、各得其樂
+- Duplicate entry (3x): 2026-05-14-lululemon的流量密碼，終於藏不住了
+- Duplicate entry (3x): 2026-05-14-三位神經科學研究者：年輕人的腦子太累了
+- Duplicate entry (3x): 2026-05-14-北上廣00後女生，開始買男裝穿了
+- Duplicate entry (3x): 2026-05-14-確實，生理性喜歡是不會騙人的
+- Duplicate entry (3x): 2026-05-18-35+覺醒的女人都在做這3件事——第一件就是把朋友圈裡所有親戚拉黑
+- Duplicate entry (3x): 2026-05-18-一批未成年女孩，正在整頓健身圈
+- Duplicate entry (3x): 2026-05-18-今年五一出行，大家都不想吃苦了
+- Duplicate entry (2x): 2026-05-18-低谷期突圍最快的方式：換！換！換！
+- Duplicate entry (3x): 2026-05-18-十年裡我進入一百多戶人家，拍攝生活的不確定性和被虛構出來的安全感
+- Duplicate entry (2x): 2026-05-18-年輕人患上青菜焦慮症，餐飲老闆的機會來了？
+- Duplicate entry (3x): 2026-05-18-慢性疲勞纏上年輕一代，查不出任何病，但我的身體真的「壞了」
+- Duplicate entry (2x): 2026-05-18-拋棄漂亮飯的年輕人，集體鑽進老式咖啡餐吧
+- Duplicate entry (3x): 2026-05-18-按要求「蒸餾」自己後，他們被裁了
+- Duplicate entry (3x): 2026-05-18-月入5萬，陪人爬山：爬著爬著，變味了
+- Duplicate entry (3x): 2026-05-18-熬過1480天的大廠人，不再渴望上岸
+- Duplicate entry (3x): 2026-05-18-當身心與生活都在超載，我們該如何找回失落的輕盈
+- Duplicate entry (3x): 2026-05-18-絕望的直女：如何厭男又愛男？
+- Duplicate entry (3x): 2026-05-18-老年大學裡的銀發攀比，老了也要內卷
+- Duplicate entry (3x): 2026-05-26-分享一套從頭到腳愛自己的詳細教程
+- Duplicate entry (3x): 2026-05-26-從規模到質量，木鳥途家美團轉向情緒消費
+- Duplicate entry (3x): 2026-05-26-愛情貶值時代，這群年輕人主動選擇婚內分居
+- Duplicate entry (3x): 2026-05-26-當年拼盡全力「潤」出去的人，開始打包行李回國了
+- Duplicate entry (3x): 2026-05-29-吃過一次二婚的席，婚宴上新娘沒有穿白紗，沒有花童，也沒有司儀，我卻看清了婚姻的
+- Duplicate entry (3x): 2026-05-30-Charlene：把文化變成一件可以用的事
+- Duplicate entry (3x): 2026-05-30-不想做飯的年輕人，愛上成人輔食
+- Duplicate entry (3x): 2026-05-30-不想結婚了，只想找人同居
+- Duplicate entry (3x): 2026-05-30-中國人的腸道裡，藏著一張飲食地圖
+- Duplicate entry (3x): 2026-05-30-中產三寶，殺出一個新勁敵
+- Duplicate entry (2x): 2026-05-30-倦怠社會中的雞尾酒效應：青年健身趣緣群體的身份重構
+- Duplicate entry (3x): 2026-05-30-奶茶界ENFP，用快樂感染年輕人
+- Duplicate entry (3x): 2026-05-30-聊聊那些拿到結果的主理人
+- Duplicate entry (3x): 2026-05-30-貓 dead 已經有小天才手錶了 (貓都已經有小天才手錶了)
+- Duplicate entry (2x): 2026-05-30-賣不出去的Apple Watch，被出片女孩炒火了？
+- Duplicate entry (3x): 2026-05-30-阿里們並不需要標價50億美元的朴朴
+- Duplicate entry (2x): 2026-05-30-騰訊綜藝，重寫內娛的造人邏輯
+- Duplicate entry (2x): 2026-06-01-全球職場報告真正熱愛工作的人只剩20%
+- 5 blank lines inside entry list
+
+### 產品.md
+- Duplicate entry (2x): 2025-09-17-【報導者觀測站設計幕後】我們如何透過使用者研究，打造一個清晰易用的政治分析工具
+- Duplicate entry (2x): 2026-02-10-2025百貨集團版圖大洗牌！業績平均成長1%，這業態發威意外成救星
+- Duplicate entry (2x): 2026-03-20-人人都能寫程式的時代，PM才是新時代最強職位？
+- Duplicate entry (2x): 2026-03-29-AI 焦慮，天塌了的故事
+- Duplicate entry (2x): 2026-03-29-別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極
+- Duplicate entry (2x): 2026-03-29-蕉內最具「活人感」文案，不是自己寫的
+- Duplicate entry (2x): 2026-03-29-蜜雪冰城：一台仍在加速的「低價規模機器」
+- Duplicate entry (2x): 2026-03-31-COZE實戰：從零搭建人物生平視頻自動化生成流程
+- Duplicate entry (2x): 2026-03-31-Google Stitch：測試3天，它可能會讓UI設計師開始焦慮
+- Duplicate entry (2x): 2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友
+- Duplicate entry (2x): 2026-03-31-YC今年最突兀的入選者：為何 OpenAI 與 Google 都在關注這家非營
+- Duplicate entry (2x): 2026-03-31-一個人的營銷部門：40個AI Agent如何顛覆工作方式
+- Duplicate entry (2x): 2026-03-31-為什麼有了MCP後，又出現了Skill？
+- Duplicate entry (2x): 2026-03-31-都有AI了，數據分析該干什麼？這是最好的回答！
+- Duplicate entry (2x): 2026-04-01-AI日報：從Claude Code泄露到宇樹IPO，AI行業的冰與火之歌
+- Duplicate entry (2x): 2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態
+- Duplicate entry (2x): 2026-04-01-原型做出來了，但你還是不知道自己在做什麼
+- Duplicate entry (2x): 2026-04-01-小牛電動轉型AI：all in or nothing
+- Duplicate entry (2x): 2026-04-02-AI時代，真正危險的可能不是模型失控，而是模型太聽話
+- Duplicate entry (2x): 2026-04-02-Claude Code 51萬行源碼泄露，我扒出來了一些好東西
+- Duplicate entry (2x): 2026-04-02-我拆了5個設計素材平台的小紅書賬號，發現兩種完全不同的官網引流邏輯
+- Duplicate entry (2x): 2026-04-02-流量導向的內容無法完成獲客閉環
+- Duplicate entry (2x): 2026-04-04-在「人人都在聊Agent」的時代，如何搭建你的第一個自動化閉環？
+- Duplicate entry (2x): 2026-04-04-開源項目Hermes Agent評測：越用越聰明的開源AI智慧體
+- Duplicate entry (2x): 2026-04-05-AI產品的RAG系統，到底該怎麼做業務驗收？
+- Duplicate entry (2x): 2026-04-05-「上線產品就能找到工作」這個謊言害了多少轉行的人
+- Duplicate entry (2x): 2026-04-05-一篇講透小紅書閉環電商的5種常見策略打法
+- Duplicate entry (2x): 2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架
+- Duplicate entry (2x): 2026-04-05-當每一次生成都要花錢：從Sora之死看AI時代的產品新邏輯
+- Duplicate entry (2x): 2026-04-07-我如何用 Cursor+AI，3天搞懂一個複雜的AI財務系統
+- Duplicate entry (2x): 2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相
+- Duplicate entry (2x): 2026-04-08-2026 AI產品經理能力自測：10分鐘定位你的短板和進階路徑
+- Duplicate entry (2x): 2026-04-08-2026年，一人公司最完整的系統打法｜保母級5步法
+- Duplicate entry (2x): 2026-04-08-NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓
+- Duplicate entry (2x): 2026-04-08-「天穹」之下，一場中國產業鏈的集體突圍
+- Duplicate entry (2x): 2026-04-08-一手評測｜Pomelli 開放台灣使用！怎麼用它做行銷創意素材？「產品攝影棚」
+- Duplicate entry (2x): 2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型
+- Duplicate entry (2x): 2026-04-08-不再只是炫技！AWE2026 現場開啟「人機共生」生活預演
+- Duplicate entry (2x): 2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場
+- Duplicate entry (2x): 2026-04-08-別搞聊天框了！AI落地的生死劫，全藏在毫無性感的「規則引擎」裡
+- Duplicate entry (2x): 2026-04-08-品牌種草新思路：看這些品牌如何打造有量有質的種草新範式
+- Duplicate entry (2x): 2026-04-08-專訪群玉山＆愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-04-08-從李寧到迪卡儂，今年戶外的「潛規則」變了
+- Duplicate entry (2x): 2026-04-08-茉莉奶白，小票行銷天花板！
+- Duplicate entry (2x): 2026-04-08-透過這場直播，我們看到了周雲傑的思考
+- Duplicate entry (2x): 2026-04-08-防挖角，蘋果給設計師發高額獎金／曝Claude最強新模型代號「卡皮巴拉」／小鵬
+- Duplicate entry (2x): 2026-04-09-對話美團GN06劉炯：美團為什麼做了一款AI瀏覽器？
+- Duplicate entry (2x): 2026-04-10-AI越強，PM越不夠用！下一個最搶手的人才「產品工程師」是什麼？
+- Duplicate entry (2x): 2026-04-10-Autopass進軍日本，解決熊本「台積村」交通陣痛！一個ID搞定租車、支付、
+- Duplicate entry (2x): 2026-04-10-Vibe Coding三天搭族譜APP：全端產品實戰復盤
+- Duplicate entry (2x): 2026-04-10-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-10-日本販賣機大廠Dydo為何會虧損？產業第一線觀察，販賣機市場正在轉型成長
+- Duplicate entry (2x): 2026-04-10-毛戈平的「体验式上新」，打开美妆上新新思路
+- Duplicate entry (2x): 2026-04-10-美團為何做AI瀏覽器：GN06負責人劉炯訪談
+- Duplicate entry (2x): 2026-04-10-讓AI看懂世界：Chance AI的視覺智能體革命
+- Duplicate entry (2x): 2026-04-10-零代碼上線日式AI酒館：AI產品經理實戰四天全紀錄
+- Duplicate entry (2x): 2026-04-11-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-2026年AI產品商業化核心邏輯從功能到規模營收的三個卡點
+- Duplicate entry (2x): 2026-04-12-從聽不懂到完全信任我的Codex深度產品體驗
+- Duplicate entry (2x): 2026-04-12-還沒學會OpenClaw更猛的Hermes-Agent來了
+- Duplicate entry (2x): 2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-13-AI產品的「生命線」——數據採集、標注、清洗的產品化設計
+- Duplicate entry (2x): 2026-04-13-前大疆工程師創業陪伴機器人，李澤湘連投三輪，產品即將登陸眾籌
+- Duplicate entry (2x): 2026-04-13-榮耀做了個「養蝦本」，預制5大主蝦，要重新定義AI PC
+- Duplicate entry (2x): 2026-04-13-用小龍蝦做競品分析報告：從2天到20分鐘，我是怎麼做到的
+- Duplicate entry (2x): 2026-04-13-萬字拆解小雲雀產品分析：AI創作工具的破局與進化
+- Duplicate entry (2x): 2026-04-15-7個數字顯示AI職場力大提升！這18般創意變現工具，你用過嗎？讓人「好用一直用
+- Duplicate entry (2x): 2026-04-15-AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTec
+- Duplicate entry (2x): 2026-04-15-Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃
+- Duplicate entry (2x): 2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的
+- Duplicate entry (2x): 2026-04-15-Google簡報AI功能教學｜3步驟生成可編輯投影片，標題內文都能直接修改
+- Duplicate entry (2x): 2026-04-15-Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞
+- Duplicate entry (2x): 2026-04-16-Physical Intelligence新機器人大腦能組合自學未訓練任務
+- Duplicate entry (2x): 2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生
+- Duplicate entry (2x): 2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法
+- Duplicate entry (2x): 2026-04-16-產品人如何用AI打破自己的能力天花板：今天就能執行的4個方法
+- Duplicate entry (2x): 2026-04-16-讓AI從敢答變成敢說「我不知道」，Appier怎麼讓商用機器人更好用、更可靠？
+- Duplicate entry (2x): 2026-04-16-鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構
+- Duplicate entry (2x): 2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻
+- Duplicate entry (2x): 2026-04-17-AI教育產品Gizmo三年用戶40倍融資2200萬美元
+- Duplicate entry (2x): 2026-04-17-Netflix推出垂直影音並以AI強化內容推薦
+- Duplicate entry (2x): 2026-04-17-三人團隊AI Agent廣告平台20個月ARR破億
+- Duplicate entry (2x): 2026-04-17-享刻智能深耕餐飲場景：具身智能的差異化落地路徑
+- Duplicate entry (2x): 2026-04-17-如何用 Skills 高效完成產品經理的工作？
+- Duplicate entry (2x): 2026-04-17-重新理解企業的內部協作
+- Duplicate entry (2x): 2026-04-18-玫瑰空調我不屑一顧，小貓空調我將全款購入！
+- Duplicate entry (2x): 2026-04-18-阿里秒悟：把編程門檻從語法轉移到表達能力
+- Duplicate entry (2x): 2026-04-20-做AI選題工具三個月踩了這些坑
+- Duplicate entry (2x): 2026-04-20-艾梵達押注微酵護發雅詩蘭黛集團加碼高端護發賽道
+- Duplicate entry (2x): 2026-04-20-釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑
+- Duplicate entry (2x): 2026-04-20-首創玩偶加主機模式多智能體兒童AI玩具品牌獲數千萬元融資
+- Duplicate entry (2x): 2026-04-21-一個買菜 APP，把江浙滬釣成翹嘴
+- Duplicate entry (2x): 2026-04-21-国际局势反复，时尚产业的复苏还为时过早？
+- Duplicate entry (2x): 2026-04-22-OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了
+- Duplicate entry (2x): 2026-04-23-AI Agent評估體系到底該怎麼做
+- Duplicate entry (2x): 2026-04-23-一個對話框、一隻青蛙，Ribbi如何一週吸引4萬用戶
+- Duplicate entry (2x): 2026-04-23-比中籤還難的訂酒店，跑馬人在華住會破局了？
+- Duplicate entry (2x): 2026-04-23-融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板
+- Duplicate entry (2x): 2026-04-23-頭頂有神，心裡有帳——中國人的信仰經濟學
+- Duplicate entry (2x): 2026-04-24-Image2的10種顛覆性玩法，越用越不對勁
+- Duplicate entry (2x): 2026-04-24-實測 GPT-Image-2：6 個能落地的提效場景
+- Duplicate entry (2x): 2026-04-24-融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photos
+- Duplicate entry (2x): 2026-04-25-GPT-Image-2的護城河不是「好看」，是「聽話」
+- Duplicate entry (2x): 2026-04-27-Starboy：掛在包上的 AI 時尚潮玩？
+- Duplicate entry (2x): 2026-04-27-兩年內中國將出現可用的家庭機器人——破殼機器人許華哲
+- Duplicate entry (2x): 2026-04-27-前蘋果工程師做了款體感遊戲機，銷量拳打Xbox，營收數億美元
+- Duplicate entry (2x): 2026-04-28-AI時代的產品經理應該是怎樣的？
+- Duplicate entry (2x): 2026-04-28-如何一個人驗證一個產品方向？
+- Duplicate entry (2x): 2026-04-28-微信免費發了1億Token，你的AI小程序還沒立項？
+- Duplicate entry (2x): 2026-04-28-行为设计，本质就是情绪设计，真正改变人的，从来不是道理
+- Duplicate entry (2x): 2026-04-28-被群嘲的“最丑”小车，凭什么逆袭大卖？
+- Duplicate entry (2x): 2026-04-28-钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？
+- Duplicate entry (2x): 2026-04-28-龙杰：风从东方来，文旅出海图景与实践分享
+- Duplicate entry (2x): 2026-04-29-Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去
+- Duplicate entry (2x): 2026-04-29-功能開發已壓縮到「日更」，PM的價值錨點在哪裡？
+- Duplicate entry (2x): 2026-04-29-拒絕研發浪費：4P+2模型的決策邏輯，不看可惜了
+- Duplicate entry (2x): 2026-04-30-一台 LABUBU 冰箱，装得下泡泡玛特的野心吗？
+- Duplicate entry (2x): 2026-04-30-被3次監管警示函逼出的需求分析方法：我做金融合規多智能體審核的踩坑實錄
+- Duplicate entry (2x): 2026-05-01-Meta收購機器人新創，強化人形AI野心
+- Duplicate entry (2x): 2026-05-01-深度拆解拓竹科技：離職大疆5年營收百億，要讓AI擁有「造物的手」
+- Duplicate entry (2x): 2026-05-02-在矽谷，中美具身公司談了4個問題的解法
+- Duplicate entry (2x): 2026-05-02-大疆特斯拉與人形機器人：PM如何理解新物種產品的誕生
+- Duplicate entry (2x): 2026-05-02-我用AI做了第一個產品，聊聊全過程和踩過的坑
+- Duplicate entry (2x): 2026-05-03-LangChain團隊用AI Agent做銷售和行銷的最佳實踐
+- Duplicate entry (2x): 2026-05-04-DoorDash推出AI工具加速商家上線與照片優化
+- Duplicate entry (2x): 2026-05-04-一个人公司 OPC 必备的 10 个Skill_v2
+- Duplicate entry (2x): 2026-05-04-千問App深度體驗報告（2026）
+- Duplicate entry (2x): 2026-05-04-拉美人兜里的1.47万亿元，被中国老板惦记上了
+- Duplicate entry (2x): 2026-05-04-新消費品牌講故事不能只講初心還要講場景
+- Duplicate entry (2x): 2026-05-04-未来沉浸式农场_家庭农场＋沉浸式文旅：从食品到餐桌的微缩生命故事
+- Duplicate entry (2x): 2026-05-04-矽谷文件產品Mintlify估值五億：以AI為核心重構
+- Duplicate entry (3x): 2026-05-05-AI眼鏡如何從手機配件走向獨立終端
+- Duplicate entry (3x): 2026-05-05-萬億零食市場迎來大洗牌
+- Duplicate entry (3x): 2026-05-06-AI Agent時代的產品未來
+- Duplicate entry (3x): 2026-05-08-Claude Code之父自曝CC誕生源於偶然
+- Duplicate entry (3x): 2026-05-09-如何打造長紅產品讀懂這五個底層邏輯
+- Duplicate entry (3x): 2026-05-13-需求優先級評估的六個實用方法
+- Duplicate entry (2x): 2026-05-14-AI耳朵火了，悄悄賣出150萬台，再獲億元級融資！
+- Duplicate entry (2x): 2026-05-14-從食品到餐飲，複購率高的品牌都有這7個共同點
+- Duplicate entry (3x): 2026-05-14-新鮮零食，擠進商場B1層
+- Duplicate entry (3x): 2026-05-14-當海外品牌生意進入精耕時代，618該怎麼找增長的確定性
+- Duplicate entry (2x): 2026-05-15-K67Kiosk這個紅色小亭子藏著一個時代的模組化想像
+- Duplicate entry (2x): 2026-05-15-一句話百元預算百萬級廣告片這個等式我們親測成立了
+- Duplicate entry (3x): 2026-05-17-開放式耳機的品類革命
+- Duplicate entry (3x): 2026-05-18-Markdown 已死，HTML 登基：極客思維正在毀掉你的交付力
+- Duplicate entry (2x): 2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买
+- Duplicate entry (2x): 2026-05-18-新消費下半場，品牌最大的成本是解釋成本
+- Duplicate entry (3x): 2026-05-20-溫度還是證據：螞蟻阿福與氫離子的醫療AI分野
+- Duplicate entry (3x): 2026-05-20-百萬台割草機器人背後：創辦人讓自己「變得不重要」
+- Duplicate entry (3x): 2026-05-24-VITURE Beast重新定義XR眼鏡的產品哲學
+- Duplicate entry (3x): 2026-05-26-你的百萬流量，落地頁接住了嗎？
+- Duplicate entry (3x): 2026-05-26-創業者閉門探討：為Agent打造其實還是為人打造
+- Duplicate entry (3x): 2026-05-27-Little Caesars 推出盲盒：F＆B 品牌的集換式行銷
+- Duplicate entry (3x): 2026-05-29-Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求
+- Duplicate entry (3x): 2026-05-30-自然堂連續15年ESG報告：把可持續做成一門生意
+- Duplicate entry (3x): 2026-06-01-我陪17位企業家找到了價值200萬的問題
+- 5 blank lines inside entry list
+
+### 社會結構.md
+- Duplicate entry (2x): 2026-03-26-商務座位大增27％，「坪效之王」豪經艙如何改寫座艙設計圖？
+- Duplicate entry (2x): 2026-03-27-AI 時代正在兩極割裂：富人越富 窮人越窮
+- Duplicate entry (2x): 2026-03-27-AI提升20%生產力後，為什麼員工週五反而「沒力了」？聰明人都懂的「放空價值」
+- Duplicate entry (2x): 2026-03-29-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-03-30-2028 AI 屠宰場：萬字長文引發華爾街地震
+- Duplicate entry (2x): 2026-03-30-人才爆出走潮！歐洲「這強國」41%青年想移居，2成已有具體計畫
+- Duplicate entry (2x): 2026-04-08-「干婚」是最具婚缩力的关系
+- Duplicate entry (2x): 2026-04-08-中國年輕人止損的最後一招：在通脹地區賺錢，在通縮地區消費
+- Duplicate entry (2x): 2026-04-08-原油「打噴嚏」衝鋒衣「重感冒」：地緣到衣櫃的價格傳導
+- Duplicate entry (2x): 2026-04-08-在「平等」的古巴，我重新理解了「貧窮」
+- Duplicate entry (2x): 2026-04-08-為什麼「斷親式婚姻」開始流行？
+- Duplicate entry (2x): 2026-04-08-美以伊戰爭硝煙背後：石油美元體系走向崩塌了嗎？
+- Duplicate entry (2x): 2026-04-10-被外掛攪亂的數字空間，是時候結束這場鬧劇了
+- Duplicate entry (2x): 2026-04-10-觀影｜於世俗縫隙，見女性自我
+- Duplicate entry (2x): 2026-04-10-離職員工被訓練成AI，繼續工作！網友：被「煉化」了
+- Duplicate entry (2x): 2026-04-13-AI 會帶來大規模失業嗎？
+- Duplicate entry (2x): 2026-04-13-一批單身女性正在「撿漏」買房
+- Duplicate entry (2x): 2026-04-15-Token，正在重新計量世界
+- Duplicate entry (2x): 2026-04-15-中國「打工人」第一城，誕生
+- Duplicate entry (2x): 2026-04-15-富二代公司正在陰養死士
+- Duplicate entry (2x): 2026-04-16-中国经济，未来五年会发生怎样的变革？
+- Duplicate entry (2x): 2026-04-16-日本消费经济大师警告餐饮人卷价格正在走一条死路
+- Duplicate entry (2x): 2026-04-17-中產夫妻AA制：機關算盡，已離婚
+- Duplicate entry (2x): 2026-04-17-空心村和3.2億老人，正在完成一場雙向奔赴
+- Duplicate entry (2x): 2026-04-18-2026年之後，真的會出現大規模的失業嗎？
+- Duplicate entry (2x): 2026-04-18-「中年返貧三件套」，正在吞掉一代人的存款
+- Duplicate entry (2x): 2026-04-19-又一所大学突然倒闭，乔布斯30年前的预言成真了
+- Duplicate entry (2x): 2026-04-19-江蘇的鬆弛感從何而來
+- Duplicate entry (2x): 2026-04-19-消費狂歡中，永不滿足的欲望究竟從何而來？
+- Duplicate entry (2x): 2026-04-20-NGOs環境會議未達共識就扼殺遊蕩犬建言？
+- Duplicate entry (2x): 2026-04-20-動物用人藥新制將上路 藥廠登錄意願低恐釀紛爭 引獸醫飼主憂
+- Duplicate entry (2x): 2026-04-20-動物用藥新制宣告註銷 再提管理辦法草案時間未定
+- Duplicate entry (2x): 2026-04-20-動物用藥新制紛爭多 農業部拍板延後上路時間
+- Duplicate entry (2x): 2026-04-20-粗暴拖拉致失禁 楊梅訓犬中心陷虐犬爭議
+- Duplicate entry (2x): 2026-04-21-2026 市場行銷的底層邏輯變了
+- Duplicate entry (2x): 2026-04-21-人類正在走下牌桌
+- Duplicate entry (2x): 2026-04-21-他們用「中產階級」這詞替換掉了什麼？
+- Duplicate entry (2x): 2026-04-21-你按下的那个“投诉”，正在毁掉一个陌生人的一天
+- Duplicate entry (2x): 2026-04-21-周末男女最狠约会：挖野菜，见人品
+- Duplicate entry (2x): 2026-04-21-多地支持老年人再就业，会抢年轻人饭碗吗？
+- Duplicate entry (2x): 2026-04-21-用不起Token的我，成了AI時代的下沉市場人群
+- Duplicate entry (2x): 2026-04-23-2026 年療愈經濟：國家戰略背書，療愈行業正式步入黃金時代
+- Duplicate entry (2x): 2026-04-23-現在的男女，不願再為低品質感情買單
+- Duplicate entry (2x): 2026-04-23-雲南潑水節，流氓的狂歡
+- Duplicate entry (2x): 2026-04-25-一個亞比寫給阿姨的贖罪信
+- Duplicate entry (2x): 2026-04-28-一批年轻女性，正在崩老头
+- Duplicate entry (2x): 2026-04-28-年轻人为兴趣上头？背后都藏着情绪密码
+- Duplicate entry (2x): 2026-04-28-当世界变得复杂，总有人简单爱着地球
+- Duplicate entry (2x): 2026-04-28-当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-28-怀旧经济火了，我们到底在怀念什么？
+- Duplicate entry (2x): 2026-04-28-最容易滑落的铁饭碗，近四成人陷入抑郁
+- Duplicate entry (2x): 2026-04-28-服务业突破80万亿后，普通人的三个机会
+- Duplicate entry (2x): 2026-04-28-爱上玄学，是认知退化吗？
+- Duplicate entry (2x): 2026-04-28-爱奇艺疯了CEO龚宇回应，张若昀于和伟等紧急声明
+- Duplicate entry (2x): 2026-04-28-祈福经济：好运是怎么变成生意的？
+- Duplicate entry (2x): 2026-04-28-美女同事入职：面试是仙女，现在是野人
+- Duplicate entry (2x): 2026-04-28-被操控的饭圈女孩：为偶像，牺牲一切
+- Duplicate entry (2x): 2026-04-28-请正确对待你的痛苦：来自精神科医生的叮嘱
+- Duplicate entry (2x): 2026-04-28-起猛了，我的20块有线耳机被捧成顶流潮品了？
+- Duplicate entry (2x): 2026-04-28-越是分房睡、经济AA制、不干涉对方隐私的夫妻，往往把婚姻过成
+- Duplicate entry (2x): 2026-04-28-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-04-28-越来越多人，选择不抢救
+- Duplicate entry (2x): 2026-04-28-蹲坑旁边就是床漂在大城市的年轻人住进奇葩房
+- Duplicate entry (2x): 2026-04-28-郭国庆：犒赏经济如何提振消费？
+- Duplicate entry (2x): 2026-04-29-沒人敢先停：AI囚徒困境如何困住大模型、巨頭和普通人
+- Duplicate entry (2x): 2026-04-30-工作不再可靠之后，人生该怎么重新排列？
+- Duplicate entry (2x): 2026-04-30-陈丹青：为什么我害怕年轻人？
+- Duplicate entry (2x): 2026-04-30-难以打工的日子，他们拍火了一条“西游路”
+- Duplicate entry (2x): 2026-05-02-95 後女孩正在主動放棄性生活
+- Duplicate entry (2x): 2026-05-02-为何谁都觉得银发经济风口来了，却鲜有人赚到钱？
+- Duplicate entry (2x): 2026-05-04-大齡男女相親局：愛情比不上門當戶對
+- Duplicate entry (2x): 2026-05-04-文淇對話與女性主體性重塑
+- Duplicate entry (2x): 2026-05-04-第一批没结婚的韩国中女，已经开始“领养”闺蜜了
+- Duplicate entry (3x): 2026-05-05-當AI成為造假加速器普通人拿什麼創業
+- Duplicate entry (2x): 2026-05-07-消費者正在轉向低價零售商，報告顯示
+- Duplicate entry (3x): 2026-05-10-25家時尚巨頭0家回覆為何品牌集體失聲
+- Duplicate entry (3x): 2026-05-10-一個人生建議停止餵養任何人
+- Duplicate entry (3x): 2026-05-10-做AI的年輕人被前司追債
+- Duplicate entry (2x): 2026-05-10-打工人最新玄學痛吻offer大樓
+- Duplicate entry (3x): 2026-05-10-永久底層矽谷的AI從業者普遍認為普通人已經完蛋了
+- Duplicate entry (2x): 2026-05-10-無婚無孩就會又老又小
+- Duplicate entry (3x): 2026-05-10-百萬豪宅月租400年輕人湧入空城
+- Duplicate entry (2x): 2026-05-10-膠東商業矛盾的面子和裡子
+- Duplicate entry (2x): 2026-05-10-被坑慘了的年輕人已經放棄找旅遊搭子了
+- Duplicate entry (2x): 2026-05-10-阿那亞常熟啟幕學園社區未來生活
+- Duplicate entry (3x): 2026-05-14-未來城市第三空間的演化邏輯
+- Duplicate entry (3x): 2026-05-14-沒人知道何時會跨越臨界點
+- Duplicate entry (3x): 2026-05-14-炸了！三聯的瓜突然爆了
+- Duplicate entry (3x): 2026-05-14-當代人的崩潰：閒不下來，也快樂不起來
+- Duplicate entry (3x): 2026-05-14-省油省錢的小電驢，正在掏空中女錢包
+- Duplicate entry (2x): 2026-05-15-bro文化是如何養成的
+- Duplicate entry (3x): 2026-05-18-AI到底會不會讓大學變成一堆沒用的磚頭？
+- Duplicate entry (3x): 2026-05-18-工作毀掉了我美好的人性
+- Duplicate entry (3x): 2026-05-26-未來10年供應鏈大洗牌：中國正在悄悄坐上全球總部的位置
+- Duplicate entry (3x): 2026-05-26-當年拼盡全力「潤」出去的人，開始打包行李回國了
+- Duplicate entry (3x): 2026-05-26-衝擊巨大，世界徹底變了
+- Duplicate entry (3x): 2026-05-27-為什麼斷親式婚姻開始流行？
+- Duplicate entry (3x): 2026-05-28-縣城商鋪倒閉潮，遠比我們想像中的慘烈
+- Duplicate entry (2x): 2026-05-29-投資於人為什麼要優先投資於青年？——理論視角、價值意蘊與實踐路徑
+- Duplicate entry (2x): 2026-05-29-數字異化、情感勞動與空間重構：當代青年儀式性就業的實踐形態與三重透視
+- Duplicate entry (3x): 2026-05-29-殺豬盤變殺鳥盤，坑慘已婚女
+- Duplicate entry (2x): 2026-05-30-壓迫，很多時候以真理的姿態出現
+- Duplicate entry (3x): 2026-05-30-大衆人群消費：畫像一覽
+- Duplicate entry (3x): 2026-06-01-中國的第三次紅利是什麼
+- Duplicate entry (3x): 2026-06-01-長三角萬億之城迎來人口拐點
+
+### 社群與關係網絡.md
+- Duplicate entry (2x): 2026-03-23-從 BTS、獵人到素還真，麥當勞如何用IP精準收服不同世代的「情緒價值」？
+- Duplicate entry (2x): 2026-03-27-為何老朋友越來越少？原來中年人際關係也需要維繫！留住3種朋友未來不孤獨
+- Duplicate entry (2x): 2026-03-29-2026 阿那亞×單立人喜劇節全內容揭秘
+- Duplicate entry (2x): 2026-03-29-一覺醒來，品牌又做了哪些好案例？（Vol.390 03.15-03.21）
+- Duplicate entry (2x): 2026-03-29-做簡報、寫email別再用「我」開頭！《財星》500強顧問：以對方為中心，贏得
+- Duplicate entry (2x): 2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-03-30-SK-II、CELINE、麥當勞：2026 品牌行銷新風向搶先看
+- Duplicate entry (2x): 2026-03-30-吵完架別讓AI當「我是混蛋嗎？」裁判：史丹佛實測 11 款主流模型，比人類更會
+- Duplicate entry (2x): 2026-04-06-Picsart 推出創作者變現計劃，讓設計師從作品中獲利
+- Duplicate entry (2x): 2026-04-08-出道9天就火遍大江南北！最醜女團時隔6年翻紅，還有人買帳嗎？
+- Duplicate entry (2x): 2026-04-08-普通人敘事：品牌的新信任貨幣
+- Duplicate entry (2x): 2026-04-08-沒有大佬可以活著逃出溫柔鄉｜可可談
+- Duplicate entry (2x): 2026-04-08-碼住收藏！2026阿那亞×單立人喜劇節全內容揭秘來了！
+- Duplicate entry (2x): 2026-04-08-蘇聯Labubu成了今年潮人貴婦的新玩物
+- Duplicate entry (2x): 2026-04-08-這個婦女節，我們為媽媽、姥姥、奶奶辦了一個美術展
+- Duplicate entry (2x): 2026-04-10-不想捲了，就去做自己擅長的事吧
+- Duplicate entry (2x): 2026-04-10-在當下，為什麼人人都覺得自己是受害者
+- Duplicate entry (2x): 2026-04-10-比性缘脑更可怕的东西，出现了
+- Duplicate entry (2x): 2026-04-10-當 AI 似乎比人更貼心，會怎樣改變你的人際關係
+- Duplicate entry (2x): 2026-04-10-社交媒體「去社交化」：內容平台正在取代關係網絡
+- Duplicate entry (2x): 2026-04-12-讓勞動者自己說話，才是真活人感！
+- Duplicate entry (2x): 2026-04-15-粗門完成數千萬A+輪融資：AI時代讓更多人「出門」
+- Duplicate entry (2x): 2026-04-16-民间鬼才爆改slogan淘宝汗流浃背了
+- Duplicate entry (2x): 2026-04-16-用網友杯貼做圍擋，喜茶市場部美商極高！
+- Duplicate entry (2x): 2026-04-17-AI入侵社交：我的相亲对象，已经不说「人话」了
+- Duplicate entry (2x): 2026-04-18-為啥卡戴珊之母成了全球年輕人的財神？
+- Duplicate entry (2x): 2026-04-19-冯仑：别太相信好人，也别急着远离坏人
+- Duplicate entry (2x): 2026-04-19-建筑是壳人是核五城在地文化保护的核心共识与差异
+- Duplicate entry (2x): 2026-04-19-文章复出火上热搜现状让人唏嘘
+- Duplicate entry (2x): 2026-04-19-永庆坊之后中国城市更新该如何守住原居民的乡愁
+- Duplicate entry (2x): 2026-04-19-沒有體驗過洗完澡裸著出浴室的人生是不完整的
+- Duplicate entry (2x): 2026-04-21-從賣薯片到造空間，樂事更懂年輕人了
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯。
+- Duplicate entry (2x): 2026-04-23-存量時代裂變為何越來越重要
+- Duplicate entry (2x): 2026-04-24-用「活人感」做科技社區，小紅書能成嗎？
+- Duplicate entry (2x): 2026-04-25-上線三月攬下400萬下載，這支北京團隊踩中海外AI社交缺口
+- Duplicate entry (2x): 2026-04-25-從毽子到一個河北男人的證件照：我們在春遊以物易物
+- Duplicate entry (2x): 2026-04-28-年入10亿美元的Alo Yoga落子香港，中国市场能否复制北美神话？
+- Duplicate entry (2x): 2026-04-28-成都玉林，为何能自发的更新？
+- Duplicate entry (2x): 2026-04-28-金鱼在下沉我们在捞世界｜第三届沿海公路音乐节回顾
+- Duplicate entry (2x): 2026-04-30-AGI時代的個人OS重構：為什麼你的「SFT資料集」決定了你的階層？
+- Duplicate entry (2x): 2026-04-30-两大根变量重塑消费逻辑：基诺浦的母婴生态化思考
+- Duplicate entry (2x): 2026-05-02-當大家都用AI獲取資訊，我開始擔心小紅書搜尋
+- Duplicate entry (2x): 2026-05-02-麦当劳贴脸唱反调，汉堡王：好歹毒的商战！
+- Duplicate entry (2x): 2026-05-04-一批8090后正在崩老头里醉生梦死
+- Duplicate entry (2x): 2026-05-04-想解决“办公室政治”，要先“干掉”老板
+- Duplicate entry (2x): 2026-05-04-我提议女孩们从今天起，互相说句“你很好” ｜对话文淇
+- Duplicate entry (2x): 2026-05-04-未来沉浸式农场_家庭农场＋沉浸式文旅：从食品到餐桌的微缩生命故事
+- Duplicate entry (2x): 2026-05-04-林依晨：我曾经也和你一样，好想成为程又青
+- Duplicate entry (2x): 2026-05-04-沉浸式商业丨“当美食节进入细分赛道”：餐饮造节的破局之路
+- Duplicate entry (2x): 2026-05-04-现在的05后去夜店，为什么只玩抓手指啊？
+- Duplicate entry (2x): 2026-05-04-第一批没结婚的韩国中女，已经开始“领养”闺蜜了
+- Duplicate entry (2x): 2026-05-04-这一届“新老人”：只愿出钱，不愿带孙
+- Duplicate entry (2x): 2026-05-04-这届年轻人，正在集体“断亲”
+- Duplicate entry (3x): 2026-05-07-AI真的能拯救你的孤獨嗎？
+- Duplicate entry (2x): 2026-05-08-發現一個奇怪的現象-哪怕家裡條件再差-一旦子女成家-全家精氣神大變
+- Duplicate entry (2x): 2026-05-14-40歲和66歲，一對母子選擇共居：互相滋養、各得其樂
+- Duplicate entry (3x): 2026-05-14-小紅書強推直客體系三年後
+- Duplicate entry (2x): 2026-05-18-一場飛拉達的背後，猛獁象如何讓戶外走進大眾生活
+- Duplicate entry (3x): 2026-05-18-將社群滑動轉化為餐廳到訪
+- Duplicate entry (3x): 2026-05-26-內娛嬌夫，氾濫成災
+- Duplicate entry (3x): 2026-05-26-在一起的能力 方所選書
+- Duplicate entry (3x): 2026-05-26-理查米爾如何打造有人情味的品牌摯友大家庭
+- Duplicate entry (3x): 2026-05-27-WeRoad 融資 5800 萬美元押注 IRL 經濟
+- Duplicate entry (3x): 2026-05-29-在印度，像蟑螂一樣的年輕人建立了一個政黨
+- Duplicate entry (3x): 2026-05-29-數字斷連當代中國青年職場關係建構實踐
+- Duplicate entry (3x): 2026-05-30-Pacsun的Z世代共創策略
+- Duplicate entry (2x): 2026-05-30-倦怠社會中的雞尾酒效應：青年健身趣緣群體的身份重構
+- Duplicate entry (2x): 2026-05-30-天津大悅城，如何把青年文化做成慢生意
+- Duplicate entry (2x): 2026-05-30-對廣州，聚龍灣到底改變了什麼
+- Duplicate entry (3x): 2026-06-01-0xU華語最有影響力Web3學生組織如何從香港長出
+
+### 科技影響.md
+- Duplicate entry (2x): 2025-09-17-【報導者觀測站設計幕後】我們如何透過使用者研究，打造一個清晰易用的政治分析工具
+- Duplicate entry (2x): 2025-12-22-深度｜日本爆紅「穿搭訂閱制」！續約率 95%、年收近 50 億，airClos
+- Duplicate entry (2x): 2026-02-24-〈全台圓環體檢〉數據幕後：兩塊鳳梨酥＋機器學習演算法，如何幫我們從219萬筆交
+- Duplicate entry (2x): 2026-03-13-數位轉型是什麼？從定義、三階段到成功案例一次看懂
+- Duplicate entry (2x): 2026-03-24-數位韌性，是對病患最深的承諾：馬偕醫院攜手微軟，從一場資安考驗中，淬煉出台灣醫
+- Duplicate entry (3x): 2026-03-27-Afresh 將 AI 從生鮮擴展至全店管理
+- Duplicate entry (2x): 2026-03-27-美國 AI 新政：告別「50 個實驗室」時代 華盛頓要開一扇新寬門
+- Duplicate entry (2x): 2026-03-29-併購潮復甦！2025年全球併購總值達4.7兆美元，台灣企業如何贏在新賽局？
+- Duplicate entry (2x): 2026-03-29-別人還在喊數位轉型，FedEx 已讓 AI 代理直接上工！一次看懂全球物流巨頭
+- Duplicate entry (2x): 2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-03-29-科技 CEO 突然愛把裁員怪給 AI，背後真正原因是什麼？
+- Duplicate entry (2x): 2026-03-30-一被駭至少要1600萬元！台灣為何這麼容易變肥羊？談判專家揭企業不敢公開的勒索
+- Duplicate entry (2x): 2026-03-30-今年，哪些行業能過上好日子？
+- Duplicate entry (2x): 2026-03-30-從會員數據到 AI 行銷：Vpon 打造零售業 AI-Ready 數據中台，提
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-月之暗面考慮赴港IPO；海底撈去年收入432.3億元；雷軍辭任金山雲董事長丨一
+- Duplicate entry (2x): 2026-03-31-AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河
+- Duplicate entry (2x): 2026-03-31-四家機器人廠商，一起投了一家數據公司
+- Duplicate entry (2x): 2026-03-31-為何中國科技公司搶著在香港設立據點
+- Duplicate entry (2x): 2026-03-31-營收三年增16倍，壁仞科技迎來業績兌現期
+- Duplicate entry (2x): 2026-03-31-白嫖迪麗熱巴拍土味短劇這家A股公司把自己作退市了
+- Duplicate entry (2x): 2026-03-31-科技CEO為何突然愛把大規模裁員怪給AI
+- Duplicate entry (2x): 2026-03-31-開源產品的盈利破局：從飛書CLI到千問開源，產品經理的生態操盤術
+- Duplicate entry (2x): 2026-03-31-黑石也虧了
+- Duplicate entry (2x): 2026-04-01-AI日報：從Claude Code泄露到宇樹IPO，AI行業的冰與火之歌
+- Duplicate entry (2x): 2026-04-03-Anthropic以4億美元收購生技新創Coefficient Bio
+- Duplicate entry (2x): 2026-04-03-Anthropic收購生技新創Coefficient Bio，交易金額達4億美
+- Duplicate entry (2x): 2026-04-03-神州數碼2025年營收超1400億AI業務增長近五成
+- Duplicate entry (2x): 2026-04-03-黑燈實驗室戴納科技獲近億元融資
+- Duplicate entry (2x): 2026-04-07-前迪士尼工程師和Midjourney聯創，要做一款「會呼吸」的DIY仿生機器人
+- Duplicate entry (2x): 2026-04-07-紅熊AI完成2.1億元A輪融資，切入物理AI賽道
+- Duplicate entry (2x): 2026-04-08-AI公司員工，正在批量成為千萬富翁
+- Duplicate entry (2x): 2026-04-08-AI改不了這12條規律
+- Duplicate entry (2x): 2026-04-08-AI逼出了教育的真相，美國大學開始復興一種古老傳統
+- Duplicate entry (2x): 2026-04-08-《2026年第一季度微短劇報告》
+- Duplicate entry (2x): 2026-04-08-「天穹」之下，一場中國產業鏈的集體突圍
+- Duplicate entry (2x): 2026-04-08-一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？
+- Duplicate entry (2x): 2026-04-08-不再只是炫技！AWE2026 現場開啟「人機共生」生活預演
+- Duplicate entry (2x): 2026-04-08-不好意思，機器人無法僅靠視覺理解世界
+- Duplicate entry (2x): 2026-04-08-什麼時候Agent能自己寫skill？｜Hao好聊趨勢
+- Duplicate entry (2x): 2026-04-08-具身智能走進家庭：AI產品經理的下一個戰場
+- Duplicate entry (2x): 2026-04-08-原油「打噴嚏」衝鋒衣「重感冒」：地緣到衣櫃的價格傳導
+- Duplicate entry (2x): 2026-04-08-拼多多Temu將孵化自營品牌；阿里國際推電商版「龍蝦」；TikTok Shop
+- Duplicate entry (2x): 2026-04-08-沉浸式教育丨「打破教育的邊界」，沉浸式教育助力中小學空間重構、技術賦能與機制創
+- Duplicate entry (2x): 2026-04-08-沉浸式演艺｜当非遗遇见跨媒介舞台剧，数字技术赋能下非遗文化的叙事创新与传播重塑
+- Duplicate entry (2x): 2026-04-08-為什麼拼多多看起來沒有「AI焦慮」
+- Duplicate entry (2x): 2026-04-08-當龍蝦代替我們去工作和消費，傳統經濟學法則還會成立嗎？
+- Duplicate entry (2x): 2026-04-08-第一批裝龍蝦的人，已經「棄養」了
+- Duplicate entry (2x): 2026-04-08-防挖角，蘋果給設計師發高額獎金／曝Claude最強新模型代號「卡皮巴拉」／小鵬
+- Duplicate entry (2x): 2026-04-08-阿里、字節，死磕一個昔日「全軍覆沒」的賽道
+- Duplicate entry (2x): 2026-04-08-黃仁勳最新演講（GTC 2026）
+- Duplicate entry (2x): 2026-04-09-一個225平方公里的「庄」，如何成為AI「頂流」
+- Duplicate entry (2x): 2026-04-09-同事能蒸餾，前任能蒸餾，現在連貓都能賽博永生了
+- Duplicate entry (2x): 2026-04-10-Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略
+- Duplicate entry (2x): 2026-04-10-Guardrails：AI生成內容的安全紅線制定者
+- Duplicate entry (2x): 2026-04-10-《AI創新百強》百年福壽靠AI「精準秤重」戰勝誤差，準確率95%、救回百萬損失
+- Duplicate entry (2x): 2026-04-10-亦庄如何成為AI頂流：225平方公里的AI實驗場
+- Duplicate entry (2x): 2026-04-10-吳軍：AI時代，普通人該有的10個清醒認知
+- Duplicate entry (2x): 2026-04-10-被外掛攪亂的數字空間，是時候結束這場鬧劇了
+- Duplicate entry (2x): 2026-04-10-讓AI看懂世界：Chance AI的視覺智能體革命
+- Duplicate entry (2x): 2026-04-10-離職員工被訓練成AI，繼續工作！網友：被「煉化」了
+- Duplicate entry (2x): 2026-04-10-麥肯錫重磅報告：2026年18大未來產業「競技場」
+- Duplicate entry (2x): 2026-04-11-模型不是壁壘，Harness 也不是
+- Duplicate entry (2x): 2026-04-11-給DeepSeek的最後一封催更信
+- Duplicate entry (2x): 2026-04-11-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-12-从日本翻身看：这次谁能扛住高油价？
+- Duplicate entry (2x): 2026-04-12-當瀏覽器開始替你看網頁AI瀏覽器正在拆掉它腳下的網
+- Duplicate entry (2x): 2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦
+- Duplicate entry (2x): 2026-04-13-AI 會帶來大規模失業嗎？
+- Duplicate entry (2x): 2026-04-13-前大疆工程師創業陪伴機器人，李澤湘連投三輪，產品即將登陸眾籌
+- Duplicate entry (2x): 2026-04-13-台灣「軌道經濟」圖解｜南港建設密度全台第一、高雄亞灣鴻海進駐⋯四都投資熱點一次
+- Duplicate entry (2x): 2026-04-13-榮耀做了個「養蝦本」，預制5大主蝦，要重新定義AI PC
+- Duplicate entry (2x): 2026-04-13-重新給小米稱個重
+- Duplicate entry (2x): 2026-04-15-1.2億觀眾，見證AI漫劇從狂熱到崩塌
+- Duplicate entry (2x): 2026-04-15-AI 時代的老闆糊弄學
+- Duplicate entry (2x): 2026-04-15-AI替代潮之下，跨境電商「賣鏟人」還好嗎？
+- Duplicate entry (2x): 2026-04-15-Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃
+- Duplicate entry (2x): 2026-04-15-OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守
+- Duplicate entry (2x): 2026-04-15-Owkin是誰？聯邦學習是什麼？一文看懂法國AI獨角獸如何加速新藥研發、拚解鎖
+- Duplicate entry (2x): 2026-04-15-Token，正在重新計量世界
+- Duplicate entry (2x): 2026-04-15-日本汽車業已逼近生存關鍵點本田近70年來首次淨虧損背後揭日本競爭力流失真相
+- Duplicate entry (2x): 2026-04-15-沒補員工，營收竟年增2成！意藍押對哪3種特性模型，從企業搜尋引擎搖身「AI輿情
+- Duplicate entry (2x): 2026-04-15-科技業今年已裁掉8萬人！2026企業續演換血潮，「邊裁邊招」成新常態
+- Duplicate entry (2x): 2026-04-15-被蒸餾的人
+- Duplicate entry (2x): 2026-04-16-10億紅包開打：國內大模型進入「拼多多式」戰爭
+- Duplicate entry (2x): 2026-04-16-7個數字顯示AI職場力大提升！這18個創意變現工具，你用過嗎？
+- Duplicate entry (2x): 2026-04-16-Factory 15億估值：企業級AI工程代理的崛起
+- Duplicate entry (2x): 2026-04-16-InsightFinder獲1500萬美元融資幫企業診斷AI代理故障
+- Duplicate entry (2x): 2026-04-16-Physical Intelligence新機器人大腦能組合自學未訓練任務
+- Duplicate entry (2x): 2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生
+- Duplicate entry (2x): 2026-04-16-「蒸餾」這個詞，純粹就是在製造恐慌
+- Duplicate entry (2x): 2026-04-16-一文帶你看懂，火爆全網的Harness Engineering到底是個啥
+- Duplicate entry (2x): 2026-04-16-快倒閉的矽谷神鞋，轉行 AI 股價暴漲 7 倍，龍蝦之父都懵了
+- Duplicate entry (2x): 2026-04-16-氪星晚報｜特斯拉上海生產人形機器人台積電AI供應吃緊
+- Duplicate entry (2x): 2026-04-16-矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？
+- Duplicate entry (2x): 2026-04-16-鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構
+- Duplicate entry (2x): 2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻
+- Duplicate entry (2x): 2026-04-17-AI訓練AI是技術飛躍還是潘多拉魔盒
+- Duplicate entry (2x): 2026-04-17-Token 為王的資安新時代 AI 算力大開，防禦者如何用「鈔能力」取勝？
+- Duplicate entry (2x): 2026-04-17-享刻智能深耕餐飲場景：具身智能的差異化落地路徑
+- Duplicate entry (2x): 2026-04-17-享刻智能：不追人形機器人，深耕餐飲場景做具身智能落地派
+- Duplicate entry (2x): 2026-04-17-微軟新工作未來報告：六條反常識發現，承認自己用AI反而不被信任
+- Duplicate entry (2x): 2026-04-17-龍雀大咖開講｜風語筑：科技賦能城市IP
+- Duplicate entry (2x): 2026-04-18-2026年之後，真的會出現大規模的失業嗎？
+- Duplicate entry (2x): 2026-04-18-AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%
+- Duplicate entry (2x): 2026-04-18-AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面
+- Duplicate entry (2x): 2026-04-18-Vibe Coding：AI輔助編程的革命與責任邊界
+- Duplicate entry (2x): 2026-04-18-七家值得關注的AI初創公司：從安全服務到國防AI再到芯片崛起
+- Duplicate entry (2x): 2026-04-18-公司中層可能即將消失
+- Duplicate entry (2x): 2026-04-18-智元機器人：從硬體製造到AI大模型平台開放生態
+- Duplicate entry (2x): 2026-04-18-智元機器人：要做AI大模型平台和開放生態
+- Duplicate entry (2x): 2026-04-18-阿里秒悟：把編程門檻從語法轉移到表達能力
+- Duplicate entry (2x): 2026-04-19-AI大事件：機器人從「能表演」走向「能干活」；Cursor 500億估值融資、
+- Duplicate entry (2x): 2026-04-19-▍下一輪加密敘事｜20260418
+- Duplicate entry (2x): 2026-04-19-中国零售出海，不再只是卖货
+- Duplicate entry (2x): 2026-04-19-又一所大学突然倒闭，乔布斯30年前的预言成真了
+- Duplicate entry (2x): 2026-04-19-江蘇的鬆弛感從何而來
+- Duplicate entry (2x): 2026-04-20-Agent越像真的越危險
+- Duplicate entry (2x): 2026-04-20-犬蹤地圖APP上線 邀公民回報助定位衝突熱區
+- Duplicate entry (2x): 2026-04-20-鴻蒙操作系統市佔18%小米OV們為何至今不願加入
+- Duplicate entry (2x): 2026-04-21-Hermes Agent 刷屏背後，Web3 勢力正在滲透 AI 戰場
+- Duplicate entry (2x): 2026-04-21-人類正在走下牌桌
+- Duplicate entry (2x): 2026-04-21-凯文·凯利最新预测AI时代的22个确定性
+- Duplicate entry (2x): 2026-04-21-用不起Token的我，成了AI時代的下沉市場人群
+- Duplicate entry (2x): 2026-04-21-電影，是一門必然要衰落的藝術
+- Duplicate entry (2x): 2026-04-23-GMO 傳奇預言家再次唱空：AI 救不了美股，現在行情和 2000 年一樣危險
+- Duplicate entry (2x): 2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象
+- Duplicate entry (2x): 2026-04-24-DeepSeek V4終於發布，但它留下的5道主觀題還沒有答案
+- Duplicate entry (2x): 2026-04-24-DeepSeek告別「孤膽英雄」時代
+- Duplicate entry (2x): 2026-04-24-融了2000萬美金，這家2000萬美金ARR的AI公司推出「視頻版Photos
+- Duplicate entry (2x): 2026-04-25-7家北京科技公司殺入，AI賣鏟人為何下場做漫劇
+- Duplicate entry (2x): 2026-04-25-AI視頻，這一次中國真贏了
+- Duplicate entry (2x): 2026-04-25-Cohere為何合併Aleph Alpha，打造跨大西洋AI主權強權
+- Duplicate entry (2x): 2026-04-26-AI大事件：美團LongCat-2.0開放測試、黃仁勳要求員工使用OpenAI
+- Duplicate entry (2x): 2026-04-27-10年了，李彥宏還沒有成為AI開發者的King
+- Duplicate entry (2x): 2026-04-27-AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Opencla
+- Duplicate entry (2x): 2026-04-27-GPT image-2爆火後，設計師的天塌了嗎？
+- Duplicate entry (2x): 2026-04-27-Starboy：掛在包上的 AI 時尚潮玩？
+- Duplicate entry (2x): 2026-04-27-兩年內中國將出現可用的家庭機器人——破殼機器人許華哲
+- Duplicate entry (2x): 2026-04-27-最強大模型，保質期越來越短了
+- Duplicate entry (2x): 2026-04-28-DeepSeek告别“孤胆英雄”时代
+- Duplicate entry (2x): 2026-04-28-DeepSeek和华为的双向奔赴
+- Duplicate entry (3x): 2026-04-28-Manus20億美元交易熔斷—中國劃出AI主權紅線
+- Duplicate entry (2x): 2026-04-28-人人都能用AI做設計，但做不出好看的東西，這才是設計師的機會
+- Duplicate entry (2x): 2026-04-28-使用AI成硬指標，大廠打工人被AI「困住」
+- Duplicate entry (2x): 2026-04-28-哎，很多工作都即将成为非遗
+- Duplicate entry (2x): 2026-04-28-孩子王CTO亲授：我们只用AI做脏活累活，就狂赚30亿
+- Duplicate entry (2x): 2026-04-28-当AI越来越仿真，你还在乎什么是“真”吗
+- Duplicate entry (2x): 2026-04-28-微软是如何穿越30年周期的
+- Duplicate entry (2x): 2026-04-28-新北首間 AI 科技高中！錦和高中導入羅技電子 Rally Board 65 
+- Duplicate entry (2x): 2026-04-28-李善友：总市值再破5万亿美元，英伟达为什么总能跨越鸿沟？
+- Duplicate entry (2x): 2026-04-28-杨楠：从1到100用数字创意让深海科考变成可消费的文旅体验
+- Duplicate entry (2x): 2026-04-28-爱奇艺疯了CEO龚宇回应，张若昀于和伟等紧急声明
+- Duplicate entry (2x): 2026-04-28-谁能算清Token账单
+- Duplicate entry (2x): 2026-04-28-起猛了，我的20块有线耳机被捧成顶流潮品了？
+- Duplicate entry (2x): 2026-04-28-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-04-28-路由器也可以读懂用户，AI时代硬件终端正在补位
+- Duplicate entry (2x): 2026-04-28-风语筑董事长李晖：科技赋能城市IP，重构文旅增长的边界
+- Duplicate entry (2x): 2026-04-28-馬斯克要用AI普發人類永續富足，靠Optimus、Cybercab能再下一城？
+- Duplicate entry (2x): 2026-04-29-沒人敢先停：AI囚徒困境如何困住大模型、巨頭和普通人
+- Duplicate entry (2x): 2026-04-30-AI平權之後，我認為：不再需要考試。
+- Duplicate entry (2x): 2026-04-30-Codex，準備接管程式設計師的一切了！
+- Duplicate entry (2x): 2026-04-30-稳定币，需要“隐身”
+- Duplicate entry (2x): 2026-05-01-Meta收購機器人新創，強化人形AI野心
+- Duplicate entry (2x): 2026-05-01-借航天展推「反向技術輸出」，自然堂試煉敘事資源轉化的產品力
+- Duplicate entry (2x): 2026-05-02-又一算力獨角獸衝擊IPO：超聚變五百億估值
+- Duplicate entry (2x): 2026-05-02-在矽谷，中美具身公司談了4個問題的解法
+- Duplicate entry (2x): 2026-05-02-大疆特斯拉與人形機器人：PM如何理解新物種產品的誕生
+- Duplicate entry (2x): 2026-05-02-梁文鋒不掀桌子，DeepSeek登上半山腰
+- Duplicate entry (2x): 2026-05-02-罗翔：当你接触的人越多，你会发现：如果一个男人，不吸烟，不喝酒，性格内向，那他
+- Duplicate entry (2x): 2026-05-02-馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT
+- Duplicate entry (2x): 2026-05-03-10年了，為什麼無人機還是送不了外賣？
+- Duplicate entry (2x): 2026-05-03-AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元
+- Duplicate entry (2x): 2026-05-03-國內AI賺錢的生意：做帳號培訓套利而非做產品
+- Duplicate entry (2x): 2026-05-04-Harness不是目的，知识才是护城河
+- Duplicate entry (2x): 2026-05-04-主体性复建与轻握人生
+- Duplicate entry (2x): 2026-05-04-拆解 Hermes Agent 五层架构，内部到底怎么跑的_v2
+- Duplicate entry (2x): 2026-05-04-新技術只便宜一點點是沒用的
+- Duplicate entry (2x): 2026-05-04-有些路，不必每一步都走得那么用力
+- Duplicate entry (2x): 2026-05-05-AI成為造假加速器—普通人拿什麼創業
+- Duplicate entry (3x): 2026-05-05-AI眼鏡如何從手機配件走向獨立終端
+- Duplicate entry (3x): 2026-05-06-AI讓任何人都能開餐廳的Wonder機器人廚房模式
+- Duplicate entry (2x): 2026-05-06-行銷人在AI時代如何保持人性
+- Duplicate entry (3x): 2026-05-09-中國機器人的全球化野心與Physical AI的爆發準備
+- Duplicate entry (3x): 2026-05-10-AI實現廣告大片自由一句話的事和一杯咖啡的價格
+- Duplicate entry (3x): 2026-05-10-AI消滅不了科層制扁平化遠非公司神藥
+- Duplicate entry (3x): 2026-05-10-AI蔓延失控亞馬遜引以為傲的小團隊文化竟親手埋下資安地雷
+- Duplicate entry (3x): 2026-05-10-AI讓員工快10倍公司卻沒變強7個維度告訴你問題出在哪
+- Duplicate entry (3x): 2026-05-10-Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯
+- Duplicate entry (3x): 2026-05-10-YC2026夏季投資清單出爐超過一半資金轉向硬科技AI已是底層基礎建設
+- Duplicate entry (3x): 2026-05-10-一年股價翻3倍陳立武重置英特爾為蘋果造美國芯
+- Duplicate entry (3x): 2026-05-10-人類不會被AI蒸餾的32個證據
+- Duplicate entry (3x): 2026-05-10-做AI的年輕人被前司追債
+- Duplicate entry (3x): 2026-05-10-告別增長時代醫藥重畫生死線
+- Duplicate entry (3x): 2026-05-10-廣度是門票深度是護城河在答案泛濫的時代學會提問
+- Duplicate entry (2x): 2026-05-10-日本車企在中國正加速走向消亡
+- Duplicate entry (2x): 2026-05-10-梁文鋒留住97趴員工
+- Duplicate entry (3x): 2026-05-10-永久底層矽谷的AI從業者普遍認為普通人已經完蛋了
+- Duplicate entry (2x): 2026-05-10-由豆包付費想到AI到底會長成一門什麼生意
+- Duplicate entry (3x): 2026-05-10-算法時代互聯網大廠為何下場做商業
+- Duplicate entry (2x): 2026-05-10-范凱說AI周日晚聊第18期AI是超級槓桿但你的支點在哪裡
+- Duplicate entry (3x): 2026-05-10-被AI搶走工作的人在忙什麼
+- Duplicate entry (2x): 2026-05-10-親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置
+- Duplicate entry (2x): 2026-05-10-非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是
+- Duplicate entry (3x): 2026-05-11-零點擊搜尋時代行銷人如何優化GEO策略
+- Duplicate entry (3x): 2026-05-13-買AI會員返貧的打工人
+- Duplicate entry (2x): 2026-05-15-AI創業時代一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-15-矽谷正在硬化，AI把軟體聖地重新推回了電力、鋼鐵與核反應堆的世界
+- Duplicate entry (3x): 2026-05-17-開放式耳機的品類革命
+- Duplicate entry (3x): 2026-05-18-AI到底會不會讓大學變成一堆沒用的磚頭？
+- Duplicate entry (3x): 2026-05-18-AI創業時代，一人公司的七種打開方式
+- Duplicate entry (3x): 2026-05-24-VITURE Beast重新定義XR眼鏡的產品哲學
+- Duplicate entry (3x): 2026-05-25-Sephora引領美妝科技：實體與數位融合的零售革命
+- Duplicate entry (3x): 2026-05-26-市場在狠狠懲罰不豪賭AI的國家、企業、個人
+- Duplicate entry (3x): 2026-05-26-未來10年供應鏈大洗牌：中國正在悄悄坐上全球總部的位置
+- Duplicate entry (3x): 2026-05-26-衝擊巨大，世界徹底變了
+- Duplicate entry (3x): 2026-05-27-75%的企業轉型AI，都卡在了組織上
+- Duplicate entry (3x): 2026-05-27-曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案
+- Duplicate entry (3x): 2026-05-27-為什麼說Windows在AI時代變成了落後生產力？
+- Duplicate entry (3x): 2026-05-28-京東養車：以產教融合突破新能源技師人才缺口
+- Duplicate entry (2x): 2026-05-29-便利店之父的哲學：研究人比人自己更深
+- Duplicate entry (2x): 2026-05-29-全網刷屏的韜定律，到底是什麼意思？
+- Duplicate entry (2x): 2026-05-29-從技術噱頭到業務原生，企業如何抓住智能體規模化紅利？
+- Duplicate entry (3x): 2026-05-29-橫店短劇大撤退：停工、降薪，與被擠掉的飯碗
+- Duplicate entry (3x): 2026-05-29-氣球帶著烏克蘭的無人機去打莫斯科
+- Duplicate entry (3x): 2026-05-30-一個行業正在被AI悄悄重寫
+- Duplicate entry (3x): 2026-05-30-中國人的腸道裡，藏著一張飲食地圖
+- Duplicate entry (3x): 2026-05-30-永生，會成為有錢人的特權嗎？
+- Duplicate entry (3x): 2026-06-01-0xU華語最有影響力Web3學生組織如何從香港長出
+- 3 blank lines inside entry list
+
+### 組織與策略.md
+- Duplicate entry (2x): 2026-03-20-人人都能寫程式的時代，PM才是新時代最強職位？
+- Duplicate entry (2x): 2026-03-24-數位韌性，是對病患最深的承諾：馬偕醫院攜手微軟，從一場資安考驗中，淬煉出台灣醫
+- Duplicate entry (2x): 2026-03-27-AI 支付的重點 不是支付本身
+- Duplicate entry (2x): 2026-03-27-AI提升20%生產力後，為什麼員工週五反而「沒力了」？聰明人都懂的「放空價值」
+- Duplicate entry (2x): 2026-03-27-這家公司全用 AI 做內容 讀者跑光了
+- Duplicate entry (2x): 2026-03-29-併購潮復甦！2025年全球併購總值達4.7兆美元，台灣企業如何贏在新賽局？
+- Duplicate entry (2x): 2026-03-29-別人還在喊數位轉型，FedEx 已讓 AI 代理直接上工！一次看懂全球物流巨頭
+- Duplicate entry (2x): 2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-03-29-科技 CEO 突然愛把裁員怪給 AI，背後真正原因是什麼？
+- Duplicate entry (2x): 2026-03-29-蕉內最具「活人感」文案，不是自己寫的
+- Duplicate entry (2x): 2026-03-30-2026 年的品牌小內容：從活人感的日常切入
+- Duplicate entry (2x): 2026-03-30-2026 是 Multi-Agent 元年 計算機歷史博物館
+- Duplicate entry (2x): 2026-03-30-2026 行銷革命：知識庫+智能體=品牌增長新引擎
+- Duplicate entry (2x): 2026-03-30-2026企業生存戰：別讓AI成了你公司的「平庸加速器」
+- Duplicate entry (2x): 2026-03-30-AI 會取代管顧嗎？從 BCG 顧問的 AI 工作流，看懂為何仍需要「人」
+- Duplicate entry (2x): 2026-03-30-一被駭至少要1600萬元！台灣為何這麼容易變肥羊？談判專家揭企業不敢公開的勒索
+- Duplicate entry (2x): 2026-03-30-哪些企業 CXO 更迭值得關注？2026 春節特輯
+- Duplicate entry (2x): 2026-03-30-愈沒效率愈有價值？到 2034 年仍搶手的人才，擅長這 5 件「AI 做不到」
+- Duplicate entry (2x): 2026-03-30-曾被封「在富士山命中東京的縫衣針」，Nikon為何最終連EUV光刻機都造不出來
+- Duplicate entry (2x): 2026-03-30-臨危受命，95 後兒媳接手家族企業，靠自毀式升級半年扭虧
+- Duplicate entry (2x): 2026-03-31-8萬人調查揭露：AI越快、人越迷茫！3步驟設定停損點，讓工具為幸福服務
+- Duplicate entry (2x): 2026-03-31-前Coatue合夥人為企業AI新創募得6500萬美元種子輪
+- Duplicate entry (2x): 2026-03-31-Google Stitch：測試3天，它可能會讓UI設計師開始焦慮
+- Duplicate entry (2x): 2026-03-31-YC今年最突兀的入選者：為何 OpenAI 與 Google 都在關注這家非營
+- Duplicate entry (2x): 2026-03-31-一個人的營銷部門：40個AI Agent如何顛覆工作方式
+- Duplicate entry (2x): 2026-03-31-為什麼用了那麼多 AI，你的工作還是一團亂？
+- Duplicate entry (2x): 2026-03-31-為何中國科技公司搶著在香港設立據點
+- Duplicate entry (2x): 2026-03-31-科技CEO為何突然愛把大規模裁員怪給AI
+- Duplicate entry (2x): 2026-03-31-都有AI了，數據分析該干什麼？這是最好的回答！
+- Duplicate entry (2x): 2026-03-31-黑石也虧了
+- Duplicate entry (2x): 2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態
+- Duplicate entry (2x): 2026-04-01-供應鏈效率成零售業決勝點！AI 導購 0.1 秒成交，智慧倉儲如何解決出貨慢痛
+- Duplicate entry (2x): 2026-04-01-小牛電動轉型AI：all in or nothing
+- Duplicate entry (2x): 2026-04-02-2026互聯網變天了：AI不再是互聯網的工具，AI是互聯網新底座
+- Duplicate entry (2x): 2026-04-02-AI時代，真正危險的可能不是模型失控，而是模型太聽話
+- Duplicate entry (2x): 2026-04-02-Claude Code 51萬行源碼泄露，我扒出來了一些好東西
+- Duplicate entry (2x): 2026-04-02-流量導向的內容無法完成獲客閉環
+- Duplicate entry (2x): 2026-04-03-AI時代內容審核：前Facebook內部人士創立的Moonbounce獲120
+- Duplicate entry (2x): 2026-04-03-Anthropic以4億美元收購生技新創Coefficient Bio
+- Duplicate entry (2x): 2026-04-03-Anthropic收購生技新創Coefficient Bio，交易金額達4億美
+- Duplicate entry (2x): 2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資
+- Duplicate entry (2x): 2026-04-04-開源項目Hermes Agent評測：越用越聰明的開源AI智慧體
+- Duplicate entry (2x): 2026-04-05-AI產品的RAG系統，到底該怎麼做業務驗收？
+- Duplicate entry (2x): 2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架
+- Duplicate entry (2x): 2026-04-06-OpenAI 校友秘密籌建潛在 1 億美元規模的新基金
+- Duplicate entry (2x): 2026-04-07-AI新創 Rocket 提供麥肯錫式顧問報告，只需極少成本
+- Duplicate entry (2x): 2026-04-07-AI淘金熱讓私人財富轉向更早期、更高風險的押注
+- Duplicate entry (2x): 2026-04-07-我如何用 Cursor+AI，3天搞懂一個複雜的AI財務系統
+- Duplicate entry (2x): 2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相
+- Duplicate entry (2x): 2026-04-07-紅熊AI完成2.1億元A輪融資，切入物理AI賽道
+- Duplicate entry (2x): 2026-04-07-過去十多年，我們對企業新媒體的認知錯了，錯得離譜
+- Duplicate entry (2x): 2026-04-08-2026 AI產品經理能力自測：10分鐘定位你的短板和進階路徑
+- Duplicate entry (2x): 2026-04-08-2026年，一人公司最完整的系統打法｜保母級5步法
+- Duplicate entry (2x): 2026-04-08-別搞聊天框了！AI落地的生死劫，全藏在毫無性感的「規則引擎」裡
+- Duplicate entry (2x): 2026-04-08-別盯著老業務扣成本了！用AI做新事的成本，遠低於做老事
+- Duplicate entry (2x): 2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己
+- Duplicate entry (2x): 2026-04-08-扎根數字，向上生長：零售企業的長期主義轉型
+- Duplicate entry (2x): 2026-04-08-美團的真正威脅藏在暗處
+- Duplicate entry (2x): 2026-04-08-防挖角，蘋果給設計師發高額獎金／曝Claude最強新模型代號「卡皮巴拉」／小鵬
+- Duplicate entry (2x): 2026-04-08-阿里電商 AI 新動向：圍繞 Token 重構電商
+- Duplicate entry (2x): 2026-04-08-養龍蝦有風險，還有靠譜的AI員工嗎
+- Duplicate entry (2x): 2026-04-09-PM平衡：內容審核的「不可能三角」
+- Duplicate entry (2x): 2026-04-09-對話前阿里高管、天貓設計家CEO：這些年燒掉千億，家裝行業還能怎麼做？
+- Duplicate entry (2x): 2026-04-10-AI越強，PM越不夠用！下一個最搶手的人才「產品工程師」是什麼？
+- Duplicate entry (2x): 2026-04-10-Claude Managed Agents顛覆SaaS：從賣算力到租數位勞動力
+- Duplicate entry (2x): 2026-04-10-「全員AI」是AI轉型失敗的開始？華頓商學院教授：2種協作模式，才能真正釋放生
+- Duplicate entry (2x): 2026-04-10-不想捲了，就去做自己擅長的事吧
+- Duplicate entry (2x): 2026-04-10-出生率降了，營收反增30億，母嬰零售巨頭孩子王來講AI落地了
+- Duplicate entry (2x): 2026-04-10-團隊各做各的、方向不一致？創辦人得先找到自己的「為什麼」
+- Duplicate entry (2x): 2026-04-10-從「找工作」到「選職涯」：企業吸引力的競爭規則，正在被Z世代改寫
+- Duplicate entry (2x): 2026-04-10-為何外面的人才看起來更優秀？不是現有員工不夠好，是你的大腦在騙你
+- Duplicate entry (2x): 2026-04-10-用「黃金三法則」見了三次，他看穿這位新創執行長遲早出事
+- Duplicate entry (2x): 2026-04-10-老一輩的經驗，對年輕人是危險的
+- Duplicate entry (2x): 2026-04-10-臺中國家歌劇院藝術總監邱瑗的「文化CEO」治理思維
+- Duplicate entry (2x): 2026-04-11-Anthropic收入憑什麼反超OpenAI，終於有人把這事說清楚了
+- Duplicate entry (2x): 2026-04-12-2026年AI產品商業化核心邏輯從功能到規模營收的三個卡點
+- Duplicate entry (2x): 2026-04-12-京東圍繞供應鏈下場的那些事
+- Duplicate entry (2x): 2026-04-12-从日本翻身看：这次谁能扛住高油价？
+- Duplicate entry (2x): 2026-04-12-公司如何擁抱 AI 時代，這是一道組織題
+- Duplicate entry (2x): 2026-04-13-創業老炮與00後，誰是下一代「一人公司」標準樣板
+- Duplicate entry (2x): 2026-04-13-從大廠總監到創業3年，我把一人公司跑通了，方法都在這篇萬字長文裡
+- Duplicate entry (2x): 2026-04-15-AI 時代的老闆糊弄學
+- Duplicate entry (2x): 2026-04-15-BCG頂尖顧問的AI私房用法：「來挑戰我」！這2種角色，讓思考大幅升級
+- Duplicate entry (2x): 2026-04-15-OKR死於2026
+- Duplicate entry (2x): 2026-04-15-TVBS要賣給誰辜仲諒友人否認真正想買的人是媒體百億元競購戰開打
+- Duplicate entry (2x): 2026-04-15-《明末》團隊解散背後：國產單機究竟還缺什麼？
+- Duplicate entry (2x): 2026-04-15-台灣碳費是偽命題？制度建置能力才是核心
+- Duplicate entry (2x): 2026-04-15-富二代公司正在陰養死士
+- Duplicate entry (2x): 2026-04-15-科技業今年已裁掉8萬人！2026企業續演換血潮，「邊裁邊招」成新常態
+- Duplicate entry (2x): 2026-04-15-觀點公共服務設計不只是優化介面！以人生為單位，重構有感的行政流程
+- Duplicate entry (2x): 2026-04-15-觀點｜公共服務設計不只是優化介面！以人生為單位，重構「有感的」行政流程
+- Duplicate entry (2x): 2026-04-16-「蒸餾」這個詞，純粹就是在製造恐慌
+- Duplicate entry (2x): 2026-04-16-如何高效復盤？
+- Duplicate entry (2x): 2026-04-16-拜託別人也有黃金時段揭密上班族最沒防備的時間點下午2點
+- Duplicate entry (2x): 2026-04-16-矽谷工程師狂燒上兆 Token 是高效率的表現，還是昂貴的作秀？
+- Duplicate entry (2x): 2026-04-17-微軟新工作未來報告：六條反常識發現，承認自己用AI反而不被信任
+- Duplicate entry (2x): 2026-04-17-招商的尽头是三观一致
+- Duplicate entry (2x): 2026-04-17-未来的公司将变成一种新物种一半媒体一半机器
+- Duplicate entry (2x): 2026-04-17-重新理解企業的內部協作
+- Duplicate entry (2x): 2026-04-18-2026年之後，真的會出現大規模的失業嗎？
+- Duplicate entry (2x): 2026-04-18-人是第一要素，我認為這還遠遠不夠
+- Duplicate entry (2x): 2026-04-18-公司中層可能即將消失
+- Duplicate entry (2x): 2026-04-18-從電力到智力：拆解AI重塑商業效率
+- Duplicate entry (2x): 2026-04-19-AI新創的十二個月窗口期
+- Duplicate entry (2x): 2026-04-20-NGOs環境會議未達共識就扼殺遊蕩犬建言？
+- Duplicate entry (2x): 2026-04-20-動物用人藥新制將上路 藥廠登錄意願低恐釀紛爭 引獸醫飼主憂
+- Duplicate entry (2x): 2026-04-20-動物用藥新制宣告註銷 再提管理辦法草案時間未定
+- Duplicate entry (2x): 2026-04-20-動物用藥新制紛爭多 農業部拍板延後上路時間
+- Duplicate entry (2x): 2026-04-21-判断一个地方值不值得待，就看这3件事
+- Duplicate entry (2x): 2026-04-21-多地支持老年人再就业，会抢年轻人饭碗吗？
+- Duplicate entry (2x): 2026-04-23-AI Agent評估體系到底該怎麼做
+- Duplicate entry (2x): 2026-04-23-美國百年太妃糖品牌Roca樂家被全資收購
+- Duplicate entry (2x): 2026-04-24-AI收入破億後的路徑選擇：微盟推行AI First戰略與B端交付的挑戰
+- Duplicate entry (2x): 2026-04-24-AI時代最大的紅利，藏在那些「老登」看不懂的地方
+- Duplicate entry (2x): 2026-04-24-DeepSeek V4終於發布，但它留下的5道主觀題還沒有答案
+- Duplicate entry (2x): 2026-04-24-一人公司，如何活過「一人」？
+- Duplicate entry (2x): 2026-04-25-Cohere為何合併Aleph Alpha，打造跨大西洋AI主權強權
+- Duplicate entry (2x): 2026-04-25-增速降至2.5%背后：MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-04-25-字节跳动：净利润下滑的三层原因
+- Duplicate entry (2x): 2026-04-27-10年了，李彥宏還沒有成為AI開發者的King
+- Duplicate entry (2x): 2026-04-27-最強大模型，保質期越來越短了
+- Duplicate entry (2x): 2026-04-28-AI時代的產品經理應該是怎樣的？
+- Duplicate entry (2x): 2026-04-28-使用AI成硬指標，大廠打工人被AI「困住」
+- Duplicate entry (2x): 2026-04-28-微软是如何穿越30年周期的
+- Duplicate entry (2x): 2026-04-28-李善友：总市值再破5万亿美元，英伟达为什么总能跨越鸿沟？
+- Duplicate entry (2x): 2026-04-28-美女同事入职：面试是仙女，现在是野人
+- Duplicate entry (2x): 2026-04-28-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-04-28-逃不开的经济周期，以及对未来的5个建议
+- Duplicate entry (2x): 2026-04-28-都说要学AI，但3种人，3种学法
+- Duplicate entry (2x): 2026-04-28-重AI+轻IP+做自己，2026年普通人低成本做一人公司的最佳方案
+- Duplicate entry (2x): 2026-04-29-Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣
+- Duplicate entry (2x): 2026-04-29-功能開發已壓縮到「日更」，PM的價值錨點在哪裡？
+- Duplicate entry (2x): 2026-04-29-哈囉不太順風的十週年
+- Duplicate entry (2x): 2026-04-29-拒絕研發浪費：4P+2模型的決策邏輯，不看可惜了
+- Duplicate entry (2x): 2026-04-30-一个笨拙的人，在大厂生存的1480天
+- Duplicate entry (2x): 2026-04-30-企業爭奪「好用的人」：2026年，用人邏輯已經變天了
+- Duplicate entry (2x): 2026-04-30-创业第8年，刀法走的每一步，都是人群战略
+- Duplicate entry (2x): 2026-04-30-反腐新规发布：你以为的人情世故，以后可能是刑事犯罪
+- Duplicate entry (2x): 2026-04-30-告别知识带货 东方甄选的“线上山姆”梦
+- Duplicate entry (2x): 2026-04-30-品牌拿着旧地图，去不了新大陆
+- Duplicate entry (2x): 2026-04-30-商业洞察｜奢侈品巨头直谈危机，密集的股东大会释放了哪些信号？
+- Duplicate entry (2x): 2026-04-30-商业洞察｜户外运动赛道集体换帅：红利退潮，专业为王？
+- Duplicate entry (2x): 2026-04-30-年销2.65亿，毛利率超6成，这个160年老字号闯关IPO
+- Duplicate entry (2x): 2026-04-30-杨斌：我为什么要提“AI次方变革”
+- Duplicate entry (2x): 2026-04-30-被3次監管警示函逼出的需求分析方法：我做金融合規多智能體審核的踩坑實錄
+- Duplicate entry (2x): 2026-04-30-青年发展型城市2.0：从「抢人」到「投资于人」
+- Duplicate entry (2x): 2026-05-01-2026—2027招投標AI化的時間表
+- Duplicate entry (2x): 2026-05-02-为什么说每一次五年规划，都是一次财富再分配的窗口期？
+- Duplicate entry (2x): 2026-05-04-MBTI × 職場靈魂牌對照｜INTP × 吊人牌
+- Duplicate entry (2x): 2026-05-04-MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-05-04-一个笨拙的人在大厂生存的1480天
+- Duplicate entry (2x): 2026-05-04-想解决“办公室政治”，要先“干掉”老板
+- Duplicate entry (2x): 2026-05-04-拉美电商三国演义
+- Duplicate entry (2x): 2026-05-04-越来越多90后，拒绝升职加薪
+- Duplicate entry (2x): 2026-05-04-首位全職AI執行長誕生：前編程神童讓AI管理千人公司
+- Duplicate entry (3x): 2026-05-05-不要急著解決問題
+- Duplicate entry (3x): 2026-05-06-AI Agent時代的產品未來
+- Duplicate entry (3x): 2026-05-06-Old Navy找來零售娛樂老將重振品牌轉型
+- Duplicate entry (3x): 2026-05-06-品牌部門如何從成本中心變成利潤引擎
+- Duplicate entry (3x): 2026-05-08-2026-Q1-人事變動盤點-上-震盪之際向掌舵者動刀
+- Duplicate entry (3x): 2026-05-09-YC合夥人AI原生公司應該怎麼搭建
+- Duplicate entry (3x): 2026-05-10-25家時尚巨頭0家回覆為何品牌集體失聲
+- Duplicate entry (3x): 2026-05-10-AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上
+- Duplicate entry (3x): 2026-05-10-AI消滅不了科層制扁平化遠非公司神藥
+- Duplicate entry (3x): 2026-05-10-AI蔓延失控亞馬遜引以為傲的小團隊文化竟親手埋下資安地雷
+- Duplicate entry (3x): 2026-05-10-AI讓員工快10倍公司卻沒變強7個維度告訴你問題出在哪
+- Duplicate entry (3x): 2026-05-10-YC2026夏季投資清單出爐超過一半資金轉向硬科技AI已是底層基礎建設
+- Duplicate entry (3x): 2026-05-10-一年股價翻3倍陳立武重置英特爾為蘋果造美國芯
+- Duplicate entry (2x): 2026-05-10-不上班也能月入過萬自由職業的魅與祛魅
+- Duplicate entry (3x): 2026-05-10-不要急著解決問題
+- Duplicate entry (3x): 2026-05-10-做AI的年輕人被前司追債
+- Duplicate entry (3x): 2026-05-10-別做公司裡的點子大王
+- Duplicate entry (3x): 2026-05-10-告別增長時代醫藥重畫生死線
+- Duplicate entry (3x): 2026-05-10-年營收10億B2B占45鮮乳坊靠這套加價機制讓供應鏈願意跟你走
+- Duplicate entry (2x): 2026-05-10-廣度是門票深度是護城河在答案泛濫的時代學會提問
+- Duplicate entry (3x): 2026-05-10-從央視大樓到全球頂流他在華20多年親歷中國地標的變化
+- Duplicate entry (2x): 2026-05-10-打工人最新玄學痛吻offer大樓
+- Duplicate entry (3x): 2026-05-10-日本車企在中國正加速走向消亡
+- Duplicate entry (2x): 2026-05-10-李璞普通人如何實現財務自由
+- Duplicate entry (3x): 2026-05-10-梁文鋒留住97趴員工
+- Duplicate entry (2x): 2026-05-10-段永平過時了嗎
+- Duplicate entry (3x): 2026-05-10-深度復盤4種高頻品牌輿情該怎麼打
+- Duplicate entry (2x): 2026-05-10-營銷的底層邏輯
+- Duplicate entry (2x): 2026-05-10-社會資本地方平台的合作機制正變得越來越主流未來拼的是低干預高審美輕投入高回報
+- Duplicate entry (2x): 2026-05-10-第三篇長贏篇招商是起點運營才是護城河
+- Duplicate entry (3x): 2026-05-10-管理者要有被一眼看穿的能力
+- Duplicate entry (2x): 2026-05-10-聊聊作為生意的非標商業
+- Duplicate entry (2x): 2026-05-10-職場打工要學會一魚多吃
+- Duplicate entry (2x): 2026-05-10-自我發展模型我們這一生要經歷的心智階段都有哪些
+- Duplicate entry (2x): 2026-05-10-范凱說AI周日晚聊第18期AI是超級槓桿但你的支點在哪裡
+- Duplicate entry (2x): 2026-05-10-被AI搶走工作的人在忙什麼
+- Duplicate entry (2x): 2026-05-10-親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置
+- Duplicate entry (2x): 2026-05-10-非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是
+- Duplicate entry (2x): 2026-05-11-一場失敗的自救：我所經歷的真實的大廠
+- Duplicate entry (3x): 2026-05-11-反脆弱公司治理《精益創業》作者Eric Ries如何防止公司腐化
+- Duplicate entry (2x): 2026-05-11-職場上最大的謊言：努力就會被看見
+- Duplicate entry (3x): 2026-05-12-個人生產力暴增10倍，公司價值卻沒變：AI時代最昂貴的教訓
+- Duplicate entry (3x): 2026-05-13-Cursor CEO：AI 編程的下一個時代
+- Duplicate entry (2x): 2026-05-13-互聯網巨頭的用人帳
+- Duplicate entry (2x): 2026-05-13-需求優先級評估的六個實用方法
+- Duplicate entry (2x): 2026-05-14-AI時代會出現新的張一鳴嗎？
+- Duplicate entry (2x): 2026-05-14-全球職場報告：低敬業時代正在加速到來
+- Duplicate entry (2x): 2026-05-14-行銷人員AI使用率攀升但技術能力停滯
+- Duplicate entry (3x): 2026-05-17-肯德基也要被賣了？
+- Duplicate entry (3x): 2026-05-20-百萬台割草機器人背後：創辦人讓自己「變得不重要」
+- Duplicate entry (3x): 2026-05-23-AI進入產業前線未來最稀缺的AI人才是誰
+- Duplicate entry (3x): 2026-05-26-企業增長卡住，最先亂掉的往往是內部語言
+- Duplicate entry (3x): 2026-05-26-對話雲鯨CEO張峻彬：理解人性，告別天真
+- Duplicate entry (3x): 2026-05-26-未來10年供應鏈大洗牌：中國正在悄悄坐上全球總部的位置
+- Duplicate entry (3x): 2026-05-26-零售選址不是單點決策：把門市網絡當資本系統管理
+- Duplicate entry (3x): 2026-05-27-75%的企業轉型AI，都卡在了組織上
+- Duplicate entry (2x): 2026-05-27-lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍
+- Duplicate entry (2x): 2026-05-29-一個90後會計，如何用AI改造了一座67年的老工廠
+- Duplicate entry (2x): 2026-05-29-上萬人在「奧德賽」中找答案：頻繁離職，是我的問題嗎？
+- Duplicate entry (2x): 2026-05-29-便利店之父的哲學：研究人比人自己更深
+- Duplicate entry (3x): 2026-05-29-全網刷屏的韜定律，到底是什麼意思？
+- Duplicate entry (2x): 2026-05-29-從技術噱頭到業務原生，企業如何抓住智能體規模化紅利？
+- Duplicate entry (3x): 2026-05-29-更強大腦：AI時代的人類優勢（麥肯錫與世界經濟論壇聯合報告）
+- Duplicate entry (3x): 2026-05-29-李開復內部談話：今年15億訂單，2027年IPO｜獨家
+- Duplicate entry (2x): 2026-05-29-為什麼里程兌換機票越來越難了？
+- Duplicate entry (2x): 2026-05-30-一個行業正在被AI悄悄重寫
+- Duplicate entry (2x): 2026-05-30-不想結婚了，只想找人同居
+- Duplicate entry (2x): 2026-05-30-當AI成為你的同事，組織真的開始變了
+- Duplicate entry (3x): 2026-06-01-我陪17位企業家找到了價值200萬的問題
+- Duplicate entry (3x): 2026-06-01-讓老板高興正變成一種KPI
+
+### 行為決策.md
+- Duplicate entry (2x): 2026-03-27-林俊暘離職阿里首次發文：智能體時代正在到來
+- Duplicate entry (2x): 2026-03-29-別盯著 Vision Pro 了，智能眼鏡正在成為 AI Agent 的「終極
+- Duplicate entry (2x): 2026-03-30-AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言
+- Duplicate entry (2x): 2026-03-30-AI 會取代管顧嗎？從 BCG 顧問的 AI 工作流，看懂為何仍需要「人」
+- Duplicate entry (2x): 2026-03-30-三行之內必有解藥，一文讀懂當下的年輕人！
+- Duplicate entry (2x): 2026-03-30-吵完架別讓AI當「我是混蛋嗎？」裁判：史丹佛實測 11 款主流模型，比人類更會
+- Duplicate entry (2x): 2026-03-30-報告分享｜《2026 年輕人消費趨勢報告》
+- Duplicate entry (2x): 2026-03-31-Mistral AI募資8.3億美元在巴黎近郊建立資料中心
+- Duplicate entry (2x): 2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新
+- Duplicate entry (2x): 2026-04-01-小牛電動轉型AI：all in or nothing
+- Duplicate entry (2x): 2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相
+- Duplicate entry (2x): 2026-04-08-AI改不了這12條規律
+- Duplicate entry (2x): 2026-04-08-FOB上線｜你以為你在說事實，其實你在說偏見
+- Duplicate entry (2x): 2026-04-08-你越把這3件事當回事，別人越把你當回事
+- Duplicate entry (2x): 2026-04-08-創業者自述：我為什麼放棄做Web3支付？
+- Duplicate entry (2x): 2026-04-08-婚姻的底層真相：愛不愛的不重要，重要的是這3件事
+- Duplicate entry (2x): 2026-04-08-戒掉無效資訊，是給大腦減負的第一步
+- Duplicate entry (2x): 2026-04-08-撕碎日拱一卒的謊言：複雜系統裡，如何獲得真實的人生複利？
+- Duplicate entry (2x): 2026-04-08-每個人都需要的銷售思維
+- Duplicate entry (2x): 2026-04-08-海外市場高客單產品的用戶購物旅程洞察
+- Duplicate entry (2x): 2026-04-08-美以伊戰爭硝煙背後：石油美元體系走向崩塌了嗎？
+- Duplicate entry (2x): 2026-04-08-馮侖：人到中年，最重要的是別算這三筆帳
+- Duplicate entry (2x): 2026-04-10-吳軍：AI時代，普通人該有的10個清醒認知
+- Duplicate entry (2x): 2026-04-10-在當下，為什麼人人都覺得自己是受害者
+- Duplicate entry (2x): 2026-04-10-從「找工作」到「選職涯」：企業吸引力的競爭規則，正在被Z世代改寫
+- Duplicate entry (2x): 2026-04-10-情緒消費越火，普通產品越難賣
+- Duplicate entry (2x): 2026-04-10-情緒行銷才是品牌最強護城河
+- Duplicate entry (2x): 2026-04-10-比性缘脑更可怕的东西，出现了
+- Duplicate entry (2x): 2026-04-10-為何外面的人才看起來更優秀？不是現有員工不夠好，是你的大腦在騙你
+- Duplicate entry (2x): 2026-04-10-用「黃金三法則」見了三次，他看穿這位新創執行長遲早出事
+- Duplicate entry (2x): 2026-04-10-老一輩的經驗，對年輕人是危險的
+- Duplicate entry (2x): 2026-04-10-降價促銷失靈？當大眾尋求心靈滿足，「情緒行銷」才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-12-重新認識泡泡瑪特
+- Duplicate entry (2x): 2026-04-13-2026人群白皮書：錨定真實的人
+- Duplicate entry (2x): 2026-04-13-年輕人的消費決策路徑，變了！
+- Duplicate entry (2x): 2026-04-15-2026-2029預測：情緒消費將破4.5萬億，下一個風口在哪
+- Duplicate entry (2x): 2026-04-15-AI 時代的老闆糊弄學
+- Duplicate entry (2x): 2026-04-15-OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守
+- Duplicate entry (2x): 2026-04-15-「邪修」攢錢的年輕人，正在偷偷暴富
+- Duplicate entry (2x): 2026-04-15-名創優品和HARMAY話梅可能是一門生意
+- Duplicate entry (2x): 2026-04-15-富二代公司正在陰養死士
+- Duplicate entry (2x): 2026-04-16-「去班味」的年轻人，爆买踏青「硬通货」
+- Duplicate entry (2x): 2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢
+- Duplicate entry (2x): 2026-04-16-怎樣對抗心中那個「一念成魔」的時刻？
+- Duplicate entry (2x): 2026-04-16-拜託別人也有黃金時段揭密上班族最沒防備的時間點下午2點
+- Duplicate entry (2x): 2026-04-16-管理教父柯林斯：最危險的職涯是「擅長但不熱愛」
+- Duplicate entry (2x): 2026-04-17-中產夫妻AA制：機關算盡，已離婚
+- Duplicate entry (2x): 2026-04-18-2026年中國消費市場：前景展望樂觀
+- Duplicate entry (2x): 2026-04-18-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-19-万维钢：你不是老了才退出，而是退出后才变老
+- Duplicate entry (2x): 2026-04-19-冯仑：别太相信好人，也别急着远离坏人
+- Duplicate entry (2x): 2026-04-19-消費狂歡中，永不滿足的欲望究竟從何而來？
+- Duplicate entry (2x): 2026-04-20-Agent越像真的越危險
+- Duplicate entry (2x): 2026-04-20-NGOs環境會議未達共識就扼殺遊蕩犬建言？
+- Duplicate entry (2x): 2026-04-20-犬蹤地圖APP上線 邀公民回報助定位衝突熱區
+- Duplicate entry (2x): 2026-04-20-粗暴拖拉致失禁 楊梅訓犬中心陷虐犬爭議
+- Duplicate entry (2x): 2026-04-21-2026 市場行銷的底層邏輯變了
+- Duplicate entry (2x): 2026-04-21-一个过气APP，吃透已婚女人的钱包
+- Duplicate entry (2x): 2026-04-21-不確定時代裡，常常被忽略的一項重要能力
+- Duplicate entry (2x): 2026-04-21-你按下的那个“投诉”，正在毁掉一个陌生人的一天
+- Duplicate entry (2x): 2026-04-21-判断一个地方值不值得待，就看这3件事
+- Duplicate entry (2x): 2026-04-21-同样被AI冲击，为什么这39%的人不焦虑？
+- Duplicate entry (2x): 2026-04-21-為什麼追求「更好」，不會讓生活變好？
+- Duplicate entry (2x): 2026-04-23-GMO 傳奇預言家再次唱空：AI 救不了美股，現在行情和 2000 年一樣危險
+- Duplicate entry (2x): 2026-04-23-TikTok 信仰經濟再度燃爆！一款聖經周邊賣了近 700 萬
+- Duplicate entry (2x): 2026-04-23-今年最強嘴替，我自己搓出來的
+- Duplicate entry (2x): 2026-04-23-存量時代裂變為何越來越重要
+- Duplicate entry (2x): 2026-04-23-頭頂有神，心裡有帳——中國人的信仰經濟學
+- Duplicate entry (2x): 2026-04-27-大型行銷活動目標人群識別探索
+- Duplicate entry (2x): 2026-04-28-AI時代，我們更應該認識到「工具之外，事情本身」
+- Duplicate entry (2x): 2026-04-28-如何一個人驗證一個產品方向？
+- Duplicate entry (2x): 2026-04-28-我见过最会破坏关系的行为，5个字，很多人都做过
+- Duplicate entry (2x): 2026-04-28-这3种看似正常的表现，可能是抑郁的信号，千万别忽视
+- Duplicate entry (2x): 2026-04-29-拒絕研發浪費：4P+2模型的決策邏輯，不看可惜了
+- Duplicate entry (2x): 2026-04-29-沒人敢先停：AI囚徒困境如何困住大模型、巨頭和普通人
+- Duplicate entry (2x): 2026-04-30-一个笨拙的人，在大厂生存的1480天
+- Duplicate entry (2x): 2026-04-30-为什么很多捷径，最后都成了回头路？
+- Duplicate entry (2x): 2026-04-30-反腐新规发布：你以为的人情世故，以后可能是刑事犯罪
+- Duplicate entry (2x): 2026-04-30-大数据告诉你：大器晚成，才是人生常态
+- Duplicate entry (2x): 2026-04-30-突然发现：那些内心强大到可怕的人，都有这1个特征
+- Duplicate entry (2x): 2026-05-04-新消費品牌講故事不能只講初心還要講場景
+- Duplicate entry (3x): 2026-05-05-AI成為造假加速器時普通人靠什麼創業
+- Duplicate entry (3x): 2026-05-05-不要急著解決問題
+- Duplicate entry (2x): 2026-05-07-消費者向低價零售商轉移
+- Duplicate entry (3x): 2026-05-07-消費者正在轉向低價零售商
+- Duplicate entry (3x): 2026-05-07-消費者正在轉向低價零售商，報告顯示
+- Duplicate entry (3x): 2026-05-09-如何打造長紅產品讀懂這五個底層邏輯
+- Duplicate entry (3x): 2026-05-11-AI小店占領縣城，老板們賺到錢了嗎？
+- Duplicate entry (3x): 2026-05-13-買AI會員返貧的打工人
+- Duplicate entry (3x): 2026-05-14-北上廣00後女生，開始買男裝穿了
+- Duplicate entry (2x): 2026-05-14-情緒消費拼的不是賣點，而是生活洞察
+- Duplicate entry (2x): 2026-05-15-00後湧入景區當NPC在情緒價值裡淘金
+- Duplicate entry (2x): 2026-05-15-與陳嘉映閒聊越少關注自我自我就越舒展
+- Duplicate entry (3x): 2026-05-26-盡量去研究自媒體的規律，這就是人生規律
+- Duplicate entry (3x): 2026-05-28-為什麼大健康用戶越來越難成交？
+- Duplicate entry (2x): 2026-05-29-上萬人在「奧德賽」中找答案：頻繁離職，是我的問題嗎？
+- Duplicate entry (2x): 2026-05-29-從情緒物到情緒累：青年潮玩的消費實踐與情感斷連
+- Duplicate entry (3x): 2026-05-29-殺豬盤變殺鳥盤，坑慘已婚女
+- Duplicate entry (2x): 2026-05-29-萬億情緒經濟，情緒消費爆款的7個共同規律
+- Duplicate entry (3x): 2026-05-29-鈴木敏文逝世：他與7-Eleven的三個反常識故事
+- Duplicate entry (3x): 2026-06-01-3個心法送給職場反覆內耗的你
+- Duplicate entry (2x): 2026-06-01-從場人貨的角度我們聊聊到底什麼是新零售
+- Duplicate entry (2x): 2026-06-01-搞懂人性才能做好表達
+- Duplicate entry (2x): 2026-06-01-至少要對得起自己的時間吧
+
+### 行銷.md
+- Duplicate entry (2x): 2026-03-23-從 BTS、獵人到素還真，麥當勞如何用IP精準收服不同世代的「情緒價值」？
+- Duplicate entry (2x): 2026-03-23-訂位暴增303%！從《黑白大廚》看旅遊新趨勢：連飯店都帶房客去逛菜市場
+- Duplicate entry (2x): 2026-03-27-這家公司全用 AI 做內容 讀者跑光了
+- Duplicate entry (2x): 2026-03-29-Sora 關閉：AI 影片產業的現實考驗時刻
+- Duplicate entry (2x): 2026-03-29-一覺醒來，品牌又做了哪些好案例？（Vol.390 03.15-03.21）
+- Duplicate entry (2x): 2026-03-29-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-03-29-從虧損 40 億到獲利翻 6 倍！亞瑟士如何靠「減法戰略」逆轉勝？3 大關鍵策
+- Duplicate entry (2x): 2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-03-29-蕉內最具「活人感」文案，不是自己寫的
+- Duplicate entry (2x): 2026-03-29-都市辣妹品牌TR她熱，文案也很帶感
+- Duplicate entry (2x): 2026-03-30-2026 行銷革命：知識庫+智能體=品牌增長新引擎
+- Duplicate entry (2x): 2026-03-30-95 億人次背後：2026 春節文旅市場全景洞察
+- Duplicate entry (2x): 2026-03-30-AI Grounding 是什麼？SEO 新趨勢：讓 AI 成為品牌的最強發言
+- Duplicate entry (2x): 2026-03-30-SK-II、CELINE、麥當勞：2026 品牌行銷新風向搶先看
+- Duplicate entry (2x): 2026-03-30-三行之內必有解藥，一文讀懂當下的年輕人！
+- Duplicate entry (2x): 2026-03-30-從會員數據到 AI 行銷：Vpon 打造零售業 AI-Ready 數據中台，提
+- Duplicate entry (2x): 2026-03-30-復工第一週，15 位資深從業者 2026 爆款內容指南
+- Duplicate entry (2x): 2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友
+- Duplicate entry (2x): 2026-03-31-小紅書2025年經營趨勢回顧：心智占領與小生意時代
+- Duplicate entry (2x): 2026-03-31-都有AI了，數據分析該干什麼？這是最好的回答！
+- Duplicate entry (2x): 2026-04-01-供應鏈效率成零售業決勝點！AI 導購 0.1 秒成交，智慧倉儲如何解決出貨慢痛
+- Duplicate entry (2x): 2026-04-01-原型做出來了，但你還是不知道自己在做什麼
+- Duplicate entry (2x): 2026-04-02-流量導向的內容無法完成獲客閉環
+- Duplicate entry (2x): 2026-04-03-Anthropic以4億美元收購生技新創Coefficient Bio
+- Duplicate entry (2x): 2026-04-03-神州數碼2025年營收超1400億AI業務增長近五成
+- Duplicate entry (2x): 2026-04-04-在「人人都在聊Agent」的時代，如何搭建你的第一個自動化閉環？
+- Duplicate entry (2x): 2026-04-05-「上線產品就能找到工作」這個謊言害了多少轉行的人
+- Duplicate entry (2x): 2026-04-05-一篇講透小紅書閉環電商的5種常見策略打法
+- Duplicate entry (2x): 2026-04-06-Picsart 推出創作者變現計劃，讓設計師從作品中獲利
+- Duplicate entry (2x): 2026-04-07-過去十多年，我們對企業新媒體的認知錯了，錯得離譜
+- Duplicate entry (2x): 2026-04-08-2025-2026中國吃喝玩樂消費洞察：情緒金字塔重構，品牌如何借梯媒全域破局
+- Duplicate entry (2x): 2026-04-08-2026年，一人公司最完整的系統打法｜保母級5步法
+- Duplicate entry (2x): 2026-04-08-AI Agent 如何重新定義行銷？我現在知道：多花一塊錢能帶來多少營收增長！
+- Duplicate entry (2x): 2026-04-08-CNY品牌行銷全攻略：四大場景品廣投放策略與案例分享
+- Duplicate entry (2x): 2026-04-08-GEO已死，AEO是答案
+- Duplicate entry (2x): 2026-04-08-《春天，即興出演》AIGC視頻上線｜把每一場臨時起意，變成品牌生長的契機
+- Duplicate entry (2x): 2026-04-08-一手評測｜Pomelli 開放台灣使用！怎麼用它做行銷創意素材？「產品攝影棚」
+- Duplicate entry (2x): 2026-04-08-三天養蝦十倍增長，剛出爐的養蝦經驗｜計算機歷史博物館
+- Duplicate entry (2x): 2026-04-08-半年賺了14億，曾經「打骨折」的中產品牌，憑什麼讓中國女人回頭瘋搶？
+- Duplicate entry (2x): 2026-04-08-品牌種草新思路：看這些品牌如何打造有量有質的種草新範式
+- Duplicate entry (2x): 2026-04-08-婦女一直在工作，網友奈雪的茶新文案鲨瘋了！
+- Duplicate entry (2x): 2026-04-08-專訪群玉山＆愛慕：當內衣開始「上封面」，成熟品牌如何開辟第二增長曲線？
+- Duplicate entry (2x): 2026-04-08-小紅書 CNY 新品組合裂變玩法，助力新春營銷
+- Duplicate entry (2x): 2026-04-08-年輕人最新的抖音「晒學」，全都是活人感
+- Duplicate entry (2x): 2026-04-08-把趨勢上新玩成「古宅尋新」，天貓超級品類日這次給到夯！
+- Duplicate entry (2x): 2026-04-08-抽象力、活人感、AI 人格……小紅書 10 大熱詞裡，藏著品牌機會
+- Duplicate entry (2x): 2026-04-08-普通人敘事：品牌的新信任貨幣
+- Duplicate entry (2x): 2026-04-08-每個人都需要的銷售思維
+- Duplicate entry (2x): 2026-04-08-流量可以買，年輕人的默契只有B站給得了
+- Duplicate entry (2x): 2026-04-08-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園
+- Duplicate entry (2x): 2026-04-08-茉莉奶白，小票行銷天花板！
+- Duplicate entry (2x): 2026-04-08-蕉內最具活人感文案，不是自己寫的
+- Duplicate entry (2x): 2026-04-08-電商品牌如何做好內容行銷（萬字）
+- Duplicate entry (2x): 2026-04-08-麥當勞市場部，來了一位天才
+- Duplicate entry (2x): 2026-04-09-Canva加碼AI與行銷自動化：收購Simtheory與Ortto
+- Duplicate entry (2x): 2026-04-09-GEO：AI搜索時代的內容「排名」新規
+- Duplicate entry (2x): 2026-04-10-2026年GEO优化入门手册：AI搜索时代你的内容为什么没被引用
+- Duplicate entry (2x): 2026-04-10-AI 這麼熱，行銷公司能做些什麼
+- Duplicate entry (2x): 2026-04-10-一邊「被罵」，一邊「賣爆」，Tagi.到底押中了什麼？
+- Duplicate entry (2x): 2026-04-10-三廚狂喜：瑞幸又把聯名檔位拉高了
+- Duplicate entry (2x): 2026-04-10-出生率降了，營收反增30億，母嬰零售巨頭孩子王來講AI落地了
+- Duplicate entry (2x): 2026-04-10-名創、衛龍「商業互捧」，代言人「時代少年團」負全責哈哈哈！
+- Duplicate entry (2x): 2026-04-10-品星雲AI能力全面進階，讓品牌行銷回歸本質
+- Duplicate entry (2x): 2026-04-10-小红书精准洞察，助力天猫细分品类长效破局
+- Duplicate entry (2x): 2026-04-10-從來沒有「創始人IP」成就偉大公司，只有偉大的公司成就IP
+- Duplicate entry (2x): 2026-04-10-情緒行銷才是品牌最強護城河
+- Duplicate entry (2x): 2026-04-10-我們正在跑步進入電商下半場
+- Duplicate entry (2x): 2026-04-10-找不到差異化？90%的失敗卡在競爭分類第一步
+- Duplicate entry (2x): 2026-04-10-毛戈平的「体验式上新」，打开美妆上新新思路
+- Duplicate entry (2x): 2026-04-10-流量孤島時代，為什麼你的企業依然需要一個官網？
+- Duplicate entry (2x): 2026-04-10-美妝香水，「躺贏」模式已經過時！科蒂中國高端美妝總經理論壇分享
+- Duplicate entry (2x): 2026-04-10-被無印良品最新文案震撼到了！網友：至此，藝術已成
+- Duplicate entry (2x): 2026-04-10-降價促銷失靈？當大眾尋求心靈滿足，「情緒行銷」才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-11-和幾位小紅書操盤手聊了8小時，乾貨全在這
+- Duplicate entry (2x): 2026-04-11-手把手教你用Claude Code搭建AI行銷團隊：五個Agent、十二項技能
+- Duplicate entry (2x): 2026-04-12-2026 年，商家如何靠品質在淘寶直播找回確定性增長？
+- Duplicate entry (2x): 2026-04-12-內容即流量的今天，如何寫出好文章？
+- Duplicate entry (2x): 2026-04-12-會說遠比會做更重要SBTI爆火現象的五層觀察
+- Duplicate entry (2x): 2026-04-12-為什麼說電商消費需要一場品質審美
+- Duplicate entry (2x): 2026-04-12-讓勞動者自己說話，才是真活人感！
+- Duplicate entry (2x): 2026-04-12-零代碼一天我用Vibe Coding做了一個網站
+- Duplicate entry (2x): 2026-04-13-2026五大AI經營趨勢：洞察品牌的長效增長路徑｜貝恩鄧旻演講精要
+- Duplicate entry (2x): 2026-04-13-2026春日行銷真相：限定款捲不動，敘事是出圈密碼
+- Duplicate entry (2x): 2026-04-13-2026體育超級大年，天貓運動戶外為品牌造了一個「新主場」
+- Duplicate entry (2x): 2026-04-13-一張包裝紙，成了Kiri的最佳廣告位
+- Duplicate entry (2x): 2026-04-13-年輕人的消費決策路徑，變了！
+- Duplicate entry (2x): 2026-04-13-新消費最殘酷的真相：大多數品牌從一開始就沒機會
+- Duplicate entry (2x): 2026-04-13-木鳥、途家、美團對打，平台春天行動開「卷」
+- Duplicate entry (2x): 2026-04-13-正式發布！2026中國社交媒體行銷趨勢報告：生態分化時代，品牌如何協同破局？
+- Duplicate entry (2x): 2026-04-13-裝睡的品牌，正在被年輕人集體拋棄
+- Duplicate entry (2x): 2026-04-15-2026小紅書十大熱詞：讀懂年輕人的情緒與消費密碼
+- Duplicate entry (2x): 2026-04-15-Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長
+- Duplicate entry (2x): 2026-04-15-一文彻底講透，情緒消費爆發的底層邏輯
+- Duplicate entry (2x): 2026-04-15-從創意到運營，AI正從5方面「吃掉」廣告業
+- Duplicate entry (2x): 2026-04-15-瑞幸、凱娜克紛紛插旗台灣，全家、路易莎為何老神在在？
+- Duplicate entry (2x): 2026-04-16-《中國小朋友》出續篇，這次靠什麼打動人？
+- Duplicate entry (2x): 2026-04-16-一条创始人徐沪生：如何快速启动个人IP
+- Duplicate entry (2x): 2026-04-16-从卖房晚到品牌引领，华住中高端品牌正在给行业打一个样
+- Duplicate entry (2x): 2026-04-16-假如，你要做一本品牌手册
+- Duplicate entry (2x): 2026-04-16-增長突然停了，大概率不是流量問題
+- Duplicate entry (2x): 2026-04-16-小紅書「新朋友營地」落地三亞，海邊新品發佈有了新樣本
+- Duplicate entry (2x): 2026-04-16-民间鬼才爆改slogan淘宝汗流浃背了
+- Duplicate entry (2x): 2026-04-16-用網友杯貼做圍擋，喜茶市場部美商極高！
+- Duplicate entry (2x): 2026-04-16-笑不活了！農夫山泉把離職的產品經理逼出來了
+- Duplicate entry (2x): 2026-04-16-關於小紅書，我真希望有人早告訴我這些
+- Duplicate entry (2x): 2026-04-17-2026穿山甲開發者夥伴交流會：提升APP經營能力，做開發者全生命週期的增長合
+- Duplicate entry (2x): 2026-04-17-「海外版TOPTALK」釋放最強信號，速賣通憑什麼成為品牌出海新主場？
+- Duplicate entry (2x): 2026-04-17-三人團隊AI Agent廣告平台20個月ARR破億
+- Duplicate entry (2x): 2026-04-17-专访大事件：用内容替代广告、用达人替代媒介
+- Duplicate entry (2x): 2026-04-17-活動行銷又回來了！線下Event成最高效獲客渠道
+- Duplicate entry (2x): 2026-04-17-淘寶第一文案「步履不停」，又出神作了
+- Duplicate entry (2x): 2026-04-17-致中女：在任何年齡去做這1件事
+- Duplicate entry (2x): 2026-04-17-行銷污名化久矣，但0人在意
+- Duplicate entry (2x): 2026-04-18-你們戶外廣告，真的沒有創作瓶頸嗎？
+- Duplicate entry (2x): 2026-04-18-玫瑰空調我不屑一顧，小貓空調我將全款購入！
+- Duplicate entry (2x): 2026-04-19-2026年入局小紅書閉環電商，先讀這篇
+- Duplicate entry (2x): 2026-04-19-一张包装纸，成了Kiri的最佳广告位
+- Duplicate entry (2x): 2026-04-19-万亿情绪经济来了：哪些行业正在被重构？
+- Duplicate entry (2x): 2026-04-20-小紅書博主合作Brief撰寫指南第三期
+- Duplicate entry (2x): 2026-04-20-艾梵達押注微酵護發雅詩蘭黛集團加碼高端護發賽道
+- Duplicate entry (2x): 2026-04-21-2026 市場行銷的底層邏輯變了
+- Duplicate entry (2x): 2026-04-21-GEO 內容創作的五個結構化技巧——只改格式，AI 引用率翻倍
+- Duplicate entry (2x): 2026-04-21-品牌新品癫活大赏：听说你还在搞什么原创？
+- Duplicate entry (2x): 2026-04-21-戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
+- Duplicate entry (2x): 2026-04-21-為什麼這一次，品牌不願錯過《穿普拉達的女王2》
+- Duplicate entry (2x): 2026-04-23-TikTok 信仰經濟再度燃爆！一款聖經周邊賣了近 700 萬
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯
+- Duplicate entry (2x): 2026-04-23-不去商場了？馬吉拉和UGG在成都的2種聚會邏輯。
+- Duplicate entry (2x): 2026-04-23-如何從AI工具中挖掘商機
+- Duplicate entry (2x): 2026-04-23-存量時代裂變為何越來越重要
+- Duplicate entry (2x): 2026-04-23-現在的男女，不願再為低品質感情買單
+- Duplicate entry (2x): 2026-04-23-給所有小紅書品牌商家潑盆冷水
+- Duplicate entry (2x): 2026-04-24-AI時代，品牌的分水嶺是「內容品牌化」
+- Duplicate entry (2x): 2026-04-24-用「活人感」做科技社區，小紅書能成嗎？
+- Duplicate entry (2x): 2026-04-25-上線三月攬下400萬下載，這支北京團隊踩中海外AI社交缺口
+- Duplicate entry (2x): 2026-04-25-當中型餐飲的擴張焦慮，遇上小紅書的本地生活野心
+- Duplicate entry (2x): 2026-04-26-小紅書經營實錄：50條價值百萬的實戰心得
+- Duplicate entry (2x): 2026-04-26-歐萊雅BRANDSTORM 2026中國總決賽落幕，AI成美妝創新核心議題
+- Duplicate entry (2x): 2026-04-27-大型行銷活動目標人群識別探索
+- Duplicate entry (2x): 2026-04-27-我已經不太推薦大家去小紅書開店賣貨了
+- Duplicate entry (2x): 2026-04-28-Snapchat推出AI驅動的對話式廣告功能
+- Duplicate entry (2x): 2026-04-28-和京东聊完，我看见了做新品的新思路
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理主張上線，保護的是誰？
+- Duplicate entry (2x): 2026-04-28-小紅書AI治理的本質：不是「禁用」，而是「重劃賽道」
+- Duplicate entry (2x): 2026-04-28-工作文件全公开，马吉拉这次不装了？
+- Duplicate entry (2x): 2026-04-28-年轻人为兴趣上头？背后都藏着情绪密码
+- Duplicate entry (2x): 2026-04-28-当注意力稀缺，品牌营销靠什么突围？
+- Duplicate entry (2x): 2026-04-28-我们的品牌为啥缺少娱乐精神
+- Duplicate entry (2x): 2026-04-28-把退货率从26%压到15%，但我却把公司省垮了
+- Duplicate entry (2x): 2026-04-28-排队15000+的饺子馆做了个Skill，却带来了AI时代的营销新思路
+- Duplicate entry (2x): 2026-04-28-流量的下一关：AI推过来的用户，你的落地页准备好了吗？
+- Duplicate entry (2x): 2026-04-28-独家：《逐玉》认养一头牛出圈幕后
+- Duplicate entry (2x): 2026-04-28-祈福经济：好运是怎么变成生意的？
+- Duplicate entry (2x): 2026-04-28-行为设计，本质就是情绪设计，真正改变人的，从来不是道理
+- Duplicate entry (2x): 2026-04-28-让珠宝拥抱阳光和大海，90岁的FRED斐登为何更年轻了？
+- Duplicate entry (2x): 2026-04-28-货架电商做直播带货，是优势还是劣势？
+- Duplicate entry (2x): 2026-04-28-跨山越水，连接价值——明略科技《2026户外出行广告价值洞察（下）城际跨越》发
+- Duplicate entry (2x): 2026-04-28-降價促銷失靈？當大眾尋求心靈满足，情绪行銷才是品牌最強護城河！
+- Duplicate entry (2x): 2026-04-28-龙杰：风从东方来，文旅出海图景与实践分享
+- Duplicate entry (2x): 2026-04-29-90後小鎮女孩離開教培大廠，三年創造2億GMV的倔強人生
+- Duplicate entry (2x): 2026-04-29-前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CM
+- Duplicate entry (2x): 2026-04-30-618前夕，快手电商亮出了它的“全域复利”公式
+- Duplicate entry (2x): 2026-04-30-品牌人以群分时代，先要看懂人群宇宙
+- Duplicate entry (2x): 2026-04-30-头部视频播客一档难求，高端美奢品牌在B站抢什么？
+- Duplicate entry (2x): 2026-04-30-直播带货这场梦，很多工厂白牌该醒了
+- Duplicate entry (2x): 2026-05-01-2026 個人品牌網站賺錢攻略我用秒站自媒體變現 130 萬實戰心得 - 亨利
+- Duplicate entry (2x): 2026-05-01-借航天展推「反向技術輸出」，自然堂試煉敘事資源轉化的產品力
+- Duplicate entry (2x): 2026-05-02-IP联名进入造场营销时代巧乐兹把哈利波特做成了快乐魔法地图
+- Duplicate entry (2x): 2026-05-02-为什么你越拼命学技巧，自媒体越赚不到钱？？？
+- Duplicate entry (2x): 2026-05-02-新消费品牌增长，不要只会做内容，要设计产品接触点
+- Duplicate entry (2x): 2026-05-02-高客单产品让用户犹豫的，往往不是价格本身
+- Duplicate entry (2x): 2026-05-02-麦当劳贴脸唱反调，汉堡王：好歹毒的商战！
+- Duplicate entry (2x): 2026-05-03-LangChain團隊用AI Agent做銷售和行銷的最佳實踐
+- Duplicate entry (2x): 2026-05-03-一篇講透：小紅書電商選品全鏈路
+- Duplicate entry (2x): 2026-05-04-MCN行业的大退潮与新物种崛起
+- Duplicate entry (2x): 2026-05-04-“乐园化+剧场化”，购物中心的下一站内容战争
+- Duplicate entry (2x): 2026-05-04-一个人公司 OPC 必备的 36 个营销 Skill_v2
+- Duplicate entry (2x): 2026-05-04-奢侈品牌集体开通分期免息
+- Duplicate entry (2x): 2026-05-04-宠物食品行业的品牌化代价
+- Duplicate entry (2x): 2026-05-04-拉美人兜里的1.47万亿元，被中国老板惦记上了
+- Duplicate entry (3x): 2026-05-04-新消費品牌講故事不能只講初心還要講場景
+- Duplicate entry (2x): 2026-05-04-杭州萬象城的香氛節，不只是把香水搬到街區
+- Duplicate entry (2x): 2026-05-04-浅聊一下 2026 的营销风向，顺便划个重点
+- Duplicate entry (3x): 2026-05-04-香氛品牌的困局與破局
+- Duplicate entry (2x): 2026-05-04-香水气味测试营销分析
+- Duplicate entry (2x): 2026-05-04-香水氣味測試營銷分析
+- Duplicate entry (2x): 2026-05-06-Old Navy引進零售娛樂老將重振品牌
+- Duplicate entry (3x): 2026-05-06-Old Navy找來零售娛樂老將重振品牌轉型
+- Duplicate entry (2x): 2026-05-06-行銷人在AI時代如何保持人性
+- Duplicate entry (3x): 2026-05-06-行銷人如何在Possible大會調適AI時代的人性張力
+- Duplicate entry (3x): 2026-05-07-對話孫來春：年入25億的林清軒不想做中國歐萊雅
+- Duplicate entry (3x): 2026-05-10-AI實現廣告大片自由一句話的事和一杯咖啡的價格
+- Duplicate entry (3x): 2026-05-10-AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上
+- Duplicate entry (3x): 2026-05-10-一圖概覽母嬰寵物行業618大促全景攻略育見增長共創新機
+- Duplicate entry (3x): 2026-05-10-五一出行消費觀察火爆數據下哪些才是真實風口
+- Duplicate entry (3x): 2026-05-10-價值觀IP正在吃掉知識IP營銷的盡頭不是賣貨是表態
+- Duplicate entry (3x): 2026-05-10-從路過到停留街區商業如何擴大地盤
+- Duplicate entry (3x): 2026-05-10-情緒主場心動即行動2026巨量引擎食飲行業星圖大會精彩回顧
+- Duplicate entry (3x): 2026-05-10-所有品牌都應清晰認知自身的美學定位
+- Duplicate entry (3x): 2026-05-10-深度復盤4種高頻品牌輿情該怎麼打
+- Duplicate entry (3x): 2026-05-10-為什麼這幾條街靠情緒價值場景營造年收上億元
+- Duplicate entry (3x): 2026-05-10-營銷的底層邏輯
+- Duplicate entry (2x): 2026-05-10-第三空間的沉浸重構從打卡到駐留的五重轉向
+- Duplicate entry (2x): 2026-05-10-第二篇破局篇填鋪式招商已死2026破局就靠這三招
+- Duplicate entry (3x): 2026-05-10-線下活動如何承載我們對公共生活的想象
+- Duplicate entry (3x): 2026-05-10-花卉美陳的櫥窗效應治癒型視覺美感沉浸營造與空間情感共鳴設計
+- Duplicate entry (2x): 2026-05-10-菜市場救不了書店
+- Duplicate entry (2x): 2026-05-10-非標商業不是孵化器而是試紙
+- Duplicate entry (2x): 2026-05-10-高端商場的進化從無用消費開始突圍了
+- Duplicate entry (3x): 2026-05-11-El Pollo Loco 以利潤、行銷與菜單動能持續領跑
+- Duplicate entry (2x): 2026-05-11-新消費企業做新品，不能只看品類空白，還要看情緒空白
+- Duplicate entry (3x): 2026-05-11-營銷不是到處發力，是讓用戶反覆聽懂同一件事
+- Duplicate entry (3x): 2026-05-11-行銷人員在零點擊搜尋衝擊下優化GEO策略
+- Duplicate entry (3x): 2026-05-11-零點擊搜尋時代行銷人如何優化GEO策略
+- Duplicate entry (3x): 2026-05-12-OpenAI讓在ChatGPT投放購物廣告變得更容易
+- Duplicate entry (2x): 2026-05-14-2026年香氛報告：關鍵趨勢，品牌和香氣
+- Duplicate entry (3x): 2026-05-14-8集超7.5億播放，《ENEMY》給短劇圈又上了一課
+- Duplicate entry (2x): 2026-05-14-lululemon的流量密碼，終於藏不住了
+- Duplicate entry (2x): 2026-05-14-北上廣00後女生，開始買男裝穿了
+- Duplicate entry (3x): 2026-05-14-吃香將成為中國香氛市場的未來趨勢
+- Duplicate entry (2x): 2026-05-14-品牌和廣告人都在養的賽博員工，一句話出片有多神！
+- Duplicate entry (3x): 2026-05-14-小紅書強推直客體系三年後
+- Duplicate entry (3x): 2026-05-14-情緒消費拼的不是賣點，而是生活洞察
+- Duplicate entry (3x): 2026-05-14-為什麼你做的AI工具沒人買單？放棄宏大敘事，去社會的「神經末梢」撿錢
+- Duplicate entry (3x): 2026-05-14-當海外品牌生意進入精耕時代，618該怎麼找增長的確定性
+- Duplicate entry (3x): 2026-05-14-行銷人員AI使用率攀升但技術能力停滯
+- Duplicate entry (3x): 2026-05-15-一句話百元預算百萬級廣告片這個等式我們親測成立了
+- Duplicate entry (3x): 2026-05-15-不販賣焦慮中女時代的錢都被誰賺走了
+- Duplicate entry (3x): 2026-05-16-未來的渠道，都是「特渠」
+- Duplicate entry (3x): 2026-05-17-俞浩到底想幹什麼？
+- Duplicate entry (3x): 2026-05-18-一句話+百元預算=百萬級廣告片，這個等式我們親測成立了
+- Duplicate entry (2x): 2026-05-18-下一輪個人IP的紅利，就是把你的體驗變成錢
+- Duplicate entry (3x): 2026-05-18-實際上，小紅書內容運營的正確框架是這樣的
+- Duplicate entry (3x): 2026-05-18-將社群滑動轉化為餐廳到訪
+- Duplicate entry (3x): 2026-05-18-新消費下半場，品牌最大的成本是解釋成本
+- Duplicate entry (2x): 2026-05-18-正式確診為 P 人！雀巢8次方的新包裝又雙叒叕對樂迷下手了
+- Duplicate entry (3x): 2026-05-18-零售媒體網絡的新規則
+- Duplicate entry (3x): 2026-05-18-零售新規則：零售媒體網絡成品牌必答題
+- Duplicate entry (3x): 2026-05-26-什麼時候開始，銷售這件事要通過做內容才能實現了？
+- Duplicate entry (3x): 2026-05-26-你的百萬流量，落地頁接住了嗎？
+- Duplicate entry (3x): 2026-05-26-勸大家極限存錢吧，從5月開始！
+- Duplicate entry (3x): 2026-05-26-從免費種草到坑位費翻倍，北美達人帶貨三年變天
+- Duplicate entry (3x): 2026-05-26-理查米爾如何打造有人情味的品牌摯友大家庭
+- Duplicate entry (3x): 2026-05-26-產品越好，為什麼越賣不上價？
+- Duplicate entry (3x): 2026-05-26-當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework
+- Duplicate entry (3x): 2026-05-26-盡量去研究自媒體的規律，這就是人生規律
+- Duplicate entry (3x): 2026-05-26-確診新型網紅病：腦子沒壞，錢包空了
+- Duplicate entry (3x): 2026-05-26-行銷內容從「用AI」到「管AI」的十倍提效
+- Duplicate entry (3x): 2026-05-26-評論區，比很多調研報告更接近真實消費心理
+- Duplicate entry (3x): 2026-05-26-錢...錢輩，請和我交往！從廣告位到情緒窗口，戶外大屏在嘴替式進化
+- Duplicate entry (3x): 2026-05-27-9種生活狀態，正在重新定義年輕人的消費決策
+- Duplicate entry (3x): 2026-05-27-Little Caesars 推出盲盒：F＆B 品牌的集換式行銷
+- Duplicate entry (3x): 2026-05-27-商業洞察｜演算法以外，誰在重塑戛納電影節的行銷博弈法則
+- Duplicate entry (3x): 2026-05-27-曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案
+- Duplicate entry (3x): 2026-05-28-為什麼大健康用戶越來越難成交？
+- Duplicate entry (3x): 2026-05-29-2026企業獲客新方向：以AI為翼，走合規增長之路
+- Duplicate entry (3x): 2026-05-29-520商場大屏文案，不搞對象搞抽象
+- Duplicate entry (3x): 2026-05-29-Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求
+- Duplicate entry (2x): 2026-05-29-lululemon的流量密碼，終於藏不住了
+- Duplicate entry (2x): 2026-05-29-一代人有一代人要囤的包裝紙皮
+- Duplicate entry (2x): 2026-05-29-不卷成績如何塑造一個品牌的立場與敘事？
+- Duplicate entry (2x): 2026-05-29-中產出國，不想住有班味的酒店了
+- Duplicate entry (3x): 2026-05-29-喜茶的拙感
+- Duplicate entry (3x): 2026-05-29-夯爆了寫成劣爆了，711錯字海報贏麻了！
+- Duplicate entry (2x): 2026-05-29-山下有松市場部，來了一位天才
+- Duplicate entry (2x): 2026-05-29-推薦6個好創意，讓人很有感覺
+- Duplicate entry (2x): 2026-05-29-萬億情緒經濟，情緒消費爆款的7個共同規律
+- Duplicate entry (3x): 2026-05-29-負鼠表情包成新晉頂流！鼠鼠統治互聯網？
+- Duplicate entry (3x): 2026-05-30-Pacsun的Z世代共創策略
+- Duplicate entry (3x): 2026-05-30-大衆人群消費：畫像一覽
+- Duplicate entry (2x): 2026-05-30-奶茶界ENFP，用快樂感染年輕人
+- Duplicate entry (2x): 2026-05-30-小紅書徹底爆發了
+- Duplicate entry (3x): 2026-06-01-小紅書上精神細糠正在生長
+- Duplicate entry (3x): 2026-06-01-從場人貨的角度我們聊聊到底什麼是新零售
+- 5 blank lines inside entry list
+
+### 設計.md
+- Duplicate entry (2x): 2026-04-08-M50展訊｜六島新展「第四面墻」
+- Duplicate entry (2x): 2026-04-08-一手評測｜Pomelli 開放台灣使用！怎麼用它做行銷創意素材？「產品攝影棚」
+- Duplicate entry (2x): 2026-04-08-不拆一磚一瓦｜日本町家再生，給城市更新上的一堂課
+- Duplicate entry (2x): 2026-04-08-業內首份「時尚AI投資報告」by「華麗智庫」正式發布！涵蓋近百創業公司和50+
+- Duplicate entry (2x): 2026-04-08-沉浸式演艺｜当非遗遇见跨媒介舞台剧，数字技术赋能下非遗文化的叙事创新与传播重塑
+- Duplicate entry (2x): 2026-04-08-龍雀年鑑｜當空間成為情緒的擺渡人——2026文旅空間設計美學年度觀察
+- Duplicate entry (2x): 2026-04-10-日式新商場，真正新在哪？
+- Duplicate entry (2x): 2026-04-10-被無印良品最新文案震撼到了！網友：至此，藝術已成
+- Duplicate entry (2x): 2026-04-15-觀點公共服務設計不只是優化介面！以人生為單位，重構有感的行政流程
+- Duplicate entry (2x): 2026-04-15-觀點｜公共服務設計不只是優化介面！以人生為單位，重構「有感的」行政流程
+- Duplicate entry (2x): 2026-04-16-AI創作時代，真正的核心競爭力：會用技術，更懂審美
+- Duplicate entry (2x): 2026-04-16-假如，你要做一本品牌手册
+- Duplicate entry (2x): 2026-04-16-大學LOGO火出圈，中式美學驚艷一眾網友！
+- Duplicate entry (2x): 2026-04-16-用網友杯貼做圍擋，喜茶市場部美商極高！
+- Duplicate entry (2x): 2026-04-17-60歲路人爆改時尚大女主？有效改造的底層邏輯就這1點
+- Duplicate entry (2x): 2026-04-17-深度｜Tiffany高級珠寶「活」起來的秘密都在這裡！
+- Duplicate entry (2x): 2026-04-18-玫瑰空調我不屑一顧，小貓空調我將全款購入！
+- Duplicate entry (2x): 2026-04-19-不拆一砖一瓦｜日本町家再生，给城市更新上的一堂课
+- Duplicate entry (2x): 2026-04-19-中国追求网红街区，日本守护场所精神两种更新，两种命运
+- Duplicate entry (2x): 2026-04-19-公共艺术装置，都是美丽废物吗｜专访「大星吉子」联创谢琼枝
+- Duplicate entry (2x): 2026-04-19-内地网红化更新vs 香港保育式活化谁走得更久？
+- Duplicate entry (2x): 2026-04-19-废墟里的新生｜泰国Galile Oasis，用野性对抗千城一面
+- Duplicate entry (2x): 2026-04-19-日本极致秩序vs泰国极致自由城市更新的两个极端
+- Duplicate entry (2x): 2026-04-23-Friend Friend｜Emporium 裡的時尚綠洲
+- Duplicate entry (2x): 2026-04-24-Image2的10種顛覆性玩法，越用越不對勁
+- Duplicate entry (2x): 2026-04-24-實測 GPT-Image-2：6 個能落地的提效場景
+- Duplicate entry (2x): 2026-04-25-GPT-Image-2的護城河不是「好看」，是「聽話」
+- Duplicate entry (2x): 2026-04-25-「中國製造」升級如何重新定義中國品牌？
+- Duplicate entry (2x): 2026-04-27-GPT image-2爆火後，設計師的天塌了嗎？
+- Duplicate entry (2x): 2026-04-28-人人都能用AI做設計，但做不出好看的東西，這才是設計師的機會
+- Duplicate entry (2x): 2026-04-28-工作文件全公开，马吉拉这次不装了？
+- Duplicate entry (2x): 2026-04-28-当精致烟火气沦为资本清场后的精密计算
+- Duplicate entry (2x): 2026-04-28-成都玉林，为何能自发的更新？
+- Duplicate entry (2x): 2026-04-28-曼谷FRIEND FRIEND用边角料空间长出新的吸引力
+- Duplicate entry (2x): 2026-04-28-韩国辉：观光时代落幕，疗愈时代到来——文旅的本质是安顿身心
+- Duplicate entry (2x): 2026-04-28-高密度VS低密度不同城市形态下，在地文化的生存逻辑
+- Duplicate entry (2x): 2026-04-30-Real Talk｜30 年，李东田与他的「美学江湖」
+- Duplicate entry (3x): 2026-05-04-以文學意象為源頭而非裝飾
+- Duplicate entry (2x): 2026-05-04-当中式庭院沦为阶级过滤器
+- Duplicate entry (2x): 2026-05-04-招商难？看看这5个把“公园”搬进商场的项目，出租率从45%飙到了99%
+- Duplicate entry (2x): 2026-05-04-新消费下半场：从卖点竞争到情绪竞争
+- Duplicate entry (3x): 2026-05-04-最頂級的行銷是看不見的行銷
+- Duplicate entry (2x): 2026-05-04-沉浸城市丨从工业锈带到艺术秀带：复兴岛船台公园的轻度改造与沉浸式更新
+- Duplicate entry (3x): 2026-05-07-機場正在成為零售城市
+- Duplicate entry (2x): 2026-05-08-99-的人都沒有真正用對-Codex-開發秘技工作流
+- Duplicate entry (2x): 2026-05-08-Hermes-接上-NotebookLM-之後-我的知識庫開始自己滾了
+- Duplicate entry (2x): 2026-05-08-一人公司就是騙局-為什麼你每天工作12小時還是不賺錢
+- Duplicate entry (2x): 2026-05-08-一人商業的第一步-是和全部的自己握手言和
+- Duplicate entry (2x): 2026-05-08-中國夜店正在集體淘汰舞池
+- Duplicate entry (2x): 2026-05-08-假期出游-我被AI坑慘了
+- Duplicate entry (2x): 2026-05-08-兩大根變量重塑消費邏輯-基諾浦的母嬰生態化思考
+- Duplicate entry (2x): 2026-05-08-品牌年輕化-不是討好年輕人
+- Duplicate entry (2x): 2026-05-08-大廠逼員工用AI-成了一種形式主義
+- Duplicate entry (2x): 2026-05-08-為什麼越來越多年輕人-開始選擇斷捨離的生活方式
+- Duplicate entry (2x): 2026-05-08-當團隊不敢講真話-公司就離完蛋不远了
+- Duplicate entry (3x): 2026-05-08-高可用架構的工程智慧
+- Duplicate entry (2x): 2026-05-10-五一出行消費觀察火爆數據下哪些才是真實風口
+- Duplicate entry (2x): 2026-05-10-從央視大樓到全球頂流他在華20多年親歷中國地標的變化
+- Duplicate entry (2x): 2026-05-10-從路過到停留街區商業如何擴大地盤
+- Duplicate entry (2x): 2026-05-10-所有品牌都應清晰認知自身的美學定位
+- Duplicate entry (2x): 2026-05-10-為什麼這幾條街靠情緒價值場景營造年收上億元
+- Duplicate entry (2x): 2026-05-10-百萬豪宅月租400年輕人湧入空城
+- Duplicate entry (2x): 2026-05-10-社會資本地方平台的合作機制正變得越來越主流未來拼的是低干預高審美輕投入高回報
+- Duplicate entry (2x): 2026-05-10-第三空間的沉浸重構從打卡到駐留的五重轉向
+- Duplicate entry (2x): 2026-05-10-第二篇破局篇填鋪式招商已死2026破局就靠這三招
+- Duplicate entry (2x): 2026-05-10-算法時代互聯網大廠為何下場做商業
+- Duplicate entry (2x): 2026-05-10-終於2026年的家居趨勢不再只是一種風格
+- Duplicate entry (2x): 2026-05-10-聊聊作為生意的非標商業
+- Duplicate entry (2x): 2026-05-10-膠東商業矛盾的面子和裡子
+- Duplicate entry (2x): 2026-05-10-花卉美陳的櫥窗效應治癒型視覺美感沉浸營造與空間情感共鳴設計
+- Duplicate entry (2x): 2026-05-10-菜市場救不了書店
+- Duplicate entry (2x): 2026-05-10-阿那亞常熟啟幕學園社區未來生活
+- Duplicate entry (2x): 2026-05-10-非標商業不是孵化器而是試紙
+- Duplicate entry (2x): 2026-05-10-高端商場的進化從無用消費開始突圍了
+- Duplicate entry (2x): 2026-05-11-快來領香水禮包！這個品牌上海首家形象店入駐新六百YOUNG
+- Duplicate entry (2x): 2026-05-15-K67Kiosk這個紅色小亭子藏著一個時代的模組化想像
+- Duplicate entry (3x): 2026-05-18-K67 Kiosk：這個紅色小亭子，藏著一個時代的模組化想像
+- Duplicate entry (3x): 2026-05-18-Markdown 已死，HTML 登基：極客思維正在毀掉你的交付力
+- Duplicate entry (2x): 2026-05-18-新消費下半場，品牌最大的成本是解釋成本
+- Duplicate entry (3x): 2026-05-18-追求摩擦感設計與製造麻煩的差別
+- Duplicate entry (3x): 2026-05-24-VITURE Beast重新定義XR眼鏡的產品哲學
+- Duplicate entry (2x): 2026-05-30-騰訊綜藝，重寫內娛的造人邏輯
+- Duplicate entry (3x): 2026-06-01-一場設計師大賽背後中國時尚產業正在補齊哪塊基礎設施
+
+### 資料與演算法.md
+- Duplicate entry (2x): 2026-02-24-〈全台圓環體檢〉數據幕後：兩塊鳳梨酥＋機器學習演算法，如何幫我們從219萬筆交
+- Duplicate entry (2x): 2026-03-30-2026企業生存戰：別讓AI成了你公司的「平庸加速器」
+- Duplicate entry (2x): 2026-03-31-8萬人調查揭露：AI越快、人越迷茫！3步驟設定停損點，讓工具為幸福服務
+- Duplicate entry (2x): 2026-03-31-周杰倫和李榮浩，輸給了同一個東西
+- Duplicate entry (2x): 2026-03-31-為何中國科技公司搶著在香港設立據點
+- Duplicate entry (2x): 2026-04-05-AI產品的RAG系統，到底該怎麼做業務驗收？
+- Duplicate entry (2x): 2026-04-08-AI Agent 如何重新定義行銷？我現在知道：多花一塊錢能帶來多少營收增長！
+- Duplicate entry (2x): 2026-04-08-CNY品牌行銷全攻略：四大場景品廣投放策略與案例分享
+- Duplicate entry (2x): 2026-04-08-一篇論文引發存儲芯片股暴跌，Google 的「DeepSeek 時刻」來了？
+- Duplicate entry (2x): 2026-04-08-不好意思，機器人無法僅靠視覺理解世界
+- Duplicate entry (2x): 2026-04-08-你的知識庫已經死了——卡帕西的「活體維基」，才是AI時代真正的第二大腦
+- Duplicate entry (2x): 2026-04-08-品牌種草新思路：看這些品牌如何打造有量有質的種草新範式
+- Duplicate entry (2x): 2026-04-08-小紅書為何逆勢對 AI 內容「痛下殺手」？
+- Duplicate entry (2x): 2026-04-10-Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略
+- Duplicate entry (2x): 2026-04-10-Guardrails：AI生成內容的安全紅線制定者
+- Duplicate entry (2x): 2026-04-10-品星雲AI能力全面進階，讓品牌行銷回歸本質
+- Duplicate entry (2x): 2026-04-13-2026五大AI經營趨勢：洞察品牌的長效增長路徑｜貝恩鄧旻演講精要
+- Duplicate entry (2x): 2026-04-13-2026人群白皮書：錨定真實的人
+- Duplicate entry (2x): 2026-04-13-AI產品的「生命線」——數據採集、標注、清洗的產品化設計
+- Duplicate entry (2x): 2026-04-13-全聯林敏雄的兩場賭注：40億電子標籤挽回消費者，線上百億業績搶下數據主導權
+- Duplicate entry (2x): 2026-04-13-正式發布！2026中國社交媒體行銷趨勢報告：生態分化時代，品牌如何協同破局？
+- Duplicate entry (2x): 2026-04-13-阿里HappyHorse，一場關於「Token經濟」的陽謀
+- Duplicate entry (2x): 2026-04-15-Owkin是誰？聯邦學習是什麼？一文看懂法國AI獨角獸如何加速新藥研發、拚解鎖
+- Duplicate entry (2x): 2026-04-15-Token，正在重新計量世界
+- Duplicate entry (2x): 2026-04-17-AI訓練AI是技術飛躍還是潘多拉魔盒
+- Duplicate entry (2x): 2026-04-17-Token 為王的資安新時代 AI 算力大開，防禦者如何用「鈔能力」取勝？
+- Duplicate entry (2x): 2026-04-17-投变一体增长破局GroMore 2026升级打通开发者经营全链路
+- Duplicate entry (2x): 2026-04-18-AI大事件：Claude Opus 4.7再升級，中美模型差距縮至2.7%
+- Duplicate entry (2x): 2026-04-20-沉睡29年的402狀態碼正在給AI裝上神經
+- Duplicate entry (2x): 2026-04-27-AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Opencla
+- Duplicate entry (2x): 2026-04-27-大型行銷活動目標人群識別探索
+- Duplicate entry (2x): 2026-04-28-跨山越水，连接价值——明略科技《2026户外出行广告价值洞察（下）城际跨越》发
+- Duplicate entry (2x): 2026-04-30-品牌人以群分时代，先要看懂人群宇宙
+- Duplicate entry (2x): 2026-05-01-2026—2027招投標AI化的時間表
+- Duplicate entry (2x): 2026-05-02-又一算力獨角獸衝擊IPO：超聚變五百億估值
+- Duplicate entry (3x): 2026-05-11-行銷人員在零點擊搜尋衝擊下優化GEO策略
+- Duplicate entry (3x): 2026-05-13-互聯網巨頭的用人帳
+- Duplicate entry (3x): 2026-05-23-440億投資清零AI正在殺死這個賽道
+
+### 體驗.md
+- Duplicate entry (2x): 2026-05-04-中女的愉己與體面
+- Duplicate entry (2x): 2026-05-04-以文學意象為源頭而非裝飾
+- Duplicate entry (2x): 2026-05-04-最頂級的行銷是看不見的行銷
+- Duplicate entry (2x): 2026-05-06-AI讓任何人都能開餐廳的Wonder機器人廚房模式
+- Duplicate entry (2x): 2026-05-06-Old Navy引進零售娛樂老將重振品牌
+- Duplicate entry (2x): 2026-05-06-品牌部門如何從成本中心變成利潤引擎
+- Duplicate entry (2x): 2026-05-07-AI對購物中心和實體店的衝擊
+- Duplicate entry (2x): 2026-05-07-機場就是零售城市
+- Duplicate entry (2x): 2026-05-07-機場正在成為零售城市
+- Duplicate entry (2x): 2026-05-07-消費者正在轉向低價零售商
+- Duplicate entry (2x): 2026-05-11-El Pollo Loco 以利潤、行銷與菜單動能持續領跑
+- Duplicate entry (2x): 2026-05-13-Agoda 調查：亞洲旅客對目的地深度參與旅遊的需求持續成長
+- Duplicate entry (2x): 2026-05-13-EB Denim 旗艦店：零售、創意工作室與倉儲三合一
+- Duplicate entry (2x): 2026-05-14-吃香將成為中國香氛市場的未來趨勢
+- Duplicate entry (2x): 2026-05-14-新鮮零食，擠進商場B1層
+- Duplicate entry (2x): 2026-05-14-未來城市第三空間的演化邏輯
+- Duplicate entry (2x): 2026-05-14-沉浸式演藝：從觀演到入戲，放大文旅價值
+- Duplicate entry (2x): 2026-05-14-省油省錢的小電驢，正在掏空中女錢包
+- Duplicate entry (2x): 2026-05-14-確實，生理性喜歡是不會騙人的
+- Duplicate entry (2x): 2026-05-15-00後湧入景區當NPC在情緒價值裡淘金
+- Duplicate entry (2x): 2026-05-15-AI開始接管年輕人的精神自留地
+- Duplicate entry (2x): 2026-05-18-Markdown 已死，HTML 登基，極客思維正在毀掉你的交付力
+- Duplicate entry (2x): 2026-05-18-一場飛拉達的背後，猛獁象如何讓戶外走進大眾生活
+- Duplicate entry (2x): 2026-05-18-一批未成年女孩，正在整頓健身圈
+- Duplicate entry (2x): 2026-05-18-今年五一出行，大家都不想吃苦了
+- Duplicate entry (2x): 2026-05-18-十年裡我進入一百多戶人家，拍攝生活的不確定性和被虛構出來的安全感
+- Duplicate entry (2x): 2026-05-18-將社群滑動轉化為餐廳到訪
+- Duplicate entry (2x): 2026-05-18-正式確診為 P 人！雀巢8次方的新包裝又雙叒叕對樂迷下手了
+- Duplicate entry (2x): 2026-05-18-母親節營銷案例複盤，不歌頌只看見
+- Duplicate entry (2x): 2026-05-18-沒明星、沒經費，一群大學生靠燒腦拍出9.4分神級綜藝
+- Duplicate entry (2x): 2026-05-18-為什麼追年輕人的商業，容易火但不容易持久？
+- Duplicate entry (2x): 2026-05-18-當身心與生活都在超載，我們該如何找回失落的輕盈
+- Duplicate entry (2x): 2026-05-18-追求摩擦感設計與製造麻煩的差別
+- Duplicate entry (2x): 2026-05-18-韓國時尚卷王殺入中國，3家店開局就火，放話要再開100家
+- Duplicate entry (2x): 2026-05-18-飲料瓶裡的故事，你得喝完才看得到
+- Duplicate entry (2x): 2026-05-19-小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路
+- Duplicate entry (2x): 2026-05-20-音樂帶動旅遊：新加坡與環球音樂的城市品牌策略
+- Duplicate entry (2x): 2026-05-25-Sephora 引領美容科技革命
+- Duplicate entry (2x): 2026-05-25-Sephora引領美妝科技：實體與數位融合的零售革命
+- Duplicate entry (2x): 2026-05-26-你的百萬流量，落地頁接住了嗎？
+- Duplicate entry (2x): 2026-05-26-勸大家極限存錢吧，從5月開始！
+- Duplicate entry (2x): 2026-05-26-從免費種草到坑位費翻倍，北美達人帶貨三年變天
+- Duplicate entry (2x): 2026-05-26-從規模到質量，木鳥途家美團轉向情緒消費
+- Duplicate entry (2x): 2026-05-26-快速擴張，是對山姆最大的誤解
+- Duplicate entry (2x): 2026-05-26-理查米爾如何打造有人情味的品牌摯友大家庭
+- Duplicate entry (2x): 2026-05-26-當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework
+- Duplicate entry (2x): 2026-05-26-確診新型網紅病：腦子沒壞，錢包空了
+- Duplicate entry (2x): 2026-05-26-給寵物上墳，讓我月入81萬
+- Duplicate entry (2x): 2026-05-26-評論區，比很多調研報告更接近真實消費心理
+- Duplicate entry (2x): 2026-05-26-酒店真不喜歡長租客人嗎？
+- Duplicate entry (2x): 2026-05-26-錢...錢輩，請和我交往！從廣告位到情緒窗口，戶外大屏在嘴替式進化
+- Duplicate entry (2x): 2026-05-27-9種生活狀態，正在重新定義年輕人的消費決策
+- Duplicate entry (2x): 2026-05-27-Little Caesars 推出盲盒：F＆B 品牌的集換式行銷
+- Duplicate entry (2x): 2026-05-27-WeRoad 融資 5800 萬美元押注 IRL 經濟
+- Duplicate entry (2x): 2026-05-27-商業洞察｜海外高端百貨接連失守中國，它們做錯了什麼
+- Duplicate entry (2x): 2026-05-27-商業洞察｜演算法以外，誰在重塑戛納電影節的行銷博弈法則
+- Duplicate entry (2x): 2026-05-27-星野集團OMO系列數字代表什麼？專為都市觀光而生的OMO飯店有什麼特色？
+- Duplicate entry (2x): 2026-05-27-東京潮流發信地澀谷Parco霸氣重生，時尚、娛樂、餐飲、劇場、藝術全方位打造次
+- Duplicate entry (2x): 2026-05-28-紐約零售大變局：奢侈品退潮、SoHo崛起與品牌定位的終極考驗
+- Duplicate entry (2x): 2026-05-29-AI，開始悄悄砸掉景區旅拍飯碗
+- Duplicate entry (2x): 2026-05-29-Puma 押中了 HYROX？
+- Duplicate entry (3x): 2026-05-29-The Set奢華酒店會員制：以情感連結取代積點獎勵
+- Duplicate entry (2x): 2026-05-29-卷不動一線，民宿殺向小城
+- Duplicate entry (2x): 2026-05-29-喜茶的拙感
+- Duplicate entry (2x): 2026-05-29-夯爆了寫成劣爆了，711錯字海報贏麻了！
+- Duplicate entry (2x): 2026-05-29-幾塊錢的旅遊卡，撬動一座城？
+- Duplicate entry (2x): 2026-05-29-推薦6個好創意，讓人很有感覺
+- Duplicate entry (2x): 2026-05-29-既下山的文案，適合慢慢看
+- Duplicate entry (2x): 2026-05-29-海底撈都帶不動的寵物友好，景區卻搶著排隊當韭菜？
+- Duplicate entry (2x): 2026-05-29-淡季的國內酒店，卷到沒有底線了
+- Duplicate entry (2x): 2026-05-29-湯泉，慎入
+- Duplicate entry (2x): 2026-05-29-男色經濟，滑向曖昧深處
+- Duplicate entry (2x): 2026-05-29-負鼠表情包成新晉頂流！鼠鼠統治互聯網？
+- Duplicate entry (2x): 2026-05-29-青年潮玩消費的時間敘事——以Labubu符號消費實踐為例
+- Duplicate entry (2x): 2026-05-30-對廣州，聚龍灣到底改變了什麼
+- Duplicate entry (2x): 2026-05-30-快閃，正在成為商場的主菜
+- Duplicate entry (2x): 2026-05-30-賣不出去的Apple Watch，被出片女孩炒火了？
+- 2 blank lines inside entry list

@@ -6,7 +6,7 @@ tags: [人工智慧, 人機互動, 產品, 科技影響]
 keywords: [Visual Agent, 視覺智能體, 多模態, 攝像頭作為界面, Chance AI]
 type: 產品設計
 raw_ref: "[[2026-04-10/讓AI看懂世界：Chance-AI的視覺智能體革命]]"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -30,6 +30,7 @@ status: draft
 2. **對地方創生**：舊城區的空間導覽、老宅歷史解說，是否可以用攝像頭指向建築就能觸發AI敘事？比QR code更自然。
 3. **對系統設計**：「看見即理解」的交互模式，對於不擅長文字表達的用戶群（長輩、小孩）有特別的包容性價值。
 
+
 ## 關聯筆記
 
 - [[2026-03-29-智能眼鏡正在成為AI-Agent的終極外設|智能眼鏡正在成為AI-Agent的終極外設]] — 視覺AI的硬件載體演進，與Visual Agent的軟件路徑形成對比
@@ -38,4 +39,4 @@ status: draft
 
 ---
 > [!TIP]
-> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。
+> 地方創生的本質，是讓在地居民重新看見自己生活的價值。

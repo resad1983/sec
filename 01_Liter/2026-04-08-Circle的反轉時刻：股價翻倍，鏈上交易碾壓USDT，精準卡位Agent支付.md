@@ -10,7 +10,7 @@ project: [~]
 wiki_evolved: true
 principle: []
 links: 'status: draft'
-status: draft'
+status: draft
 ---
 ## 核心洞察
 
@@ -30,6 +30,7 @@ status: draft'
 2. **商業模式**：穩定幣「鏈上結算→企業基礎設施」的演變，對台灣的金融科技創業有什麼啟示？
 3. **平台生態**：在Agent Economy興起後，哪些現有行業的支付方式會被顛覆？地方創生中有無應用場景？
 
+
 ## 關聯筆記
 
 - `[[2026-03-27-AI支付的重點不是支付本身|AI支付的重點不是支付本身]]` — AI支付生態的宏觀分析，與Circle案例高度互補
@@ -38,4 +39,4 @@ status: draft'
 
 ---
 > [!TIP]
-> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

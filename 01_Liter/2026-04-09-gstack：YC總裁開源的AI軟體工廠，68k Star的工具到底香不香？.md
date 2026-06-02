@@ -6,11 +6,11 @@ tags: [人工智慧, 商業模式, 學習與思考, 數位系統]
 keywords: [人工智慧, 商業模式, 學習與思考, 數位系統]
 type: 技術分析
 raw_ref: "'[[2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'"
-project: [~]
+project: [個人顧問品牌]
 wiki_evolved: true
 principle: []
 links: 'status: draft'
-status: draft'
+status: draft
 ---
 ## 核心洞察
 
@@ -40,6 +40,7 @@ status: draft'
 
 3. **系統設計洞察**：gstack的價值不在於任何單一工具，而在於「把流程本身編碼化」。這是一個更深的啟示——什麼時候應該把顧問的工作流程也工具化、可複用化？
 
+
 ## 關聯筆記
 
 - [[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] — 同樣討論Agent角色分工的架構哲學，可相互印證
@@ -48,4 +49,4 @@ status: draft'
 
 ---
 > [!TIP]
-> 不要試圖用 AI 填滿所有流程，有生產力的個人需要跳躍到機構 AI 與流程重建才能釋放複利。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。

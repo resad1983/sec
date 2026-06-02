@@ -6,7 +6,7 @@ tags: [人工智慧, 數位系統, 產品, 科技影響]
 keywords: [Chrome Skills, Gemini, 提示詞管理, 工作流程, AI瀏覽器]
 type: 產品設計
 raw_ref: "[[2026-04-15/Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃文件一鍵搞定]]"
-project: [~]
+project: [典典文創]
 wiki_evolved: true
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
@@ -41,10 +41,11 @@ status: draft
 2. **顧問工具設計視角**：當AI工具越來越「內嵌化」，顧問是否需要重新設計自己的工作流以整合這些工具？
 3. **數位系統視角**：Skills資料庫（官方預設技能）vs 個人自建Skills，哪種更能形成差異化競爭力？
 
+
 ## 關聯筆記
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — Skill架構的底層設計哲學，與Chrome Skills概念高度相關
 
 ---
 > [!TIP]
-> AI 抹平了執行效率的資訊差，卻拉大了品味（Taste）與情感決策的靈魂鴻溝。
+> AI的真正價值不在取代人，而在放大人的獨特判斷力。
