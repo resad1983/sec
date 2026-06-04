@@ -11,34 +11,34 @@
       "query": "path:04_Projects  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15609647
       }
     },
     {
       "query": "path:02_wiki  ",
       "color": {
         "a": 1,
-        "rgb": 1916909
+        "rgb": 1797358
       }
     },
     {
       "query": "path:01_Liter  ",
       "color": {
         "a": 1,
-        "rgb": 11071003
+        "rgb": 11657298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "repelStrength": 9.23875432525952,
+  "linkStrength": 0.631487889273356,
   "linkDistance": 250,
-  "scale": 1.1413148558750779,
+  "scale": 0.059326171874999445,
   "close": false
 }
