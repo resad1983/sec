@@ -1,0 +1,70 @@
+# Wiki Archive Frontmatter Normalize - 2026-06-05
+
+- scope: 021_wiki/*.md
+- encoding: UTF-8 without BOM
+- rule: type is wiki_archive
+- rule: parent is an Obsidian wikilink to an existing 02_wiki or 022_wiki_topics page
+
+- changed_files: 60
+
+## Changed
+- 世代變遷_2026Q2.md: type, parent
+- 人工智慧_2025Q3.md: type, parent
+- 人工智慧_2026Q1.md: type, parent
+- 人工智慧_2026Q2.md: type, parent
+- 人工智慧_社會與經濟_2025Q3.md: type, parent
+- 人工智慧_社會與經濟_2026Q1.md: type, parent
+- 人工智慧_社會與經濟_2026Q2.md: type, parent
+- 人工智慧_開發與組織_2026Q2.md: type, parent
+- 人格與自我_2026Q1.md: type, parent
+- 人格與自我_2026Q2.md: type, parent
+- 創作方法_2026Q1.md: type, parent
+- 創作方法_2026Q2.md: type, parent
+- 品牌_2025Q4.md: type, parent
+- 品牌_2026Q1.md: type, parent
+- 品牌_2026Q2.md: type, parent
+- 品牌_公關與消費洞察_2026Q2.md: type, parent
+- 商業模式_2025Q4.md: type, parent
+- 商業模式_2026Q1.md: type, parent
+- 商業模式_2026Q2.md: type, parent
+- 商業模式_零售消費與品牌_2026Q2.md: type, parent
+- 地方創生_2026Q1.md: type, parent
+- 地方創生_2026Q2.md: type, parent
+- 城市與空間_2026Q1.md: type, parent
+- 城市與空間_2026Q2.md: type, parent
+- 媒體與敘事_2026Q1.md: type, parent
+- 媒體與敘事_2026Q2.md: type, parent
+- 學習與思考_2026Q1.md: type, parent
+- 學習與思考_2026Q2.md: type, parent
+- 市場與需求_2026Q1.md: type, parent
+- 市場與需求_2026Q2.md: type, parent
+- 平台與生態系_2026Q1.md: type, parent
+- 平台與生態系_2026Q2.md: type, parent
+- 心理_2026Q1.md: type, parent
+- 心理_2026Q2.md: type, parent
+- 情緒與關係_2026Q1.md: type, parent
+- 情緒與關係_2026Q2.md: type, parent
+- 數位系統_2026Q1.md: type, parent
+- 數位系統_2026Q2.md: type, parent
+- 生活方式_2026Q1.md: type, parent
+- 生活方式_2026Q2.md: type, parent
+- 產品_2025Q3.md: type, parent
+- 產品_2026Q1.md: type, parent
+- 產品_2026Q2.md: type, parent
+- 社會結構_2026Q1.md: type, parent
+- 社會結構_2026Q2.md: type, parent
+- 社群與關係網絡_2026Q1.md: type, parent
+- 社群與關係網絡_2026Q2.md: type, parent
+- 科技影響_2025Q3.md: type, parent
+- 科技影響_2025Q4.md: type, parent
+- 科技影響_2026Q1.md: type, parent
+- 科技影響_2026Q2.md: type, parent
+- 組織與策略_2026Q1.md: type, parent
+- 組織與策略_2026Q2.md: type, parent
+- 行為決策_2026Q1.md: type, parent
+- 行為決策_2026Q2.md: type, parent
+- 行銷_2026Q1.md: type, parent
+- 行銷_2026Q2.md: type, parent
+- 設計_2026Q2.md: type, parent
+- 體驗_2026Q1.md: type, parent
+- 體驗_2026Q2.md: type, parent

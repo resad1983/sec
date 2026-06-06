@@ -1,0 +1,143 @@
+# Wiki Tags Normalize - 2026-06-05
+
+- scope: 02_wiki, 021_wiki, 022_wiki_topics
+- encoding: UTF-8 without BOM
+- 02_wiki: ensure tags [wiki, core, title]
+- 021_wiki: ensure tags include wiki_archive, parent, period; infer missing period from filename when possible
+- 022_wiki_topics: fill tags only when missing
+
+- changed_files: 129
+- skipped_files: 0
+
+## Changed
+- 02_wiki/世代變遷.md: tags
+- 02_wiki/人工智慧.md: tags
+- 02_wiki/人格與自我.md: tags
+- 02_wiki/人機互動.md: tags
+- 02_wiki/價值與定價.md: tags
+- 02_wiki/創作方法.md: tags
+- 02_wiki/品牌.md: tags
+- 02_wiki/商業模式.md: tags
+- 02_wiki/地方創生.md: tags
+- 02_wiki/城市與空間.md: tags
+- 02_wiki/媒體與敘事.md: tags
+- 02_wiki/學習與思考.md: tags
+- 02_wiki/市場與需求.md: tags
+- 02_wiki/平台與生態系.md: tags
+- 02_wiki/心理.md: tags
+- 02_wiki/情緒與關係.md: tags
+- 02_wiki/數位系統.md: tags
+- 02_wiki/文化現象.md: tags
+- 02_wiki/營運管理.md: tags
+- 02_wiki/生活方式.md: tags
+- 02_wiki/產品.md: tags
+- 02_wiki/社會結構.md: tags
+- 02_wiki/社群與關係網絡.md: tags
+- 02_wiki/科技影響.md: tags
+- 02_wiki/組織與策略.md: tags
+- 02_wiki/行為決策.md: tags
+- 02_wiki/行銷.md: tags
+- 02_wiki/設計.md: tags
+- 02_wiki/資料與演算法.md: tags
+- 02_wiki/體驗.md: tags
+- 021_wiki/世代變遷_2026Q1.md: tags
+- 021_wiki/世代變遷_2026Q2.md: tags
+- 021_wiki/人工智慧_2025Q3.md: tags
+- 021_wiki/人工智慧_2026Q1.md: tags
+- 021_wiki/人工智慧_2026Q2.md: tags
+- 021_wiki/人工智慧_工具與應用_2026Q2.md: tags, period
+- 021_wiki/人工智慧_社會與經濟_2025Q3.md: tags
+- 021_wiki/人工智慧_社會與經濟_2026Q1.md: tags
+- 021_wiki/人工智慧_社會與經濟_2026Q2.md: tags
+- 021_wiki/人工智慧_開發與組織_2026Q2.md: tags
+- 021_wiki/人格與自我_2026Q1.md: tags
+- 021_wiki/人格與自我_2026Q2.md: tags
+- 021_wiki/人機互動_2025Q3.md: tags, period
+- 021_wiki/人機互動_2026Q1.md: tags, period
+- 021_wiki/創作方法_2026Q1.md: tags
+- 021_wiki/創作方法_2026Q2.md: tags
+- 021_wiki/品牌_2025Q4.md: tags
+- 021_wiki/品牌_2026Q1.md: tags
+- 021_wiki/品牌_2026Q2.md: tags
+- 021_wiki/品牌_公關與消費洞察_2026Q2.md: tags
+- 021_wiki/品牌_策略與趨勢_2025Q4.md: tags, period
+- 021_wiki/品牌_策略與趨勢_2026Q1.md: tags, period
+- 021_wiki/品牌_策略與趨勢_2026Q2.md: tags, period
+- 021_wiki/商業模式_2025Q4.md: tags
+- 021_wiki/商業模式_2026Q1.md: tags
+- 021_wiki/商業模式_2026Q2.md: tags
+- 021_wiki/商業模式_平台生態與AI_2026Q2.md: tags, period
+- 021_wiki/商業模式_零售消費與品牌_2026Q2.md: tags
+- 021_wiki/商業模式_體驗文旅與資本_2025Q4.md: tags, period
+- 021_wiki/商業模式_體驗文旅與資本_2026Q1.md: tags, period
+- 021_wiki/商業模式_體驗文旅與資本_2026Q2.md: tags, period
+- 021_wiki/地方創生_2026Q1.md: tags
+- 021_wiki/地方創生_2026Q2.md: tags
+- 021_wiki/城市與空間_2026Q1.md: tags
+- 021_wiki/城市與空間_2026Q2.md: tags
+- 021_wiki/媒體與敘事_2026Q1.md: tags
+- 021_wiki/媒體與敘事_2026Q2.md: tags
+- 021_wiki/學習與思考_2026Q1.md: tags
+- 021_wiki/學習與思考_2026Q2.md: tags
+- 021_wiki/市場與需求_2026Q1.md: tags
+- 021_wiki/市場與需求_2026Q2.md: tags
+- 021_wiki/市場與需求_近期觀察_2026Q2.md: tags, period
+- 021_wiki/平台與生態系_2026Q1.md: tags
+- 021_wiki/平台與生態系_2026Q2.md: tags
+- 021_wiki/心理_2026Q1.md: tags
+- 021_wiki/心理_2026Q2.md: tags
+- 021_wiki/情緒與關係_2026Q1.md: tags
+- 021_wiki/情緒與關係_2026Q2.md: tags
+- 021_wiki/數位系統_2026Q1.md: tags
+- 021_wiki/數位系統_2026Q2.md: tags
+- 021_wiki/文化現象_2026Q1.md: tags
+- 021_wiki/文化現象_2026Q2.md: tags
+- 021_wiki/營運管理_2026Q1.md: tags, period
+- 021_wiki/營運管理_2026Q2.md: tags, period
+- 021_wiki/生活方式_2026Q1.md: tags
+- 021_wiki/生活方式_2026Q2.md: tags
+- 021_wiki/產品_2025Q3.md: tags
+- 021_wiki/產品_2026Q1.md: tags
+- 021_wiki/產品_2026Q2.md: tags
+- 021_wiki/社會結構_2026Q1.md: tags
+- 021_wiki/社會結構_2026Q2.md: tags
+- 021_wiki/社群與關係網絡_2026Q1.md: tags
+- 021_wiki/社群與關係網絡_2026Q2.md: tags
+- 021_wiki/科技影響_2025Q3.md: tags
+- 021_wiki/科技影響_2025Q4.md: tags
+- 021_wiki/科技影響_2026Q1.md: tags
+- 021_wiki/科技影響_2026Q2.md: tags
+- 021_wiki/科技影響_AI產業與企業_2026Q2.md: tags, period
+- 021_wiki/科技影響_硬體社會與地緣_2025Q3.md: tags, period
+- 021_wiki/科技影響_硬體社會與地緣_2025Q4.md: tags, period
+- 021_wiki/科技影響_硬體社會與地緣_2026Q1.md: tags, period
+- 021_wiki/科技影響_硬體社會與地緣_2026Q2.md: tags, period
+- 021_wiki/組織與策略_2026Q1.md: tags
+- 021_wiki/組織與策略_2026Q2.md: tags
+- 021_wiki/組織與策略_策略與增長_2026Q1.md: tags, period
+- 021_wiki/組織與策略_策略與增長_2026Q2.md: tags, period
+- 021_wiki/組織與策略_組織管理與文化_2026Q1.md: tags, period
+- 021_wiki/組織與策略_組織管理與文化_2026Q2.md: tags, period
+- 021_wiki/行為決策_2026Q1.md: tags
+- 021_wiki/行為決策_2026Q2.md: tags
+- 021_wiki/行銷_2026Q1.md: tags
+- 021_wiki/行銷_2026Q2.md: tags
+- 021_wiki/行銷_AI與數位增長_2026Q1.md: tags, period
+- 021_wiki/行銷_AI與數位增長_2026Q2.md: tags, period
+- 021_wiki/行銷_品牌與情緒策略_2026Q2.md: tags, period
+- 021_wiki/設計_2026Q2.md: tags
+- 021_wiki/資料與演算法_2026Q1.md: tags
+- 021_wiki/資料與演算法_2026Q2.md: tags
+- 021_wiki/體驗_2026Q1.md: tags
+- 021_wiki/體驗_2026Q2.md: tags
+- 021_wiki/體驗_品牌產品案例_2026Q2.md: tags, period
+- 021_wiki/體驗_空間文旅案例_2026Q1.md: tags, period
+- 021_wiki/體驗_空間文旅案例_2026Q2.md: tags, period
+- 022_wiki_topics/個人品牌.md: tags
+- 022_wiki_topics/建築與美學.md: tags
+- 022_wiki_topics/歷史.md: tags
+- 022_wiki_topics/空間設計.md: tags
+- 022_wiki_topics/系統設計.md: tags
+- 022_wiki_topics/職涯發展.md: tags
+
+## Skipped
