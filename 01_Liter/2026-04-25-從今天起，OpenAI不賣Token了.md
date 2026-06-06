@@ -13,7 +13,6 @@ links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
 ﻿---
-title: 一文讀懂GPT-5.5：從今天起，OpenAI「不賣」Token了
 source: https://mp.weixin.qq.com/s/uesnoZmSRS5sLaoPo80G0g
 date: 2026-04-25
 tags: [人工智慧, 科技影響, 平台與生態系, 商業模式]

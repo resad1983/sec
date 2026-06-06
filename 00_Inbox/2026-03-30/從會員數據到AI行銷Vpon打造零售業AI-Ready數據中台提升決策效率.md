@@ -5,9 +5,6 @@ date: 2026-03-30
 author: 數位時代 BusinessNext（Sponsored by Vpon 威朋）
 status: raw
 ---
-
-> 注意：本文為 Vpon 威朋贊助內容
-
 Vpon 威朋協助零售品牌建立 AI-Ready 的數據基礎。
 
 ## 數據基礎建設四步驟

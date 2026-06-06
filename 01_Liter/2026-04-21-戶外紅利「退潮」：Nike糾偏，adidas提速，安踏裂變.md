@@ -13,7 +13,6 @@ links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
 ﻿---
-title: 戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變
 source: https://mp.weixin.qq.com/s/4uYiHdq4-7Qfa6SHW5FNRg
 date: 2026-04-21
 tags: [品牌, 市場與需求, 商業模式, 行銷]
