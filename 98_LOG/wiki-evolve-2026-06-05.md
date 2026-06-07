@@ -1,12 +1,12 @@
 # Batch Wiki Evolution Report
 Date: 2026-06-05
 
-## Summary
+## 摘要
 - Total notes processed: 1473
 - Skipped (no tags): 0
 - Skipped (no core insight): 2
 - Wiki files created/updated: 31
-- Notes marked wiki_evolved: true: 77
+- 已標記 `wiki_evolved: true` 的筆記： 77
 
 ## Tags Updated
 - UPDATED 世代變遷.md (+105 entries)

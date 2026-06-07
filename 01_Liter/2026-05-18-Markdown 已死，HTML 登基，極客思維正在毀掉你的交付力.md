@@ -4,10 +4,11 @@ source: "菜根老譚"
 date: 2026-05-18
 tags: [品牌, 市場與需求, 體驗]
 keywords: [Markdown已死, HTML登基, 視覺霸權, 極速交付, 一人公司, 超級個體]
-type: 工具與商業邏輯思考
+type: 工具指南
 raw_ref: "[[2026-05-18/Markdown 已死，HTML 登基：極客思維正在毀掉你的交付力]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-18
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

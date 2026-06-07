@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "'[[2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-08
 principle: []
 links: 'status: draft'
 status: draft
@@ -40,7 +41,7 @@ status: draft
 ## 關聯筆記
 
 - [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent基礎概念，本文的架構選型是其進階延伸
-- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — Skills實踐的反思，與本文架構討論形成現實對照
+- [[2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — Skills實踐的反思，與本文架構討論形成現實對照
 
 ---
 > [!TIP]

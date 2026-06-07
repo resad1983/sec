@@ -4,10 +4,11 @@ source: "https://www.trendwatching.com/innovations/during-off-peak-hours-hospita
 date: 2026-05-30
 tags: [城市與空間, 商業模式, 地方創生]
 keywords: [閒置空間, 社區樞紐, 社會連結, 基礎設施]
-type: 商業觀察
+type: 產業分析
 raw_ref: "[[2026-05-30/During off-peak hours, hospitality chain Mooie Boules repurposes venues as community hubs]]"
 project: [台中舊城區, 民生路老宅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-30
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

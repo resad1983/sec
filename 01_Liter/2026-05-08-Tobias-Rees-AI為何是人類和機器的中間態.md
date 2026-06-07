@@ -4,10 +4,11 @@ source: "Fast Company中文版"
 date: "2026-05-08"
 tags: [人工智慧, 人機互動, 心理]
 keywords: [Tobias Rees, 中間態, 二元論, 主體性, 元認知, 存在主義焦慮]
-type: 哲學訪談
+type: 人物訪談
 raw_ref: "[[2026-05-08/Tobias-Rees-AI為何是人類和機器的中間態]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-08
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

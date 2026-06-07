@@ -49,7 +49,7 @@
 - `knowledge-distiller` 原本寫「34 個標籤」，已改成「30 個標籤」。
 - `knowledge-distiller` 已補上不直接更新 `022_wiki_topics`。
 - `knowledge-project-sync` 已補上不更新 `022_wiki_topics`。
-- `knowledge-wiki-compiler` 的 audit 文字已改成：topic / 子題頁一律應位於 `022_wiki_topics`。
+- `knowledge-wiki-compiler` 的 稽核 文字已改成：topic / 子題頁一律應位於 `022_wiki_topics`。
 
 驗證：
 
@@ -108,7 +108,7 @@
 - `[[市場與需求_近期觀察]]`
 - `[[市場與需求_前期趨勢]]`
 
-這兩條不是案例，應移到新的 `## 子題導覽` 區塊，避免日後 audit 或腳本把它們誤算成案例。
+這兩條不是案例，應移到新的 `## 子題導覽` 區塊，避免日後 稽核 或腳本把它們誤算成案例。
 
 建議修法：
 

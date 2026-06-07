@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-23/Friend Friend｜Emporium 里的时尚绿洲]]"
 project: [勤美誠品]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-23
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -4,10 +4,11 @@ source: "https://www.businessweekly.com.tw/international/blog/3020948"
 date: 2026-03-20
 tags: [生活方式, 世代變遷, 心理, 文化現象]
 keywords: [Chinamaxxing, 美國青年, 中國軟實力, 社群媒體, 文化輸出, TikTok, 小紅書]
-type: 社會趨勢
+type: 社會觀察
 raw_ref: "[[2026-03-20/美國年輕人突大量親中喝溫水脫鞋進屋社群掀Chinamaxxing風潮]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-03-20
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

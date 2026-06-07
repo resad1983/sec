@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-06/行銷人如何在Possible大會調適AI時代的人性張力]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-06
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

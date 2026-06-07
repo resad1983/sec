@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-29/Puma 押中了 HYROX？]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-10/AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

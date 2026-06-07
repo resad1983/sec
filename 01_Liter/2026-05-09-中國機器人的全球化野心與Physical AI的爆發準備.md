@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-09/中國機器人的全球化野心與Physical AI的爆發準備]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-09
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

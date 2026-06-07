@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-04/Fabletics如何成長為美國最大的DTC運動服品牌]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-04
 principle: []
 links: '{"direct":["[[2025-12-22-深度｜日本爆紅「穿搭訂閱制」！續約率 95%、年收近 50 億，airCloset 憑什麼成功？|穿搭訂閱制]]","[[2026-03-30-從會員數據到 AI 行銷：Vpon 打造零售業 AI-Ready 數據中台，提升決策效率|會員數據行銷]]"],"deep":[],"serendipity":[]}'
 status: draft

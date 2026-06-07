@@ -18,7 +18,6 @@ principle: []
 links: '{direct:[],deep:[],serendipity:[]}'
 status: draft
 ---
-
 # Amadeus launches AI-driven travel advertising platform with Accenture
 
 ## 核心摘要

@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-23/融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-23
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

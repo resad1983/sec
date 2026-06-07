@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-29/前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]"
 project: [個人顧問品牌, 不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

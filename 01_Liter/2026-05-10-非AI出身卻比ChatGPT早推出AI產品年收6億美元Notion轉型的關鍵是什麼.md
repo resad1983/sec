@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-10/非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是什麼]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

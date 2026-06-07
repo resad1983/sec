@@ -1,6 +1,6 @@
 # Inbox/Liter Coverage Current - 2026-06-05
 
-## Summary
+## 摘要
 - 00_Inbox article markdown files, excluding _index.md: 1430
 - 01_Liter markdown files: 1497
 - matched 00 -> 01: 1430
@@ -18,11 +18,11 @@
 - For multiple same-day candidates, choose the exact or more specific title match.
 - Use same-date fuzzy title only for filename, punctuation, or simplified/traditional variants that otherwise become false missing.
 
-## Missing Clear 01 Refinement
+## 缺少明確 `01_Liter` 精煉檔
 
-## Ambiguous Matches
+## 模糊匹配
 
-## Resolved Ambiguous Matches
+## 已解決的模糊匹配
 - 00_Inbox/2026-03-29/年輕人最新的抖音晒學全都是活人感.md | previous_method=raw_ref | resolution=unique => 01_Liter/2026-03-29-年輕人最新的抖音「晒學」，全都是活人感.md
 - 00_Inbox/2026-03-29/張勇重掌CEO後海底撈開始拆解自己.md | previous_method=raw_ref | resolution=unique => 01_Liter/2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己.md
 - 00_Inbox/2026-03-29/蘇聯Labubu成了今年潮人貴婦的新玩物.md | previous_method=raw_ref | resolution=unique => 01_Liter/2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物.md
@@ -88,7 +88,7 @@
 - 00_Inbox/2026-05-30/快閃，正在成為商場的主菜.md | previous_method=raw_ref | resolution=unique => 01_Liter/2026-05-30-快閃，正在成為商場的主菜.md
 - 00_Inbox/2026-06-02/不想结婚了，只想找人同居.md | previous_method=raw_ref | resolution=same-date/exact-title => 01_Liter/2026-06-02-不想结婚了，只想找人同居.md
 
-## Incomplete 01 Structure
+## `01_Liter` 結構不完整
 
 ## Lost Raw Names From Prior Clippings Move
 

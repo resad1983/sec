@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-30/賣不出去的Apple Watch，被出片女孩炒火了？]]"
 project: [勤美誠品, 台中舊城區, 民生路老宅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-30
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

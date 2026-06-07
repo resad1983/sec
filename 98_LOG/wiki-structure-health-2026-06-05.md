@@ -1,12 +1,12 @@
-# Wiki Structure Health - 2026-06-05
+# Wiki 結構健康檢查 - 2026-06-05
 
-## Validation
-- broken_wikilinks: 0
-- bom_files: 0
-- placeholders: 0
-- duplicate_links_same_section: 0
+## 驗證結果
+- 斷裂 wikilink： 0
+- 含 BOM 檔案： 0
+- placeholder 數量： 0
+- 同區塊重複連結： 0
 
-## Type Distribution
+## 類型分布
 ### 02_wiki
 - 核心概念: 30
 ### 021_wiki
@@ -15,7 +15,7 @@
 - wiki_topic: 14
 - 核心概念: 10
 
-## Notes
-- Same-section duplicate case links were deduped conservatively.
-- Frontmatter/body cross-references are not counted as duplicate case links.
-- All wiki-layer files validated as UTF-8 without BOM.
+## 備註
+- 同區塊重複案例連結已保守去重。
+- Frontmatter 與正文之間的交叉引用不計為重複案例連結。
+- 所有 wiki 層檔案已驗證為 UTF-8 且不含 BOM。

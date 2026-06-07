@@ -1,4 +1,4 @@
-# Sample of 441 Null Notes
+# 441 則 Null 筆記樣本
 
 Total: 443
 
@@ -7,7 +7,7 @@ Total: 443
 | Tag | Count |
 |---|---|
 
-## First 50 Notes
+## 前 50 則筆記
 
 | # | Title | Tags |
 |---|---|---|

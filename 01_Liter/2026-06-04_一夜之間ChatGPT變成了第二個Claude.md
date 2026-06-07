@@ -8,11 +8,11 @@ type: 技術分析
 raw_ref: "[[2026-06-04/一夜之间，ChatGPT变成了第二个Claude]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-06-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 - OpenAI將Codex整合進ChatGPT，產品邏輯全面從對話入口轉向Agent工作流入口，標誌著AI產品從「聊天」到「做事」的範式轉移
 - Codex從開發者工具成長為企業工作入口，非開發者用戶增長速度達開發者3倍，暗示低代碼/無代碼趨勢的加速

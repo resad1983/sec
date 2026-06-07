@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-08/Claude Code之父自曝CC誕生源於偶然]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-08
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

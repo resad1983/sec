@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-18/AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-18
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -43,7 +44,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-31-壁仞科技營收三年增16倍國產算力業績兌現期|壁仞科技營收三年增16倍國產算力業績兌現期]] — 中國本土算力的崛起，與Cerebras共同構成英偉達的全球挑戰者格局
+- [[2026-03-31-壁仞科技營收三年增16倍，國產算力芯片業績兌現期|壁仞科技營收三年增16倍國產算力業績兌現期]] — 中國本土算力的崛起，與Cerebras共同構成英偉達的全球挑戰者格局
 - [[2026-04-11-Anthropic收入憑什麼反超OpenAI|Anthropic收入憑什麼反超OpenAI]] — AI生態上層（應用層）的競爭，與本文底層（芯片層）競爭形成完整的AI產業鏈競爭圖景
 
 ---

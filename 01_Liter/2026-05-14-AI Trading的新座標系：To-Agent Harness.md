@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-14/AI Trading的新座標系：To-Agent Harness]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-14
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

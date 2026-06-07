@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-10/Claude-Managed-Agents顛覆SaaS：從賣算力到租數位勞動力]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -39,8 +40,8 @@ status: draft
 ## 關聯筆記
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI能力封裝的架構演進，是Managed Agents的技術底座
-- [[2026-03-31-一個人的營銷部門40個AI-Agent如何顛覆工作方式|一個人的營銷部門40個AI-Agent如何顛覆工作方式]] — 個人使用Agent的實踐，Managed Agents是企業版同類演化
-- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] — SaaS被顛覆的大趨勢背景
+- [[2026-03-31-一個人的營銷部門：40個AI Agent如何顛覆工作方式|一個人的營銷部門40個AI-Agent如何顛覆工作方式]] — 個人使用Agent的實踐，Managed Agents是企業版同類演化
+- [[2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] — SaaS被顛覆的大趨勢背景
 
 ---
 > [!TIP]

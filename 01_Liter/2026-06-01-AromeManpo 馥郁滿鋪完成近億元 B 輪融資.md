@@ -1,4 +1,4 @@
-﻿---
+---
 title: AromeManpo 馥郁滿鋪完成近億元 B 輪融資
 source: 36Kr
 date: 2026-06-01
@@ -8,11 +8,11 @@ type: 商業案例
 raw_ref: "[[2026-06-01/AromeManpo 馥郁滿鋪完成近億元 B 輪融資]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-06-01
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 
 > 馥郁滿鋪的成長路徑揭示了「情緒消費品」的底層邏輯：不靠功效背書，靠科學驗證的「情感效果」——當品牌把「讓你感覺更好」轉化為有專利、有研究院支撐的主張，溢價空間就被牢牢鎖定。

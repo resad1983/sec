@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-15/Hightouch達到一億美元ARR：AI行銷工具驅動的爆發成長]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

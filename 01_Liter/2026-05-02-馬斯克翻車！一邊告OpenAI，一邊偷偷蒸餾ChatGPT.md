@@ -8,6 +8,7 @@ type: 其他
 raw_ref: "'[[2026-05-02/馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT]]'"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-02
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

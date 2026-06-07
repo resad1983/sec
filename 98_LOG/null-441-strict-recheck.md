@@ -1,4 +1,4 @@
-# Step 5 Strict Recheck of 441 Null Notes
+# 第 5 步：441 則 Null 筆記嚴格複查
 
 Total rechecked: 443
 Strong false negatives (strong keyword match): 0

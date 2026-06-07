@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-04-10/讓AI看懂世界：Chance-AI的視覺智能體革命]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

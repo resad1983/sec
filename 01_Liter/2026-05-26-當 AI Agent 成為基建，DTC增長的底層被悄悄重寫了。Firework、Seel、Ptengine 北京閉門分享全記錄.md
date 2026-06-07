@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-26/當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework、Seel、Ptengine 北京閉門分享全記錄]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-26
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

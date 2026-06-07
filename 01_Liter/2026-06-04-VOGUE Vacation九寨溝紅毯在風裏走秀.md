@@ -8,11 +8,11 @@ type: 行銷案例
 raw_ref: "[[2026-06-04/VOGUE Vacation九寨沟红毯在风里走秀]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-06-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 VOGUE Vacation 將時尚紅毯搬上海拔兩千米的九寨溝山谷——「風毯」的概念讓奢侈品不再只是都市頂樓派對的專利，而是與自然能量深度綁定的生活方式提案。
 

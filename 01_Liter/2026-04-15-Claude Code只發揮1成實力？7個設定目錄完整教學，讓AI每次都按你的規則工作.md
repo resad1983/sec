@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-15/Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -46,7 +47,7 @@ status: draft
 ## 關聯筆記
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — 同樣探討AI工具的架構設計，.claude/設定是其中的個人化層面
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code的生態系擴展，與本文的設定教學互為補充
+- [[2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code的生態系擴展，與本文的設定教學互為補充
 
 ---
 > [!TIP]

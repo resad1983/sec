@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-18/AI大事件：Claude Opus 4.7再升級中美模型差距縮至2.7%]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-18
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -36,7 +37,7 @@ status: draft
 ## 關聯筆記
 
 - [[2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻|AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]] — 同系列AI週報，構成連續的技術脈動追蹤，可對照觀察一週內的模型競賽加速度
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code生態演進的前期背景，理解4.7發布的策略脈絡
+- [[2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Claude Code生態演進的前期背景，理解4.7發布的策略脈絡
 - [[2026-04-02-Claude-Code-51萬行源碼泄露深度分析|Claude-Code-51萬行源碼泄露深度分析]] — Claude生態的安全議題前情，與本期MCP漏洞形成安全主題的連續觀察
 
 ---

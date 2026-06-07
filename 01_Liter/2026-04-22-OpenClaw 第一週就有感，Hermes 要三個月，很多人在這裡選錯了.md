@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-22/OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-22
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -40,7 +41,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-17-如何用 Skills高效完成产品经理的工作？|如何用 Skills 高效完成產品經理的工作？]] — Skills 系統的具體應用，與 Hermes 的技能學習機制直接相關
+- [[2026-04-17-如何用 Skills 高效完成產品經理的工作？|如何用 Skills 高效完成產品經理的工作？]] — Skills 系統的具體應用，與 Hermes 的技能學習機制直接相關
 - [[2026-04-16-別迷信大模型：零食貨架教我悟出的「最小框」AI工程法|別迷信大模型：零食貨架教我悟出的「最小框」AI工程法]] — 務實的 AI 工具選擇哲學，與本篇的工具比較框架互補
 - [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學]] — AI 工具的深度配置策略，呼應 Hermes 的長期學習優化邏輯
 

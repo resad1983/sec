@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-04/DoorDash推出AI工具加速商家上線與照片優化]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

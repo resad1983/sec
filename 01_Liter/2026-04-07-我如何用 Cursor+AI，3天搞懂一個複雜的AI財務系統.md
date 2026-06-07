@@ -4,10 +4,11 @@ source: "人人都是產品經理"
 date: 2026-04-07
 tags: [產品, 學習與思考, 人工智慧, 組織與策略]
 keywords: [AI工具, Cursor, 學習方法, 產品經理, 財務系統]
-type: 實作方法論/AI應用
+type: 技術分析
 raw_ref: "[[2026-04-07/我如何用Cursor加AI三天搞懂複雜AI財務系統]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-07
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

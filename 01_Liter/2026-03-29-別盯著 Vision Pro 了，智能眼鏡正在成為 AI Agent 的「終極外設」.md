@@ -4,10 +4,11 @@ source: "https://www.woshipm.com/ai/6365580.html"
 date: 2026-03-29
 tags: [人工智慧, 地方創生, 行為決策, 產品]
 keywords: [AI, Agent, 具身智能, 硬體, 產品設計]
-type: 產品趨勢
+type: 產品設計
 raw_ref: "[[2026-03-29/智能眼鏡正在成為AI-Agent的終極外設]]"
 project: [典典文創, 台中舊城區, 民生路老宅]
 wiki_evolved: true
+wiki_evolved_at: 2026-03-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

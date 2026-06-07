@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-11/El Pollo Loco 以利潤、行銷與菜單動能持續領跑]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-11
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

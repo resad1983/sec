@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-04-29/Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

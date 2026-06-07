@@ -4,10 +4,11 @@ source: "林月半子的AI筆記"
 date: "2026-05-08"
 tags: [人工智慧, 創作方法, 設計]
 keywords: [Hermes, NotebookLM, 知識管理, 自動化, 知識飛輪]
-type: 實戰指南
+type: 方法論
 raw_ref: "[[2026-05-08/Hermes-接上-NotebookLM-之後-我的知識庫開始自己滾了]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-08
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

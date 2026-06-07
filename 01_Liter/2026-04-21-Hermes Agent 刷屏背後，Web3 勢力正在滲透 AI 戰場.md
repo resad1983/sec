@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-21/Hermes Agent刷屏背后，Web3势力正在渗透AI战场]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-21
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -36,7 +37,7 @@ status: draft
 
 - [[2026-04-19-▍下一輪加密敘事｜20260418|▍下一輪加密敘事｜20260418]] — 加密市場下一波敘事，解釋 Web3 人才為何持續轉向 AI 的背景
 - [[2026-04-08-黃仁勳最新演講|黃仁勳最新演講（GTC 2026）]] — AI 基礎設施的宏觀視角，與 Web3 的去中心化算力形成對比
-- [[2026-04-23-中文護城河崩塌GPT Image 2踢翻即夢可靈通義萬象|中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象]] — AI 平台格局的快速演變，補充 Hermes 崛起的競爭背景
+- [[2026-04-23-中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象|中文護城河崩塌：GPT Image 2踢翻即夢可靈通義萬象]] — AI 平台格局的快速演變，補充 Hermes 崛起的競爭背景
 
 ---
 > [!TIP]

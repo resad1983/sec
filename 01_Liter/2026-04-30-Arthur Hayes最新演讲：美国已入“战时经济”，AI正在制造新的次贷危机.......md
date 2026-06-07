@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-30/Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危机......]]"
 project: [台中舊城區, 民生路老宅]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-30
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

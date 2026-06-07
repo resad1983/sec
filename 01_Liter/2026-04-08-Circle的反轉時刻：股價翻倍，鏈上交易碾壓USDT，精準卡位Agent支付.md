@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "'[[2026-04-08/Circle的反转时刻：股价翻倍，链上交易碾压USDT，精准卡位Agent支付]]'"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-08
 principle: []
 links: 'status: draft'
 status: draft
@@ -33,7 +34,7 @@ status: draft
 
 ## 關聯筆記
 
-- `[[2026-03-27-AI支付的重點不是支付本身|AI支付的重點不是支付本身]]` — AI支付生態的宏觀分析，與Circle案例高度互補
+- `[[2026-03-27-AI 支付的重點 不是支付本身|AI支付的重點不是支付本身]]` — AI支付生態的宏觀分析，與Circle案例高度互補
 - `[[2026-03-29-FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計|FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]` — Agent支付在物流場景的實際應用
 - `[[2026-03-25-Web3病了但解藥不是AI|Web3病了但解藥不是AI]]` — Web3/區塊鏈生態批判視角，提供平衡觀點
 

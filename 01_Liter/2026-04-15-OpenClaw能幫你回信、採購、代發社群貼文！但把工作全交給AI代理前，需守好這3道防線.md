@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-15/OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

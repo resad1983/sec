@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-03/AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-03
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

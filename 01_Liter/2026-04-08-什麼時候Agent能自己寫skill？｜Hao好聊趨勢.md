@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "'[[2026-04-08/什么时候Agent能自己写skill？｜Hao好聊趋势]]'"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-08
 principle: []
 links: 'status: draft'
 status: draft
@@ -35,7 +36,7 @@ status: draft
 
 ## 關聯筆記
 
-[[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] 同為Agent架構設計議題，探討Skills的應用選型
+[[2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] 同為Agent架構設計議題，探討Skills的應用選型
 
 ---
 > [!TIP]

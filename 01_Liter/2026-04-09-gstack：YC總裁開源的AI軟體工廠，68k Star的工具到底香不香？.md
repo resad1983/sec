@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "'[[2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-09
 principle: []
 links: 'status: draft'
 status: draft
@@ -43,9 +44,9 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-08-一文搞懂AgentSkillsAgentTeams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] — 同樣討論Agent角色分工的架構哲學，可相互印證
+- [[2026-04-08-一文搞懂Agent、Skills、Agent Teams如何做架構選型|一文搞懂AgentSkillsAgentTeams如何做架構選型]] — 同樣討論Agent角色分工的架構哲學，可相互印證
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — gstack使用的Skill機制正是這篇討論的範式體現
-- [[2026-04-07-我把老板蒸餾成AI技能後發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — 將人格/工作風格蒸餾進Skill的實踐案例，與gstack的角色設計形成對照
+- [[2026-04-07-我把老板蒸餾成 AI Skill（技能）後，發現了一個可怕的真相|我把老板蒸餾成AI技能後發現了一個可怕的真相]] — 將人格/工作風格蒸餾進Skill的實踐案例，與gstack的角色設計形成對照
 
 ---
 > [!TIP]

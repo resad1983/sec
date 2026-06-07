@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -27,7 +28,7 @@ CLI 的本質不是黑窗口，而是「把系統能力結構化、參數化、�
 
 ## 關聯筆記
 - [[2026-04-28-微软是如何穿越30年周期的|微软是如何穿越30年周期的]] —— 企業服務的底層邏輯正在重構，微軟透過 GitHub 與 Azure 佈局 AI，而國內的飛書與釘釘則透過 CLI 改造來爭奪 Agent 時代的入口。
-- [[2026-05-04-拆解 Hermes Agent 五层架构，内部到底怎么跑的|拆解 Hermes Agent 五层架构，内部到底怎么跑的]] —— Hermes Agent 的五層架構中，執行層的穩定性正是依賴類似 CLI 這種結構化、可預期的系統調用能力。
+- [[2026-05-04-拆解 Hermes Agent 五层架构，内部到底怎么跑的_v2|拆解 Hermes Agent 五层架构，内部到底怎么跑的]] —— Hermes Agent 的五層架構中，執行層的穩定性正是依賴類似 CLI 這種結構化、可預期的系統調用能力。
 
 ---
 > [!TIP]

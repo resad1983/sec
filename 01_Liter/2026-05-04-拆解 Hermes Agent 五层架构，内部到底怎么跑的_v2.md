@@ -4,10 +4,11 @@ source: "AI 架構師湯師爺"
 date: 2026-05-04
 tags: [人工智慧, 科技影響]
 keywords: [PTC, 記憶快照, 子Agent委託, 前綴緩存, 自進化]
-type: 技術深度
-raw_ref: "[[2026-05-04/拆解 Hermes Agent 五层架构，内部到底怎么跑的.md]]"
+type: 技術分析
+raw_ref: "[[拆解 Hermes Agent 五层架构，内部到底怎么跑的|2026-05-04/拆解 Hermes Agent 五层架构，内部到底怎么跑的.md]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-04
 principle: []
 links: '{"direct":["[[2026-05-04-Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践]]"],"deep":[],"serendipity":[]}'
 status: draft
@@ -33,7 +34,7 @@ Hermes Agent 的成功不在於模型本身，而在於其精密的 **「工程�
 
 ## 關聯筆記
 - [[2026-05-04-Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践|Harness不是目的，知识才是护城河 —— 一个AI工程交付团队的知识沉淀实践]] —— Harness 工程是架構，Hermes 是其實作。
-- [[2026-05-04-一个人公司 OPC 必备的 36 个营销 Skill|一个人公司 OPC 必备的 36 个营销 Skill]] —— 這些 Skill 最終應沉淀進 Hermes 的擴展層中。
+- [[2026-05-04-一个人公司 OPC 必备的 36 个营销 Skill_v2|一个人公司 OPC 必备的 36 个营销 Skill]] —— 這些 Skill 最終應沉淀進 Hermes 的擴展層中。
 ---
 > [!IMPORTANT]
 > 工程判斷就是：不優雅，但管用。

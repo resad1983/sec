@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-10/親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

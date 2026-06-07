@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-28/Snapchat推出AI驅動的對話式廣告功能]]"
 project: [個人顧問品牌, 不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-28
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-04-15/Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃文件一鍵搞定]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

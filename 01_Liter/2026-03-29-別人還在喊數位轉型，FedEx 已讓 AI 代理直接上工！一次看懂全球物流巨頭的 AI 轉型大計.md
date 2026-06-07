@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-03-29/FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-03-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

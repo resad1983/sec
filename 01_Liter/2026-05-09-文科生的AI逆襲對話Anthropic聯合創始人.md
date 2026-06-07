@@ -8,6 +8,7 @@ type: 文化觀察
 raw_ref: "[[2026-05-09/文科生的AI逆襲對話Anthropic聯合創始人]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-09
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

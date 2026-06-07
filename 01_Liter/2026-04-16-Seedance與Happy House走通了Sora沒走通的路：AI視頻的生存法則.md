@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -49,9 +50,9 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-29-OpenAI關閉Sora的真正原因|OpenAI關閉Sora的真正原因]] — Sora關閉的商業邏輯深度剖析，是理解本文的必讀背景
+- [[2026-03-29-OpenAI 關閉 Sora 的真正原因|OpenAI關閉Sora的真正原因]] — Sora關閉的商業邏輯深度剖析，是理解本文的必讀背景
 - [[2026-03-29-Sora關閉是AI影片的現實時刻嗎|Sora關閉是AI影片的現實時刻嗎]] — AI影片商業化的轉折點分析，提供宏觀行業框架
-- [[2026-03-31-AI-Coding不是殺死中國SaaS而是暴露從未有護城河|AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — 技術工具衝擊下，生態整合才是真正的護城河
+- [[2026-03-31-AI Coding 不是殺死了中國 SaaS，而是暴露了它從未有過護城河|AI-Coding不是殺死中國SaaS而是暴露從未有護城河]] — 技術工具衝擊下，生態整合才是真正的護城河
 
 ---
 > [!TIP]

@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-05-12/OpenAI讓在ChatGPT投放購物廣告變得更容易]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-12
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

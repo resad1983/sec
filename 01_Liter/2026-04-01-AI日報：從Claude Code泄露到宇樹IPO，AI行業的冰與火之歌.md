@@ -4,10 +4,11 @@ source: "人人都是產品經理"
 date: 2026-04-01
 tags: [人工智慧, 科技影響, 產品, 商業模式]
 keywords: [AI動態, Claude Code, 具身智能, 大模型, 科技趨勢]
-type: 行業日報摘要
+type: 產業分析
 raw_ref: "[[2026-04-01/AI日報從Claude-Code泄露到宇樹IPO]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-01
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

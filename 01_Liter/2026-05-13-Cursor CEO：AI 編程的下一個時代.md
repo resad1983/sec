@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-13/Cursor CEO：AI 編程的下一個時代]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-13
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -4,10 +4,11 @@ source: "人人都是產品經理"
 date: 2026-04-04
 tags: [人工智慧, 產品, 組織與策略, 數位系統]
 keywords: [AI Agent, 開源工具, 自動化, 學習閉環, 企業應用]
-type: 工具評測
+type: 工具指南
 raw_ref: "[[2026-04-04/開源Hermes-Agent評測越用越聰明的AI智慧體]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -46,7 +47,7 @@ status: draft
 ## 關聯筆記
 
 - [[2026-04-04-在Agent時代如何搭建第一個自動化閉環|在Agent時代如何搭建第一個自動化閉環]] — 從工具評測到工程實踐，補充自動化閉環搭建方法論
-- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — Hermes的設計哲學與Claude系統提示詞工程的比較
+- [[2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — Hermes的設計哲學與Claude系統提示詞工程的比較
 
 ---
 > [!TIP]

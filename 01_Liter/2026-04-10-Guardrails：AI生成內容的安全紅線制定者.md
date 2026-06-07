@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-10/Guardrails：AI生成內容的安全紅線制定者]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -40,7 +41,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-02-AI時代真正危險的可能不是模型失控而是模型太聽話|AI時代真正危險的可能不是模型失控而是模型太聽話]] — 從相反角度：過度Guardrails導致AI喪失有效性的風險
+- [[2026-04-02-AI時代，真正危險的可能不是模型失控，而是模型太聽話|AI時代真正危險的可能不是模型失控而是模型太聽話]] — 從相反角度：過度Guardrails導致AI喪失有效性的風險
 - [[2026-03-29-Claude官方公布85個真實使用情境涵蓋職場專業行銷等12類別|Claude官方公布85個真實使用情境涵蓋職場專業行銷等12類別]] — AI能力邊界的官方定義，與Guardrails的設計相互呼應
 
 ---

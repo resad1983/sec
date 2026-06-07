@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-29/Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

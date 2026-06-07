@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-14/不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-14
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

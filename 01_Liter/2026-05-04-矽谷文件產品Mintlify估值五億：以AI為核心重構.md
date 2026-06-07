@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-04/矽谷文件產品Mintlify估值五億：以AI為核心重構]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

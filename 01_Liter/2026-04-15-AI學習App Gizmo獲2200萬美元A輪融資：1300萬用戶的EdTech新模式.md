@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-15/AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTech新模式]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-12/還沒學會OpenClaw更猛的Hermes-Agent來了]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-12
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

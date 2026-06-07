@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-13/一文搞懂 Hermes Agent 与 OpenClaw 选型对比]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-13
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

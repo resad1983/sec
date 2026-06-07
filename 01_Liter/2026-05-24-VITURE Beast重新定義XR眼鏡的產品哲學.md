@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-05-24/VITURE Beast重新定義XR眼鏡的產品哲學]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-24
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

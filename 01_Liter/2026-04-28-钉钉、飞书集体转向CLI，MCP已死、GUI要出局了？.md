@@ -4,10 +4,11 @@ source: "叶小钗"
 date: 2026-04-28
 tags: [人工智慧, 人機互動, 產品]
 keywords: [CLI, GUI, MCP, AI Agent, Function Calling, 工作流]
-type: 技術洞察
+type: 技術分析
 raw_ref: "[[2026-04-28/钉钉、飞书集体转向CLI，MCP已死、GUI要出局了？]]"
 project: [知識蒸餾CLI, 個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-28
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

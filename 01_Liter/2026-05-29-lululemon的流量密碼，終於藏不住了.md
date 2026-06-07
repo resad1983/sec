@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-29/lululemon的流量密碼，終於藏不住了]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

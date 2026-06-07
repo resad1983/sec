@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-04-15/Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞]]"
 project: [典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-15
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -33,7 +34,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-05-當提示詞變成系統工程Claude案例給AI-PM實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — 同樣關注提示詞系統化，從 PM 角度討論 Prompt 工程化的必要性
+- [[2026-04-05-當提示詞變成系統工程：Claude案例給AI PM的實戰框架|當提示詞變成系統工程Claude案例給AI-PM實戰框架]] — 同樣關注提示詞系統化，從 PM 角度討論 Prompt 工程化的必要性
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — 探討 Claude Skill 架構的更大脈絡，與本文工具直接相關
 - [[2026-04-15-Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作|Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]] — 同為 Claude 深度設定教學，可互補參照
 

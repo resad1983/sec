@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -43,7 +44,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-04-13-用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的|用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的]] — Skill封裝就是Context資產庫的具體實踐：把最好的方法論封裝成可複用指令集
+- [[2026-04-13-用小龍蝦做競品分析報告：從2天到20分鐘，我是怎麼做到的|用小龍蝦做競品分析報告從2天到20分鐘我是怎麼做到的]] — Skill封裝就是Context資產庫的具體實踐：把最好的方法論封裝成可複用指令集
 - [[2026-04-08-我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解|我不想再教 AI 做事了：一個 AI 產品經理對工作方式的重新理解]] — 從「教AI」到「設計工作流」，與CTX-6的Step 6「Update Context」是同一層升級
 - [[2026-04-09-gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？|gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]] — AI團隊協作的知識架構化，角色分工本身就是一種Context設計
 

@@ -4,10 +4,11 @@ source: "數位時代"
 date: 2026-04-28
 tags: [人工智慧, 商業模式, 科技影響]
 keywords: [特斯拉, 馬斯克, 物理AI, Optimus, Cybercab, 機器人]
-type: 產業報告
+type: 產業分析
 raw_ref: "[[2026-04-28/馬斯克要用AI普發人類永續富足，靠Optimus、Cybercab能再下一城？]]"
 project: [個人顧問品牌, 知識蒸餾CLI]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-28
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

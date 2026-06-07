@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-30/法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-30
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

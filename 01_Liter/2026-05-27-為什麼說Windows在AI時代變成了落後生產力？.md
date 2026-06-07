@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-27/為什麼說Windows在AI時代變成了落後生產力？]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-27
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

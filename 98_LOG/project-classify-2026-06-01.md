@@ -1,7 +1,7 @@
 # Batch Project Classification Report
 Date: 2026-06-01
 
-## Summary
+## 摘要
 - Total [~] notes scanned: 719
 - Assigned to project: 278
 - Kept as [~]: 441

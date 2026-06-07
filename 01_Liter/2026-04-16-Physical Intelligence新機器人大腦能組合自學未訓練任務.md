@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/Physical Intelligence新機器人大腦能組合自學未訓練任務]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

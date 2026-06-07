@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-27/曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-27
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

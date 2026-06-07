@@ -8,6 +8,7 @@ type: 文化觀察
 raw_ref: "[[2026-05-22/Everlane 賣給 Shein，透明度究竟值多少]]"
 project: [個人顧問品牌, 典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-22
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

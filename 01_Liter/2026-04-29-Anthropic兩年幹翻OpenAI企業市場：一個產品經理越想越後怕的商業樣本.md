@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-29/Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣本]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-29
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

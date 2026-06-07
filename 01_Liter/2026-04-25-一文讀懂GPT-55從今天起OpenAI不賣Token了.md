@@ -15,7 +15,6 @@ principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 # 一文讀懂GPT-5.5：從今天起，OpenAI「不賣」Token了
 
 ## 核心摘要

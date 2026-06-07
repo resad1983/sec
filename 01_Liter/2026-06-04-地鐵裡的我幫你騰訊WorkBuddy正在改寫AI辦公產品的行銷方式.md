@@ -8,11 +8,11 @@ type: 行銷案例
 raw_ref: "[[2026-06-04/地鐵裏的我幫你，騰訊WorkBuddy正在改寫AI辦公產品的營銷方式]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-06-04
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
 ---
-
 ## 核心洞察
 AI產品的行銷關鍵正在從「能力認知」（證明它強）轉向「關係認知」（讓用戶願意把任務交給它）——產品越複雜，行銷越需要簡單。
 

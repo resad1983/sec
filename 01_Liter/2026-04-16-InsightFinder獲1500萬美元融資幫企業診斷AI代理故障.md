@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-16/InsightFinder獲1500萬美元融資幫企業診斷AI代理故障]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-05-03/LangChain團隊用AI Agent做銷售和行銷的最佳實踐]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-03
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

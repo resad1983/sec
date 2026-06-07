@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-19/小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-19
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

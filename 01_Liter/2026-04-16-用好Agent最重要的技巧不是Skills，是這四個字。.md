@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/用好Agent最重要的技巧不是Skills，是这四个字。]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/Hermes 凭什么两个月接棒 OpenClaw？]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -36,8 +37,8 @@ status: draft
 ## 關聯筆記
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] → AI工具生態演進的背景框架，理解Hermes出現的時代脈絡
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] → AI工具競合的格局，頭部玩家如何回應開源威脅
-- [[2026-04-01-a16z軟件公司只剩兩條路了沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] → 平台競爭的結構觀點，開源vs閉源的底層邏輯
+- [[2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] → AI工具競合的格局，頭部玩家如何回應開源威脅
+- [[2026-04-01-a16z：軟件公司只剩兩條路了，沒有中間態|a16z軟件公司只剩兩條路了沒有中間態]] → 平台競爭的結構觀點，開源vs閉源的底層邏輯
 
 ---
 > [!TIP]

@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-19/废墟里的新生泰国Galile Oasis，用野性对抗千城一面]]"
 project: [台中舊城區, 民生路老宅]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-19
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

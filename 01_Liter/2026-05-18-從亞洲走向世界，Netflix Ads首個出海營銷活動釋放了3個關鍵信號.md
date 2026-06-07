@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-18/從亞洲走向世界，Netflix Ads首個出海營銷活動釋放了3個關鍵信號]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-18
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

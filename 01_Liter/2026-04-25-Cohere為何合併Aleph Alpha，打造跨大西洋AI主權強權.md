@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-25/Cohere為何合併Aleph Alpha打造跨大西洋AI主權強權]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-25
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 產品設計
 raw_ref: "[[2026-04-27/Starboy掛在包上的AI時尚潮玩]]"
 project: [典典文創, 個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-27
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

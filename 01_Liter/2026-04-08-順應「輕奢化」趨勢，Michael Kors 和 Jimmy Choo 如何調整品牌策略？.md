@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-08/顺应轻奢化趋势，Michael Kors 和 Jimmy Choo 如何调整品牌策略？Capri集团CEO最新分享]]"
 project: [勤美誠品]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-08
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

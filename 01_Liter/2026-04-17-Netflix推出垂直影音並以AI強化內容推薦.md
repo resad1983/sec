@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "[[2026-04-17/Netflix推出垂直影音並以AI強化內容推薦]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-17
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -33,7 +34,7 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-27-這家公司全用AI做內容讀者跑光了|這家公司全用AI做內容讀者跑光了]] — AI內容過度生產導致讀者流失，對照Netflix以「AI輔助人類創意」的策略差異
+- [[2026-03-27-這家公司全用 AI 做內容 讀者跑光了|這家公司全用AI做內容讀者跑光了]] — AI內容過度生產導致讀者流失，對照Netflix以「AI輔助人類創意」的策略差異
 - [[2026-03-29-Sora關閉是AI影片的現實時刻嗎|Sora關閉是AI影片的現實時刻嗎]] — AI影片生成工具的市場現實，補充Netflix生成式AI佈局的背景
 - [[2026-04-10-Guardrails：AI生成內容的安全紅線制定者|Guardrails：AI生成內容的安全紅線制定者]] — AI生成內容的治理問題，延伸Netflix AI創作工具的風險管理視角
 

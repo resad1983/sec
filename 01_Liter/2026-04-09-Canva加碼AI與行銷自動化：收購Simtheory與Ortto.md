@@ -8,6 +8,7 @@ type: 產業報導
 raw_ref: "'[[2026-04-09/Canva加碼AI與行銷自動化：收購Simtheory與Ortto]]'"
 project: [個人顧問品牌, 典典文創]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-09
 principle: []
 links: 'status: draft'
 status: draft
@@ -42,7 +43,7 @@ status: draft
 ## 關聯筆記
 
 - [[2026-04-08-AI-Agent如何重新定義行銷多花一塊錢能帶來多少營收增長|AI-Agent如何重新定義行銷多花一塊錢能帶來多少營收增長]] — AI行銷自動化的ROI框架，可用於評估Canva新功能的實際價值
-- [[2026-04-06-Picsart推出創作者變現計劃讓設計師從作品中獲利|Picsart推出創作者變現計劃讓設計師從作品中獲利]] — 同為創意平台的商業化策略，形成對照
+- [[2026-04-06-Picsart 推出創作者變現計劃，讓設計師從作品中獲利|Picsart推出創作者變現計劃讓設計師從作品中獲利]] — 同為創意平台的商業化策略，形成對照
 - [[2026-03-31-Google-Stitch讓UI設計師開始焦慮的AI工具|Google-Stitch讓UI設計師開始焦慮的AI工具]] — 另一個設計工具AI化的案例，幫助形成全局視角
 
 ---

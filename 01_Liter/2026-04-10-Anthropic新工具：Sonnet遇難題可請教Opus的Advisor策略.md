@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-10/Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-10
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -42,7 +43,7 @@ status: draft
 
 - [[2026-03-31-MCP到Skill的範式轉移AI認知架構的進化|MCP到Skill的範式轉移AI認知架構的進化]] — AI系統架構的演進背景，Advisor Tool是另一種架構選擇
 - [[2026-03-29-工作流Agent智能體究竟都是什麼|工作流Agent智能體究竟都是什麼]] — Agent協作的基礎概念，Advisor策略是其中一種協作模式
-- [[2026-03-31-OpenAI給Claude-Code發插件兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Anthropic生態系的整體佈局
+- [[2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友|OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]] — Anthropic生態系的整體佈局
 
 ---
 > [!TIP]

@@ -4,10 +4,11 @@ source: "人人都是產品經理"
 date: 2026-03-31
 tags: [商業模式, 生活方式, 科技影響]
 keywords: [SaaS, AI編程, 護城河, 中國科技]
-type: 商業策略分析
+type: 產業分析
 raw_ref: "[[2026-03-31/AI-Coding不是殺死中國SaaS而是暴露從未有護城河]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-03-31
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

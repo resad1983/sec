@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-04-24/融了2000萬美金推出視頻版Photoshop Buzzy]]"
 project: [個人顧問品牌]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-24
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -39,7 +40,7 @@ status: draft
 ## 關聯筆記
 
 [[2026-04-16-Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則|Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]] — 同為AI視頻賽道的生存策略，可對照比較定位選擇
-[[2026-04-17-享刻智能深耕餐飲場景具身智能的差異化落地路徑|享刻智能深耕餐飲場景：具身智能的差異化落地路徑]] — 同樣是AI應用層產品選擇垂直場景的落地邏輯
+[[2026-04-17-享刻智能深耕餐飲場景：具身智能的差異化落地路徑|享刻智能深耕餐飲場景：具身智能的差異化落地路徑]] — 同樣是AI應用層產品選擇垂直場景的落地邏輯
 [[2026-04-17-AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻|AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]] — AI商業化趨勢的宏觀脈絡
 
 ---

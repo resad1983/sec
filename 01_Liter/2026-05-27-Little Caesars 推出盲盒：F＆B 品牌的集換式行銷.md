@@ -8,6 +8,7 @@ type: 商業案例
 raw_ref: "[[2026-05-27/Little Caesars 推出盲盒：F＆B 品牌的集換式行銷]]"
 project: [不二製餅]
 wiki_evolved: true
+wiki_evolved_at: 2026-05-27
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

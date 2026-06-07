@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-16/一文带你看懂，火爆全网的Harness Engineering到底是个啥。]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-16
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft

@@ -8,6 +8,7 @@ type: 技術分析
 raw_ref: "[[2026-04-13/阿里HappyHorse一場關於Token經濟的陽謀]]"
 project: [~]
 wiki_evolved: true
+wiki_evolved_at: 2026-04-13
 principle: []
 links: '{"direct":[],"deep":[],"serendipity":[]}'
 status: draft
@@ -35,8 +36,8 @@ status: draft
 
 ## 關聯筆記
 
-- [[2026-03-27-林俊旸離職阿里首次發文智能體時代正在到來|林俊旸離職阿里首次發文智能體時代正在到來]] — 阿里AI戰略的組織轉型背景
-- [[2026-04-08-阿里電商AI新動向圍繞Token重構電商|阿里電商AI新動向圍繞Token重構電商]] — 同一Token戰略在電商端的應用
+- [[2026-03-27-林俊暘離職阿里首次發文：智能體時代正在到來|林俊旸離職阿里首次發文智能體時代正在到來]] — 阿里AI戰略的組織轉型背景
+- [[2026-04-08-阿里電商 AI 新動向：圍繞 Token 重構電商|阿里電商AI新動向圍繞Token重構電商]] — 同一Token戰略在電商端的應用
 
 ---
 > [!TIP]
