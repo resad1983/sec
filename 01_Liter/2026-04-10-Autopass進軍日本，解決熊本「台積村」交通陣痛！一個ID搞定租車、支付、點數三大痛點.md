@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [商業模式, 數位系統, 產品]
 keywords: [Autopass, 移動支付, 出行金融, 台積電熊本, 超級應用, 平台整合, 余致緯]
 type: 商業案例
-raw_ref: "[[2026-04-10/Autopass進軍日本，解決熊本「台積村」交通陣痛！一個ID搞定租車、支付、點數三大痛點]]"
+raw_ref: "[[00_Inbox/2026-04-10/Autopass進軍日本，解決熊本「台積村」交通陣痛！一個ID搞定租車、支付、點數三大痛點]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

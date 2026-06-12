@@ -5,8 +5,10 @@ date: 2026-04-23
 tags: [人工智慧, 媒體與敘事, 平台與生態系, 產品]
 keywords: [交互流, AI娛樂, Garena, 內容平台]
 type: 商業案例
-raw_ref: "[[2026-04-23/融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板]]"
+raw_ref: "[[00_Inbox/2026-04-23/融資1億美元登頂Google娛樂榜，Loopit能否開啟內容交互新天花板]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-23
 principle: []

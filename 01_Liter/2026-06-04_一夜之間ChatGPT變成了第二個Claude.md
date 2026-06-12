@@ -5,8 +5,10 @@ date: 2026-06-04
 tags: [科技影響, 平臺與生態系, 人工智慧]
 keywords: [ChatGPT, Codex, AI Agent, OpenAI, 企業AI]
 type: 技術分析
-raw_ref: "[[2026-06-04/一夜之间，ChatGPT变成了第二个Claude]]"
+raw_ref: "[[00_Inbox/2026-06-04/一夜之间，ChatGPT变成了第二个Claude]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-06-04
 principle: []

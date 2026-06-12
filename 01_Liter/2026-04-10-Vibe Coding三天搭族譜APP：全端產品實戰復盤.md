@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [人工智慧, 創作方法, 學習與思考, 產品]
 keywords: [vibe coding, 族譜, Flask, 本地化存儲, 產品經理全端]
 type: 商業案例
-raw_ref: "[[2026-04-10/Vibe-Coding三天搭族譜APP：全端產品實戰復盤]]"
+raw_ref: "[[00_Inbox/2026-04-10/Vibe-Coding三天搭族譜APP：全端產品實戰復盤]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-07
 tags: [科技影響, 人工智慧, 世代變遷, 市場與需求]
 keywords: [機器人, 情感AI, 消費科技, 創業, 仿生設計]
 type: 產品設計
-raw_ref: "[[2026-04-07/前迪士尼工程師和Midjourney聯創要做一款會呼吸的DIY仿生機器人]]"
+raw_ref: "[[00_Inbox/2026-04-07/前迪士尼工程師和Midjourney聯創要做一款會呼吸的DIY仿生機器人]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-07
 principle: []

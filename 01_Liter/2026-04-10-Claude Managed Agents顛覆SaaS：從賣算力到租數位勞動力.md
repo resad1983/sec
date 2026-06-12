@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [人工智慧, 商業模式, 數位系統, 組織與策略]
 keywords: [Managed Agents, 數位勞動力, 駕馭工程, Harness Engineering, SaaS顛覆]
 type: 技術分析
-raw_ref: "[[2026-04-10/Claude-Managed-Agents顛覆SaaS：從賣算力到租數位勞動力]]"
+raw_ref: "[[00_Inbox/2026-04-10/Claude-Managed-Agents顛覆SaaS：從賣算力到租數位勞動力]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

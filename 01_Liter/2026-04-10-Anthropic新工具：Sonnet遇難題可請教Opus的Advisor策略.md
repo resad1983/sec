@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 keywords: [Advisor Tool, 多Agent協作, 成本優化, Sonnet, Opus, 模型階層]
 type: 技術分析
-raw_ref: "[[2026-04-10/Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略]]"
+raw_ref: "[[00_Inbox/2026-04-10/Anthropic新工具：Sonnet遇難題可請教Opus的Advisor策略]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-19
 tags: [地方創生, 城市與空間, 文化現象, 設計]
 keywords: [Galile Oasis, 廢墟再生, 野性設計, 偶然性, 千城一面]
 type: 商業案例
-raw_ref: "[[2026-04-19/废墟里的新生泰国Galile Oasis，用野性对抗千城一面]]"
+raw_ref: "[[00_Inbox/2026-04-19/废墟里的新生泰国Galile Oasis，用野性对抗千城一面]]"
 project: [台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-19
 principle: []

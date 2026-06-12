@@ -5,8 +5,10 @@ date: '2026-04-21'
 tags: [市場與需求, 地方創生, 行銷, 商業模式]
 keywords: []
 type: 其他
-raw_ref: "'[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]'"
+raw_ref: "'[[00_Inbox/2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]'"
 project: [台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-21
 principle: []
@@ -19,7 +21,7 @@ date: 2026-04-21
 tags: [品牌, 市場與需求, 商業模式, 行銷]
 keywords: [戶外運動, 品牌下半場, Nike, adidas, 安踏, 概念行銷失效]
 type: 產業報導
-raw_ref: "[[2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變|2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]"
+raw_ref: "[[00_Inbox/2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變|2026-04-21/戶外紅利「退潮」：Nike糾偏，adidas提速，安踏裂變]]"
 status: draft
 project: [~]
 principle: ""

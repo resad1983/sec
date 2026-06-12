@@ -5,8 +5,10 @@ date: '2026-04-09'
 tags: [人工智慧, 品牌, 商業模式, 平台與生態系]
 keywords: [人工智慧, 品牌, 商業模式, 平台與生態系]
 type: 商業案例
-raw_ref: "'[[2026-04-09/Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？]]'"
+raw_ref: "'[[00_Inbox/2026-04-09/Meta的牌桌翻新術：Muse Spark憑什麼讓扎克伯格敢說個人超級智能？]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-09
 principle: []

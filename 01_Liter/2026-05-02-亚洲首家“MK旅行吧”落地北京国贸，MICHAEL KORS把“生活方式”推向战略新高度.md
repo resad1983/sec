@@ -5,8 +5,10 @@ date: 2026-05-02
 tags: [品牌, 商業模式, 體驗]
 keywords: []
 type: 品牌觀察
-raw_ref: "[[2026-05-02/亚洲首家“MK旅行吧”落地北京国贸，MICHAEL KORS把“生活方式”推向战略新高度]]"
+raw_ref: "[[00_Inbox/2026-05-02/亚洲首家“MK旅行吧”落地北京国贸，MICHAEL KORS把“生活方式”推向战略新高度]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-02
 principle: []

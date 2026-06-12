@@ -7,6 +7,8 @@ keywords: [SaaS, AI編程, 護城河, 中國科技]
 type: 產業分析
 raw_ref: "[[2026-03-31/AI-Coding不是殺死中國SaaS而是暴露從未有護城河]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-31
 principle: []

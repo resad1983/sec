@@ -5,8 +5,10 @@ date: 2026-04-12
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [Hermes Agent, 自進化, OpenClaw, Skill庫, 四層架構]
 type: 技術分析
-raw_ref: "[[2026-04-12/還沒學會OpenClaw更猛的Hermes-Agent來了]]"
+raw_ref: "[[00_Inbox/2026-04-12/還沒學會OpenClaw更猛的Hermes-Agent來了]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-12
 principle: []

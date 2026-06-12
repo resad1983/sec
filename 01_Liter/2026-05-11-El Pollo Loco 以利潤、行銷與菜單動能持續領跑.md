@@ -5,8 +5,10 @@ date: 2026-05-11
 tags: [品牌, 商業模式, 行銷, 體驗]
 keywords: [同店銷售, 數位會員, 菜單創新, 餐飲品牌復甦, QSR]
 type: 商業案例
-raw_ref: "[[2026-05-11/El Pollo Loco 以利潤、行銷與菜單動能持續領跑]]"
+raw_ref: "[[00_Inbox/2026-05-11/El Pollo Loco 以利潤、行銷與菜單動能持續領跑]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-11
 principle: []

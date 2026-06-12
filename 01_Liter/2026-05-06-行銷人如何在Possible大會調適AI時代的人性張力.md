@@ -5,8 +5,10 @@ date: 2026-05-06
 tags: [人工智慧, 品牌, 媒體與敘事, 行銷]
 keywords: [AI行銷, 人性張力, Possible大會, 情感連結, 文化真實性]
 type: 產業報導
-raw_ref: "[[2026-05-06/行銷人如何在Possible大會調適AI時代的人性張力]]"
+raw_ref: "[[00_Inbox/2026-05-06/行銷人如何在Possible大會調適AI時代的人性張力]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-06
 principle: []

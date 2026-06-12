@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 keywords: [Project Kobe, 零售科技, 自動化倉儲, AI選品, Frida, 最後一哩]
 type: 產業報導
-raw_ref: "[[2026-04-10/亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓]]"
+raw_ref: "[[00_Inbox/2026-04-10/亞馬遜Project Kobe計畫，把超市、AI選品、機器人揀貨全塞在同一棟樓]]"
 project: [勤美誠品]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

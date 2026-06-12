@@ -5,8 +5,10 @@ date: 2026-04-17
 tags: [人工智慧, 商業模式, 產品, 科技影響]
 keywords: [GPT-Rosalind, 垂直AI模型, 具身智能, 自動駕駛拐點]
 type: 產業報導
-raw_ref: "[[2026-04-17/AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]]"
+raw_ref: "[[00_Inbox/2026-04-17/AI大事件：OpenAI藥物研發小鵬汽車抓DeepSeek時刻]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-17
 principle: []

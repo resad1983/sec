@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 學習與思考, 數位系統, 科技影響]
 keywords: [Harness Engineering, Agent Engineering, Prompt Engineering, AI架構, 工具集, 數字生命卡茲克]
 type: 技術分析
-raw_ref: "[[2026-04-16/一文带你看懂，火爆全网的Harness Engineering到底是个啥。]]"
+raw_ref: "[[00_Inbox/2026-04-16/一文带你看懂，火爆全网的Harness Engineering到底是个啥。]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

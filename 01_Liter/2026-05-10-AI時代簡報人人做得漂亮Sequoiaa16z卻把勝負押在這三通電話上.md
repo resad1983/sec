@@ -5,8 +5,10 @@ date: 2026-05-10
 tags: [人工智慧, 商業模式, 組織與策略, 行銷]
 keywords: ['VoC', '客戶訪談', 'AI簡報', '真實回饋']
 type: 產業報導
-raw_ref: "[[2026-05-10/AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上]]"
+raw_ref: "[[00_Inbox/2026-05-10/AI時代簡報人人做得漂亮Sequoiaa16z卻把勝負押在這三通電話上]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-10
 principle: []

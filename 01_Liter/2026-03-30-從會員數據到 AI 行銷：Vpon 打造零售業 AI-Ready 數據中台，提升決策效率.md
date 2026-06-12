@@ -5,8 +5,10 @@ date: 2026-03-30
 tags: [人工智慧, 行銷, 營運管理, 科技影響]
 keywords: [數據中台, AI行銷, 零售科技, Vpon, 數據整合]
 type: 產品設計
-raw_ref: "[[2026-03-30/從會員數據到AI行銷Vpon打造零售業AI-Ready數據中台提升決策效率]]"
+raw_ref: "[[00_Inbox/2026-03-30/從會員數據到AI行銷Vpon打造零售業AI-Ready數據中台提升決策效率]]"
 project: [勤美誠品]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-30
 principle: []

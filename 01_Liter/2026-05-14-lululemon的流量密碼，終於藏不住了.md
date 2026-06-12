@@ -5,8 +5,10 @@ date: 2026-05-14
 tags: [品牌, 生活方式, 行銷]
 keywords: [品牌, 生活方式, 行銷]
 type: 商業案例
-raw_ref: "[[2026-05-14/lululemon的流量密码，终于藏不住了]]"
+raw_ref: "[[00_Inbox/2026-05-14/lululemon的流量密码，终于藏不住了]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-14
 principle: []

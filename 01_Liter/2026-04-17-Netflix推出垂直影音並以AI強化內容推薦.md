@@ -5,8 +5,10 @@ date: 2026-04-17
 tags: [人工智慧, 媒體與敘事, 平台與生態系, 產品]
 keywords: [垂直影音, TikTok化, AI推薦, 生成式AI製作工具, InterPositive, 串流競爭]
 type: 產業報導
-raw_ref: "[[2026-04-17/Netflix推出垂直影音並以AI強化內容推薦]]"
+raw_ref: "[[00_Inbox/2026-04-17/Netflix推出垂直影音並以AI強化內容推薦]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-17
 principle: []

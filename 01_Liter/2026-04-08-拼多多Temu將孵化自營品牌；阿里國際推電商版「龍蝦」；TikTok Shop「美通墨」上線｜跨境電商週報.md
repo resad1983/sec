@@ -5,8 +5,10 @@ date: 2026-04-08
 tags: [商業模式, 市場與需求, 平台與生態系, 科技影響]
 keywords: [跨境電商, Temu, TikTok Shop, Accio Work, 龍蝦OpenClaw]
 type: 產業報導
-raw_ref: "[[2026-04-08/拼多多Temu將孵化自營品牌阿里國際推電商版龍蝦TikTok Shop美通墨上線跨境電商週報]]"
+raw_ref: "[[00_Inbox/2026-04-08/拼多多Temu將孵化自營品牌阿里國際推電商版龍蝦TikTok Shop美通墨上線跨境電商週報]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

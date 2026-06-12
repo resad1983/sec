@@ -5,8 +5,10 @@ date: 2026-04-29
 tags: [人工智慧, 商業模式, 平台與生態系, 組織與策略]
 keywords: [Anthropic, Claude Code, 企業市場, 組織穩定性, B2B黏性]
 type: 商業案例
-raw_ref: "[[2026-04-29/Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣本]]"
+raw_ref: "[[00_Inbox/2026-04-29/Anthropic兩年幹翻OpenAI企業市場：一個產品經理越想越後怕的商業樣本]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-29
 principle: []

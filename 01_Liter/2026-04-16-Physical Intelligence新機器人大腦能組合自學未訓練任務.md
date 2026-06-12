@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 數位系統, 產品, 科技影響]
 keywords: [組合式泛化, π0.7, 具身智能, 機器人大腦, 超線性成長]
 type: 技術分析
-raw_ref: "[[2026-04-16/Physical Intelligence新機器人大腦能組合自學未訓練任務]]"
+raw_ref: "[[00_Inbox/2026-04-16/Physical Intelligence新機器人大腦能組合自學未訓練任務]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

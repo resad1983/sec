@@ -5,8 +5,10 @@ date: 2026-05-03
 tags: [人工智慧, 商業模式, 產品, 行銷]
 keywords: [GTM Agent, LangChain, 銷售自動化, Deep Agents, 持續學習, Slack]
 type: 技術分析
-raw_ref: "[[2026-05-03/LangChain團隊用AI Agent做銷售和行銷的最佳實踐]]"
+raw_ref: "[[00_Inbox/2026-05-03/LangChain團隊用AI Agent做銷售和行銷的最佳實踐]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-03
 principle: []

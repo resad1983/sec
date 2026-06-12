@@ -5,8 +5,10 @@ date: 2026-04-08
 tags: [品牌, 商業模式, 市場與需求]
 keywords: [輕奢, 重定價, 向往型消費者, Capri, 品牌調性重塑]
 type: 商業案例
-raw_ref: "[[2026-04-08/顺应轻奢化趋势，Michael Kors 和 Jimmy Choo 如何调整品牌策略？Capri集团CEO最新分享]]"
+raw_ref: "[[00_Inbox/2026-04-08/顺应轻奢化趋势，Michael Kors 和 Jimmy Choo 如何调整品牌策略？Capri集团CEO最新分享]]"
 project: [勤美誠品]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

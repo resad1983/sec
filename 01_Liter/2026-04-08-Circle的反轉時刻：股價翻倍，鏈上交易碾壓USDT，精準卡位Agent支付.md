@@ -5,8 +5,10 @@ date: '2026-04-08'
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 keywords: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 type: 產業報導
-raw_ref: "'[[2026-04-08/Circle的反转时刻：股价翻倍，链上交易碾压USDT，精准卡位Agent支付]]'"
+raw_ref: "'[[00_Inbox/2026-04-08/Circle的反转时刻：股价翻倍，链上交易碾压USDT，精准卡位Agent支付]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

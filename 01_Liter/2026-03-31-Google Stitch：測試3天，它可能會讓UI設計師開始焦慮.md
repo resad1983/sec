@@ -7,6 +7,8 @@ keywords: [Google Stitch, UI設計, AI工具, 設計自動化, 產品開發]
 type: 工具指南
 raw_ref: "[[2026-03-31/Google-Stitch讓UI設計師開始焦慮的AI工具]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-31
 principle: []

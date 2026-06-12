@@ -5,8 +5,10 @@ date: 2026-05-02
 tags: [人工智慧, 科技影響]
 keywords: []
 type: 其他
-raw_ref: "'[[2026-05-02/馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT]]'"
+raw_ref: "'[[00_Inbox/2026-05-02/馬斯克翻車！一邊告OpenAI，一邊偷偷蒸餾ChatGPT]]'"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-02
 principle: []

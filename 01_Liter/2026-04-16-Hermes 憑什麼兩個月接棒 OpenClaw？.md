@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 keywords: [Hermes Agent, OpenClaw, 開源Agent, 兜底工程, GitHub Trending, 自進化Agent]
 type: 技術分析
-raw_ref: "[[2026-04-16/Hermes 凭什么两个月接棒 OpenClaw？]]"
+raw_ref: "[[00_Inbox/2026-04-16/Hermes 凭什么两个月接棒 OpenClaw？]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

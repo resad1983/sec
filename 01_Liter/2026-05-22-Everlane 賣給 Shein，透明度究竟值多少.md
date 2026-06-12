@@ -5,8 +5,10 @@ date: 2026-05-22
 tags: [品牌, 價值與定價, 商業模式, 文化現象]
 keywords: [永續時尚, 激進透明, 快時尚, DTC, ESG溢價]
 type: 文化觀察
-raw_ref: "[[2026-05-22/Everlane 賣給 Shein，透明度究竟值多少]]"
+raw_ref: "[[00_Inbox/2026-05-22/Everlane 賣給 Shein，透明度究竟值多少]]"
 project: [個人顧問品牌, 典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-22
 principle: []

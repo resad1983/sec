@@ -5,8 +5,10 @@ date: 2026-03-29
 tags: [組織與策略, 數位系統, 人工智慧, 科技影響]
 keywords: [AI轉型, AI代理, 企業AI, 人才培育, 物流業]
 type: 商業案例
-raw_ref: "[[2026-03-29/FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]"
+raw_ref: "[[00_Inbox/2026-03-29/FedEx讓AI代理直接上工全球物流巨頭的AI轉型大計]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-29
 principle: []

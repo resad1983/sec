@@ -5,8 +5,10 @@ date: 2026-04-04
 tags: [人工智慧, 產品, 組織與策略, 數位系統]
 keywords: [AI Agent, 開源工具, 自動化, 學習閉環, 企業應用]
 type: 工具指南
-raw_ref: "[[2026-04-04/開源Hermes-Agent評測越用越聰明的AI智慧體]]"
+raw_ref: "[[00_Inbox/2026-04-04/開源Hermes-Agent評測越用越聰明的AI智慧體]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-04
 principle: []

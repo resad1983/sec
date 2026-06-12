@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 商業模式, 數位系統, 科技影響]
 keywords: [AI可觀測性, AI代理監控, IT可靠性, AIOps]
 type: 商業案例
-raw_ref: "[[2026-04-16/InsightFinder獲1500萬美元融資幫企業診斷AI代理故障]]"
+raw_ref: "[[00_Inbox/2026-04-16/InsightFinder獲1500萬美元融資幫企業診斷AI代理故障]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

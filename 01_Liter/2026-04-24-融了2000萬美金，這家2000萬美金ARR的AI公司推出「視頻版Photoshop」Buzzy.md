@@ -5,8 +5,10 @@ date: 2026-04-24
 tags: [人工智慧, 商業模式, 產品, 科技影響]
 keywords: [Buzzy, Agent商業模式, 分傭制, 視頻編輯, ARR]
 type: 商業案例
-raw_ref: "[[2026-04-24/融了2000萬美金推出視頻版Photoshop Buzzy]]"
+raw_ref: "[[00_Inbox/2026-04-24/融了2000萬美金推出視頻版Photoshop Buzzy]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-24
 principle: []

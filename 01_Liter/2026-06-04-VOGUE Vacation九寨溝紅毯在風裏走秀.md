@@ -5,8 +5,10 @@ date: 2026-06-04
 tags: [行銷, 品牌, 體驗]
 keywords: [VOGUE Vacation, 九寨溝, 品牌體驗, 時尚文旅, 山谷度假]
 type: 行銷案例
-raw_ref: "[[2026-06-04/VOGUE Vacation九寨沟红毯在风里走秀]]"
+raw_ref: "[[00_Inbox/2026-06-04/VOGUE Vacation九寨沟红毯在风里走秀]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-06-04
 principle: []

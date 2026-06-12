@@ -5,8 +5,10 @@ date: 2026-04-30
 tags: [人工智慧, 品牌, 商業模式, 平台與生態系]
 keywords: [法律AI, 垂直AI, Harvey, Legora, ARR, 品牌行銷大戰]
 type: 商業案例
-raw_ref: "[[2026-04-30/法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化]]"
+raw_ref: "[[00_Inbox/2026-04-30/法律AI新創Legora估值達56億美元，與Harvey的競爭白熱化]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-30
 principle: []

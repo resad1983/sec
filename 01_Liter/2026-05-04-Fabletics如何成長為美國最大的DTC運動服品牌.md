@@ -5,8 +5,10 @@ date: 2026-05-04
 tags: [品牌, 商業模式, 市場與需求, 營運管理]
 keywords: [Fabletics, DTC, 會員體系, 質價比, 名人共創]
 type: 商業案例
-raw_ref: "[[2026-05-04/Fabletics如何成長為美國最大的DTC運動服品牌]]"
+raw_ref: "[[00_Inbox/2026-05-04/Fabletics如何成長為美國最大的DTC運動服品牌]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-04
 principle: []

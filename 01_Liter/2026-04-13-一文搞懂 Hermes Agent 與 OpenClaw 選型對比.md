@@ -5,8 +5,10 @@ date: 2026-04-13
 tags: [人工智慧, 平台與生態系, 數位系統]
 keywords: [Hermes Agent, OpenClaw, AI Agent框架, 記憶系統, 閉環學習]
 type: 技術分析
-raw_ref: "[[2026-04-13/一文搞懂 Hermes Agent 与 OpenClaw 选型对比]]"
+raw_ref: "[[00_Inbox/2026-04-13/一文搞懂 Hermes Agent 与 OpenClaw 选型对比]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-13
 principle: []

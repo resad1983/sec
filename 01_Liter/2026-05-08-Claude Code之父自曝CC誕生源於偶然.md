@@ -5,8 +5,10 @@ date: 2026-05-08
 tags: [人工智慧, 人機互動, 創作方法, 產品]
 keywords: [Claude Code, AI代理, 開發者角色轉型, 手機辦公]
 type: 產業報導
-raw_ref: "[[2026-05-08/Claude Code之父自曝CC誕生源於偶然]]"
+raw_ref: "[[00_Inbox/2026-05-08/Claude Code之父自曝CC誕生源於偶然]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-08
 principle: []

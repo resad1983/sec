@@ -5,8 +5,10 @@ date: 2026-05-24
 tags: [人機互動, 產品, 科技影響, 設計]
 keywords: [XR眼鏡, 對立面思維, 場景驅動設計, Vibe Coding]
 type: 產品設計
-raw_ref: "[[2026-05-24/VITURE Beast重新定義XR眼鏡的產品哲學]]"
+raw_ref: "[[00_Inbox/2026-05-24/VITURE Beast重新定義XR眼鏡的產品哲學]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-24
 principle: []

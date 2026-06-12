@@ -7,6 +7,8 @@ keywords: [PTC, 記憶快照, 子Agent委託, 前綴緩存, 自進化]
 type: 技術分析
 raw_ref: "[[拆解 Hermes Agent 五层架构，内部到底怎么跑的|2026-05-04/拆解 Hermes Agent 五层架构，内部到底怎么跑的.md]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-04
 principle: []

@@ -5,8 +5,10 @@ date: 2026-05-18
 tags: [品牌, 市場與需求, 體驗]
 keywords: [Netflix Ads, 專注力經濟, 文化相關性, 出海營銷, 效果度量]
 type: 商業案例
-raw_ref: "[[2026-05-18/從亞洲走向世界，Netflix Ads首個出海營銷活動釋放了3個關鍵信號]]"
+raw_ref: "[[00_Inbox/2026-05-18/從亞洲走向世界，Netflix Ads首個出海營銷活動釋放了3個關鍵信號]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-18
 principle: []

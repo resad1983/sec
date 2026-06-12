@@ -5,8 +5,10 @@ date: 2026-03-29
 tags: [商業模式, 人工智慧, 生活方式, 媒體與敘事]
 keywords: [AI, OpenAI, 平台策略, AI影片]
 type: 產業分析
-raw_ref: "[[2026-03-29/OpenAI關閉Sora的真正原因]]"
+raw_ref: "[[00_Inbox/2026-03-29/OpenAI關閉Sora的真正原因]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-29
 principle: []

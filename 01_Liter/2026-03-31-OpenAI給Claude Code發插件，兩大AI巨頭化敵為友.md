@@ -5,8 +5,10 @@ date: 2026-03-31
 tags: [人工智慧, 行銷, 商業模式, 產品]
 keywords: [AI編程工具, OpenAI, Claude, 具身智能, 行業動態]
 type: 產業分析
-raw_ref: "[[2026-03-31/OpenAI給Claude-Code發插件兩大AI巨頭化敵為友]]"
+raw_ref: "[[2026-03-31-OpenAI給Claude Code發插件，兩大AI巨頭化敵為友]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-31
 principle: []

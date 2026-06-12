@@ -5,8 +5,10 @@ date: 2026-06-01
 tags: [品牌, 商業模式, 情緒與關係, 市場與需求]
 keywords: [芳香療法, 情緒護膚, D2C, 線下擴張]
 type: 商業案例
-raw_ref: "[[2026-06-01/AromeManpo 馥郁滿鋪完成近億元 B 輪融資]]"
+raw_ref: "[[00_Inbox/2026-06-01/AromeManpo 馥郁滿鋪完成近億元 B 輪融資]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-06-01
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-21
 tags: [人工智慧, 平台與生態系, 數位系統, 科技影響]
 keywords: [Hermes Agent, Nous Research, Web3, DePIN, 去中心化AI, 開源AI]
 type: 產業報導
-raw_ref: "[[2026-04-21/Hermes Agent刷屏背后，Web3势力正在渗透AI战场]]"
+raw_ref: "[[00_Inbox/2026-04-21/Hermes Agent刷屏背后，Web3势力正在渗透AI战场]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-21
 principle: []

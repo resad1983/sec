@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [地方創生, 城市與空間, 生活方式, 體驗]
 keywords: [Color Walk, 城市漫步, 感知消費, 文旅IP, 情緒旅遊, 全城無界]
 type: 產業報導
-raw_ref: "[[2026-04-16/从City Walk城市漫步到Color Walk色彩漫步，城市文旅从空间消费到感知消费的消费逻辑转向]]"
+raw_ref: "[[00_Inbox/2026-04-16/从City Walk城市漫步到Color Walk色彩漫步，城市文旅从空间消费到感知消费的消费逻辑转向]]"
 project: [台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

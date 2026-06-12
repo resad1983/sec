@@ -5,8 +5,10 @@ date: '2026-04-09'
 tags: [人工智慧, 商業模式, 學習與思考, 數位系統]
 keywords: [人工智慧, 商業模式, 學習與思考, 數位系統]
 type: 技術分析
-raw_ref: "'[[2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'"
+raw_ref: "'[[00_Inbox/2026-04-09/gstack：YC總裁開源的AI軟體工廠，68k Star的工具到底香不香？]]'"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-09
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-18
 tags: [人工智慧, 人機互動, 創作方法, 科技影響]
 keywords: [Vibe Coding, Andrej Karpathy, Simon Willison, AI輔助開發, 責任邊界]
 type: 技術分析
-raw_ref: "[[2026-04-18/Vibe Coding：AI輔助編程的革命與責任邊界]]"
+raw_ref: "[[00_Inbox/2026-04-18/Vibe Coding：AI輔助編程的革命與責任邊界]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-18
 principle: []

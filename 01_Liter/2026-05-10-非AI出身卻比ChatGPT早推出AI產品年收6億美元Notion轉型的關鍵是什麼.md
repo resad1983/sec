@@ -5,8 +5,10 @@ date: 2026-05-10
 tags: [人工智慧, 商業模式, 科技影響, 組織與策略]
 keywords: ['Notion AI', '地利優勢', '工作流整合', '大腦外包']
 type: 商業案例
-raw_ref: "[[2026-05-10/非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是什麼]]"
+raw_ref: "[[00_Inbox/2026-05-10/非AI出身卻比ChatGPT早推出AI產品年收6億美元Notion轉型的關鍵是什麼]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-10
 principle: []

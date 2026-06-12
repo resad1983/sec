@@ -5,8 +5,10 @@ date: '2026-04-08'
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [人工智慧, 學習與思考, 數位系統, 產品]
 type: 技術分析
-raw_ref: "'[[2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'"
+raw_ref: "'[[00_Inbox/2026-04-08/一文搞懂Agent、Skills、Agent Teams如何做架构选型]]'"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

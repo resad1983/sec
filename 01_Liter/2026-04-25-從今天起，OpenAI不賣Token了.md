@@ -5,8 +5,10 @@ date: '2026-04-25'
 tags: [人工智慧, 平台與生態系, 商業模式, 價值與定價]
 keywords: []
 type: 其他
-raw_ref: "'[[2026-04-25/從今天起，OpenAI不賣Token了]]'"
+raw_ref: "'[[2026-04-25-從今天起，OpenAI不賣Token了]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-25
 principle: []
@@ -19,7 +21,7 @@ date: 2026-04-25
 tags: [人工智慧, 科技影響, 平台與生態系, 商業模式]
 keywords: [GPT-5.5, Token經濟, 賣結果, 工作系統, 推理基礎設施]
 type: 技術分析
-raw_ref: "[[2026-04-25/從今天起，OpenAI不賣Token了|2026-04-25/從今天起，OpenAI不賣Token了]]"
+raw_ref: "[[2026-04-25-從今天起，OpenAI不賣Token了|2026-04-25/從今天起，OpenAI不賣Token了]]"
 status: draft
 project: [個人顧問品牌]
 principle: ""

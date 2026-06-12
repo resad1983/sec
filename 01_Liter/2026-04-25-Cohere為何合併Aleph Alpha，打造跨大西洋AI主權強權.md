@@ -5,8 +5,10 @@ date: 2026-04-25
 tags: [人工智慧, 商業模式, 科技影響, 組織與策略]
 keywords: [主權AI, Cohere, Aleph Alpha, Schwarz Group, 企業AI, 跨國合併]
 type: 產業報導
-raw_ref: "[[2026-04-25/Cohere為何合併Aleph Alpha打造跨大西洋AI主權強權]]"
+raw_ref: "[[00_Inbox/2026-04-25/Cohere為何合併Aleph Alpha打造跨大西洋AI主權強權]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-25
 principle: []

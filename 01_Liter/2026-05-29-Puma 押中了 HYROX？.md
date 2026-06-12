@@ -5,8 +5,10 @@ date: 2026-05-29
 tags: [品牌, 商業模式, 體驗]
 keywords: [HYROX, 混合健身, Puma, 運動行銷, 社群生態]
 type: 商業案例
-raw_ref: "[[2026-05-29/Puma 押中了 HYROX？]]"
+raw_ref: "[[00_Inbox/2026-05-29/Puma 押中了 HYROX？]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-29
 principle: []

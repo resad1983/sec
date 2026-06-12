@@ -5,8 +5,10 @@ date: 2026-05-27
 tags: [品牌, 行銷, 體驗, 產品]
 keywords: [品牌, 行銷, 體驗, 產品]
 type: 商業案例
-raw_ref: "[[2026-05-27/Little Caesars 推出盲盒：F＆B 品牌的集換式行銷]]"
+raw_ref: "[[00_Inbox/2026-05-27/Little Caesars 推出盲盒：F＆B 品牌的集換式行銷]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-27
 principle: []

@@ -5,8 +5,10 @@ date: 2026-03-16
 tags: [人工智慧, 行銷, 行為決策, 品牌]
 keywords: [AI Grounding, SEO, GEO, AI搜尋, 內容行銷, RAG, 品牌曝光]
 type: 工具指南
-raw_ref: "[[2026-03-30/AI-Grounding是什麼SEO新趨勢讓AI成為品牌最強發言人]]"
+raw_ref: "[[00_Inbox/2026-03-30/AI-Grounding是什麼SEO新趨勢讓AI成為品牌最強發言人]]"
 project: [典典文創, 個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-16
 principle: []

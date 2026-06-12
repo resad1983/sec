@@ -5,8 +5,10 @@ date: 2026-04-07
 tags: [產品, 學習與思考, 人工智慧, 組織與策略]
 keywords: [AI工具, Cursor, 學習方法, 產品經理, 財務系統]
 type: 技術分析
-raw_ref: "[[2026-04-07/我如何用Cursor加AI三天搞懂複雜AI財務系統]]"
+raw_ref: "[[00_Inbox/2026-04-07/我如何用Cursor加AI三天搞懂複雜AI財務系統]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-07
 principle: []

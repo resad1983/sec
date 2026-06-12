@@ -5,8 +5,10 @@ date: 2026-04-28
 tags: [人工智慧, 品牌, 平台與生態系, 行銷]
 keywords: [AI Sponsored Snaps, 對話式廣告, 轉化率, 品牌AI代理]
 type: 產業報導
-raw_ref: "[[2026-04-28/Snapchat推出AI驅動的對話式廣告功能]]"
+raw_ref: "[[00_Inbox/2026-04-28/Snapchat推出AI驅動的對話式廣告功能]]"
 project: [個人顧問品牌, 不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-28
 principle: []

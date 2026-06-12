@@ -7,6 +7,8 @@ keywords: [AI辦公, 品牌行銷, 場景行銷, 騰訊WorkBuddy, AI Agent]
 type: 行銷案例
 raw_ref: "[[2026-06-04/地鐵裏的我幫你，騰訊WorkBuddy正在改寫AI辦公產品的營銷方式]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-06-04
 principle: []

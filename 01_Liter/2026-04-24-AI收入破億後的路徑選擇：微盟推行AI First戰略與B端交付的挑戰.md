@@ -5,8 +5,10 @@ date: 2026-04-24
 tags: [人工智慧, 商業模式, 數位系統, 組織與策略]
 keywords: [微盟, AI First, SaaS轉型, Agent+Skills, B端容錯率, GEO]
 type: 產業報導
-raw_ref: "[[2026-04-24/微盟推行AI First戰略與B端交付的挑戰]]"
+raw_ref: "[[00_Inbox/2026-04-24/微盟推行AI First戰略與B端交付的挑戰]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-24
 principle: []

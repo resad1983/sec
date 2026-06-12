@@ -5,8 +5,10 @@ date: 2026-05-14
 tags: [人工智慧, 商業模式, 學習與思考, 數位系統]
 keywords: [遞歸學習, 自我進化AI, 田渊栋, scaling瓶頸, 架構創新]
 type: 技術分析
-raw_ref: "[[2026-05-14/不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI]]"
+raw_ref: "[[00_Inbox/2026-05-14/不堆規模改走遞歸路—前MetaFAIR總監押注自我進化AI]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-14
 principle: []

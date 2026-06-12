@@ -5,8 +5,10 @@ date: 2026-05-30
 tags: [文化現象, 體驗, 市場與需求, 生活方式]
 keywords: [文化現象, 體驗, 市場與需求, 生活方式]
 type: 商業案例
-raw_ref: "[[2026-05-30/賣不出去的Apple Watch，被出片女孩炒火了？]]"
+raw_ref: "[[00_Inbox/2026-05-30/賣不出去的Apple Watch，被出片女孩炒火了？]]"
 project: [勤美誠品, 台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-30
 principle: []

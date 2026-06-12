@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 產品, 科技影響]
 keywords: [CLI, MCP, GUI, 系統架構, Agent]
 type: 技術分析
-raw_ref: "[[2026-04-16/鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構]]"
+raw_ref: "[[2026-04-16-鈴釘飛書轉向CLI：MCP、GUI、CLI 的分工重構]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

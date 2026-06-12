@@ -5,8 +5,10 @@ date: 2026-04-15
 tags: [人工智慧, 數位系統, 科技影響, 行為決策]
 keywords: [OpenClaw, AI代理, prompt injection, 聯邦授權, agentic AI]
 type: 技術分析
-raw_ref: "[[2026-04-15/OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線]]"
+raw_ref: "[[00_Inbox/2026-04-15/OpenClaw能幫你回信、採購、代發社群貼文！但把工作全交給AI代理前，需守好這3道防線]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-15
 principle: []

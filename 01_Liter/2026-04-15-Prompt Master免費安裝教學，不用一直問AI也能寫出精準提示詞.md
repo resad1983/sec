@@ -5,8 +5,10 @@ date: 2026-04-15
 tags: [人機互動, 創作方法, 數位系統, 產品]
 keywords: [Prompt Engineering, Claude Skill, 提示詞框架, 跨平台AI]
 type: 產品設計
-raw_ref: "[[2026-04-15/Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞]]"
+raw_ref: "[[00_Inbox/2026-04-15/Prompt Master免費安裝教學，不用一直問AI也能寫出精準提示詞]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-15
 principle: []

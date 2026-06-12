@@ -5,8 +5,10 @@ date: 2026-04-15
 tags: [人工智慧, 數位系統, 產品, 科技影響]
 keywords: [Chrome Skills, Gemini, 提示詞管理, 工作流程, AI瀏覽器]
 type: 產品設計
-raw_ref: "[[2026-04-15/Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃文件一鍵搞定]]"
+raw_ref: "[[00_Inbox/2026-04-15/Chrome內建Gemini Skills！輸入「」叫出提示詞，跨分頁比價、掃文件一鍵搞定]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-15
 principle: []

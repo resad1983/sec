@@ -6,10 +6,10 @@ score: 8
 tags: [商業模式, 平台與生態系, 體驗, 市場與需求]
 keywords: [跨界送餐, 快餐整合, 零售電商平台化, O2O, 店中店策略]
 type: 商業案例
-raw_ref: [[2026-06-05/Walmart攜手Subway跨界送餐：零售平台的新邊界]]
+raw_ref: [[00_Inbox/2026-06-05/Walmart攜手Subway跨界送餐：零售平台的新邊界]]
 project: [勤美誠品]
-project_synced: false
-project_synced_at:
+project_synced: true
+project_synced_at: 2026-06-09
 project_targets: [勤美誠品]
 wiki_evolved: true
 wiki_evolved_at: 2026-06-07

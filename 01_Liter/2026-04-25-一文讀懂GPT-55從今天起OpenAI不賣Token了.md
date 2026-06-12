@@ -5,8 +5,9 @@ date: 2026-04-25
 tags: [科技影響, 人工智慧, 產品]
 keywords: [GPT-5.5, OpenAI, AI模型, 推理效率, 自主編程, 科研, Codex]
 type: 技術分析
-raw_ref: [[2026-06-05/一文讀懂GPT-5.5：從今天起，OpenAI「不賣」Token了]]
+raw_ref: [[00_Inbox/2026-06-05/一文讀懂GPT-5.5：從今天起，OpenAI「不賣」Token了]]
 project: [~]
+project_targets: []
 project_synced: true
 wiki_evolved: true
 wiki_evolved_at: 2026-06-05

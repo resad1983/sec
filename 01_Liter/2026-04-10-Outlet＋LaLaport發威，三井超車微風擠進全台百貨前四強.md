@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [商業模式, 城市與空間, 體驗]
 keywords: [三井不動產, LaLaport, Outlet, 高坪效, TOD, 微風集團, 百貨版圖]
 type: 產業報導
-raw_ref: "[[2026-04-10/Outlet＋LaLaport發威，三井超車微風擠進全台百貨前四強]]"
+raw_ref: "[[00_Inbox/2026-04-10/Outlet＋LaLaport發威，三井超車微風擠進全台百貨前四強]]"
 project: [勤美誠品]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

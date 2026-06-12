@@ -5,8 +5,10 @@ date: 2026-05-29
 tags: [市場與需求, 商業模式, 產品, 行銷]
 keywords: [市場與需求, 商業模式, 產品, 行銷]
 type: 商業案例
-raw_ref: "[[2026-05-29/Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求]]"
+raw_ref: "[[00_Inbox/2026-05-29/Target、Walmart與Aldi擁抱天然色素食品，品牌競相回應需求]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-29
 principle: []

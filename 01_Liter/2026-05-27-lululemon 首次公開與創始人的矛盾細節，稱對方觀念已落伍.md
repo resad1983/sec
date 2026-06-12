@@ -5,8 +5,10 @@ date: 2026-05-27
 tags: [品牌, 商業模式, 組織與策略]
 keywords: [露露樂蒙, 創始人糾紛, 代理權之爭, 品牌重塑, Heidi O'Neill]
 type: 商業案例
-raw_ref: "[[2026-05-27/lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍]]"
+raw_ref: "[[00_Inbox/2026-05-27/lululemon 首次公開與創始人的矛盾細節，稱對方觀念已落伍]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-27
 principle: []

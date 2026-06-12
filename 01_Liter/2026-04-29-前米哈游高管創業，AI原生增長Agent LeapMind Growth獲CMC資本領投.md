@@ -5,8 +5,10 @@ date: 2026-04-29
 tags: [人工智慧, 商業模式, 平台與生態系, 行銷]
 keywords: [GrowthGPT, 增長Agent, 跨境出海, 行銷自動化]
 type: 產業報導
-raw_ref: "[[2026-04-29/前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]"
+raw_ref: "[[00_Inbox/2026-04-29/前米哈游高管創業，AI原生增長Agent LeapMind Growth獲CMC資本領投]]"
 project: [個人顧問品牌, 不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-29
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 創作方法, 學習與思考, 數位系統]
 keywords: [約束先行, CLAUDE.md, Agent規則, 結構治理, 秩序]
 type: 技術分析
-raw_ref: "[[2026-04-16/用好Agent最重要的技巧不是Skills，是这四个字。]]"
+raw_ref: "[[00_Inbox/2026-04-16/用好Agent最重要的技巧不是Skills，是这四个字。]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

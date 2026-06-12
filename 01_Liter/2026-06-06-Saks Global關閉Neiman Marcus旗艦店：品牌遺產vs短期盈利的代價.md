@@ -6,10 +6,10 @@ score: 9
 tags: [品牌, 組織與策略, 商業模式, 城市與空間]
 keywords: [Neiman Marcus, 旗艦店關閉, 奢侈零售, 品牌遺產, 混合用途空間]
 type: 商業案例
-raw_ref: [[2026-06-06/Saks Global關閉Neiman Marcus旗艦店：品牌遺產vs短期盈利的代價]]
+raw_ref: [[00_Inbox/2026-06-06/Saks Global關閉Neiman Marcus旗艦店：品牌遺產vs短期盈利的代價]]
 project: [勤美誠品]
-project_synced: false
-project_synced_at:
+project_synced: true
+project_synced_at: 2026-06-09
 project_targets: [勤美誠品]
 wiki_evolved: true
 wiki_evolved_at: 2026-06-07

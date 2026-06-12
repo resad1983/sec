@@ -5,8 +5,10 @@ date: 2026-04-13
 tags: [人工智慧, 商業模式, 平台與生態系, 資料與演算法]
 keywords: [HappyHorse, Token經濟, AI視頻, 多模態, 阿里雲]
 type: 技術分析
-raw_ref: "[[2026-04-13/阿里HappyHorse一場關於Token經濟的陽謀]]"
+raw_ref: "[[00_Inbox/2026-04-13/阿里HappyHorse一場關於Token經濟的陽謀]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-13
 principle: []

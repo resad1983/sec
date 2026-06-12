@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "885e45ce1320c9ff",
+        "id": "ab595062fb87a5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "ccf201ae9ebadb59",
+            "id": "c15c8426c08ecfb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "關聯圖檢視"
+              "type": "markdown",
+              "state": {
+                "file": "04_Projects/勤美誠品.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "勤美誠品"
             }
           }
         ]
@@ -90,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/为什么越来越多年轻人，选择开着猎装车上路？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "为什么越来越多年轻人，选择开着猎装车上路？ 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -179,44 +182,44 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "ccf201ae9ebadb59",
+  "active": "c15c8426c08ecfb6",
   "lastOpenFiles": [
-    "Clippings/麦当劳深圳建社区了！网友：超有童趣！.md",
-    "Clippings/借世界杯讲清喝对奶，特仑苏「嗨MILK」做对了什么？.md",
-    "Clippings/同程旅行：旅游列车成家庭游新宠，暑期车次预订热度同比增长超70%.md",
-    "Clippings/惠评文旅工业遗产不是城市包袱，而是十五五文旅更新的金矿.md",
-    "Clippings/数据越好、日子越难？2025文旅公报里的酒店业冰与火.md",
-    "Clippings/人到中年，话越少，人越好.md",
-    "Clippings/AI 时代最该练的，是你的感受和直觉.md",
-    "Clippings/抖音商城618的新叙事，让好供给自己说话.md",
-    "Clippings/美团在竞争中看清自己.md",
-    "Clippings/德国百年酒店集团，在华住的操盘下重新生长.md",
-    "Clippings/日本泡沫破灭后的就职冰河期.md",
-    "Clippings/还有即使不被看好，你依然想做的事吗？.md",
-    "Clippings/一夜之间，ChatGPT变成了第二个Claude.md",
-    "Clippings/小红书彻底爆发了.md",
-    "Clippings/穿完就退 七天无理由规则下的消费与借用.md",
-    "Clippings/被朝鲜包围的中国村庄，韩国人曾来这里盗墓.md",
-    "Clippings/中国最意想不到的沿海城市，GDP吊打省会.md",
-    "Clippings/距离厦门最近的南方鹤岗，海景房从2万跌到几千.md",
-    "Clippings/零食巨头集体卖菜：这不是唯一解，而是生死符.md",
-    "Clippings/从交易效率到情绪价值：购物中心正在经历一场内容饥荒.md",
-    "Clippings/2025全国商场销售额Top10，谁才是中国商场新王？.md",
-    "Clippings/宋徽宗：文艺只是人设，权术才是底色.md",
-    "Clippings/真正的影响力，不是说服，而是让人看见.md",
-    "Clippings/宋徽宗是怎么耍弄权术的？.md",
-    "Clippings/月薪5000到年入千万，理财逻辑完全不同.md",
-    "Clippings/快要消失的行业里，几代女性的人生奥德赛.md",
-    "00_Inbox/2026-06-01",
-    "00_Inbox/2026-05-18",
-    "00_Inbox/2026-05-11",
-    "00_Inbox/2026-05-10",
-    "00_Inbox/2026-05-08",
-    "未命名.canvas",
-    "02_wiki/創作方法.md.tmp.27640.1777999345585",
-    "02_wiki/數位系統.md.tmp.27640.1777999327789",
-    "02_wiki/科技影響.md.tmp.27640.1777999323170",
-    "02_wiki/人工智慧.md.tmp.27640.1777999320598",
-    "02_wiki/產品.md.tmp.27640.1777999310492"
+    "04_Projects/寵物保母.md",
+    "04_Projects/個人顧問品牌.md",
+    "04_Projects/典典文創.md",
+    "Clippings/路虎跌到16万了.md",
+    "Clippings/20家出海品牌财报里的“分化”信号：谁在风口下狂奔？谁在增长里掉队？.md",
+    "Clippings/高端奶卖不动了，中国乳业的下一个增长故事在哪？.md",
+    "Clippings/从“炫技”到“做原创IP”，抖音首届AI创作大赛在寻找谁？.md",
+    "Clippings/去健身房上团课的年轻人，陷入复杂“饭圈”.md",
+    "Clippings/为什么适度「冷漠」的人，更容易拥有高质量关系？.md",
+    "Clippings/师从 Hinton、与 OpenAI 创始成员同期：他做了一个「会记事」的 AI 搭档.md",
+    "Clippings/当用户不再“按部就班”，你的营销逻辑该升级了.md",
+    "Clippings/天涯是文科生的GitHub.md",
+    "Clippings/人应该对自己有骄傲心｜和马思纯聊“爱自己”.md",
+    "Clippings/开云集团的转型工作清单：今年再关店至少100间，未来5年翻新23门店.md",
+    "Clippings/走进加里曼丹雨林，小仙炖如何开创滋补“产地叙事”？.md",
+    "Clippings/真正有效的品牌表达，来自每一次真实用户接触.md",
+    "Clippings/真正懂品牌的人，必须懂成交现场 1.md",
+    "Clippings/真正懂品牌的人，必须懂成交现场.md",
+    "Clippings/比万妮达火10倍的嘻哈新顶流，私生活全被曝光了？？.md",
+    "Clippings/毛利率往下拆，就三把刀：价格、成本、结构.md",
+    "Clippings/为什么男人宁愿把裤兜塞爆，也不背包？.md",
+    "Clippings/150欧元压不垮中国巨头的欧洲梦.md",
+    "Clippings/晚风不赶时间，你也是｜「回到美好生活」上海场官宣.md",
+    "Clippings/“哭出来就好了”，是被高估的情绪建议？.md",
+    "Clippings/2025工资数据出来了：谁在涨工资，谁在原地踏步？.md",
+    "Clippings/所谓“经济上行期的美”，到底存不存在？.md",
+    "97_task/process_knowledge_batch_20260609.py",
+    "97_task",
+    "scratch/sync_wiki_project_three_rounds.py",
+    "scratch/audit_three_rounds.py",
+    "scratch/validate_distill_batch_round3.py",
+    "scratch/generate_distill_batch_round3.py",
+    "scratch/validate_distill_batch_round2.py",
+    "scratch/generate_distill_batch_round2.py",
+    "scratch/validate_distill_batch.py",
+    "00_Inbox/2026-06-09",
+    "未命名.canvas"
   ]
 }

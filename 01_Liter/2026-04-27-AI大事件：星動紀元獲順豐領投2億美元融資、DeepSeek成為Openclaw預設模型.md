@@ -5,8 +5,10 @@ date: 2026-04-27
 tags: [人工智慧, 商業模式, 科技影響, 資料與演算法]
 keywords: [具身智能, 星動紀元, PMF, 物流機器人, AI板塊]
 type: 產業報導
-raw_ref: "[[2026-04-27/AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Openclaw預設模型]]"
+raw_ref: "[[00_Inbox/2026-04-27/AI大事件：星動紀元獲順豐領投2億美元融資、DeepSeek成為Openclaw預設模型]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-27
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-11
 tags: [人工智慧, 商業模式, 平台與生態系, 組織與策略]
 keywords: [B2B增長, CASH項目, 摩擦力設計, 對數增長思維]
 type: 商業案例
-raw_ref: "[[2026-04-11/Anthropic收入憑什麼反超OpenAI]]"
+raw_ref: "[[00_Inbox/2026-04-11/Anthropic收入憑什麼反超OpenAI]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-11
 principle: []

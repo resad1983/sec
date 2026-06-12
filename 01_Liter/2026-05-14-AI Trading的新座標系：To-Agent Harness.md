@@ -5,8 +5,10 @@ date: 2026-05-14
 tags: [人工智慧, 商業模式, 平台與生態系, 數位系統]
 keywords: [Agent Harness, To-Agent, Execution Data, Trading Agent, MCP]
 type: 技術分析
-raw_ref: "[[2026-05-14/AI Trading的新座標系：To-Agent Harness]]"
+raw_ref: "[[00_Inbox/2026-05-14/AI Trading的新座標系：To-Agent Harness]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-14
 principle: []

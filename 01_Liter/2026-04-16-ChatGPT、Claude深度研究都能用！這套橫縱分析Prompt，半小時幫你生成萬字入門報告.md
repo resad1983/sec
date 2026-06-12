@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 人機互動, 學習與思考, 數位系統]
 keywords: [橫縱分析法, Deep Research, 歷時分析, 共時分析, 索緒爾, 研究框架]
 type: 技術分析
-raw_ref: "[[2026-04-16/ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫你生成萬字入門報告]]"
+raw_ref: "[[00_Inbox/2026-04-16/ChatGPT、Claude深度研究都能用！這套橫縱分析Prompt，半小時幫你生成萬字入門報告]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

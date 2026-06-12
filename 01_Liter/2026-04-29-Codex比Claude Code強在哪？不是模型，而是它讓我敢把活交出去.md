@@ -5,8 +5,10 @@ date: 2026-04-29
 tags: [人工智慧, 人機互動, 數位系統, 產品]
 keywords: [Codex, Claude Code, AI工程工作台, 沙箱權限, Plan機制]
 type: 產品設計
-raw_ref: "[[2026-04-29/Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去]]"
+raw_ref: "[[00_Inbox/2026-04-29/Codex比Claude Code強在哪？不是模型，而是它讓我敢把活交出去]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-29
 principle: []

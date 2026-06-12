@@ -5,8 +5,10 @@ date: 2026-04-12
 tags: [人工智慧, 品牌, 數位系統, 行銷]
 keywords: [Vibe Coding, GEO, 生成式引擎優化, 氛圍編程]
 type: 產品設計
-raw_ref: "[[2026-04-12/零代碼一天我用Vibe Coding做了一個網站]]"
+raw_ref: "[[00_Inbox/2026-04-12/零代碼一天我用Vibe Coding做了一個網站]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-12
 principle: []

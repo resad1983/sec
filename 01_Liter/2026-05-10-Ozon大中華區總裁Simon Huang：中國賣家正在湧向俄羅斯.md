@@ -5,8 +5,10 @@ date: 2026-05-10
 tags: [商業模式, 市場與需求, 平台與生態系, 科技影響]
 keywords: [跨境電商, 一人公司, AI消除資訊差, 品牌護城河, 俄羅斯電商]
 type: 產業報導
-raw_ref: "[[2026-05-10/Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯]]"
+raw_ref: "[[00_Inbox/2026-05-10/Ozon大中華區總裁Simon Huang：中國賣家正在湧向俄羅斯]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-10
 principle: []

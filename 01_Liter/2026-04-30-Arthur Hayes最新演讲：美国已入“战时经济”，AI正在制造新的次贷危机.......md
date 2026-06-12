@@ -5,8 +5,10 @@ date: 2026-04-30
 tags: [人工智慧, 市場與需求, 數位系統]
 keywords: []
 type: 技術分析
-raw_ref: "[[2026-04-30/Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危机......]]"
+raw_ref: "[[00_Inbox/2026-04-30/Arthur Hayes最新演讲：美国已入“战时经济”，AI正在制造新的次贷危机......]]"
 project: [台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-30
 principle: []

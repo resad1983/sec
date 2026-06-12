@@ -5,8 +5,10 @@ date: 2026-05-10
 tags: [人工智慧, 商業模式, 科技影響, 組織與策略]
 keywords: ['Stripe年會', 'AI經濟體', 'Token計費', 'AI詐騙']
 type: 產業報導
-raw_ref: "[[2026-05-10/親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置]]"
+raw_ref: "[[00_Inbox/2026-05-10/親赴Stripe年會觀後感台灣新創你的商業模式裡有沒有AIagent的位置]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-10
 principle: []

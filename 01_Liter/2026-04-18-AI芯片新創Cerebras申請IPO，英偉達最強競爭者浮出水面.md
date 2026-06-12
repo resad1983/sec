@@ -5,8 +5,10 @@ date: 2026-04-18
 tags: [人工智慧, 商業模式, 平台與生態系, 科技影響]
 keywords: [Cerebras, AI芯片, IPO, AWS, OpenAI, 英偉達競爭]
 type: 產業報導
-raw_ref: "[[2026-04-18/AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面]]"
+raw_ref: "[[00_Inbox/2026-04-18/AI芯片新創Cerebras申請IPO，英偉達最強競爭者浮出水面]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-18
 principle: []

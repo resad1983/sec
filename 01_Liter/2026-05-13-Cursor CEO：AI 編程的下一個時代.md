@@ -5,8 +5,10 @@ date: 2026-05-13
 tags: [人工智慧, 學習與思考, 數位系統, 組織與策略]
 keywords: [AI Agent, Cursor, 軟體工程轉型, 系統思維, 創業門檻]
 type: 技術分析
-raw_ref: "[[2026-05-13/Cursor CEO：AI 編程的下一個時代]]"
+raw_ref: "[[00_Inbox/2026-05-13/Cursor CEO：AI 編程的下一個時代]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-13
 principle: []

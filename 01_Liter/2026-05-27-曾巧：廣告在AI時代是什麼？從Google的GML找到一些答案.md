@@ -5,8 +5,10 @@ date: 2026-05-27
 tags: [人工智慧, 商業模式, 科技影響, 行銷]
 keywords: [對話式發現, 品牌智能體, 知識工程, 產品屬性, UCP]
 type: 技術分析
-raw_ref: "[[2026-05-27/曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案]]"
+raw_ref: "[[00_Inbox/2026-05-27/曾巧：廣告在AI時代是什麼？從Google的GML找到一些答案]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-27
 principle: []

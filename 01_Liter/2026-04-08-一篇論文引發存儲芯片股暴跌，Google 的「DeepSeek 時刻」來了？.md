@@ -5,8 +5,10 @@ date: '2026-04-08'
 tags: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 keywords: [人工智慧, 數位系統, 科技影響, 資料與演算法]
 type: 技術分析
-raw_ref: "'[[2026-04-08/一篇论文引发存储芯片股暴跌，Google 的「DeepSeek 时刻」来了？]]'"
+raw_ref: "'[[00_Inbox/2026-04-08/一篇论文引发存储芯片股暴跌，Google 的「DeepSeek 时刻」来了？]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

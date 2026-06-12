@@ -5,8 +5,10 @@ date: 2026-05-29
 tags: [品牌, 行銷, 體驗]
 keywords: [lululemon, 露露樂蒙, 身份入口, 代言人策略, 中產生活方式]
 type: 商業案例
-raw_ref: "[[2026-05-29/lululemon的流量密碼，終於藏不住了]]"
+raw_ref: "[[00_Inbox/2026-05-29/lululemon的流量密碼，終於藏不住了]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-29
 principle: []

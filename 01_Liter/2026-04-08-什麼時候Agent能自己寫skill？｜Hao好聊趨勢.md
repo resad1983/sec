@@ -5,8 +5,10 @@ date: '2026-04-08'
 tags: [人工智慧, 學習與思考, 數位系統, 科技影響]
 keywords: [人工智慧, 學習與思考, 數位系統, 科技影響]
 type: 技術分析
-raw_ref: "'[[2026-04-08/什么时候Agent能自己写skill？｜Hao好聊趋势]]'"
+raw_ref: "'[[00_Inbox/2026-04-08/什么时候Agent能自己写skill？｜Hao好聊趋势]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

@@ -5,8 +5,10 @@ date: 2026-03-29
 tags: [人工智慧, 地方創生, 行為決策, 產品]
 keywords: [AI, Agent, 具身智能, 硬體, 產品設計]
 type: 產品設計
-raw_ref: "[[2026-03-29/智能眼鏡正在成為AI-Agent的終極外設]]"
+raw_ref: "[[00_Inbox/2026-03-29/智能眼鏡正在成為AI-Agent的終極外設]]"
 project: [典典文創, 台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-03-29
 principle: []

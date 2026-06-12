@@ -1,0 +1,590 @@
+[
+  {
+    "duplicate_group": "入境游干翻日本中国还需要多久",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-入境游干翻日本，中国还需要多久？.md",
+    "max_similarity": 0.3772,
+    "same_source_raw": true,
+    "min_body_len": 794,
+    "max_body_len": 940,
+    "files": [
+      "01_Liter/2026-05-04-中国入境游赶超日本.md",
+      "01_Liter/2026-05-04-入境游干翻日本，中国还需要多久？.md"
+    ]
+  },
+  {
+    "duplicate_group": "全球10条最不精致的街道混乱与包容才是文化的母体",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-全球 10 条“最不精致”的街道：混乱与包容才是文化的母体.md",
+    "max_similarity": 0.3739,
+    "same_source_raw": true,
+    "min_body_len": 763,
+    "max_body_len": 874,
+    "files": [
+      "01_Liter/2026-05-04-全球 10 条“最不精致”的街道：混乱与包容才是文化的母体.md",
+      "01_Liter/2026-05-04-全球最不精致街道的启示.md"
+    ]
+  },
+  {
+    "duplicate_group": "前賽默飛員工創業黑燈實驗室實現國內100交付獲近億融資",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資.md",
+    "max_similarity": 0.3663,
+    "same_source_raw": false,
+    "min_body_len": 565,
+    "max_body_len": 778,
+    "files": [
+      "01_Liter/2026-04-03-前賽默飛員工創業黑燈實驗室，實現國內100%交付，獲近億融資.md",
+      "01_Liter/2026-04-03-黑燈實驗室戴納科技獲近億元融資.md"
+    ]
+  },
+  {
+    "duplicate_group": "沉浸式文旅跟着电影去旅行电影文旅沉浸营造地方光影文旅新场景、新业态与新形象",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-沉浸式文旅｜跟着电影去旅行，电影+文旅沉浸营造地方光影文旅新场景、新业态与新形象.md",
+    "max_similarity": 0.366,
+    "same_source_raw": false,
+    "min_body_len": 409,
+    "max_body_len": 438,
+    "files": [
+      "01_Liter/2026-04-30-沉浸式文旅｜“跟着电影去旅行”，“电影+文旅”沉浸营造地方光影文旅新场景、新业态与新形象.md",
+      "01_Liter/2026-05-04-沉浸式文旅｜跟着电影去旅行，电影+文旅沉浸营造地方光影文旅新场景、新业态与新形象.md"
+    ]
+  },
+  {
+    "duplicate_group": "我们必须支持那个起诉上海迪士尼的中国年轻人",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-我们必须支持那个起诉上海迪士尼的中国年轻人.md",
+    "max_similarity": 0.3576,
+    "same_source_raw": true,
+    "min_body_len": 692,
+    "max_body_len": 846,
+    "files": [
+      "01_Liter/2026-05-04-我们必须支持那个起诉上海迪士尼的中国年轻人.md",
+      "01_Liter/2026-05-04-支持起诉迪士尼的年轻人.md"
+    ]
+  },
+  {
+    "duplicate_group": "招商难看看这5个把公园搬进商场的项目出租率从45飙到了99",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-招商难？看看这5个把“公园”搬进商场的项目，出租率从45%飙到了99%.md",
+    "max_similarity": 0.3418,
+    "same_source_raw": false,
+    "min_body_len": 712,
+    "max_body_len": 1020,
+    "files": [
+      "01_Liter/2026-05-04-公园式商业的招商突围.md",
+      "01_Liter/2026-05-04-招商难？看看这5个把“公园”搬进商场的项目，出租率从45%飙到了99%.md"
+    ]
+  },
+  {
+    "duplicate_group": "增速降至25背后mcn行业的大退潮与新物种崛起",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-增速降至2.5%背后：MCN行业的“大退潮”与“新物种”崛起.md",
+    "max_similarity": 0.32,
+    "same_source_raw": false,
+    "min_body_len": 549,
+    "max_body_len": 847,
+    "files": [
+      "01_Liter/2026-04-25-增速降至2.5%背后：MCN行业的大退潮与新物种崛起.md",
+      "01_Liter/2026-05-04-MCN行业的大退潮与新物种崛起.md",
+      "01_Liter/2026-05-04-增速降至2.5%背后：MCN行业的“大退潮”与“新物种”崛起.md"
+    ]
+  },
+  {
+    "duplicate_group": "那個「愛馬仕」想拯救「智障」小龍蝦",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦.md",
+    "max_similarity": 0.2962,
+    "same_source_raw": false,
+    "min_body_len": 679,
+    "max_body_len": 766,
+    "files": [
+      "01_Liter/2026-04-11-那個「愛馬仕」，想拯救「智障」小龍蝦.md",
+      "01_Liter/2026-04-12-那個「愛馬仕」，想拯救「智障」小龍蝦.md"
+    ]
+  },
+  {
+    "duplicate_group": "网红城市更新火得快、冷得快如何破解",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-30-网红城市更新火得快、冷得快？如何破解？.md",
+    "max_similarity": 0.2912,
+    "same_source_raw": false,
+    "min_body_len": 348,
+    "max_body_len": 387,
+    "files": [
+      "01_Liter/2026-04-29-网红城市更新火得快、冷得快？如何破解？.md",
+      "01_Liter/2026-04-30-网红城市更新火得快、冷得快？如何破解？.md"
+    ]
+  },
+  {
+    "duplicate_group": "不確定時代裡常常被忽略的一項重要能力",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-18-不確定時代裡，常常被忽略的一項重要能力.md",
+    "max_similarity": 0.2904,
+    "same_source_raw": false,
+    "min_body_len": 566,
+    "max_body_len": 598,
+    "files": [
+      "01_Liter/2026-04-18-不確定時代裡，常常被忽略的一項重要能力.md",
+      "01_Liter/2026-04-21-不確定時代裡，常常被忽略的一項重要能力.md"
+    ]
+  },
+  {
+    "duplicate_group": "ai创业时代一人公司的七种打开方式",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-18-AI創業時代，一人公司的七種打開方式.md",
+    "max_similarity": 0.2864,
+    "same_source_raw": false,
+    "min_body_len": 519,
+    "max_body_len": 1185,
+    "files": [
+      "01_Liter/2026-05-14-AI創業時代，一人公司的七種打開方式.md",
+      "01_Liter/2026-05-15-AI創業時代一人公司的七種打開方式.md",
+      "01_Liter/2026-05-18-AI創業時代，一人公司的七種打開方式.md"
+    ]
+  },
+  {
+    "duplicate_group": "新消费下半场从卖点竞争到情绪竞争",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-新消费下半场：从卖点竞争到情绪竞争.md",
+    "max_similarity": 0.285,
+    "same_source_raw": false,
+    "min_body_len": 680,
+    "max_body_len": 878,
+    "files": [
+      "01_Liter/2026-05-04-从卖点竞争到情绪竞争.md",
+      "01_Liter/2026-05-04-新消费下半场：从卖点竞争到情绪竞争.md"
+    ]
+  },
+  {
+    "duplicate_group": "惠評文旅工業遺產不是城市包袱而是十五五文旅更新的金礦",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-06-04-工業遺產城市更新文旅金礦.md",
+    "max_similarity": 0.2604,
+    "same_source_raw": false,
+    "min_body_len": 623,
+    "max_body_len": 744,
+    "files": [
+      "01_Liter/2026-06-04-工業遺產城市更新文旅金礦.md",
+      "01_Liter/2026-06-04-惠評文旅工業遺產不是城市包袱而是十五五文旅更新的金礦.md"
+    ]
+  },
+  {
+    "duplicate_group": "有些路不必每一步都走得那么用力",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-有些路，不必每一步都走得那么用力.md",
+    "max_similarity": 0.2602,
+    "same_source_raw": false,
+    "min_body_len": 657,
+    "max_body_len": 934,
+    "files": [
+      "01_Liter/2026-05-04-主体性复建与轻握人生.md",
+      "01_Liter/2026-05-04-有些路，不必每一步都走得那么用力.md"
+    ]
+  },
+  {
+    "duplicate_group": "拉美人兜里的147万亿元被中国老板惦记上了",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-拉美人兜里的1.47万亿元，被中国老板惦记上了.md",
+    "max_similarity": 0.2496,
+    "same_source_raw": false,
+    "min_body_len": 760,
+    "max_body_len": 1043,
+    "files": [
+      "01_Liter/2026-05-04-拉美人兜里的1.47万亿元，被中国老板惦记上了.md",
+      "01_Liter/2026-05-04-拉美电商三国演义.md"
+    ]
+  },
+  {
+    "duplicate_group": "茉莉奶白用一杯「漂亮水」造了一座春日藝術花園",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園.md",
+    "max_similarity": 0.2485,
+    "same_source_raw": false,
+    "min_body_len": 550,
+    "max_body_len": 585,
+    "files": [
+      "01_Liter/2026-03-29-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園.md",
+      "01_Liter/2026-04-08-茉莉奶白用一杯「漂亮水」，造了一座春日藝術花園.md"
+    ]
+  },
+  {
+    "duplicate_group": "张园与鸿寿坊当精致烟火气沦为资本清场后的精密计算",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-28-当精致烟火气沦为资本清场后的精密计算.md",
+    "max_similarity": 0.2446,
+    "same_source_raw": false,
+    "min_body_len": 610,
+    "max_body_len": 641,
+    "files": [
+      "01_Liter/2026-04-19-张园与鸿寿坊当精致烟火气沦为资本清场后的精密计算.md",
+      "01_Liter/2026-04-28-当精致烟火气沦为资本清场后的精密计算.md"
+    ]
+  },
+  {
+    "duplicate_group": "我提议女孩们从今天起互相说句你很好对话文淇",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-我提议女孩们从今天起，互相说句“你很好” ｜对话文淇.md",
+    "max_similarity": 0.2382,
+    "same_source_raw": false,
+    "min_body_len": 650,
+    "max_body_len": 945,
+    "files": [
+      "01_Liter/2026-05-04-对话文淇互相说句你很好.md",
+      "01_Liter/2026-05-04-我提议女孩们从今天起，互相说句“你很好” ｜对话文淇.md"
+    ]
+  },
+  {
+    "duplicate_group": "文化先行宁波这座老街即将换芯",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-文化先行，宁波这座老街即将“换芯”.md",
+    "max_similarity": 0.2342,
+    "same_source_raw": false,
+    "min_body_len": 653,
+    "max_body_len": 927,
+    "files": [
+      "01_Liter/2026-05-04-宁波老街文化焕新.md",
+      "01_Liter/2026-05-04-文化先行，宁波这座老街即将“换芯”.md"
+    ]
+  },
+  {
+    "duplicate_group": "聊聊作为生意的非标商业",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-28-聊聊作为生意的非标商业.md",
+    "max_similarity": 0.2206,
+    "same_source_raw": false,
+    "min_body_len": 574,
+    "max_body_len": 813,
+    "files": [
+      "01_Liter/2026-04-28-聊聊作为生意的非标商业.md",
+      "01_Liter/2026-05-10-聊聊作為生意的非標商業.md"
+    ]
+  },
+  {
+    "duplicate_group": "越来越多90后拒绝升职加薪",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-28-越来越多90后，拒绝升职加薪.md",
+    "max_similarity": 0.2188,
+    "same_source_raw": false,
+    "min_body_len": 833,
+    "max_body_len": 913,
+    "files": [
+      "01_Liter/2026-04-28-越来越多90后，拒绝升职加薪.md",
+      "01_Liter/2026-05-04-越来越多90后，拒绝升职加薪.md"
+    ]
+  },
+  {
+    "duplicate_group": "快閃正在成為商場的主菜",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-30-快閃，正在成為商場的主菜.md",
+    "max_similarity": 0.2149,
+    "same_source_raw": false,
+    "min_body_len": 1252,
+    "max_body_len": 1428,
+    "files": [
+      "01_Liter/2026-05-18-快閃，正在成為商場的主菜.md",
+      "01_Liter/2026-05-30-快閃，正在成為商場的主菜.md"
+    ]
+  },
+  {
+    "duplicate_group": "一句话百元预算=百万级广告片这个等式我们亲测成立了",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-18-一句話+百元預算=百萬級廣告片，這個等式我們親測成立了.md",
+    "max_similarity": 0.2093,
+    "same_source_raw": false,
+    "min_body_len": 604,
+    "max_body_len": 1087,
+    "files": [
+      "01_Liter/2026-05-15-一句話百元預算百萬級廣告片這個等式我們親測成立了.md",
+      "01_Liter/2026-05-18-一句話+百元預算=百萬級廣告片，這個等式我們親測成立了.md"
+    ]
+  },
+  {
+    "duplicate_group": "蘇聯labubu成了今年潮人貴婦的新玩物",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物.md",
+    "max_similarity": 0.2092,
+    "same_source_raw": false,
+    "min_body_len": 629,
+    "max_body_len": 719,
+    "files": [
+      "01_Liter/2026-03-29-蘇聯Labubu成了今年潮人貴婦的新玩物.md",
+      "01_Liter/2026-04-08-蘇聯Labubu成了今年潮人貴婦的新玩物.md"
+    ]
+  },
+  {
+    "duplicate_group": "張勇重掌ceo後海底撈開始「拆解」自己",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己.md",
+    "max_similarity": 0.2019,
+    "same_source_raw": false,
+    "min_body_len": 601,
+    "max_body_len": 677,
+    "files": [
+      "01_Liter/2026-03-29-張勇重掌CEO後，海底撈開始「拆解」自己.md",
+      "01_Liter/2026-04-08-張勇重掌CEO後，海底撈開始「拆解」自己.md"
+    ]
+  },
+  {
+    "duplicate_group": "乐园化剧场化购物中心的下一站内容战争",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-购物中心的下一站内容战争.md",
+    "max_similarity": 0.1897,
+    "same_source_raw": false,
+    "min_body_len": 412,
+    "max_body_len": 853,
+    "files": [
+      "01_Liter/2026-05-04-“乐园化+剧场化”，购物中心的下一站内容战争.md",
+      "01_Liter/2026-05-04-购物中心的下一站内容战争.md"
+    ]
+  },
+  {
+    "duplicate_group": "既下山的文案適合慢慢看",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-29-既下山的文案，適合慢慢看.md",
+    "max_similarity": 0.1888,
+    "same_source_raw": false,
+    "min_body_len": 955,
+    "max_body_len": 1386,
+    "files": [
+      "01_Liter/2026-05-26-既下山的文案，適合慢慢看.md",
+      "01_Liter/2026-05-29-既下山的文案，適合慢慢看.md"
+    ]
+  },
+  {
+    "duplicate_group": "沉浸式商業「濱水商業」重塑新消費時代的濱水文商旅場景營造、品牌煥新與社群營造",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營造.md",
+    "max_similarity": 0.1848,
+    "same_source_raw": false,
+    "min_body_len": 576,
+    "max_body_len": 582,
+    "files": [
+      "01_Liter/2026-03-29-沉浸式商業｜「濱水商業」重塑，新消費時代的濱水文商旅場景營造、品牌煥新與社群營造.md",
+      "01_Liter/2026-04-08-沉浸式商業｜「濱水商業」重塑：新消費時代的濱水文商旅場景營造、品牌煥新與社群營造.md"
+    ]
+  },
+  {
+    "duplicate_group": "小紅書徹底爆發了",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-30-小紅書徹底爆發了.md",
+    "max_similarity": 0.1821,
+    "same_source_raw": false,
+    "min_body_len": 549,
+    "max_body_len": 1425,
+    "files": [
+      "01_Liter/2026-05-30-小紅書徹底爆發了.md",
+      "01_Liter/2026-06-04-小紅書徹底爆發了.md",
+      "01_Liter/2026-06-09-小紅書徹底爆發了.md"
+    ]
+  },
+  {
+    "duplicate_group": "mbti職場靈魂牌對照intp吊人牌當世界急著前進你正在重新理解方向",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新理解方向.md",
+    "max_similarity": 0.1761,
+    "same_source_raw": false,
+    "min_body_len": 638,
+    "max_body_len": 770,
+    "files": [
+      "01_Liter/2026-04-01-MBTI × 職場靈魂牌對照｜INTP × 吊人牌：當世界急著前進，你正在重新理解方向.md",
+      "01_Liter/2026-05-04-MBTI × 職場靈魂牌對照｜INTP × 吊人牌.md"
+    ]
+  },
+  {
+    "duplicate_group": "月薪5000到年入千萬理財邏輯完全不同",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-06-04-月薪5000到年入千萬理財邏輯完全不同.md",
+    "max_similarity": 0.1736,
+    "same_source_raw": false,
+    "min_body_len": 542,
+    "max_body_len": 714,
+    "files": [
+      "01_Liter/2026-06-04-月薪5000到年入千萬理財邏輯完全不同.md",
+      "01_Liter/2026-06-09-月薪5000到年入千萬，理財邏輯完全不同.md"
+    ]
+  },
+  {
+    "duplicate_group": "名創優品和harmay話梅可能是一門生意",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-15-名創優品和HARMAY話梅可能是一門生意.md",
+    "max_similarity": 0.1715,
+    "same_source_raw": false,
+    "min_body_len": 732,
+    "max_body_len": 877,
+    "files": [
+      "01_Liter/2026-04-10-名創優品和HARMAY話梅可能是一門生意.md",
+      "01_Liter/2026-04-15-名創優品和HARMAY話梅可能是一門生意.md"
+    ]
+  },
+  {
+    "duplicate_group": "00后涌入景区当npc在情绪价值里淘金",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-18-00後湧入景區當NPC，在情緒價值裡淘金.md",
+    "max_similarity": 0.1684,
+    "same_source_raw": false,
+    "min_body_len": 535,
+    "max_body_len": 1009,
+    "files": [
+      "01_Liter/2026-05-15-00後湧入景區當NPC在情緒價值裡淘金.md",
+      "01_Liter/2026-05-18-00後湧入景區當NPC，在情緒價值裡淘金.md"
+    ]
+  },
+  {
+    "duplicate_group": "不「打卡」的年轻人把旅行当成「情绪」补剂",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-不打卡的年轻人把旅行当成情绪补剂.md",
+    "max_similarity": 0.165,
+    "same_source_raw": false,
+    "min_body_len": 322,
+    "max_body_len": 769,
+    "files": [
+      "01_Liter/2026-05-04-不「打卡」的年轻人，把旅行当成「情绪」补剂.md",
+      "01_Liter/2026-05-04-不打卡的年轻人把旅行当成情绪补剂.md"
+    ]
+  },
+  {
+    "duplicate_group": "情緒消費不是賣情緒而是讓產品從「有用」變成「想買」",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买.md",
+    "max_similarity": 0.1589,
+    "same_source_raw": false,
+    "min_body_len": 623,
+    "max_body_len": 862,
+    "files": [
+      "01_Liter/2026-05-18-情緒消費不是卖情绪，而是让产品从有用变成想买.md",
+      "01_Liter/2026-05-18-情緒消費不是賣情緒，而是讓產品從「有用」變成「想買」.md"
+    ]
+  },
+  {
+    "duplicate_group": "橫店短劇大撤退停工、降薪與被擠掉的飯碗",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-18-橫店短劇大撤退，停工、降薪，與被擠掉的飯碗.md",
+    "max_similarity": 0.1559,
+    "same_source_raw": false,
+    "min_body_len": 1212,
+    "max_body_len": 1623,
+    "files": [
+      "01_Liter/2026-05-18-橫店短劇大撤退，停工、降薪，與被擠掉的飯碗.md",
+      "01_Liter/2026-05-29-橫店短劇大撤退：停工、降薪，與被擠掉的飯碗.md"
+    ]
+  },
+  {
+    "duplicate_group": "香水热见顶了吗",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-香水热见顶了吗.md",
+    "max_similarity": 0.153,
+    "same_source_raw": false,
+    "min_body_len": 423,
+    "max_body_len": 819,
+    "files": [
+      "01_Liter/2026-05-04-“香水热”见顶了吗？.md",
+      "01_Liter/2026-05-04-香水热见顶了吗.md"
+    ]
+  },
+  {
+    "duplicate_group": "一條創始人徐滬生中年人的轉型要比青年人更勇敢",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢.md",
+    "max_similarity": 0.1516,
+    "same_source_raw": false,
+    "min_body_len": 544,
+    "max_body_len": 670,
+    "files": [
+      "01_Liter/2026-04-16-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢.md",
+      "01_Liter/2026-06-09-一條創始人徐滬生：中年人的轉型，要比青年人更勇敢.md"
+    ]
+  },
+  {
+    "duplicate_group": "還有即使不被看好你依然想做的事嗎",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-06-09-還有即使不被看好，你依然想做的事嗎？.md",
+    "max_similarity": 0.151,
+    "same_source_raw": false,
+    "min_body_len": 359,
+    "max_body_len": 608,
+    "files": [
+      "01_Liter/2026-06-04-還有即使不被看好你依然想做的事嗎.md",
+      "01_Liter/2026-06-09-還有即使不被看好，你依然想做的事嗎？.md"
+    ]
+  },
+  {
+    "duplicate_group": "一个笨拙的人在大厂生存的1480天",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-一个笨拙的人在大厂生存的1480天.md",
+    "max_similarity": 0.1491,
+    "same_source_raw": false,
+    "min_body_len": 330,
+    "max_body_len": 730,
+    "files": [
+      "01_Liter/2026-04-30-一个笨拙的人，在大厂生存的1480天.md",
+      "01_Liter/2026-05-04-一个笨拙的人在大厂生存的1480天.md"
+    ]
+  },
+  {
+    "duplicate_group": "增收不增利宠物食品行业的品牌化代价",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-宠物食品行业的品牌化代价.md",
+    "max_similarity": 0.1462,
+    "same_source_raw": false,
+    "min_body_len": 346,
+    "max_body_len": 762,
+    "files": [
+      "01_Liter/2026-05-04-“增收不增利”，宠物食品行业的品牌化代价？.md",
+      "01_Liter/2026-05-04-宠物食品行业的品牌化代价.md"
+    ]
+  },
+  {
+    "duplicate_group": "未来轻资产市集商业市集从路边摊到文旅增长极",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-04-商业市集文旅新模式.md",
+    "max_similarity": 0.1453,
+    "same_source_raw": false,
+    "min_body_len": 478,
+    "max_body_len": 733,
+    "files": [
+      "01_Liter/2026-05-04-商业市集文旅新模式.md",
+      "01_Liter/2026-06-04-未来轻资产市集商业市集从路边摊到文旅增长极从事件型转化为节律型.md"
+    ]
+  },
+  {
+    "duplicate_group": "年輕人最新的抖音「晒學」全都是活人感",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-03-29-年輕人最新的抖音「晒學」，全都是活人感.md",
+    "max_similarity": 0.1265,
+    "same_source_raw": false,
+    "min_body_len": 630,
+    "max_body_len": 666,
+    "files": [
+      "01_Liter/2026-03-29-年輕人最新的抖音「晒學」，全都是活人感.md",
+      "01_Liter/2026-04-08-年輕人最新的抖音「晒學」，全都是活人感.md"
+    ]
+  },
+  {
+    "duplicate_group": "奶茶界enfp用快樂感染年輕人",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-30-奶茶界ENFP，用快樂感染年輕人.md",
+    "max_similarity": 0.1136,
+    "same_source_raw": false,
+    "min_body_len": 506,
+    "max_body_len": 1096,
+    "files": [
+      "01_Liter/2026-05-30-奶茶界ENFP，用快樂感染年輕人.md",
+      "01_Liter/2026-06-09-奶茶界ENFP，用快樂感染年輕人.md"
+    ]
+  },
+  {
+    "duplicate_group": "天津大悅城如何把青年文化做成「慢生意」",
+    "action": "mark_related_same_title",
+    "canonical": "01_Liter/2026-05-30-天津大悅城，如何把青年文化做成慢生意.md",
+    "max_similarity": 0.0721,
+    "same_source_raw": false,
+    "min_body_len": 687,
+    "max_body_len": 1116,
+    "files": [
+      "01_Liter/2026-05-30-天津大悅城，如何把青年文化做成慢生意.md",
+      "01_Liter/2026-06-04-天津大悅城如何把青年文化做成慢生意.md"
+    ]
+  }
+]

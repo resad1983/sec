@@ -5,8 +5,10 @@ date: 2026-05-04
 tags: [人工智慧, 商業模式, 產品]
 keywords: [Mintlify, 開發者文件, SaaS, ARR, 文件自動化]
 type: 商業案例
-raw_ref: "[[2026-05-04/矽谷文件產品Mintlify估值五億：以AI為核心重構]]"
+raw_ref: "[[00_Inbox/2026-05-04/矽谷文件產品Mintlify估值五億：以AI為核心重構]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-04
 principle: []

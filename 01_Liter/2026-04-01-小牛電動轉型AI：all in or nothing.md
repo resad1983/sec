@@ -5,8 +5,10 @@ date: 2026-04-01
 tags: [人工智慧, 組織與策略, 產品, 行為決策]
 keywords: [AI應用, 電動車, 產品策略, 垂直AI, 數據驅動]
 type: 人物訪談
-raw_ref: "[[2026-04-01/小牛電動轉型AI全力投入all-in-or-nothing]]"
+raw_ref: "[[00_Inbox/2026-04-01/小牛電動轉型AI全力投入all-in-or-nothing]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-01
 principle: []

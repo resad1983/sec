@@ -6,10 +6,10 @@ score: 9
 tags: [品牌, 商業模式, 體驗, 行銷]
 keywords: [香水分層, 多格式策略, 品牌英國擴張, 顧客終身價值LTV, 通路分層]
 type: 商業案例
-raw_ref: [[2026-06-05/Nest New York香水分層策略登陸英國：多格式讓顧客LTV翻倍]]
+raw_ref: [[00_Inbox/2026-06-05/Nest New York香水分層策略登陸英國：多格式讓顧客LTV翻倍]]
 project: [勤美誠品]
-project_synced: false
-project_synced_at:
+project_synced: true
+project_synced_at: 2026-06-09
 project_targets: [勤美誠品]
 wiki_evolved: true
 wiki_evolved_at: 2026-06-07

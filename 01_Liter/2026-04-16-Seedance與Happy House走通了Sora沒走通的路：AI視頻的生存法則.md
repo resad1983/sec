@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 商業模式, 產品, 科技影響]
 keywords: [Seedance, Happy House, Sora, AI視頻, 工業級生產, 世界模擬器]
 type: 技術分析
-raw_ref: "[[2026-04-16/Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]]"
+raw_ref: "[[00_Inbox/2026-04-16/Seedance與Happy House走通了Sora沒走通的路：AI視頻的生存法則]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

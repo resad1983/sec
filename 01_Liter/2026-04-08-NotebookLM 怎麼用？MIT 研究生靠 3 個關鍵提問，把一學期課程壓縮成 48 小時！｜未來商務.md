@@ -5,8 +5,10 @@ date: '2026-04-08'
 tags: [人工智慧, 人機互動, 學習與思考, 產品]
 keywords: [人工智慧, 人機互動, 學習與思考, 產品]
 type: 技術分析
-raw_ref: "'[[2026-04-08/NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓縮成 48 小時！｜未來商務]]'"
+raw_ref: "'[[00_Inbox/2026-04-08/NotebookLM 怎麼用？MIT 研究生靠 3 個關鍵提問，把一學期課程壓縮成 48 小時！｜未來商務]]'"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-08
 principle: []

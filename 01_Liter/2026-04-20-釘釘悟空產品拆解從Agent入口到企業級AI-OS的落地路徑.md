@@ -5,8 +5,10 @@ date: 2026-04-20
 tags: [人工智慧, 商業模式, 數位系統, 產品]
 keywords: [企業AI, CoWork, OPT模式, 本地桌面智能體, 阿里生態]
 type: 技術分析
-raw_ref: "[[2026-04-20/釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑]]"
+raw_ref: "[[00_Inbox/2026-04-20/釘釘悟空產品拆解從Agent入口到企業級AI-OS的落地路徑]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-20
 principle: []

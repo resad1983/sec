@@ -5,8 +5,10 @@ date: 2026-05-09
 tags: [人工智慧, 商業模式, 平台與生態系, 科技影響]
 keywords: [具身智能, Physical AI, 機器人, 全球化]
 type: 產業報導
-raw_ref: "[[2026-05-09/中國機器人的全球化野心與Physical AI的爆發準備]]"
+raw_ref: "[[00_Inbox/2026-05-09/中國機器人的全球化野心與Physical AI的爆發準備]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-09
 principle: []

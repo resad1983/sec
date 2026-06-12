@@ -5,8 +5,10 @@ date: 2026-05-03
 tags: [人工智慧, 商業模式, 平台與生態系, 科技影響]
 keywords: [Anthropic, Meta, 具身AI, 數字歧視, AI意識, GTM]
 type: 產業報導
-raw_ref: "[[2026-05-03/AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元]]"
+raw_ref: "[[00_Inbox/2026-05-03/AI大事件：Meta收購機器人公司、Anthropic估值衝破九千億美元]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-03
 principle: []

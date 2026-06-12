@@ -6,7 +6,7 @@ score: 8
 tags: [人工智慧, 行銷, 數位系統, 資料與演算法]
 keywords: [Amadeus, 旅遊廣告, AI廣告平台, Accenture, 全通路預算分配, 旅行科技, 即時數據]
 type: 產品設計
-raw_ref: [[2026-06-05/Amadeus攜手Accenture推出AI驅動旅遊廣告平台]]
+raw_ref: [[00_Inbox/2026-06-05/Amadeus攜手Accenture推出AI驅動旅遊廣告平台]]
 project: [~]
 project_synced: true
 project_synced_at:

@@ -5,8 +5,10 @@ date: 2026-04-13
 tags: [價值與定價, 品牌, 商業模式, 生活方式]
 keywords: [Le Labo, 聞獻, Ffern, 香氛品牌, 反效率, 稀缺感, 侘寂美學]
 type: 商業案例
-raw_ref: "[[2026-04-13/Le Labo 闻献与Ffern的「交点」，正在重塑消费逻辑]]"
+raw_ref: "[[00_Inbox/2026-04-13/Le Labo 闻献与Ffern的「交点」，正在重塑消费逻辑]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-13
 principle: []

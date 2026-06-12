@@ -5,8 +5,10 @@ date: 2026-05-09
 tags: [人工智慧, 人格與自我, 品牌, 學習與思考]
 keywords: [文科思維, Anthropic, 跨域能力, AI時代職涯]
 type: 文化觀察
-raw_ref: "[[2026-05-09/文科生的AI逆襲對話Anthropic聯合創始人]]"
+raw_ref: "[[00_Inbox/2026-05-09/文科生的AI逆襲對話Anthropic聯合創始人]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-09
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-16
 tags: [人工智慧, 人機互動, 學習與思考, 數位系統]
 keywords: [CTX-6方法論, Context飛輪, 上下文構建, 零代碼開發]
 type: 技術分析
-raw_ref: "[[2026-04-16/Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]]"
+raw_ref: "[[00_Inbox/2026-04-16/Good Context Good Code：掌握Context飛輪讓AI寫代碼效率封神]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-16
 principle: []

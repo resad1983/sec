@@ -5,8 +5,10 @@ date: 2026-04-28
 tags: [商業模式, 地方創生, 城市與空間, 設計]
 keywords: [空間微更新, 社區感, 邊角料空間, 策展思維, 松弛感]
 type: 商業案例
-raw_ref: "[[2026-04-28/曼谷FRIEND FRIEND用边角料空间长出新的吸引力]]"
+raw_ref: "[[00_Inbox/2026-04-28/曼谷FRIEND FRIEND用边角料空间长出新的吸引力]]"
 project: [台中民生路老宅, 地方創生]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-28
 principle: []

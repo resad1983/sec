@@ -5,8 +5,10 @@ date: 2026-05-04
 tags: [人工智慧, 商業模式, 產品]
 keywords: [DoorDash, 商家賦能, 上架自動化, 照片優化, 餐飲科技]
 type: 產業報導
-raw_ref: "[[2026-05-04/DoorDash推出AI工具加速商家上線與照片優化]]"
+raw_ref: "[[00_Inbox/2026-05-04/DoorDash推出AI工具加速商家上線與照片優化]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-04
 principle: []

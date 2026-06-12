@@ -5,8 +5,10 @@ date: 2026-04-27
 tags: [品牌, 文化現象, 產品, 科技影響]
 keywords: [電子寵物, 潮玩, 輕科技, AI硬件, 去功能化, 情感消費]
 type: 產品設計
-raw_ref: "[[2026-04-27/Starboy掛在包上的AI時尚潮玩]]"
+raw_ref: "[[00_Inbox/2026-04-27/Starboy掛在包上的AI時尚潮玩]]"
 project: [典典文創, 個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-27
 principle: []

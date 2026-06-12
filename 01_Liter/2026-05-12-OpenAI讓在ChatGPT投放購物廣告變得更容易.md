@@ -5,8 +5,10 @@ date: 2026-05-12
 tags: [人工智慧, 商業模式, 平台與生態系, 行銷]
 keywords: [ChatGPT廣告, 商品目錄廣告, 績效廣告, Criteo, AI廣告平台]
 type: 產業報導
-raw_ref: "[[2026-05-12/OpenAI讓在ChatGPT投放購物廣告變得更容易]]"
+raw_ref: "[[00_Inbox/2026-05-12/OpenAI讓在ChatGPT投放購物廣告變得更容易]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-12
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-11
 tags: [人工智慧, 人機互動, 創作方法, 行銷]
 keywords: [Agent團隊化, CLAUDE.md, 路由規則, 技能庫]
 type: 技術分析
-raw_ref: "[[2026-04-11/用Claude Code搭建AI行銷團隊五Agent十二技能]]"
+raw_ref: "[[00_Inbox/2026-04-11/用Claude Code搭建AI行銷團隊五Agent十二技能]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-11
 principle: []

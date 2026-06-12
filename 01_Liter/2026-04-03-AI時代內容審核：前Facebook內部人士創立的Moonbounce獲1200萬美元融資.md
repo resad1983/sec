@@ -5,8 +5,10 @@ date: 2026-04-03
 tags: [商業模式, 人工智慧, 平台與生態系, 組織與策略]
 keywords: [AI內容審核, AI安全, 平台治理, 新創融資, 商業策略]
 type: 財經分析
-raw_ref: "[[2026-04-03/AI時代內容審核新創Moonbounce獲1200萬美元融資]]"
+raw_ref: "[[00_Inbox/2026-04-03/AI時代內容審核新創Moonbounce獲1200萬美元融資]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-03
 principle: []

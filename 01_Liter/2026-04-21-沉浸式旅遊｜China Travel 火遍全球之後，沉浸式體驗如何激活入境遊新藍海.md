@@ -5,8 +5,10 @@ date: 2026-04-21
 tags: [地方創生, 城市與空間, 文化現象, 體驗]
 keywords: [入境遊, 沉浸式體驗, 十五五規劃, 文旅升級, China Travel, 240小時免簽]
 type: 產業報導
-raw_ref: "[[2026-04-21/沉浸式旅游｜\"China Travel\"火遍全球之后，沉浸式体验如何激活入境游新蓝海]]"
+raw_ref: "[[00_Inbox/2026-04-21/沉浸式旅游｜“China Travel”火遍全球之后，沉浸式体验如何激活入境游新蓝海]]"
 project: [台中舊城區, 民生路老宅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-21
 principle: []

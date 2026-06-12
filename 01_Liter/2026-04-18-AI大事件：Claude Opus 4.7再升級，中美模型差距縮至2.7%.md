@@ -5,8 +5,10 @@ date: 2026-04-18
 tags: [人工智慧, 學習與思考, 科技影響, 資料與演算法]
 keywords: [Claude Opus 4.7, Agent一致性, MCP漏洞, xhigh, 具身智能]
 type: 技術分析
-raw_ref: "[[2026-04-18/AI大事件：Claude Opus 4.7再升級中美模型差距縮至2.7%]]"
+raw_ref: "[[00_Inbox/2026-04-18/AI大事件：Claude Opus 4.7再升級中美模型差距縮至2.7%]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-18
 principle: []

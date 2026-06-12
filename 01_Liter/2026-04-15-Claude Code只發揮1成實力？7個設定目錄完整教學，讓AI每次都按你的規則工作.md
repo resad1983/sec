@@ -5,8 +5,10 @@ date: 2026-04-15
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [Claude Code, .claude資料夾, agents, CLAUDE.md, hooks, settings.json]
 type: 技術分析
-raw_ref: "[[2026-04-15/Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]]"
+raw_ref: "[[00_Inbox/2026-04-15/Claude Code只發揮1成實力？7個設定目錄完整教學，讓AI每次都按你的規則工作]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-15
 principle: []

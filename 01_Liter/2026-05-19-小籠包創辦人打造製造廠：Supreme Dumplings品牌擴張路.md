@@ -5,8 +5,10 @@ date: 2026-05-19
 tags: [品牌, 商業模式, 市場與需求, 體驗]
 keywords: [Starry Foods, CPG, 食品製造, 小籠包, 餐飲品牌]
 type: 商業案例
-raw_ref: "[[2026-05-19/小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路]]"
+raw_ref: "[[00_Inbox/2026-05-19/小籠包創辦人打造製造廠：Supreme Dumplings品牌擴張路]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-19
 principle: []

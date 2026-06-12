@@ -5,8 +5,10 @@ date: "2026-05-27"
 tags: [商業模式, 數位系統, 科技影響]
 keywords: [Windows, macOS, AI開發工具, 統一記憶體, UMA, 利益衝突]
 type: 技術分析
-raw_ref: "[[2026-05-27/為什麼說Windows在AI時代變成了落後生產力？]]"
+raw_ref: "[[00_Inbox/2026-05-27/為什麼說Windows在AI時代變成了落後生產力？]]"
 project: [~]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-27
 principle: []

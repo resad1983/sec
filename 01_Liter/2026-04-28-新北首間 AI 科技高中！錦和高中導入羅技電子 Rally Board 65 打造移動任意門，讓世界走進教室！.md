@@ -5,8 +5,10 @@ date: 2026-04-28
 tags: [學習與思考, 科技影響]
 keywords: [AI教育, 數位轉型, 跨國交流, 羅技, 硬體設備]
 type: 產業報導
-raw_ref: "[[2026-04-28/新北首間 AI 科技高中！錦和高中導入羅技電子 Rally Board 65 打造移動任意門，讓世界走進教室！]]"
+raw_ref: "[[00_Inbox/2026-04-28/新北首間 AI 科技高中！錦和高中導入羅技電子 Rally Board 65 打造移動任意門，讓世界走進教室！]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-28
 principle: []

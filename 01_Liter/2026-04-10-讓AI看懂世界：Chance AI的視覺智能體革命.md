@@ -5,8 +5,10 @@ date: 2026-04-10
 tags: [人工智慧, 人機互動, 產品, 科技影響]
 keywords: [Visual Agent, 視覺智能體, 多模態, 攝像頭作為界面, Chance AI]
 type: 產品設計
-raw_ref: "[[2026-04-10/讓AI看懂世界：Chance-AI的視覺智能體革命]]"
+raw_ref: "[[00_Inbox/2026-04-10/讓AI看懂世界：Chance-AI的視覺智能體革命]]"
 project: [典典文創]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-10
 principle: []

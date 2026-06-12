@@ -5,8 +5,10 @@ date: 2026-05-26
 tags: [人工智慧, 商業模式, 行銷, 體驗]
 keywords: [Agentic Commerce, 售後保障, 決策減摩, 數位勞動力, 關係經營]
 type: 商業案例
-raw_ref: "[[2026-05-26/當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework、Seel、Ptengine 北京閉門分享全記錄]]"
+raw_ref: "[[00_Inbox/2026-05-26/當 AI Agent 成為基建，DTC增長的底層被悄悄重寫了。Firework、Seel、Ptengine 北京閉門分享全記錄]]"
 project: [不二製餅]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-05-26
 principle: []

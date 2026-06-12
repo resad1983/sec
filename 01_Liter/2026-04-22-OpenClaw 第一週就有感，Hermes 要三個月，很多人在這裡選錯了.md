@@ -5,8 +5,10 @@ date: 2026-04-22
 tags: [人工智慧, 學習與思考, 數位系統, 產品]
 keywords: [OpenClaw, Hermes Agent, AI Agent, 工具選擇, 閘道優先, 學習優先]
 type: 技術分析
-raw_ref: "[[2026-04-22/OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了]]"
+raw_ref: "[[00_Inbox/2026-04-22/OpenClaw 第一週就有感，Hermes 要三個月，很多人在這裡選錯了]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-22
 principle: []

@@ -5,8 +5,10 @@ date: 2026-04-15
 tags: [人工智慧, 商業模式, 學習與思考, 產品]
 keywords: [EdTech, AI個人化學習, Series A, Gizmo]
 type: 產業報導
-raw_ref: "[[2026-04-15/AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTech新模式]]"
+raw_ref: "[[2026-04-15-AI學習App Gizmo獲2200萬美元A輪融資：1300萬用戶的EdTech新模式]]"
 project: [個人顧問品牌]
+project_synced: true
+project_targets: []
 wiki_evolved: true
 wiki_evolved_at: 2026-04-15
 principle: []
